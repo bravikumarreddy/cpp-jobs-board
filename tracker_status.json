@@ -2,14 +2,14 @@
   "running": true,
   "pid": 56478,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-07-06T22:49:56.818205+00:00",
-  "nextCycleAt": "2026-07-06T23:19:56.818271+00:00",
-  "cycleCount": 53,
+  "lastCycleAt": "2026-07-06T23:20:31.172088+00:00",
+  "nextCycleAt": "2026-07-06T23:50:31.172120+00:00",
+  "cycleCount": 54,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-07-06T22:47:38.158642+00:00",
+      "lastRun": "2026-07-06T23:19:58.607784+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -17,7 +17,7 @@
     },
     {
       "name": "remotive",
-      "lastRun": "2026-07-06T22:47:38.776628+00:00",
+      "lastRun": "2026-07-06T23:19:59.376521+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -25,7 +25,7 @@
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-07-06T22:47:39.071753+00:00",
+      "lastRun": "2026-07-06T23:19:59.650049+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -33,7 +33,7 @@
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-07-06T22:47:39.412705+00:00",
+      "lastRun": "2026-07-06T23:20:00.624041+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -41,7 +41,7 @@
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-07-06T22:47:39.807914+00:00",
+      "lastRun": "2026-07-06T23:20:01.066195+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -49,7 +49,7 @@
     },
     {
       "name": "avature",
-      "lastRun": "2026-07-06T22:47:40.339795+00:00",
+      "lastRun": "2026-07-06T23:20:01.458066+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,15 +57,15 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-07-06T22:47:48.596732+00:00",
+      "lastRun": "2026-07-06T23:20:09.535459+00:00",
       "status": "ok",
       "found": 1,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
       "name": "builtin",
-      "lastRun": "2026-07-06T22:47:49.759250+00:00",
+      "lastRun": "2026-07-06T23:20:10.627261+00:00",
       "status": "ok",
       "found": 2,
       "added": 0,
@@ -73,22 +73,28 @@
     },
     {
       "name": "linkedin",
-      "lastRun": "2026-07-06T22:47:59.591411+00:00",
+      "lastRun": "2026-07-06T23:20:20.617290+00:00",
       "status": "ok",
       "found": null,
-      "added": 1,
+      "added": 2,
       "error": null
     },
     {
       "name": "ats_apis",
-      "lastRun": "2026-07-06T22:48:09.407796+00:00",
-      "status": "ok",
+      "lastRun": null,
+      "status": "skipped",
       "found": null,
       "added": 0,
       "error": null
     }
   ],
   "recentFinds": [
+    {
+      "company": "Uber",
+      "title": "Senior Software Engineer - Embedded, AV Labs",
+      "source": "The Muse",
+      "at": "2026-07-06T23:20:09.535459+00:00"
+    },
     {
       "company": "Uber",
       "title": "Senior Software Engineer - Embedded, AV Labs",
@@ -116,7 +122,7 @@
   ],
   "totals": {
     "day": "2026-07-06",
-    "addedToday": 20,
-    "cyclesToday": 15
+    "addedToday": 23,
+    "cyclesToday": 16
   }
 }

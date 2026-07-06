@@ -2049,6 +2049,51 @@
           "externalId": "linkedin:4437459957",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "the-uber-senior-software-engineer-embedded-av-labs-2026-w28",
+          "postedAtUtc": "2026-07-06T20:02:56.000462+00:00",
+          "company": "Uber",
+          "title": "Senior Software Engineer - Embedded, AV Labs",
+          "location": "Sunnyvale, CA",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (The Muse): posted 3 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.themuse.com/jobs/uber/senior-software-engineer-embedded-av-labs",
+          "source": "The Muse",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "li-axon-senior-c-software-engineer-2026-w28",
+          "company": "Axon",
+          "title": "Senior C++ Software Engineer",
+          "location": "Sterling, VA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-axon-4418926648",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4418926648",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-06T19:20:31.108611+00:00"
         }
       ]
     }
