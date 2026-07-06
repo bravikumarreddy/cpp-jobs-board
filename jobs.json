@@ -2027,6 +2027,28 @@
           "yoeNote": "Auto-tracked \u2014 apply filters in your head",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-ari-embedded-c-engineer-2026-w28",
+          "company": "ARi",
+          "title": "Embedded C++ Engineer",
+          "location": "Peoria, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 minute ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-c%2B%2B-engineer-at-ari-4433984908",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 minute ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4433984908",
+          "region": "Central",
+          "regionRank": 3
         }
       ]
     }
