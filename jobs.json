@@ -1438,56 +1438,6 @@
           "region": "Mountain",
           "regionRank": 4,
           "externalId": "greenhouse:5288090008"
-        },
-        {
-          "id": "modal-labs-member-of-technical-staff-inference-research-w26",
-          "company": "Modal Labs",
-          "title": "Member of Technical Staff - Inference Research",
-          "location": "New York",
-          "remote": "Onsite/Hybrid",
-          "industry": "Engineering",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (3h ago). Callback score 93.0/100. Direct Ashby ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Python"
-          ],
-          "url": "https://jobs.ashbyhq.com/modal/73c97bbc-8e27-4c5d-b38b-90b3afdb0d93",
-          "source": "Ashby API (live)",
-          "postedApprox": "Today (3h ago)",
-          "h1bFit": "Uncertain",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 93.0,
-          "postedAtUtc": "2026-07-05T19:32:02.659000+00:00",
-          "atsJobId": "73c97bbc-8e27-4c5d-b38b-90b3afdb0d93",
-          "region": "East",
-          "regionRank": 1,
-          "externalId": "ashby:73c97bbc-8e27-4c5d-b38b-90b3afdb0d93"
-        },
-        {
-          "id": "modal-labs-member-of-technical-staff-post-training-research-w26",
-          "company": "Modal Labs",
-          "title": "Member of Technical Staff - Post-Training Research",
-          "location": "New York",
-          "remote": "Onsite/Hybrid",
-          "industry": "Engineering",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (3h ago). Callback score 93.0/100. Direct Ashby ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://jobs.ashbyhq.com/modal/7db771eb-e379-47fe-974f-765a8780dc10",
-          "source": "Ashby API (live)",
-          "postedApprox": "Today (3h ago)",
-          "h1bFit": "Uncertain",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 93.0,
-          "postedAtUtc": "2026-07-05T19:37:58.723000+00:00",
-          "atsJobId": "7db771eb-e379-47fe-974f-765a8780dc10",
-          "region": "East",
-          "regionRank": 1,
-          "externalId": "ashby:7db771eb-e379-47fe-974f-765a8780dc10"
         }
       ],
       "removedNotes": [
@@ -2055,6 +2005,28 @@
           "externalId": "linkedin:4433994274",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "the-uber-senior-software-engineer-embedded-av-labs-2026-w28",
+          "postedAtUtc": "2026-07-06T20:02:56.000388+00:00",
+          "company": "Uber",
+          "title": "Senior Software Engineer - Embedded, AV Labs",
+          "location": "Sunnyvale, CA",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (The Muse): posted 1 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.themuse.com/jobs/uber/senior-software-engineer-embedded-av-labs",
+          "source": "The Muse",
+          "postedApprox": "1 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
