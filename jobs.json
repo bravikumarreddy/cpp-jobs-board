@@ -3200,6 +3200,71 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-06T17:07:19.669779+00:00"
+        },
+        {
+          "id": "the-uber-senior-software-engineer-embedded-av-labs-2026-w28",
+          "postedAtUtc": "2026-07-06T20:02:56.000378+00:00",
+          "company": "Uber",
+          "title": "Senior Software Engineer - Embedded, AV Labs",
+          "location": "Sunnyvale, CA",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (The Muse): posted just now. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.themuse.com/jobs/uber/senior-software-engineer-embedded-av-labs",
+          "source": "The Muse",
+          "postedApprox": "just now",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "li-epm-scientific-senior-c-developer-2026-w28",
+          "company": "EPM Scientific",
+          "title": "Senior C++ Developer",
+          "location": "Orange Cove, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-at-epm-scientific-4437191362",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-06T14:11:50.298146+00:00"
+        },
+        {
+          "id": "li-esri-c-software-developer-ii-raster-analysis-2026-w28",
+          "company": "Esri",
+          "title": "C++ Software Developer II - Raster Analysis",
+          "location": "Redlands, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 37 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-developer-ii-raster-analysis-at-esri-4437436949",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "37 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
