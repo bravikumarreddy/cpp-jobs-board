@@ -3135,6 +3135,71 @@
           "yoeNote": "Auto-scraped \u2014 apply filters in your head",
           "region": "Remote",
           "regionRank": 2
+        },
+        {
+          "id": "li-ice-senior-c-developer-2026-w28",
+          "company": "ICE",
+          "title": "Senior C++ Developer",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 54 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-at-ice-4309034047",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "54 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "Central",
+          "regionRank": 3
+        },
+        {
+          "id": "li-venture-search-c-developer-delta-one-trading-desk-2026-w28",
+          "company": "Venture Search",
+          "title": "C++ Developer (Delta One Trading Desk)",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-delta-one-trading-desk-at-venture-search-4433957711",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-06T16:07:19.669779+00:00"
+        },
+        {
+          "id": "li-flextrade-software-developer-c-2026-w28",
+          "company": "FlexTrade",
+          "title": "Software Developer (C++)",
+          "location": "Great Neck, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-developer-c%2B%2B-at-flextrade-4436228419",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-06T17:07:19.669779+00:00"
         }
       ]
     }
