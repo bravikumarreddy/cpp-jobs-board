@@ -1483,6 +1483,44 @@ function renderTrackerPanel(st) {
     <div class="ats-grid" style="grid-template-columns:1fr;">${finds}</div>`;
 }
 
+// Sync outcome state from the server. outcomes.json is the source of truth
+// (latest-wins per id), so marks made in another browser/profile — or ones
+// this profile made while the server was down — show up here too. Called at
+// load AND every tracker poll, so Today's Picks drop a job within ~30s of
+// you applying to it anywhere. Returns true when anything changed.
+async function syncOutcomes() {
+  try {
+    const r = await fetch('/api/outcomes?_=' + Date.now());
+    if (!r.ok) return false;
+    const server = await r.json();
+    let changed = false;
+    const clearedAt = localStorage.getItem('raviCppJobsAppliedClearedAt') || '';
+    for (const rec of (server.outcomes || [])) {
+      const { id, outcome, reason } = rec;
+      if (!id) continue;
+      // Respect a local "Clear all applied": don't resurrect applied marks
+      // recorded before the clear.
+      const preClear = clearedAt && (rec.at || '') < clearedAt;
+      if (outcome === 'applied') {
+        if (!preClear && !state.applied.has(id)) { state.applied.add(id); changed = true; }
+      } else if (outcome === 'callback' || outcome === 'rejected' ||
+                 outcome === 'not_selected' || outcome === 'no_response') {
+        if (state.outcomes[id] !== outcome) { state.outcomes[id] = outcome; changed = true; }
+        // A callback implies the job was applied to.
+        if (outcome === 'callback' && !preClear && !state.applied.has(id)) { state.applied.add(id); changed = true; }
+      } else if (outcome === 'not_eligible') {
+        const why = reason || 'other';
+        if (state.notEligible[id] !== why) { state.notEligible[id] = why; changed = true; }
+      } else if (outcome === 'bad_recommendation') {
+        if (!state.badRecs.has(id)) { state.badRecs.add(id); changed = true; }
+      }
+      // outcome === 'none' → an un-mark; local state may legitimately differ, skip.
+    }
+    if (changed) { saveApplied(); saveOutcomes(); saveNotEligible(); saveBadRecs(); }
+    return changed;
+  } catch (e) { return false; /* server offline — localStorage still works */ }
+}
+
 async function pollTracker() {
   let st = null;
   try {
@@ -1493,6 +1531,9 @@ async function pollTracker() {
   // When a new cycle lands, hot-reload jobs.json so new cards appear without a manual refresh.
   if (st && st.lastCycleAt && trackerState.lastCycleAt && st.lastCycleAt !== trackerState.lastCycleAt) {
     await load();
+  } else if (await syncOutcomes()) {
+    // Marks made in another browser landed — refresh picks/lists right away.
+    render(); renderApplied(); updateBadges();
   }
   if (st) { trackerState.lastCycleAt = st.lastCycleAt; trackerState.nextCycleAt = st.nextCycleAt; }
 }
@@ -1609,39 +1650,7 @@ async function load() {
     }
   } catch (e) { /* file missing — that's fine */ }
 
-  // Sync outcome state from the server. outcomes.json is the source of truth
-  // (latest-wins per id), so marks made in another browser/profile — or ones
-  // this profile made while the server was down — show up here too.
-  try {
-    const r = await fetch('/api/outcomes?_=' + Date.now());
-    if (r.ok) {
-      const server = await r.json();
-      let changed = false;
-      const clearedAt = localStorage.getItem('raviCppJobsAppliedClearedAt') || '';
-      for (const rec of (server.outcomes || [])) {
-        const { id, outcome, reason } = rec;
-        if (!id) continue;
-        // Respect a local "Clear all applied": don't resurrect applied marks
-        // recorded before the clear.
-        const preClear = clearedAt && (rec.at || '') < clearedAt;
-        if (outcome === 'applied') {
-          if (!preClear && !state.applied.has(id)) { state.applied.add(id); changed = true; }
-        } else if (outcome === 'callback' || outcome === 'rejected' ||
-                   outcome === 'not_selected' || outcome === 'no_response') {
-          if (state.outcomes[id] !== outcome) { state.outcomes[id] = outcome; changed = true; }
-          // A callback implies the job was applied to.
-          if (outcome === 'callback' && !preClear && !state.applied.has(id)) { state.applied.add(id); changed = true; }
-        } else if (outcome === 'not_eligible') {
-          const why = reason || 'other';
-          if (state.notEligible[id] !== why) { state.notEligible[id] = why; changed = true; }
-        } else if (outcome === 'bad_recommendation') {
-          if (!state.badRecs.has(id)) { state.badRecs.add(id); changed = true; }
-        }
-        // outcome === 'none' → an un-mark; local state may legitimately differ, skip.
-      }
-      if (changed) { saveApplied(); saveOutcomes(); saveNotEligible(); saveBadRecs(); }
-    }
-  } catch (e) { /* server offline — localStorage still works */ }
+  await syncOutcomes();
 
   // Initialize current week if not already saved or if the saved week no longer exists
   const weekIds = state.data.weeks.map(w => w.weekId);
