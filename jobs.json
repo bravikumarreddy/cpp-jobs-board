@@ -1,0 +1,3142 @@
+{
+  "lastUpdated": "2026-07-06",
+  "lastChecked": "2026-07-06",
+  "seedVersion": 2,
+  "liveTrackers": [
+    {
+      "label": "\ud83d\udd25 Senior C++ \u2014 USA \u2014 past 24 hours (sort: newest)",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20C%2B%2B%20Engineer&location=United%20States&geoId=103644278&f_TPR=r86400&f_E=4&sortBy=DD",
+      "source": "LinkedIn",
+      "note": "Daily ritual. Apply within first 24h for ~4x interview rate."
+    },
+    {
+      "label": "Senior C++ \u2014 USA \u2014 past 7 days",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20C%2B%2B%20Engineer&location=United%20States&geoId=103644278&f_TPR=r604800&f_E=4&sortBy=DD",
+      "source": "LinkedIn",
+      "note": "Weekly sweep \u2014 Monday morning."
+    },
+    {
+      "label": "Senior C++ \u2014 Remote USA \u2014 past 7 days",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20C%2B%2B%20Developer&location=United%20States&geoId=103644278&f_TPR=r604800&f_WT=2&f_E=4&sortBy=DD",
+      "source": "LinkedIn",
+      "note": "Remote-only filter."
+    },
+    {
+      "label": "\ud83c\udd95 Senior C++ \u2014 NY Metro \u2014 past 7 days",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20C%2B%2B&location=New%20York%2C%20New%20York%2C%20United%20States&geoId=102571732&f_TPR=r604800&f_E=4&sortBy=DD",
+      "source": "LinkedIn",
+      "note": "NY metro \u2014 HFT central. Same query, NY filter."
+    },
+    {
+      "label": "\ud83c\udd95 Senior C++ \u2014 SF Bay Area \u2014 past 7 days",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20C%2B%2B&location=San%20Francisco%20Bay%20Area&geoId=90000084&f_TPR=r604800&f_E=4&sortBy=DD",
+      "source": "LinkedIn",
+      "note": "SF Bay \u2014 robotics/AV/databases."
+    },
+    {
+      "label": "\ud83c\udd95 Senior C++ \u2014 Boston Metro \u2014 past 7 days",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20C%2B%2B&location=Boston%2C%20Massachusetts%20Metropolitan%20Area&geoId=102380872&f_TPR=r604800&f_E=4&sortBy=DD",
+      "source": "LinkedIn",
+      "note": "Boston metro \u2014 robotics/HFT/biotech."
+    },
+    {
+      "label": "\ud83c\udd95 Senior C++ \u2014 Chicago Metro \u2014 past 7 days",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20C%2B%2B&location=Chicago%2C%20Illinois%2C%20United%20States&geoId=103112676&f_TPR=r604800&f_E=4&sortBy=DD",
+      "source": "LinkedIn",
+      "note": "Chicago \u2014 HFT options market making (DRW/Optiver/IMC/CTC)."
+    },
+    {
+      "label": "Staff C++ Engineer \u2014 USA \u2014 past 7 days",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=Staff%20C%2B%2B%20Engineer&location=United%20States&geoId=103644278&f_TPR=r604800&f_E=5&sortBy=DD",
+      "source": "LinkedIn",
+      "note": "Staff level \u2014 stretch on YOE, scan weekly."
+    },
+    {
+      "label": "Low Latency C++ \u2014 USA \u2014 past 7 days",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=low%20latency%20C%2B%2B&location=United%20States&geoId=103644278&f_TPR=r604800&sortBy=DD",
+      "source": "LinkedIn",
+      "note": "HFT / market-data / trading-systems angle."
+    },
+    {
+      "label": "C++ Robotics \u2014 USA \u2014 past 7 days",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B%20robotics&location=United%20States&geoId=103644278&f_TPR=r604800&sortBy=DD",
+      "source": "LinkedIn",
+      "note": "Robotics + AV + drones + humanoids."
+    },
+    {
+      "label": "\ud83c\udd95 C++ \u2014 USA \u2014 Easy Apply only \u2014 past 7 days",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20C%2B%2B&location=United%20States&geoId=103644278&f_TPR=r604800&f_AL=true&f_E=4&sortBy=DD",
+      "source": "LinkedIn",
+      "note": "1-click apply. Fast volume \u2014 useful for casting wide."
+    },
+    {
+      "label": "\ud83c\udd95 Wellfound (AngelList) \u2014 Remote C++ USA",
+      "url": "https://wellfound.com/role/r/cplusplus-developer?remote_friendly=true",
+      "source": "Wellfound",
+      "note": "Startup-focused. Single profile applies to all."
+    },
+    {
+      "label": "\ud83c\udd95 YC Jobs \u2014 C++ engineers",
+      "url": "https://www.workatastartup.com/jobs?role=eng%3Asystems&query=c%2B%2B&hasEquity=any&hasSalary=any&jobType=fulltime",
+      "source": "Y Combinator",
+      "note": "All YC portfolio companies. Curated, less applicant flood."
+    },
+    {
+      "label": "\ud83c\udd95 Hiring Cafe \u2014 Senior C++ USA \u2014 past ~4 days (3-day filter)",
+      "url": "https://hiring.cafe/?searchState=%7B%22searchQuery%22%3A%20%22Senior%20C%2B%2B%22%2C%20%22country%22%3A%20%5B%22United%20States%22%5D%2C%20%22datePosted%22%3A%20%22Past%203%20Days%22%7D",
+      "source": "Hiring Cafe",
+      "note": "Aggregates 50+ ATSs (Greenhouse, Lever, Workday). Note: hiring.cafe has 24h/3d/week/2wk/month buckets \u2014 no 4-day option, so this uses 'Past 3 Days' (stricter than 4)."
+    },
+    {
+      "label": "\ud83c\udd95 jobright.ai \u2014 Daily C++ jobs with H1B",
+      "url": "https://jobright.ai/jobs?skill=c%2B%2B&workAuth=h1b",
+      "source": "jobright.ai",
+      "note": "Filters by H1B sponsorship status. Daily refresh."
+    },
+    {
+      "label": "\ud83c\udd95 Levels.fyi \u2014 C++ engineer jobs",
+      "url": "https://www.levels.fyi/jobs?search=c%2B%2B&country=United+States",
+      "source": "Levels.fyi",
+      "note": "Compensation-transparent listings. Senior/Staff/Principal bands."
+    },
+    {
+      "label": "Hacker News \u2014 Who's hiring? C++ (current month)",
+      "url": "https://hnhiring.com/technologies/cplusplus",
+      "source": "HN Hiring",
+      "note": "Founder-direct C++ posts. Best fit for startups + niche shops."
+    },
+    {
+      "label": "\ud83c\udd95 GitHub: Speykious/cpp-jobs-newsletter",
+      "url": "https://github.com/speykious/cpp-jobs-newsletter",
+      "source": "GitHub",
+      "note": "Community-curated C++ jobs list. Star/watch for updates."
+    },
+    {
+      "label": "H1B-Sponsored Tech Jobs \u2014 daily-updated repo",
+      "url": "https://github.com/jobright-ai/Daily-H1B-Jobs-In-Tech",
+      "source": "GitHub (jobright-ai)",
+      "note": "Daily-refreshed H1B-sponsored roles. Filter by C++."
+    },
+    {
+      "label": "Built In \u2014 Remote Senior C++ jobs",
+      "url": "https://builtin.com/jobs/remote/dev-engineering/cpp/senior",
+      "source": "Built In",
+      "note": "Curated US startup ecosystem. Some stale, mostly current."
+    },
+    {
+      "label": "\ud83c\udd95 eFinancialCareers \u2014 Low-latency C++ USA",
+      "url": "https://www.efinancialcareers.com/search?searchTerms=%22C%2B%2B%22%20low%20latency&searchTermsHash=&radius=50&radiusunit=km&countrycode=US",
+      "source": "eFinancialCareers",
+      "note": "HFT-specific job board. Strong fit for trading roles."
+    },
+    {
+      "label": "Remote Rocketship \u2014 C++ jobs",
+      "url": "https://www.remoterocketship.com/jobs/c-plus-plus/",
+      "source": "Remote Rocketship",
+      "note": "Remote-only. Good for smaller startups."
+    },
+    {
+      "label": "Arc.dev \u2014 Remote C++ jobs",
+      "url": "https://arc.dev/remote-jobs/c_plus_plus",
+      "source": "Arc.dev",
+      "note": "Senior-leaning remote roles. Has inbound matching."
+    },
+    {
+      "label": "Indeed \u2014 Remote Senior C++ \u2014 USA",
+      "url": "https://www.indeed.com/q-remote-senior-software-engineer-c++-jobs.html",
+      "source": "Indeed",
+      "note": "Cast wide. Set up email alerts on this query."
+    }
+  ],
+  "companies": [
+    {
+      "name": "Bloomberg",
+      "industry": "Fintech / Data",
+      "h1bFit": "Likely Yes",
+      "h1bNote": "Top-10 H1B sponsor (~500+ approvals/yr)",
+      "careers": "https://careers.bloomberg.com/job/search?ej=Engineering&l=Americas",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=1110&location=United%20States&f_TPR=r604800",
+      "ossRepo": "https://github.com/bloomberg/bde",
+      "edge": "PR on BDE before applying. 5 different teams hire C++."
+    },
+    {
+      "name": "NVIDIA",
+      "industry": "GPU / AV / AI",
+      "h1bFit": "Yes",
+      "h1bNote": "Top-3 H1B sponsor",
+      "careers": "https://www.nvidia.com/en-us/about-nvidia/careers/?search=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=3608&location=United%20States&f_TPR=r604800",
+      "ossRepo": "https://github.com/NVIDIA",
+      "edge": "Many sub-orgs. CUDA libs + AV stack both hire C++ heavily."
+    },
+    {
+      "name": "Citadel / Citadel Securities",
+      "industry": "HFT / Quant",
+      "h1bFit": "Yes",
+      "h1bNote": "Heavy H1B sponsor at senior IC",
+      "careers": "https://www.citadel.com/careers/open-opportunities/?team=technology",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=5292&location=United%20States&f_TPR=r604800",
+      "edge": "Note: Citadel HF and Citadel Securities have different career portals."
+    },
+    {
+      "name": "Hudson River Trading",
+      "industry": "HFT",
+      "h1bFit": "Yes",
+      "h1bNote": "Heavy sponsor, strongest TC band in HFT",
+      "careers": "https://www.hudsonrivertrading.com/careers/",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=5301&location=United%20States&f_TPR=r604800",
+      "edge": "Their 'Core' team hires year-round."
+    },
+    {
+      "name": "Jump Trading",
+      "industry": "HFT",
+      "h1bFit": "Yes",
+      "h1bNote": "Heavy sponsor",
+      "careers": "https://www.jumptrading.com/careers/",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=19012&location=United%20States&f_TPR=r604800",
+      "edge": "FPGA-adjacent infra; mention if you've touched HW/SW boundary."
+    },
+    {
+      "name": "Two Sigma",
+      "industry": "Quant / Trading",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors",
+      "careers": "https://careers.twosigma.com/careers/SearchJobs/?listFilterMode=1&jobOffset=0&searchKeyword=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=1825&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Optiver",
+      "industry": "HFT / Market Making",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors at all levels",
+      "careers": "https://optiver.com/working-at-optiver/career-opportunities/?disciplines=technology",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=8331&location=United%20States&f_TPR=r604800",
+      "edge": "Chicago + Austin + NYC offices."
+    },
+    {
+      "name": "IMC Trading",
+      "industry": "HFT",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors",
+      "careers": "https://www.imc.com/us/careers/positions/",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=15095&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Akuna Capital",
+      "industry": "HFT / Options",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors",
+      "careers": "https://akunacapital.com/job-board",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=18991&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "DRW",
+      "industry": "HFT / Quant",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors",
+      "careers": "https://drw.com/work-at-drw/open-roles?categories=Engineering",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=3169&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Tower Research Capital",
+      "industry": "HFT",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors",
+      "careers": "https://www.tower-research.com/open-positions/",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=23427&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Millennium",
+      "industry": "Multi-strat Hedge Fund",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors at senior IC",
+      "careers": "https://www.mlp.com/careers/",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=Senior%20HFT%20C%2B%2B&f_C=4006&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Stevens Capital Management",
+      "industry": "Quant Hedge Fund",
+      "h1bFit": "Yes",
+      "h1bNote": "Already applied \u2014 keep watching",
+      "careers": "https://job-boards.greenhouse.io/scm",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=2415310&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Roblox",
+      "industry": "Game Engine",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors",
+      "careers": "https://careers.roblox.com/jobs?team=engineering",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=27092&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Epic Games",
+      "industry": "Game Engine (Unreal)",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors",
+      "careers": "https://www.epicgames.com/site/en-US/careers/jobs?role=Engineering",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=1407&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Unity",
+      "industry": "Game Engine",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors",
+      "careers": "https://careers.unity.com/jobs",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=164311&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "ClickHouse",
+      "industry": "Distributed Database",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors",
+      "careers": "https://clickhouse.com/company/careers",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=18299701&location=United%20States&f_TPR=r604800",
+      "ossRepo": "https://github.com/ClickHouse/ClickHouse",
+      "edge": "Hyper-growth ($15B). OSS PR + cover letter = instant signal."
+    },
+    {
+      "name": "MongoDB",
+      "industry": "Distributed Database",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors heavily",
+      "careers": "https://www.mongodb.com/careers/jobs?team=Engineering",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=18932&location=United%20States&f_TPR=r604800",
+      "ossRepo": "https://github.com/mongodb/mongo"
+    },
+    {
+      "name": "ScyllaDB",
+      "industry": "Distributed Database",
+      "h1bFit": "Confirm",
+      "h1bNote": "Smaller co",
+      "careers": "https://www.scylladb.com/careers/",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=10473928&location=United%20States&f_TPR=r604800",
+      "ossRepo": "https://github.com/scylladb/scylladb",
+      "edge": "Seastar framework \u2014 niche C++ skillset; if you build there you're hireable."
+    },
+    {
+      "name": "MariaDB",
+      "industry": "Distributed Database",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors",
+      "careers": "https://mariadb.com/about-us/careers/",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=164316&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Snowflake",
+      "industry": "Data Warehouse",
+      "h1bFit": "Yes",
+      "h1bNote": "Heavy sponsor",
+      "careers": "https://careers.snowflake.com/us/en/search-results?keywords=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=2528864&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Databricks",
+      "industry": "Data Platform",
+      "h1bFit": "Yes",
+      "h1bNote": "Heavy sponsor",
+      "careers": "https://www.databricks.com/company/careers/open-positions",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=3608595&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Latitude AI (Ford)",
+      "industry": "Autonomous Vehicles",
+      "h1bFit": "Yes",
+      "h1bNote": "Already applied \u2014 watch for new postings",
+      "careers": "https://www.latitude.ai/careers",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=89906517&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Applied Intuition",
+      "industry": "Autonomous Vehicles",
+      "h1bFit": "Yes",
+      "h1bNote": "Already applied \u2014 watch",
+      "careers": "https://www.appliedintuition.com/careers",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=22057812&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Waymo",
+      "industry": "Autonomous Vehicles",
+      "h1bFit": "Yes",
+      "h1bNote": "Heavy sponsor",
+      "careers": "https://careers.withwaymo.com/jobs/search?query=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=18030089&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Aurora Innovation",
+      "industry": "Autonomous Trucking",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors",
+      "careers": "https://aurora.tech/jobs",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=18926540&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Zoox",
+      "industry": "Autonomous Vehicles",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors",
+      "careers": "https://zoox.com/careers/jobs/",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=3152439&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Tesla \u2014 Autopilot/AI",
+      "industry": "Autonomous Vehicles",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors",
+      "careers": "https://www.tesla.com/careers/search/?type=2&keyword=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=15564&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Skydio",
+      "industry": "Drones / Robotics",
+      "h1bFit": "Confirm per role",
+      "h1bNote": "Defense-adjacent; sim/data roles more open",
+      "careers": "https://www.skydio.com/careers",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=10619388&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Anduril",
+      "industry": "Defense / Robotics",
+      "h1bFit": "Confirm per role",
+      "h1bNote": "Many roles US-persons; some (sim, infra) sponsor",
+      "careers": "https://www.anduril.com/open-roles/",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=18067043&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Cloudflare",
+      "industry": "Edge / Networking",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors",
+      "careers": "https://www.cloudflare.com/careers/jobs/?department=Engineering",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=11051&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Stripe",
+      "industry": "Payments / Infra",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors",
+      "careers": "https://stripe.com/jobs/search?query=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=2135371&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Apple",
+      "industry": "Big Tech / Systems",
+      "h1bFit": "Yes",
+      "h1bNote": "Top H1B sponsor",
+      "careers": "https://jobs.apple.com/en-us/search?search=c%2B%2B&sort=newest",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=162479&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Meta (Reality Labs)",
+      "industry": "Big Tech / AR",
+      "h1bFit": "Yes",
+      "h1bNote": "Top H1B sponsor",
+      "careers": "https://www.metacareers.com/jobs/?q=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=10667&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Google",
+      "industry": "Big Tech",
+      "h1bFit": "Yes",
+      "h1bNote": "Top H1B sponsor",
+      "careers": "https://www.google.com/about/careers/applications/jobs/results/?q=%22c%2B%2B%22",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=1441&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Intercontinental Exchange (ICE / NYSE)",
+      "industry": "Exchange / Trading Infra",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors. Hidden gem \u2014 interview-signal source: LeetCode + TeamBlind",
+      "careers": "https://careers.ice.com/jobs?keywords=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=10923&location=United%20States&f_TPR=r604800",
+      "edge": "NYSE matching engines. Less applicant flood vs HFT firms \u2014 apply direct via careers.ice.com."
+    },
+    {
+      "name": "Susquehanna International Group (SIG)",
+      "industry": "HFT / Options Market Making",
+      "h1bFit": "Yes",
+      "h1bNote": "Heavy C++ shop, Bala Cynwyd HQ. 8+ active C++ reqs.",
+      "careers": "https://careers.sig.com/search?primaryFunction=Technology&search=C%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=11226&location=United%20States&f_TPR=r604800",
+      "edge": "Often overshadowed by Citadel/Jane Street. Strong C++ culture; multiple trading-tech teams hiring continuously."
+    },
+    {
+      "name": "D. E. Shaw Group",
+      "industry": "Quant Hedge Fund",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors. NYC HQ. $225-325K base + sign-on.",
+      "careers": "https://www.deshaw.com/careers?jobCategory=software-engineering",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=2014&location=United%20States&f_TPR=r604800",
+      "edge": "Options group hiring 3+ yrs C++. Less LeetCode-grindy than HFT firms."
+    },
+    {
+      "name": "CrowdStrike",
+      "industry": "Endpoint Security",
+      "h1bFit": "Yes",
+      "h1bNote": "Top H1B sponsor ($193K median LCA). ~105 senior SWE reqs.",
+      "careers": "https://www.crowdstrike.com/careers/jobs/?search=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=295678&location=United%20States&f_TPR=r604800",
+      "edge": "Kernel-adjacent C/C++ on Windows/Linux/macOS. Your Samsung mesh-router C/C++ networking is directly analogous."
+    },
+    {
+      "name": "Autodesk",
+      "industry": "Design / 3D Software",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors. AutoCAD/Maya/Revit are massive C++ codebases.",
+      "careers": "https://www.autodesk.com/careers/overview?search=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=2399&location=United%20States&f_TPR=r604800",
+      "edge": "$222K median TC. Often overlooked vs FAANG. Hiring across 88+ SWE roles."
+    },
+    {
+      "name": "Adobe",
+      "industry": "Creative Software",
+      "h1bFit": "Yes",
+      "h1bNote": "Top H1B sponsor. Photoshop/Lightroom/Acrobat are C++.",
+      "careers": "https://careers.adobe.com/us/en/search-results?keywords=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=1265&location=United%20States&f_TPR=r604800",
+      "edge": "Layoffs in 2026 created market churn. Many open reqs across Creative Cloud."
+    },
+    {
+      "name": "Pure Storage",
+      "industry": "Storage Infrastructure",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors.",
+      "careers": "https://www.purestorage.com/company/careers/job-search.html?keyword=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=64421&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Splunk",
+      "industry": "Observability / Big Data",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors. C++ heavy core.",
+      "careers": "https://www.splunk.com/en_us/careers/jobs.html?searchTerm=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=37170&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Akamai",
+      "industry": "CDN / Edge",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors. C/C++ at edge nodes.",
+      "careers": "https://www.akamai.com/careers/job-openings?search=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=2148&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Brave Software",
+      "industry": "Browser / Privacy",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors. Chromium-based browser, heavy C++.",
+      "careers": "https://brave.com/careers/",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=10637196&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Mozilla",
+      "industry": "Browser / OSS",
+      "h1bFit": "Yes (limited)",
+      "h1bNote": "Sponsors, but smaller pipeline post-layoffs.",
+      "careers": "https://www.mozilla.org/en-US/careers/listings/?team=engineering",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=1782&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Honeycomb.io",
+      "industry": "Observability",
+      "h1bFit": "Confirm",
+      "h1bNote": "Series D, remote-friendly. Storage team adding C++.",
+      "careers": "https://www.honeycomb.io/careers",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=10999437&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Trunk Tools",
+      "industry": "Developer Tools",
+      "h1bFit": "Confirm",
+      "h1bNote": "a16z-funded. CLI in C++20 + Bazel.",
+      "careers": "https://jobs.ashbyhq.com/trunk",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=71090049&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Boston Dynamics",
+      "industry": "Robotics",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors. C++ for Spot/Atlas/Stretch.",
+      "careers": "https://bostondynamics.com/careers/",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=21744&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "CME Group",
+      "industry": "Exchange / Derivatives",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors. Chicago HQ.",
+      "careers": "https://www.cmegroup.com/careers/job-openings.html?keyword=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=4275&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Nasdaq",
+      "industry": "Exchange / Market Tech",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors. Heavy C++ in matching engines.",
+      "careers": "https://www.nasdaq.com/about/careers",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=1762&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "NBCUniversal",
+      "industry": "Media / Streaming Infra",
+      "h1bFit": "Yes",
+      "h1bNote": "Streaming + ad tech in C++. Confirmed C++ interview signal (TeamBlind).",
+      "careers": "https://www.nbcunicareers.com/job-search-results?keyword=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=2728&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Belvedere Trading",
+      "industry": "HFT / Options Market Making",
+      "h1bFit": "Confirm",
+      "h1bNote": "Smaller Chicago MM. Confirmed Senior C++ SWE at $175-250K.",
+      "careers": "https://www.belvederetrading.com/careers/",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=19011&location=United%20States&f_TPR=r604800",
+      "edge": "Less applicant-flooded than Citadel/Optiver. TeamBlind says interview bar is lower."
+    },
+    {
+      "name": "Wolverine Trading",
+      "industry": "HFT / Options",
+      "h1bFit": "Confirm",
+      "h1bNote": "Chicago options HFT. Lower comp but lower bar.",
+      "careers": "https://www.wolve.com/careers/",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=23538&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "PEAK6 Investments",
+      "industry": "Options Trading",
+      "h1bFit": "Yes",
+      "h1bNote": "Chicago options. Parent of PEAK6 Capital + Apex (clearing).",
+      "careers": "https://peak6.com/careers/",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=11069&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Virtu Financial",
+      "industry": "HFT (public)",
+      "h1bFit": "Yes",
+      "h1bNote": "Public HFT. Smaller eng org.",
+      "careers": "https://www.virtu.com/about/careers/",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=11015&location=United%20States&f_TPR=r604800",
+      "edge": "Less LeetCode-grindy than top HFTs."
+    },
+    {
+      "name": "Headlands Technologies",
+      "industry": "HFT / Quant",
+      "h1bFit": "Yes",
+      "h1bNote": "Chicago quant. Smaller, hires year-round.",
+      "careers": "https://www.headlandstech.com/",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=5331197&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Chicago Trading Company (CTC)",
+      "industry": "HFT / Options",
+      "h1bFit": "Yes",
+      "h1bNote": "Chicago options MM. Confirmed sponsors.",
+      "careers": "https://www.chicagotrading.com/careers/",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=11201&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Riot Games",
+      "industry": "Game Engines / Online Services",
+      "h1bFit": "Yes",
+      "h1bNote": "Top H1B sponsor. 125 US reqs.",
+      "careers": "https://www.riotgames.com/en/work-with-us/jobs?craft=engineering",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=10241&location=United%20States&f_TPR=r604800",
+      "edge": "League of Legends, Valorant \u2014 huge C++ codebases. Online services team hires year-round."
+    },
+    {
+      "name": "Activision Blizzard (Microsoft)",
+      "industry": "Game Engines",
+      "h1bFit": "Yes",
+      "h1bNote": "Owned by Microsoft \u2192 top H1B sponsor. 97 US reqs.",
+      "careers": "https://careers.activisionblizzard.com/jobs?keyword=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=1063&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Electronic Arts (EA)",
+      "industry": "Game Engines",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors. Frostbite engine in C++.",
+      "careers": "https://ea.gr8people.com/jobs?keyword=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=2546&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Bungie",
+      "industry": "Game Engines",
+      "h1bFit": "Confirm",
+      "h1bNote": "Destiny 2 engine. Sony-owned now.",
+      "careers": "https://careers.bungie.com/",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=10876&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Take-Two Interactive (Rockstar)",
+      "industry": "Game Engines",
+      "h1bFit": "Yes",
+      "h1bNote": "Rockstar/2K. Public co.",
+      "careers": "https://www.taketwogames.com/careers/",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=2580&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Niantic",
+      "industry": "AR / Mobile",
+      "h1bFit": "Yes",
+      "h1bNote": "Pokemon GO / AR. C++ engine.",
+      "careers": "https://nianticlabs.com/careers/",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=2967729&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Synopsys",
+      "industry": "EDA / Simulation",
+      "h1bFit": "Yes",
+      "h1bNote": "Top H1B sponsor. Now owns Ansys.",
+      "careers": "https://careers.synopsys.com/jobs?keyword=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=2521&location=United%20States&f_TPR=r604800",
+      "edge": "EDA C++ \u2014 niche skill but very steady demand. Less competition than FAANG."
+    },
+    {
+      "name": "Cadence Design Systems",
+      "industry": "EDA / Simulation",
+      "h1bFit": "Yes",
+      "h1bNote": "Top H1B sponsor.",
+      "careers": "https://careers.cadence.com/?keywords=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=4084&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "MathWorks",
+      "industry": "Scientific Computing",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors. MATLAB/Simulink in C++.",
+      "careers": "https://www.mathworks.com/company/jobs/opportunities/search.html?keywords=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=2466&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Arista Networks",
+      "industry": "Networking",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors US roles. CloudEOS team takes 3+ yrs C++.",
+      "careers": "https://www.arista.com/en/company/careers/all-positions?keyword=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=87013&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "F5 Networks",
+      "industry": "Networking / Security",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors. C/C++ in dataplane.",
+      "careers": "https://careers.f5.com/jobs?keyword=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=2602&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Cisco",
+      "industry": "Networking",
+      "h1bFit": "Yes",
+      "h1bNote": "Top H1B sponsor. 56 SWE roles open.",
+      "careers": "https://jobs.cisco.com/jobs/SearchJobs/c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=1063&location=United%20States&f_TPR=r604800",
+      "edge": "Skew is now to AI networking fabric + custom silicon \u2014 strong fit for systems C++."
+    },
+    {
+      "name": "Snap Inc",
+      "industry": "Mobile / AR",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors. Snapchat camera/AR in C++.",
+      "careers": "https://careers.snap.com/jobs?keyword=c%2B%2B",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=1276386&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Kraken",
+      "industry": "Crypto Exchange",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors. Remote-friendly.",
+      "careers": "https://www.kraken.com/careers/jobs",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=18936989&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Coinbase",
+      "industry": "Crypto / Fintech",
+      "h1bFit": "Yes",
+      "h1bNote": "Top H1B sponsor.",
+      "careers": "https://www.coinbase.com/careers/positions?gh_src=&teams=Software+Engineering",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=3128528&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Discord",
+      "industry": "Real-time Comms",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors. Heavy C++/Rust in A/V stack.",
+      "careers": "https://discord.com/careers",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=5341819&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Spotify",
+      "industry": "Audio Streaming",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors. Multiple C++ teams.",
+      "careers": "https://www.lifeatspotify.com/jobs?l=united-states",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=5559&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Axon",
+      "industry": "Public Safety / CV",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors. TASER parent company.",
+      "careers": "https://www.axon.com/careers",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=10665&location=United%20States&f_TPR=r604800",
+      "edge": "Computer vision + edge devices. Less applicant flood than FAANG CV roles."
+    },
+    {
+      "name": "PlayStation Global (Sony Interactive)",
+      "industry": "Game Console / Online Services",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors. Console-grade C++ across server/web/console.",
+      "careers": "https://www.sonyinteractive.com/en/our-vision/careers/",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=1041&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Network Optix",
+      "industry": "Video Surveillance / Streaming",
+      "h1bFit": "Confirm",
+      "h1bNote": "Smaller co \u2014 modern C++23 shop.",
+      "careers": "https://www.networkoptix.com/about-us/jobs/",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=2519232&location=United%20States&f_TPR=r604800",
+      "edge": "C++23 + latest Clang/MSVC. Niche stack = small applicant pool."
+    },
+    {
+      "name": "Tenstorrent",
+      "industry": "AI Chips",
+      "h1bFit": "Confirm",
+      "h1bNote": "$3B valuation. Custom AI chips.",
+      "careers": "https://tenstorrent.com/careers",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=18308815&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Figure AI",
+      "industry": "Humanoid Robotics",
+      "h1bFit": "Confirm",
+      "h1bNote": "Heavy C/C++ in real-time embedded.",
+      "careers": "https://www.figure.ai/careers",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=80089466&location=United%20States&f_TPR=r604800",
+      "edge": "Humanoid robotics gold rush \u2014 C++ on robot, real-time embedded."
+    },
+    {
+      "name": "1X Technologies",
+      "industry": "Humanoid Robotics",
+      "h1bFit": "Confirm",
+      "h1bNote": "OpenAI-backed humanoid. C++ controls + perception.",
+      "careers": "https://www.1x.tech/careers",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=18302117&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Apptronik",
+      "industry": "Humanoid Robotics",
+      "h1bFit": "Confirm",
+      "h1bNote": "Apollo humanoid. Austin-based.",
+      "careers": "https://apptronik.com/careers",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=68543570&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Agility Robotics",
+      "industry": "Humanoid Robotics",
+      "h1bFit": "Confirm",
+      "h1bNote": "Digit humanoid. Warehouse logistics focus.",
+      "careers": "https://agilityrobotics.com/careers",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=10872428&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Dune Analytics",
+      "industry": "Crypto Analytics",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors. Multi-chain analytics.",
+      "careers": "https://jobs.ashbyhq.com/dune",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=15184832&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Torc Robotics",
+      "industry": "Autonomous Trucking",
+      "h1bFit": "Yes",
+      "h1bNote": "Daimler-backed. Top H1B sponsor in AV.",
+      "careers": "https://job-boards.greenhouse.io/torcrobotics",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=290478&location=United%20States&f_TPR=r604800",
+      "edge": "Multiple senior C++ reqs open at any time. Ann Arbor low-applicant-flood."
+    },
+    {
+      "name": "Intrinsic (Google X)",
+      "industry": "Industrial Robotics",
+      "h1bFit": "Yes",
+      "h1bNote": "Alphabet-owned. Top H1B sponsor.",
+      "careers": "https://job-boards.greenhouse.io/intrinsicrobotics",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=80155290&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Autodesk (Workday)",
+      "industry": "Design / 3D Software",
+      "h1bFit": "Yes",
+      "h1bNote": "Major H1B sponsor.",
+      "careers": "https://autodesk.wd1.myworkdayjobs.com/Ext",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=2399&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "NCR VOYIX",
+      "industry": "Retail Tech / POS",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors.",
+      "careers": "https://ncr.wd1.myworkdayjobs.com/ext_us",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=3158&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "FICO",
+      "industry": "FinTech Analytics",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors.",
+      "careers": "https://fico.wd1.myworkdayjobs.com/External",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=2617&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "LSEG (London Stock Exchange Group)",
+      "industry": "Exchange / FinTech",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors. NY + LDN offices.",
+      "careers": "https://lseg.wd3.myworkdayjobs.com/Careers",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=2647&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "NinjaOne",
+      "industry": "Endpoint Management",
+      "h1bFit": "Yes",
+      "h1bNote": "Series C, $1.9B. Sponsors.",
+      "careers": "https://jobs.jobvite.com/ninjaone",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=18253580&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Logitech / Streamlabs",
+      "industry": "Streaming Software / Hardware",
+      "h1bFit": "Yes",
+      "h1bNote": "Logitech sponsors.",
+      "careers": "https://jobs.jobvite.com/logitech",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=1858&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "HERE Technologies",
+      "industry": "Maps / AV / Location",
+      "h1bFit": "Yes",
+      "h1bNote": "Sponsors. Owned by BMW/Audi/Daimler.",
+      "careers": "https://www.here.com/careers",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=4116&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Demiurge Studios",
+      "industry": "Game Studio",
+      "h1bFit": "Confirm",
+      "h1bNote": "Cambridge MA studio.",
+      "careers": "https://www.demiurgestudios.com/jobs",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=C%2B%2B&f_C=24851&location=United%20States&f_TPR=r604800"
+    },
+    {
+      "name": "Apexver",
+      "industry": "HFT / Trading Infra",
+      "h1bFit": "Confirm",
+      "h1bNote": "Smaller HFT shop \u2014 remote.",
+      "careers": "https://weworkremotely.com/company/apexver",
+      "linkedinJobs": "https://www.linkedin.com/jobs/search/?keywords=apexver%20C%2B%2B"
+    }
+  ],
+  "candidateProfile": {
+    "yoe": "\u2014",
+    "visa": "\u2014",
+    "mustHave": "C++",
+    "resume": ""
+  },
+  "edgeTactics": [
+    {
+      "title": "DM the hiring manager, not the recruiter",
+      "detail": "On LinkedIn, find the team's tech lead or EM (search company + team name, e.g., 'Bloomberg BQL Kernel'). Send a 3-line note: 1) you just applied, 2) 1 concrete line tying your Wabtec real-time work to their stack, 3) ask if they'd want a 15-min call. 5\u201310x higher reply rate than cold-apply."
+    },
+    {
+      "title": "Drop a public C++ artifact this week",
+      "detail": "Push ONE focused repo to github.com/[your-github] before next Mon: a lock-free SPSC queue, a tiny order-book matching engine, or a sensor-fusion mini-demo. Link it in the resume header and every cover letter. Hiring loops will skim it in 30 seconds \u2014 beats years of bullet points."
+    },
+    {
+      "title": "File a 1-line PR on the company's OSS repo",
+      "detail": "Bloomberg \u2192 github.com/bloomberg/bde \u00b7 ClickHouse \u2192 github.com/ClickHouse/ClickHouse \u00b7 MongoDB \u2192 github.com/mongodb/mongo \u00b7 ScyllaDB \u2192 github.com/scylladb/scylladb. Even a typo fix gets you a real commit history with the org. Mention it in the cover letter."
+    },
+    {
+      "title": "Referral mining via Binghamton + Samsung + Wabtec",
+      "detail": "LinkedIn search: 'Binghamton University' + the target company, also 'Samsung' alumni and 'Wabtec' alumni. Most companies pay $2\u20135K per referral so people will respond. DM template: 'Hey [name], saw you went to Binghamton too. I'm applying to [role] \u2014 would you be open to forwarding my resume internally?'"
+    },
+    {
+      "title": "Specialised HFT/finance recruiters",
+      "detail": "Skip generic recruiters. DM these on LinkedIn \u2014 they have unposted HFT C++ roles: Selby Jennings, Durlston Partners (already in your list), Glocomms, Mondo, Oxford Knight, Anson McCade, Algo Capital Group. One DM each. Position yourself as 'real-time C++ on locomotives \u2014 interested in low-latency finance.'"
+    },
+    {
+      "title": "ATS keyword tune per industry",
+      "detail": "Your resume is heavy on 'optimization engine' and 'locomotives' \u2014 great for AV/robotics, generic for finance. For HFT roles, slip in: kernel bypass, DPDK, Solarflare/EFvi, FIX protocol, ITCH/OUCH, FPGA-adjacent, RDMA, busy-wait, cache-line, NUMA. For AV: ROS2, DDS, TensorRT, ONNX, sensor fusion (you already have), Kalman filter. ATS gates ~40% of these apps."
+    },
+    {
+      "title": "1-page tech brief beats cover letter",
+      "detail": "For each top-3 target (e.g., Bloomberg BDE, Stevens Capital, HRT), write a 1-page PDF: 'Notes on [their system] from a senior C++ IC.' 4 sections \u2014 what I think you're solving, where I see latency wins, what I'd build first month, open questions. Attach to the application or send via DM. Almost no one does this."
+    },
+    {
+      "title": "Get inbound flowing in parallel",
+      "detail": "Sign up on TripleByte, Hired.com, A.Team, and Otta \u2014 set them to 'Senior C++, H1B OK, US remote.' Posting profiles takes 60 minutes total and feeds you recruiter pings while you're sleeping. Also: turn LinkedIn 'Open to Work' on with the green ring (recruiter-only view, not public)."
+    },
+    {
+      "title": "H1B leverage line in DMs",
+      "detail": "Say 'I'm on H1B with [N] years remaining' once explicitly \u2014 companies that can't sponsor will self-eliminate, saving you the pipeline cycle. Companies that CAN will treat it as a non-issue. Don't hide it; it becomes a problem only at offer stage."
+    },
+    {
+      "title": "Apply within 24h of post going live",
+      "detail": "LinkedIn data: apps submitted in the first 24 hours of a posting have ~4x interview rate vs. apps in week 2+. Use LinkedIn 'Date posted: Past 24 hours' filter. Set up Email/Slack alerts on LinkedIn Job Alerts + key Greenhouse/Ashby boards (Stevens Capital, Applied Intuition, Latitude AI, Bloomberg)."
+    }
+  ],
+  "weeks": [
+    {
+      "weekId": "2026-W24",
+      "label": "Week of June 8 \u2013 June 14, 2026",
+      "jobs": [],
+      "removedNotes": [
+        "Ascension Federal Services \u2014 federal contractor, US citizens only.",
+        "NJF Global Holdings (London / SG / HK) \u2014 international postings, dropped.",
+        "PrivateID Principal C++ \u2014 10+ yrs required, over YOE band.",
+        "LibreOffice / Document Foundation \u2014 non-profit, no H1B sponsorship.",
+        "Bloomberg Communications Applications (LinkedIn ID ~1992868153) \u2014 posting likely stale; verify before applying."
+      ]
+    },
+    {
+      "weekId": "2026-W25",
+      "label": "Week of June 15 \u2013 June 21, 2026",
+      "jobs": [],
+      "removedNotes": [
+        "Mendaera (surgical robotics) C++ / robotics SWE roles \u2014 greenhouse postings now closed (board shows only non-eng roles); skipped as stale.",
+        "Teramind Senior C++ Developer \u2014 'Remote, Global' contractor-style role (hires in any country, hourly comp), no US H1B sponsorship signal; skipped.",
+        "Jane Street generic Software Engineer \u2014 primarily OCaml shop, not a C++-must-have role; dropped.",
+        "XTX Markets Research Technology Engineer \u2014 could not confirm C++ requirement or US location; skipped.",
+        "Process Street / AllBooked senior SWE \u2014 web/SaaS roles, not C++; dropped."
+      ]
+    },
+    {
+      "weekId": "2026-W26",
+      "label": "Week of June 22 - June 28, 2026",
+      "jobs": [
+        {
+          "id": "li-tradeweb-c-software-engineer-trading-systems-2026-w26",
+          "company": "Tradeweb",
+          "title": "C++ Software Engineer - Trading Systems",
+          "location": "Jersey City, NJ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 12 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-trading-systems-at-tradeweb-4422453730",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "12 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T16:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-citadel-securities-rates-credit-c-engineer-2026-w26",
+          "company": "Citadel Securities",
+          "title": "Rates & Credit C++ Engineer",
+          "location": "New York City Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 13 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/rates-credit-c%2B%2B-engineer-at-citadel-securities-4420112853",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "13 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T15:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-aquatic-capital-management-software-engineer-c-2026-w26",
+          "company": "Aquatic Capital Management",
+          "title": "Software Engineer, C++",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 11 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-aquatic-capital-management-4409026104",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "11 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T17:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "mongodb-software-engineer-3-query-integration-w26",
+          "company": "MongoDB",
+          "title": "Software Engineer 3, Query Integration",
+          "location": "Austin; New York; New York City; San Francisco; United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "Query",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (12h ago). Callback score 93.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Python"
+          ],
+          "url": "https://www.mongodb.com/careers/job/?gh_jid=8010102",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (12h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 93.0,
+          "postedAtUtc": "2026-06-24T11:18:29-04:00",
+          "atsJobId": "8010102",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-aurora-staff-software-engineer-connectivity-c-2026-w26",
+          "company": "Aurora",
+          "title": "Staff Software Engineer, Connectivity (C++)",
+          "location": "Pittsburgh, PA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-connectivity-c%2B%2B-at-aurora-4424279869",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "8 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T20:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-nbcuniversal-senior-systems-engineer-c-python-2026-w26",
+          "company": "NBCUniversal",
+          "title": "Senior Systems Engineer (C++/Python)",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-systems-engineer-c%2B%2B-python-at-nbcuniversal-4433354119",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-02T00:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-mathworks-senior-c-software-engineer-2026-w26",
+          "company": "MathWorks",
+          "title": "Senior C++ Software Engineer",
+          "location": "Natick, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-mathworks-4430286692",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-02T03:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-mathworks-principal-c-software-engineer-2026-w26",
+          "company": "MathWorks",
+          "title": "Principal C++ Software Engineer",
+          "location": "Natick, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 15 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/principal-c%2B%2B-software-engineer-at-mathworks-4420125671",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "15 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T13:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-textron-software-engineer-iii-c-engineer-2026-w26",
+          "company": "Textron",
+          "title": "Software Engineer III (C++ Engineer)",
+          "location": "Chantilly, VA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-c%2B%2B-engineer-at-textron-4432906408",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-02T02:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-wells-fargo-senior-lead-securities-quantitative-anal-2026-w26",
+          "company": "Wells Fargo",
+          "title": "Senior Lead Securities Quantitative Analytics Specialist - C++ Engineer",
+          "location": "Charlotte, NC",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-lead-securities-quantitative-analytics-specialist-c%2B%2B-engineer-at-wells-fargo-4403401852",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T18:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-solventum-software-developer-c-2026-w26",
+          "company": "Solventum",
+          "title": "Software Developer, C++",
+          "location": "Pittsburgh, PA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-developer-c%2B%2B-at-solventum-4414557927",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-02T01:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-tower-research-capital-software-engineer-trading-systems-c-2026-w26",
+          "company": "Tower Research Capital",
+          "title": "Software Engineer, Trading Systems (C++)",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-trading-systems-c%2B%2B-at-tower-research-capital-4424908005",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "8 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T20:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-susquehanna-international-group-software-developer-c-etf-experienced-hir-2026-w26",
+          "company": "Susquehanna International Group",
+          "title": "Software Developer | C++ | ETF | Experienced Hire",
+          "location": "Bala-Cynwyd, PA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 16 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-developer-c%2B%2B-etf-experienced-hire-at-susquehanna-international-group-4421183751",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "16 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T12:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-cadence-software-engineer-numerical-analysis-c-o-2026-w26",
+          "company": "Cadence",
+          "title": "Software Engineer (Numerical Analysis, C++, Optimization, Mathematics) - New College Grad",
+          "location": "Greater Boston",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-numerical-analysis-c%2B%2B-optimization-mathematics-new-college-grad-at-cadence-4414485818",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T18:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-doble-engineering-senior-embedded-firmware-engineer-c-linu-2026-w26",
+          "company": "Doble Engineering",
+          "title": "Senior Embedded/Firmware Engineer - C++/Linux - Local candidates only",
+          "location": "Marlborough, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 16 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-embedded-firmware-engineer-c%2B%2B-linux-local-candidates-only-at-doble-engineering-4383836152",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "16 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T12:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-ntop-senior-software-engineer-build-team-c-c-2026-w26",
+          "company": "nTop",
+          "title": "Senior Software Engineer, Build Team (C/C++)",
+          "location": "Kings County, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 day ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-build-team-c-c%2B%2B-at-ntop-4433298484",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 day ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T04:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-millennium-c-software-engineer-trade-capture-2026-w26",
+          "company": "Millennium",
+          "title": "C++ Software Engineer - Trade Capture",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-trade-capture-at-millennium-4227670777",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T22:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-align-technology-3d-c-software-engineer-2026-w26",
+          "company": "Align Technology",
+          "title": "3D C++ Software Engineer",
+          "location": "Morrisville, NC",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/3d-c%2B%2B-software-engineer-at-align-technology-4407016999",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T21:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-ripple-senior-software-engineer-c-2026-w26",
+          "company": "Ripple",
+          "title": "Senior Software Engineer, C++",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-at-ripple-4318373256",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "9 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T19:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-jpmorganchase-sr-lead-software-engineer-c-python-2026-w26",
+          "company": "JPMorganChase",
+          "title": "Sr Lead Software Engineer - C++, Python",
+          "location": "Jersey City, NJ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 15 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-lead-software-engineer-c%2B%2B-python-at-jpmorganchase-4375168802",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "15 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T13:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "stripe-software-engineer-product-security-data-platforms-w26",
+          "company": "Stripe",
+          "title": "Software Engineer, Product Security Data Platforms",
+          "location": "Seattle",
+          "remote": "Onsite/Hybrid",
+          "industry": "8612 Security Infrastructure",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Yesterday (30h ago). Callback score 85.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Distributed systems",
+            "Kubernetes",
+            "Rust"
+          ],
+          "url": "https://stripe.com/jobs/search?gh_jid=8039800",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Yesterday (30h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 85.0,
+          "postedAtUtc": "2026-06-30T18:11:48-04:00",
+          "atsJobId": "8039800",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "lucid-motors-senior-software-engineer-motion-planning-parking-w26",
+          "company": "Lucid Motors",
+          "title": "Senior Software Engineer, Motion Planning, Parking",
+          "location": "Newark, CA",
+          "remote": "Onsite/Hybrid",
+          "industry": "ADAS - HDW & SW Eng, ADAS & Autonomous Vehicles",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Yesterday (29h ago). Callback score 75.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5137310007",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Yesterday (29h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 75.0,
+          "postedAtUtc": "2026-06-30T18:31:04-04:00",
+          "atsJobId": "5137310007",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "outrider-engineer-ii-embedded-sensors-and-safety-software-w26",
+          "company": "Outrider",
+          "title": "Engineer II, Embedded, Sensors, and Safety Software",
+          "location": "Henderson, CO",
+          "remote": "Onsite/Hybrid",
+          "industry": "Software",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Yesterday (24h ago). Callback score 75.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "Networking",
+            "Python"
+          ],
+          "url": "https://job-boards.greenhouse.io/outrider/jobs/5288090008",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Yesterday (24h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 75.0,
+          "postedAtUtc": "2026-06-30T23:38:54-04:00",
+          "atsJobId": "5288090008",
+          "region": "Mountain",
+          "regionRank": 4
+        },
+        {
+          "id": "modal-labs-member-of-technical-staff-inference-research-w26",
+          "company": "Modal Labs",
+          "title": "Member of Technical Staff - Inference Research",
+          "location": "New York",
+          "remote": "Onsite/Hybrid",
+          "industry": "Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (3h ago). Callback score 93.0/100. Direct Ashby ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Python"
+          ],
+          "url": "https://jobs.ashbyhq.com/modal/73c97bbc-8e27-4c5d-b38b-90b3afdb0d93",
+          "source": "Ashby API (live)",
+          "postedApprox": "Today (3h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 93.0,
+          "postedAtUtc": "2026-07-05T19:32:02.659000+00:00",
+          "atsJobId": "73c97bbc-8e27-4c5d-b38b-90b3afdb0d93",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "modal-labs-member-of-technical-staff-post-training-research-w26",
+          "company": "Modal Labs",
+          "title": "Member of Technical Staff - Post-Training Research",
+          "location": "New York",
+          "remote": "Onsite/Hybrid",
+          "industry": "Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (3h ago). Callback score 93.0/100. Direct Ashby ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://jobs.ashbyhq.com/modal/7db771eb-e379-47fe-974f-765a8780dc10",
+          "source": "Ashby API (live)",
+          "postedApprox": "Today (3h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 93.0,
+          "postedAtUtc": "2026-07-05T19:37:58.723000+00:00",
+          "atsJobId": "7db771eb-e379-47fe-974f-765a8780dc10",
+          "region": "East",
+          "regionRank": 1
+        }
+      ],
+      "removedNotes": [
+        "Dynatrace Senior C++ Developer (Gdansk, Poland) - job removed/closed + non-US; dropped.",
+        "ServiceNow Senior C++ SWE Data Platform (Santa Clara) - posting expired; dropped.",
+        "Cerebras Systems System Software Engineer (Embedded) - active C++ role but EAR export-compliance asks to confirm citizenship/permanent residency; likely excludes H1B, skipped.",
+        "Geotab Senior Embedded Developer - Oakville/Waterloo, Ontario, Canada only; non-US, dropped.",
+        "Rocket Lab / SpaceX / Astranis / Anduril Space / K2 Space C++ roles - aerospace/defense ITAR (US persons); skipped per H1B constraint.",
+        "Schonfeld Senior C++ SWE + Latitude AI C++ Deploy / Motion Planning / Virtual Test Ecosystem + Applied Intuition Fallback Stack + AssetWatch + Stellar + Rivian deep-links - returned 404 / redirected to board with the specific C++ req no longer listed; treated as stale and skipped.",
+        "Keyrock (Brussels), ZURU (Italy), SG Digital (Sweden), Jitterbit (India), KMS (Vietnam), Rovco (UK) - non-US C++ roles; skipped."
+      ]
+    },
+    {
+      "weekId": "2026-W27",
+      "label": "Week of June 29, 2026",
+      "jobs": [
+        {
+          "id": "li-selby-jennings-c-software-engineer-front-office-trading-2026-w27",
+          "company": "Selby Jennings",
+          "title": "C++ Software Engineer - Front Office Trading Technology",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-front-office-trading-technology-at-selby-jennings-4434742156",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T23:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-dataannotation-c-developer-ai-trainer-2026-w27",
+          "company": "DataAnnotation",
+          "title": "C++ Developer - AI Trainer",
+          "location": "Maryland, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-ai-trainer-at-dataannotation-4397401319",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T21:07:34.427342+00:00",
+          "region": "Remote",
+          "regionRank": 2
+        },
+        {
+          "id": "li-gtech-llc-sr-c-developer-2026-w27",
+          "company": "GTECH LLC",
+          "title": "Sr. C++ Developer",
+          "location": "Manassas, VA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-c%2B%2B-developer-at-gtech-llc-4431529591",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-02T02:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-nbcuniversal-staff-systems-engineer-c-python-2026-w27",
+          "company": "NBCUniversal",
+          "title": "Staff Systems Engineer (C++/Python)",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/staff-systems-engineer-c%2B%2B-python-at-nbcuniversal-4434488574",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "8 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T20:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-millennium-quantitative-developer-c-i-low-latency-s-2026-w27",
+          "company": "Millennium",
+          "title": "Quantitative Developer, C++ I Low-Latency Systems",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/quantitative-developer-c%2B%2B-i-low-latency-systems-at-millennium-4425287017",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T23:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-amtrak-sr-mgr-dt-sys-design-dev-c-development-9-2026-w27",
+          "company": "Amtrak",
+          "title": "Sr Mgr DT Sys Design & Dev. (C++ Development) - 90408950 - Philadelphia",
+          "location": "Philadelphia, PA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-mgr-dt-sys-design-dev-c%2B%2B-development-90408950-philadelphia-at-amtrak-4400886113",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-02T02:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-hunter-bond-c-developer-up-to-400k-bonus-elite-buy-s-2026-w27",
+          "company": "Hunter Bond",
+          "title": "C++ Developer - Up to $400k + Bonus - Elite Buy Side Trading Firm",
+          "location": "New York City Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-up-to-%24400k-%2B-bonus-elite-buy-side-trading-firm-at-hunter-bond-4431960020",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T22:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-bowden-brown-c-developer-2026-w27",
+          "company": "Bowden Brown",
+          "title": "C++ Developer",
+          "location": "New York City Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 12 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-bowden-brown-4434951897",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "12 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T16:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-jpmorganchase-senior-lead-esoftware-engineer-c-electro-2026-w27",
+          "company": "JPMorganChase",
+          "title": "Senior Lead eSoftware Engineer - C++ Electronic Trading",
+          "location": "Jersey City, NJ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-lead-esoftware-engineer-c%2B%2B-electronic-trading-at-jpmorganchase-4277692771",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T22:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-optimize-search-group-senior-c-developer-2026-w27",
+          "company": "Optimize Search Group",
+          "title": "Senior C++ Developer",
+          "location": "Boca Raton, FL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 50 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-at-optimize-search-group-4427762421",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "50 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-gts-senior-software-engineer-c-2026-w27",
+          "company": "GTS",
+          "title": "Senior Software Engineer C++",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-at-gts-4422203382",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-02T00:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "pico-senior-engineer-nyc-w27",
+          "company": "Pico Quantitative Trading",
+          "title": "Senior Engineer (C++ Low-Latency)",
+          "location": "New York City, NY",
+          "remote": "Onsite",
+          "industry": "HFT Infrastructure",
+          "salary": "$230k-$270k",
+          "summary": "Hot pick \u2014 Pico is on every 'top NYC HFT firms hiring 2026' list. Ultra-low-latency market data + trading infra. Posted 4 days ago via Greenhouse.",
+          "skills": [
+            "C++",
+            "Low-Latency",
+            "Networking"
+          ],
+          "url": "https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4692589006",
+          "source": "Greenhouse (ATS direct)",
+          "postedApprox": "4 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Senior - matches your 6yr profile",
+          "yoeNote": "Wall Street Career trending hot-list \u2014 recently surfaced",
+          "postedAtUtc": "2026-06-28T04:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-entec-partners-software-engineer-c-2026-w27",
+          "company": "Entec Partners",
+          "title": "Software Engineer (C++)",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 30 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-entec-partners-4432718172",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "30 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-talan-c-software-engineer-market-data-2026-w27",
+          "company": "Talan",
+          "title": "C++ Software Engineer - Market Data",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-market-data-at-talan-4425855863",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-02T01:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-werfen-north-america-senior-embedded-software-engineer-c-c-2026-w27",
+          "company": "Werfen North America",
+          "title": "Senior Embedded Software Engineer (C/C++)",
+          "location": "Bedford, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-embedded-software-engineer-c-c%2B%2B-at-werfen-north-america-4426359684",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T18:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-jpmorganchase-senior-lead-software-engineer-react-c-ru-2026-w27",
+          "company": "JPMorganChase",
+          "title": "Senior Lead Software Engineer - React / C++ / Rust",
+          "location": "Jersey City, NJ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 day ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-lead-software-engineer-react-c%2B%2B-rust-at-jpmorganchase-4403412220",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 day ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-01T04:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-ripple-senior-software-engineer-c-rust-2026-w27",
+          "company": "Ripple",
+          "title": "Senior Software Engineer, C++ / Rust",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-rust-at-ripple-4435004518",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-02T01:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-gromelski-associates-inc-c-software-developer-2026-w27",
+          "company": "Gromelski & Associates, Inc.",
+          "title": "C++ Software Developer",
+          "location": "Manassas, VA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-developer-at-gromelski-associates-inc-4432727267",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "postedAtUtc": "2026-07-02T00:07:34.427342+00:00",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "clickhouse-senior-identity-auth-us-remote-w27",
+          "company": "ClickHouse",
+          "title": "Senior Software Engineer \u2014 Identity & Authorization Platform (C++)",
+          "location": "United States (remote)",
+          "remote": "Remote (US)",
+          "industry": "OSS Databases",
+          "salary": "$180k-$240k",
+          "summary": "Hot pick \u2014 ClickHouse is a top OSS analytics DB. US-Remote C++ role. Posted 10d ago via Greenhouse.",
+          "skills": [
+            "C++",
+            "OSS",
+            "Databases",
+            "Auth"
+          ],
+          "url": "https://job-boards.greenhouse.io/clickhouse",
+          "source": "Greenhouse (ATS direct)",
+          "postedApprox": "10 days ago",
+          "h1bFit": "ClickHouse sponsors H1B",
+          "yoeFit": "Senior - fits your 6yr",
+          "yoeNote": "US-Remote \u2014 no relocation needed",
+          "postedAtUtc": "2026-06-22T04:07:34.427342+00:00",
+          "region": "Remote",
+          "regionRank": 2
+        },
+        {
+          "id": "li-divergent-senior-c-software-engineer-2026-w27",
+          "company": "Divergent",
+          "title": "Senior C++ Software Engineer",
+          "location": "Los Angeles, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-divergent-4431543645",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-01T23:15:28.606633+00:00"
+        },
+        {
+          "id": "li-divergent-staff-c-software-engineer-2026-w27",
+          "company": "Divergent",
+          "title": "Staff C++ Software Engineer",
+          "location": "Los Angeles, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/staff-c%2B%2B-software-engineer-at-divergent-4431529952",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-01T23:15:28.606633+00:00"
+        },
+        {
+          "id": "li-esri-c-c-software-development-engineer-ii-dat-2026-w27",
+          "company": "Esri",
+          "title": "C/C++ Software Development Engineer II - Data Management",
+          "location": "Redlands, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-software-development-engineer-ii-data-management-at-esri-4417029520",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-01T18:15:28.606633+00:00"
+        },
+        {
+          "id": "li-ormco-sr-3d-c-software-engineer-on-site-2026-w27",
+          "company": "Ormco",
+          "title": "Sr. 3D C++ Software Engineer (On-site)",
+          "location": "Pomona, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 11 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-3d-c%2B%2B-software-engineer-on-site-at-ormco-4416452094",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "11 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-01T17:15:28.606633+00:00"
+        },
+        {
+          "id": "li-esri-c-software-development-engineer-ii-graph-2026-w27",
+          "company": "Esri",
+          "title": "C++ Software Development Engineer II - Graph Algorithms",
+          "location": "Redlands, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-development-engineer-ii-graph-algorithms-at-esri-4417031526",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-01T18:15:28.606633+00:00"
+        },
+        {
+          "id": "li-lseg-c-developer-exchange-feeds-2026-w27",
+          "company": "LSEG",
+          "title": "C++ Developer - Exchange Feeds",
+          "location": "St Louis, MO",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 11 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-exchange-feeds-at-lseg-4425863524",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "11 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-01T17:15:28.606633+00:00"
+        },
+        {
+          "id": "li-philips-software-engineer-image-processing-c-gpu-2026-w27",
+          "company": "Philips",
+          "title": "Software Engineer - Image Processing (C++ / GPU)",
+          "location": "Orange, OH",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 16 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-image-processing-c%2B%2B-gpu-at-philips-4420389653",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "16 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-01T12:15:41.415721+00:00"
+        },
+        {
+          "id": "avature-ea-electronic-arts-software-engineer-rendering-engine-star-wars-jedi-2026-w27",
+          "postedAtUtc": "2026-04-27T00:00:09.136343+00:00",
+          "company": "EA (Electronic Arts)",
+          "title": "Software Engineer-Rendering/Engine - (Star Wars Jedi)",
+          "location": "Redwood City, California",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "EA backfill \u2014 posted 66 days ago, still open on jobs.ea.com. Game-engine C++.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://jobs.ea.com/careers/JobDetail/Software-Engineer-Rendering-Engine-Star-Wars-Jedi/213868",
+          "source": "Avature (EA)",
+          "postedApprox": "66 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "li-atgames-holdings-ltd-senior-software-engineer-c-and-java-spri-2026-w27",
+          "company": "AtGames Holdings Ltd",
+          "title": "Senior Software Engineer, C++ and Java Spring Boot",
+          "location": "Los Angeles Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-and-java-spring-boot-4434667102",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-01T19:16:58.286820+00:00"
+        },
+        {
+          "id": "li-fionics-senior-c-software-engineer-2026-w27",
+          "company": "Fionics",
+          "title": "Senior C++ Software Engineer",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-fionics-4435058348",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-02T10:37:01.387033+00:00"
+        },
+        {
+          "id": "li-aaa-global-software-engineer-c-quant-trading-2026-w27",
+          "company": "AAA Global",
+          "title": "Software Engineer (C++) | Quant Trading",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-quant-trading-at-aaa-global-4436194827",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-02T08:37:01.387033+00:00"
+        },
+        {
+          "id": "li-fionics-hft-c-engineer-2026-w27",
+          "company": "Fionics",
+          "title": "HFT C++ Engineer",
+          "location": "New York City Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/hft-c%2B%2B-engineer-at-fionics-4435055580",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-02T11:06:18.416868+00:00"
+        },
+        {
+          "id": "li-worldquant-c-quantitative-developer-algorithmic-exe-2026-w27",
+          "company": "WorldQuant",
+          "title": "C++ Quantitative Developer, Algorithmic Execution",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-quantitative-developer-algorithmic-execution-at-worldquant-4417329274",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-02T12:36:39.863562+00:00"
+        },
+        {
+          "id": "li-fionics-senior-c-engineer-core-systems-2026-w27",
+          "company": "Fionics",
+          "title": "Senior C++ Engineer - Core Systems",
+          "location": "New York City Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-engineer-core-systems-at-fionics-4435223078",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-02T13:36:39.863562+00:00"
+        },
+        {
+          "id": "li-aaa-global-senior-c-developer-2026-w27",
+          "company": "AAA Global",
+          "title": "Senior C++ Developer",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-at-aaa-global-4436312036",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-02T09:36:39.863562+00:00"
+        },
+        {
+          "id": "li-edgewater-federal-solutions-inc-senior-c-programmer-2026-w27",
+          "company": "Edgewater Federal Solutions, Inc.",
+          "title": "Senior C++ Programmer",
+          "location": "Albuquerque, NM",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-programmer-at-edgewater-federal-solutions-inc-4427050716",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "Mountain",
+          "regionRank": 4,
+          "postedAtUtc": "2026-07-02T13:36:39.863562+00:00"
+        },
+        {
+          "id": "li-esri-c-c-software-development-engineer-ii-2026-w27",
+          "company": "Esri",
+          "title": "C/C++ Software Development Engineer II",
+          "location": "Redlands, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 50 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-software-development-engineer-ii-at-esri-4417031524",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "50 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "li-zapnix-llc-lead-software-developer-with-c-and-broad-2026-w27",
+          "company": "Zapnix LLC",
+          "title": "Lead Software Developer with C++ and Broadband technologies",
+          "location": "Philadelphia, PA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 12 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/lead-software-developer-with-c%2B%2B-and-broadband-technologies-at-zapnix-llc-4436357692",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "12 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-nvidia-senior-c-and-build-engineer-dc-system-so-2026-w27",
+          "company": "NVIDIA",
+          "title": "Senior C++ and Build Engineer - DC System Software",
+          "location": "Champaign, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-and-build-engineer-dc-system-software-at-nvidia-4395469834",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-02T18:26:09.868654+00:00"
+        },
+        {
+          "id": "li-trexquant-investment-lp-c-trading-simulator-engineer-usa-2026-w27",
+          "company": "Trexquant Investment LP",
+          "title": "C++ Trading & Simulator Engineer (USA)",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-trading-simulator-engineer-usa-at-trexquant-investment-lp-4406564991",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-02T18:26:09.868654+00:00"
+        },
+        {
+          "id": "li-snap-inc-software-engineer-spectacles-c-level-4-2026-w27",
+          "company": "Snap Inc.",
+          "title": "Software Engineer, Spectacles C++, Level 4",
+          "location": "Bellevue, WA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 52 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-spectacles-c%2B%2B-level-4-at-snap-inc-4417417360",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "52 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "li-vastika-inc-senior-avionics-embedded-software-engine-2026-w27",
+          "company": "Vastika Inc",
+          "title": "Senior Avionics Embedded Software Engineer \u2013 RF Systems | DO-178C | C/C++",
+          "location": "Phoenix, AZ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-avionics-embedded-software-engineer-%E2%80%93-rf-systems-do-178c-c-c%2B%2B-at-vastika-inc-4435249526",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "Mountain",
+          "regionRank": 4,
+          "postedAtUtc": "2026-07-02T18:26:09.868654+00:00"
+        },
+        {
+          "id": "li-tradeweb-c-application-developer-2026-w27",
+          "company": "Tradeweb",
+          "title": "C++ Application Developer",
+          "location": "Jersey City, NJ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-application-developer-at-tradeweb-4397745095",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-02T17:56:30.128780+00:00"
+        },
+        {
+          "id": "li-esri-c-software-developer-ii-raster-imagery-2026-w27",
+          "company": "Esri",
+          "title": "C++ Software Developer II \u2013Raster & Imagery",
+          "location": "Redlands, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-developer-ii-%E2%80%93raster-imagery-at-esri-4417021694",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-02T17:56:30.128780+00:00"
+        },
+        {
+          "id": "li-selby-jennings-c-engineer-hardware-systems-2026-w27",
+          "company": "Selby Jennings",
+          "title": "C++ Engineer - Hardware Systems",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-hardware-systems-at-selby-jennings-4436407795",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-02T20:42:17.703100+00:00"
+        },
+        {
+          "id": "li-xai-software-engineer-network-c-2026-w27",
+          "company": "xAI",
+          "title": "Software Engineer - Network (C++)",
+          "location": "Palo Alto, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-network-c%2B%2B-at-xai-4436414456",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-02T20:42:17.703100+00:00"
+        },
+        {
+          "id": "li-vast-ai-c-software-engineer-2026-w27",
+          "company": "Vast.ai",
+          "title": "C++ Software Engineer",
+          "location": "Los Angeles, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-vast-ai-4436482480",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-03T06:34:52.279227+00:00"
+        },
+        {
+          "id": "li-optiver-senior-software-engineer-c-2026-w27",
+          "company": "Optiver",
+          "title": "Senior Software Engineer C++",
+          "location": "Austin, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-at-optiver-4423646762",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-03T10:34:52.279227+00:00"
+        },
+        {
+          "id": "li-emerson-c-software-engineer-2026-w27",
+          "company": "Emerson",
+          "title": "C++ Software Engineer",
+          "location": "Austin, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 14 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-emerson-4376949664",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "14 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-04T15:03:39.288545+00:00"
+        },
+        {
+          "id": "li-wolverine-trading-low-level-c-software-engineer-2026-w27",
+          "company": "Wolverine Trading",
+          "title": "Low-Level C++ Software Engineer",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 13 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/low-level-c%2B%2B-software-engineer-at-wolverine-trading-4366219229",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "13 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-04T16:03:39.288545+00:00"
+        },
+        {
+          "id": "li-garmin-c-c-software-engineer-2-communication-pr-2026-w27",
+          "company": "Garmin",
+          "title": "C/C++ Software Engineer 2 - Communication protocols",
+          "location": "Cary, NC",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 14 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-software-engineer-2-communication-protocols-at-garmin-4417788133",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "14 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-04T15:03:39.288545+00:00"
+        },
+        {
+          "id": "li-nvidia-senior-c-software-engineer-chip-design-t-2026-w27",
+          "company": "NVIDIA",
+          "title": "Senior C++ Software Engineer - Chip Design Tools",
+          "location": "Santa Clara, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-chip-design-tools-at-nvidia-4395473672",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "9 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-04T20:03:39.288545+00:00"
+        },
+        {
+          "id": "li-general-motors-senior-software-engineer-c-ui-2026-w27",
+          "company": "General Motors",
+          "title": "Senior Software Engineer - C++/UI",
+          "location": "Mountain View, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 12 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-ui-at-general-motors-4409510170",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "12 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-04T17:03:39.288545+00:00"
+        },
+        {
+          "id": "li-varonis-software-engineer-c-c-2026-w27",
+          "company": "Varonis",
+          "title": "Software Engineer (C++ & C#)",
+          "location": "Morrisville, NC",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-c%23-at-varonis-4386973565",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-04T23:03:39.288545+00:00"
+        },
+        {
+          "id": "li-nvidia-senior-software-engineer-c-and-cuda-anal-2026-w27",
+          "company": "NVIDIA",
+          "title": "Senior Software Engineer, C++ and CUDA - Analytics and Data Intelligence",
+          "location": "Santa Clara, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 day ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-and-cuda-analytics-and-data-intelligence-at-nvidia-4435705228",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 day ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-04T05:03:39.288545+00:00"
+        },
+        {
+          "id": "li-garmin-c-software-engineer-2-2026-w27",
+          "company": "Garmin",
+          "title": "C++ Software Engineer 2",
+          "location": "Olathe, KS",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 13 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-2-at-garmin-4428143283",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "13 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-04T16:03:39.288545+00:00"
+        },
+        {
+          "id": "li-amazon-web-services-aws-c-c-hardware-software-co-design-sde-mach-2026-w27",
+          "company": "Amazon Web Services (AWS)",
+          "title": "C/C++ Hardware / Software Co-Design SDE, Machine Learning Acceleration Systems",
+          "location": "Cupertino, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 day ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-hardware-software-co-design-sde-machine-learning-acceleration-systems-at-amazon-web-services-aws-4409539612",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 day ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-04T16:39:40.209172+00:00"
+        },
+        {
+          "id": "built-premium-technology-c-c-developer-2026-w27",
+          "postedAtUtc": "2026-07-05T00:00:00.000936+00:00",
+          "company": "Premium Technology",
+          "title": "C/C++ Developer",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 18 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/c-c-developer/8160024",
+          "source": "Built In",
+          "postedApprox": "18 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "built-qube-research-technologies-market-access-developer-2026-w27",
+          "postedAtUtc": "2026-07-05T00:00:00.001437+00:00",
+          "company": "Qube Research & Technologies",
+          "title": "Market Access Developer",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 18 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/market-access-developer-c/8375983",
+          "source": "Built In",
+          "postedApprox": "18 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-bloomberg-quantitative-developer-c-infrastructure--2026-w27",
+          "company": "Bloomberg",
+          "title": "Quantitative Developer - C++ Infrastructure for Quant Analytics",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 9 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/quantitative-developer-c%2B%2B-infrastructure-for-quant-analytics-at-bloomberg-4414393623",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "9 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-zoox-senior-staff-c-software-engineer-percept-2026-w27",
+          "company": "Zoox",
+          "title": "Senior / Staff C++ Software Engineer \u2013 Perception 3D Tracking",
+          "location": "Foster City, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-staff-c%2B%2B-software-engineer-%E2%80%93-perception-3d-tracking-at-zoox-4341773791",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "9 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-05T11:20:08.673753+00:00"
+        }
+      ]
+    },
+    {
+      "weekId": "2026-W28",
+      "label": "Week of July 06, 2026",
+      "jobs": [
+        {
+          "id": "built-infojini-inc-c-developer-2026-w28",
+          "postedAtUtc": "2026-07-06T00:00:00.000868+00:00",
+          "company": "Infojini Inc",
+          "title": "C++ Developer",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 13 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/c-developer/8143028",
+          "source": "Built In",
+          "postedApprox": "13 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-5v-tech-c-software-engineer-embedded-systems-2026-w28",
+          "company": "5V Tech",
+          "title": "C++ Software Engineer - Embedded Systems",
+          "location": "Austin, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-embedded-systems-at-5v-tech-4435470957",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-06T10:09:25.149080+00:00"
+        },
+        {
+          "id": "li-netrolynx-ai-c-developer-2026-w28",
+          "company": "Netrolynx AI",
+          "title": "C++Developer",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 47 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2Bdeveloper-at-netrolynx-ai-4437177784",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "47 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "Remote",
+          "regionRank": 2
+        },
+        {
+          "id": "li-hiarc-staff-software-engineer-embedded-c-rtos--2026-w28",
+          "company": "HiArc",
+          "title": "Staff Software Engineer \u2013 Embedded C++ / RTOS / MCU (Real Time Feedback Control)",
+          "location": "Merrimack, NH",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 58 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-%E2%80%93-embedded-c%2B%2B-rtos-mcu-real-time-feedback-control-at-hiarc-4308974550",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "58 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-intellias-senior-medical-device-software-engineer--2026-w28",
+          "company": "Intellias",
+          "title": "Senior Medical Device Software Engineer (Python / C++)",
+          "location": "Minneapolis, MN",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-medical-device-software-engineer-python-c%2B%2B-at-intellias-4437167275",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-06T11:12:37.410985+00:00"
+        },
+        {
+          "id": "li-net2source-n2s-technical-lead-develoepr-c-java-develope-2026-w28",
+          "company": "Net2Source (N2S)",
+          "title": "Technical Lead Develoepr ( C++ & Java Developer)",
+          "location": "Irvine, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/technical-lead-develoepr-c%2B%2B-java-developer-at-net2source-n2s-4436418893",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-06T13:43:14.078107+00:00"
+        },
+        {
+          "id": "built-bmo-c-quant-developer-2026-w28",
+          "postedAtUtc": "2026-07-06T00:00:00.000494+00:00",
+          "company": "BMO",
+          "title": "C++ Quant Developer",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 15 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/c-quant-developer/8206185",
+          "source": "Built In",
+          "postedApprox": "15 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-venture-up-c-software-engineer-2026-w28",
+          "company": "Venture Up",
+          "title": "C++ Software Engineer",
+          "location": "San Francisco, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 11 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-venture-up-4437197937",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "11 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "li-mpower-plus-c-storage-developer-2026-w28",
+          "company": "MPower Plus",
+          "title": "C++ Storage Developer",
+          "location": "San Diego, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 11 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-storage-developer-at-mpower-plus-4437400747",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "11 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "li-kpg99-inc-w2-only-embedded-engineers-rust-and-c-on-2026-w28",
+          "company": "KPG99 INC",
+          "title": "W2 Only :: Embedded Engineers (Rust and C++) :: Onsite in WA",
+          "location": "Washington, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 42 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/w2-only-embedded-engineers-rust-and-c%2B%2B-onsite-in-wa-at-kpg99-inc-4437192868",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "42 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "region": "Remote",
+          "regionRank": 2
+        }
+      ]
+    }
+  ]
+}
