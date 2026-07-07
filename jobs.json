@@ -2163,6 +2163,50 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-07T14:53:52.763783+00:00"
+        },
+        {
+          "id": "li-torch-technologies-inc-c-software-engineer-2026-w28",
+          "company": "Torch Technologies, Inc.",
+          "title": "C++ Software Engineer",
+          "location": "Huntsville, AL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 22 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-torch-technologies-inc-4429166066",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "22 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4429166066",
+          "region": "Central",
+          "regionRank": 3
+        },
+        {
+          "id": "li-vailexa-unreal-engine-c-developer-2026-w28",
+          "company": "VAILEXA",
+          "title": "Unreal Engine C++ Developer",
+          "location": "St Louis, MO",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 48 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/unreal-engine-c%2B%2B-developer-at-vailexa-4436817566",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "48 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4436817566",
+          "region": "Central",
+          "regionRank": 3
         }
       ]
     }
