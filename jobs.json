@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-07",
-  "lastChecked": "2026-07-06",
+  "lastChecked": "2026-07-07",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -1438,6 +1438,88 @@
           "region": "Mountain",
           "regionRank": 4,
           "externalId": "greenhouse:5288090008"
+        },
+        {
+          "id": "perplexity-member-of-technical-staff-ai-software-engineer-multimodal-w26",
+          "company": "Perplexity",
+          "title": "Member of Technical Staff (AI Software Engineer, Multimodal)",
+          "location": "San Francisco",
+          "remote": "Onsite/Hybrid",
+          "industry": "AI Research & Systems",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 93.0/100. Direct Ashby ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Rust",
+            "Go"
+          ],
+          "url": "https://jobs.ashbyhq.com/perplexity/6e328b72-9f57-49e0-a1a8-4428abf8ff81",
+          "source": "Ashby API (live)",
+          "postedApprox": "Today (0h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 93.0,
+          "postedAtUtc": "2026-07-07T20:31:35.113000+00:00",
+          "atsJobId": "6e328b72-9f57-49e0-a1a8-4428abf8ff81",
+          "externalId": "ashby:6e328b72-9f57-49e0-a1a8-4428abf8ff81",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "grafana-labs-staff-backend-engineer-alerting-ireland-remote-w26",
+          "company": "Grafana Labs",
+          "title": "Staff Backend Engineer - Alerting | Ireland | Remote",
+          "location": "Republic of Ireland (Remote)",
+          "remote": "Remote",
+          "industry": "R&D: Ops",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (7h ago). Callback score 88.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Distributed systems",
+            "Python",
+            "Rust",
+            "Go"
+          ],
+          "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6105874004",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (7h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 88.0,
+          "postedAtUtc": "2026-07-07T09:16:16-04:00",
+          "atsJobId": "6105874004",
+          "externalId": "greenhouse:6105874004",
+          "region": "Remote",
+          "regionRank": 2
+        },
+        {
+          "id": "grafana-labs-staff-backend-engineer-alerting-uk-remote-w26",
+          "company": "Grafana Labs",
+          "title": "Staff Backend Engineer - Alerting | UK | Remote",
+          "location": "United Kingdom (Remote)",
+          "remote": "Remote",
+          "industry": "R&D: Ops",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (7h ago). Callback score 88.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Distributed systems",
+            "Python",
+            "Rust",
+            "Go"
+          ],
+          "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6105876004",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (7h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 88.0,
+          "postedAtUtc": "2026-07-07T09:16:18-04:00",
+          "atsJobId": "6105876004",
+          "externalId": "greenhouse:6105876004",
+          "region": "Remote",
+          "regionRank": 2
         }
       ],
       "removedNotes": [
@@ -2051,28 +2133,6 @@
           "regionRank": 5
         },
         {
-          "id": "the-uber-senior-software-engineer-embedded-av-labs-2026-w28",
-          "postedAtUtc": "2026-07-06T20:02:56.000462+00:00",
-          "company": "Uber",
-          "title": "Senior Software Engineer - Embedded, AV Labs",
-          "location": "Sunnyvale, CA",
-          "remote": "See posting",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Live tracker (The Muse): posted 3 hours ago. Verify details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.themuse.com/jobs/uber/senior-software-engineer-embedded-av-labs",
-          "source": "The Muse",
-          "postedApprox": "3 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
           "id": "li-axon-senior-c-software-engineer-2026-w28",
           "company": "Axon",
           "title": "Senior C++ Software Engineer",
@@ -2230,6 +2290,120 @@
           "externalId": "gs:166079",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-old-mission-c-software-engineer-2026-w28",
+          "company": "Old Mission",
+          "title": "C++ Software Engineer",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 15 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-old-mission-4205907362",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "15 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4205907362",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-consultnet-technology-services-and-solutions-c-developer-2026-w28",
+          "company": "ConsultNet Technology Services and Solutions",
+          "title": "C++ Developer",
+          "location": "Danbury, CT",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-consultnet-technology-services-and-solutions-4436845458",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4436845458",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-07T20:03:07.468070+00:00"
+        },
+        {
+          "id": "li-umatr-backend-engineer-rust-c-distributed-syst-2026-w28",
+          "company": "UMATR",
+          "title": "Backend Engineer \u2013 Rust & C++ (Distributed Systems & Databases)",
+          "location": "San Francisco, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 12 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/backend-engineer-%E2%80%93-rust-c%2B%2B-distributed-systems-databases-at-umatr-4420113476",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "12 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4420113476",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-07T09:03:07.468070+00:00"
+        },
+        {
+          "id": "li-roblox-senior-software-engineer-client-systems--2026-w28",
+          "company": "Roblox",
+          "title": "Senior Software Engineer, Client Systems (C++)",
+          "location": "San Mateo, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-client-systems-c%2B%2B-at-roblox-4307926219",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "8 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4307926219",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-07T13:03:07.468070+00:00"
+        },
+        {
+          "id": "li-drw-senior-software-engineer-c-algo-2026-w28",
+          "company": "DRW",
+          "title": "Senior Software Engineer, C++ (Algo)",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 11 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-algo-at-drw-4429186317",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "11 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4429186317",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-07T10:03:07.468070+00:00"
         }
       ]
     }
