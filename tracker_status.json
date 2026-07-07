@@ -2,54 +2,54 @@
   "running": true,
   "pid": 56478,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-07-07T14:21:50.386744+00:00",
-  "nextCycleAt": "2026-07-07T14:51:50.386771+00:00",
-  "cycleCount": 56,
+  "lastCycleAt": "2026-07-07T14:52:03.796104+00:00",
+  "nextCycleAt": "2026-07-07T15:22:03.796155+00:00",
+  "cycleCount": 57,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-07-07T14:21:14.198175+00:00",
-      "status": "ok",
+      "lastRun": "2026-07-07T14:51:54.997276+00:00",
+      "status": "error",
       "found": 0,
       "added": 0,
-      "error": null
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
     },
     {
       "name": "remotive",
-      "lastRun": "2026-07-07T14:21:14.712683+00:00",
-      "status": "ok",
+      "lastRun": "2026-07-07T14:51:55.019313+00:00",
+      "status": "error",
       "found": 0,
       "added": 0,
-      "error": null
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-07-07T14:21:15.095878+00:00",
-      "status": "ok",
+      "lastRun": "2026-07-07T14:51:55.028739+00:00",
+      "status": "error",
       "found": 0,
       "added": 0,
-      "error": null
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-07-07T14:21:15.950909+00:00",
-      "status": "ok",
+      "lastRun": "2026-07-07T14:51:55.037240+00:00",
+      "status": "error",
       "found": 0,
       "added": 0,
-      "error": null
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-07-07T14:21:16.429744+00:00",
-      "status": "ok",
+      "lastRun": "2026-07-07T14:51:55.046653+00:00",
+      "status": "error",
       "found": 0,
       "added": 0,
-      "error": null
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
     },
     {
       "name": "avature",
-      "lastRun": "2026-07-07T14:21:17.037785+00:00",
+      "lastRun": "2026-07-07T14:51:55.055559+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,32 +57,32 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-07-07T14:21:25.723681+00:00",
+      "lastRun": "2026-07-07T14:51:55.097960+00:00",
       "status": "ok",
-      "found": 1,
+      "found": 0,
       "added": 0,
       "error": null
     },
     {
       "name": "builtin",
-      "lastRun": "2026-07-07T14:21:27.004165+00:00",
+      "lastRun": "2026-07-07T14:51:55.104436+00:00",
       "status": "ok",
-      "found": 2,
+      "found": 0,
       "added": 0,
       "error": null
     },
     {
       "name": "linkedin",
-      "lastRun": "2026-07-07T14:21:37.432155+00:00",
+      "lastRun": "2026-07-07T14:51:55.123191+00:00",
       "status": "ok",
       "found": null,
-      "added": 2,
+      "added": 0,
       "error": null
     },
     {
       "name": "ats_apis",
-      "lastRun": null,
-      "status": "skipped",
+      "lastRun": "2026-07-07T14:52:02.534303+00:00",
+      "status": "ok",
       "found": null,
       "added": 0,
       "error": null
@@ -123,6 +123,6 @@
   "totals": {
     "day": "2026-07-07",
     "addedToday": 2,
-    "cyclesToday": 1
+    "cyclesToday": 2
   }
 }
