@@ -1464,62 +1464,6 @@
           "externalId": "ashby:6e328b72-9f57-49e0-a1a8-4428abf8ff81",
           "region": "West",
           "regionRank": 5
-        },
-        {
-          "id": "grafana-labs-staff-backend-engineer-alerting-ireland-remote-w26",
-          "company": "Grafana Labs",
-          "title": "Staff Backend Engineer - Alerting | Ireland | Remote",
-          "location": "Republic of Ireland (Remote)",
-          "remote": "Remote",
-          "industry": "R&D: Ops",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (7h ago). Callback score 88.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Distributed systems",
-            "Python",
-            "Rust",
-            "Go"
-          ],
-          "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6105874004",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (7h ago)",
-          "h1bFit": "Uncertain",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 88.0,
-          "postedAtUtc": "2026-07-07T09:16:16-04:00",
-          "atsJobId": "6105874004",
-          "externalId": "greenhouse:6105874004",
-          "region": "Remote",
-          "regionRank": 2
-        },
-        {
-          "id": "grafana-labs-staff-backend-engineer-alerting-uk-remote-w26",
-          "company": "Grafana Labs",
-          "title": "Staff Backend Engineer - Alerting | UK | Remote",
-          "location": "United Kingdom (Remote)",
-          "remote": "Remote",
-          "industry": "R&D: Ops",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (7h ago). Callback score 88.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Distributed systems",
-            "Python",
-            "Rust",
-            "Go"
-          ],
-          "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6105876004",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (7h ago)",
-          "h1bFit": "Uncertain",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 88.0,
-          "postedAtUtc": "2026-07-07T09:16:18-04:00",
-          "atsJobId": "6105876004",
-          "externalId": "greenhouse:6105876004",
-          "region": "Remote",
-          "regionRank": 2
         }
       ],
       "removedNotes": [
