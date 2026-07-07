@@ -2094,6 +2094,52 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-06T19:20:31.108611+00:00"
+        },
+        {
+          "id": "li-orbiworlds-founding-software-engineer-c-game-engine-2026-w28",
+          "company": "OrbiWorlds",
+          "title": "Founding Software Engineer \u2013 C++ Game Engine (Equity)",
+          "location": "Lincoln, NE",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 14 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/founding-software-engineer-%E2%80%93-c%2B%2B-game-engine-equity-at-orbiworlds-4436259887",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "14 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4436259887",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-07T00:21:50.321937+00:00"
+        },
+        {
+          "id": "li-ari-embedded-software-engineer-perception-sy-2026-w28",
+          "company": "ARi",
+          "title": "Embedded Software Engineer \u2013 Perception Systems (C++/Linux)",
+          "location": "Peoria Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 12 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-%E2%80%93-perception-systems-c%2B%2B-linux-at-ari-4437713557",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "12 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4437713557",
+          "region": "Other",
+          "regionRank": 6,
+          "postedAtUtc": "2026-07-07T02:21:50.321937+00:00"
         }
       ]
     }
