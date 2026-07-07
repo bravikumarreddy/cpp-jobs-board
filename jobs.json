@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06",
+  "lastUpdated": "2026-07-07",
   "lastChecked": "2026-07-06",
   "seedVersion": 2,
   "liveTrackers": [
@@ -2207,6 +2207,29 @@
           "externalId": "linkedin:4436817566",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "goldman-goldman-sachs-asset-wealth-management-c-software-engineer-vice-president-n-2026-w28",
+          "postedAtUtc": "2026-03-25T20:59:59.088642+00:00",
+          "company": "Goldman Sachs",
+          "title": "Asset & Wealth Management - C++ Software Engineer - Vice President - New York",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": "$130k\u2013$250k",
+          "summary": "AWM Middle Office Technology \u2014 new-age trade processing platform (cloud, distributed systems, C++). $130k\u2013$250k. Posted in March but still OPEN and accepting applications; older postings often mean hard-to-fill = less competition.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://higher.gs.com/roles/166079",
+          "source": "Goldman (higher.gs)",
+          "postedApprox": "104 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "gs:166079",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
