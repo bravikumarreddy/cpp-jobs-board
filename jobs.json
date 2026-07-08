@@ -2670,6 +2670,121 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-07-07T20:58:42.502717+00:00"
+        },
+        {
+          "id": "li-talan-c-software-engineer-trading-platform-2026-w28",
+          "company": "Talan",
+          "title": "C++ Software Engineer - Trading Platform",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-trading-platform-at-talan-4428076106",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4428076106",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-08T17:28:13.842023+00:00"
+        },
+        {
+          "id": "li-jcw-group-c-trading-engineer-2026-w28",
+          "company": "JCW Group",
+          "title": "C++ Trading Engineer",
+          "location": "New York City Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-trading-engineer-at-jcw-group-4424813043",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "9 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4424813043",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-08T13:28:13.842023+00:00"
+        },
+        {
+          "id": "li-sme-careers-c-engineer-2026-w28",
+          "company": "SME Careers",
+          "title": "C++ Engineer",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 12 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-at-sme-careers-4418944977",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "12 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4418944977",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-07-08T10:28:13.842023+00:00"
+        },
+        {
+          "id": "li-addison-group-software-engineer-advanced-sensing-syste-2026-w28",
+          "company": "Addison Group",
+          "title": "Software Engineer \u2013 Advanced Sensing Systems C++",
+          "location": "Burlington, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-advanced-sensing-systems-c%2B%2B-at-addison-group-4429577034",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "8 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4429577034",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-08T14:28:13.842023+00:00"
+        },
+        {
+          "id": "li-latitude-ai-senior-software-engineer-vehicle-communi-2026-w28",
+          "company": "Latitude AI",
+          "title": "Senior Software Engineer - Vehicle Communication (C++)",
+          "location": "Detroit, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-vehicle-communication-c%2B%2B-at-latitude-ai-4419541659",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4419541659",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-08T12:28:13.842023+00:00"
         }
       ]
     }
