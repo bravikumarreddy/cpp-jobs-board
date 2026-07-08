@@ -1466,32 +1466,6 @@
           "regionRank": 5
         },
         {
-          "id": "jump-trading-campus-software-engineer-full-time-w26",
-          "company": "Jump Trading",
-          "title": "Campus Software Engineer (Full-Time)",
-          "location": "Chicago",
-          "remote": "Onsite/Hybrid",
-          "industry": "Core Development ",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 103.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Linux",
-            "Networking",
-            "Python"
-          ],
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=8000835",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (1h ago)",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 103.0,
-          "postedAtUtc": "2026-07-08T17:36:30-04:00",
-          "atsJobId": "8000835",
-          "region": "Central",
-          "regionRank": 3
-        },
-        {
           "id": "aurora-senior-software-engineer-perception-w26",
           "company": "Aurora",
           "title": "Senior Software Engineer, Perception",
