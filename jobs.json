@@ -2930,6 +2930,74 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-08T19:59:06.119524+00:00"
+        },
+        {
+          "id": "li-ventures-unlimited-inc-c-with-perl-developer-2026-w28",
+          "company": "Ventures Unlimited Inc",
+          "title": "C++ with PERL Developer",
+          "location": "Seattle, WA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-with-perl-developer-at-ventures-unlimited-inc-4437058849",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4437058849",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-08T16:29:38.461959+00:00"
+        },
+        {
+          "id": "li-reliable-robotics-corporation-displays-software-engineer-c-c-2026-w28",
+          "company": "Reliable Robotics Corporation",
+          "title": "Displays Software Engineer, C/C++",
+          "location": "Mountain View, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 33 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/displays-software-engineer-c-c%2B%2B-at-reliable-robotics-corporation-4376813058",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "33 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4376813058",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "li-catapult-solutions-group-unreal-engine-c-developer-2026-w28",
+          "company": "Catapult Solutions Group",
+          "title": "Unreal Engine C++ Developer",
+          "location": "St Louis, MO",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 day ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/unreal-engine-c%2B%2B-developer-at-catapult-solutions-group-4436872242",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 day ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4436872242",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-07T23:29:38.461959+00:00"
         }
       ]
     }
