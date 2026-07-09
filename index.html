@@ -175,6 +175,14 @@
     border-radius: 6px; padding: 5px 10px; font-size: 11.5px; cursor: pointer;
   }
   .job .actions .badrec-btn:hover { border-color: #a855f7; color: #d8b4fe; }
+  .job .repost-warn {
+    background: rgba(251, 191, 36, 0.08); border: 1px solid rgba(251, 191, 36, 0.4);
+    color: #fbbf24; border-radius: 6px; padding: 7px 10px; font-size: 12px; margin: 6px 0;
+  }
+  .job .repost-warn .repost-same {
+    background: rgba(251, 191, 36, 0.15); border: 1px solid rgba(251, 191, 36, 0.5);
+    color: #fde68a; border-radius: 5px; padding: 2px 8px; font-size: 11.5px; cursor: pointer;
+  }
   .job .pick-kit { display: flex; gap: 6px; border-top: 1px dashed rgba(251, 191, 36, 0.25); padding-top: 8px; }
   .job .pick-kit .copy-btn {
     background: rgba(251, 191, 36, 0.1); border: 1px solid rgba(251, 191, 36, 0.4);
@@ -831,6 +839,8 @@ function render() {
         <span>🌐 ${job.remote}</span>
         ${job.postedApprox ? `<span>📅 ${job.postedApprox}</span>` : ''}
       </div>
+      ${job.possibleRepost ? `<div class="repost-warn">🔁 Looks similar to a job you already applied to: “${job.possibleRepost}” — LinkedIn reposts get a new ID and a fresh date. Double-check before applying, or
+        <button class="repost-same" data-id="${job.id}">it's the same — mark applied</button></div>` : ''}
       <div class="summary">${job.summary}</div>
       <div class="skills">${(job.skills||[]).map(s => `<span>${s}</span>`).join('')}</div>
       <div class="fit">
@@ -870,6 +880,37 @@ function render() {
     return card;
   }
 
+  // Marking one card applied also marks its twins (same employer + near-same
+  // title, or same canonical posting id) — cross-source duplicates and
+  // LinkedIn reposts stop being recommended the moment you apply anywhere.
+  function markAppliedWithTwins(id) {
+    state.applied.add(id);
+    postOutcome(id, 'applied');
+    const all = state.data.weeks.flatMap(w => w.jobs);
+    const me = all.find(j => j.id === id);
+    if (!me) return;
+    const myCo = normCompany(me.company), myToks = titleTokens(me.title);
+    for (const j of all) {
+      if (j.id === id || state.applied.has(j.id)) continue;
+      const sameExt = me.externalId && j.externalId === me.externalId;
+      const co = normCompany(j.company);
+      const sameCo = co === myCo || (co.length >= 4 && myCo.startsWith(co)) || (myCo.length >= 4 && co.startsWith(myCo));
+      const tk = titleTokens(j.title);
+      const union = new Set([...tk, ...myToks]);
+      const inter = [...tk].filter(x => myToks.has(x)).length;
+      if (sameExt || (sameCo && union.size && inter / union.size >= 0.7)) {
+        state.applied.add(j.id);
+        postOutcome(j.id, 'applied');
+      }
+    }
+  }
+  function normCompany(c) {
+    return (c || '').toLowerCase().replace(/\s*\(.*?\)/g, '')
+      .replace(/\b(inc|llc|ltd|corp|corporation|technologies|technology|group|holdings)\b\.?/g, '')
+      .replace(/[^a-z0-9]+/g, '');
+  }
+  function titleTokens(t) { return new Set((t || '').toLowerCase().match(/[a-z0-9+]+/g) || []); }
+
   container.querySelectorAll('.apply-btn').forEach(btn => {
     btn.onclick = () => {
       const id = btn.dataset.id;
@@ -877,10 +918,14 @@ function render() {
         state.applied.delete(id);
         postOutcome(id, 'none');  // clear server record so sync doesn't re-add it
       } else {
-        state.applied.add(id);
-        // Log the application (with a job snapshot) for the outcome-learning loop.
-        postOutcome(id, 'applied');
+        markAppliedWithTwins(id);
       }
+      saveApplied(); render(); updateBadges();
+    };
+  });
+  container.querySelectorAll('.repost-same').forEach(btn => {
+    btn.onclick = () => {
+      markAppliedWithTwins(btn.dataset.id);
       saveApplied(); render(); updateBadges();
     };
   });

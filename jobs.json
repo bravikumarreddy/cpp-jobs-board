@@ -1129,7 +1129,8 @@
           "postedAtUtc": "2026-07-02T00:07:34.427342+00:00",
           "region": "East",
           "regionRank": 1,
-          "externalId": "linkedin:4433354119"
+          "externalId": "linkedin:4433354119",
+          "possibleRepost": "Staff Systems Engineer (C++/Python)"
         },
         {
           "id": "li-mathworks-principal-c-software-engineer-2026-w26",
@@ -1152,7 +1153,8 @@
           "postedAtUtc": "2026-07-01T13:07:34.427342+00:00",
           "region": "East",
           "regionRank": 1,
-          "externalId": "linkedin:4420125671"
+          "externalId": "linkedin:4420125671",
+          "possibleRepost": "Senior C++ Software Engineer"
         },
         {
           "id": "li-wells-fargo-senior-lead-securities-quantitative-anal-2026-w26",
@@ -2804,7 +2806,8 @@
           "yoeFit": "Verify",
           "yoeNote": "Auto-tracked \u2014 apply filters in your head",
           "region": "Central",
-          "regionRank": 3
+          "regionRank": 3,
+          "possibleRepost": "Low-Level C++ Software Engineer"
         },
         {
           "id": "li-xchange-software-inc-senior-c-engineer-networking-2026-w28",
