@@ -3196,6 +3196,28 @@
           "yoeNote": "Auto-tracked \u2014 apply filters in your head",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-swoon-c-embedded-software-engineer-3-99775-2026-w28",
+          "company": "Swoon",
+          "title": "C++ Embedded Software Engineer 3 #99775",
+          "location": "Peoria Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 53 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-embedded-software-engineer-3-%2399775-at-swoon-4437910641",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "53 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4437910641",
+          "region": "Other",
+          "regionRank": 6
         }
       ]
     }
