@@ -3171,6 +3171,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-09T14:52:02.641494+00:00"
+        },
+        {
+          "id": "li-solventum-c-software-engineer-speech-recognition-a-2026-w28",
+          "company": "Solventum",
+          "title": "C++ Software Engineer \u2013 Speech Recognition and Infrastructure",
+          "location": "Pittsburgh, PA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-%E2%80%93-speech-recognition-and-infrastructure-at-solventum-4410949292",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4410949292",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-09T16:53:22.502099+00:00"
         }
       ]
     }
