@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-08",
-  "lastChecked": "2026-07-08",
+  "lastUpdated": "2026-07-09",
+  "lastChecked": "2026-07-09",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -2988,6 +2988,98 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-09T03:40:33.637088+00:00"
+        },
+        {
+          "id": "built-wells-fargo-lead-front-office-quant-developer-2026-w28",
+          "postedAtUtc": "2026-07-09T00:00:00.000861+00:00",
+          "company": "Wells Fargo",
+          "title": "Lead Front Office Quant Developer",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 13 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/lead-front-office-quant-developer-modern-c/9878849",
+          "source": "Built In",
+          "postedApprox": "13 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:9878849",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-searchability-principal-c-software-engineer-qt-2026-w28",
+          "company": "Searchability\u00ae",
+          "title": "Principal C++ Software Engineer (Qt)",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 23 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/principal-c%2B%2B-software-engineer-qt-at-searchability%C2%AE-4438232419",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "23 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4438232419",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-07-08T14:42:32.243407+00:00"
+        },
+        {
+          "id": "li-kla-senior-systems-software-engineer-c-2026-w28",
+          "company": "KLA",
+          "title": "Senior Systems Software Engineer (C++)",
+          "location": "Ann Arbor, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-systems-software-engineer-c%2B%2B-at-kla-4430182695",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4430182695",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-09T12:42:32.243407+00:00"
+        },
+        {
+          "id": "li-aurora-staff-software-engineer-logging-c-2026-w28",
+          "company": "Aurora",
+          "title": "Staff Software Engineer, Logging (C++)",
+          "location": "Mountain View, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-logging-c%2B%2B-at-aurora-4418552166",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4418552166",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-09T11:42:32.243407+00:00"
         }
       ]
     }
