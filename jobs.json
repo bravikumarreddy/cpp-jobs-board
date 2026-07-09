@@ -3080,6 +3080,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-09T11:42:32.243407+00:00"
+        },
+        {
+          "id": "li-yoh-a-day-zimmermann-company-senior-software-engineer-visual-c-2026-w28",
+          "company": "Yoh, A Day & Zimmermann Company",
+          "title": "Senior Software Engineer \u2013 Visual C++",
+          "location": "Sunnyvale, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 15 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-visual-c%2B%2B-at-yoh-a-day-zimmermann-company-4438521514",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "15 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4438521514",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-08T23:13:12.966134+00:00"
         }
       ]
     }
