@@ -3218,6 +3218,29 @@
           "externalId": "linkedin:4437910641",
           "region": "Other",
           "regionRank": 6
+        },
+        {
+          "id": "li-l-t-technology-services-ais-software-engineer-data-logger-develo-2026-w28",
+          "company": "L&T Technology Services",
+          "title": "AIS Software Engineer/ Data Logger Development and Support (ROS1 and C++)",
+          "location": "Mossville, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/ais-software-engineer-data-logger-development-and-support-ros1-and-c%2B%2B-at-l-t-technology-services-4437903220",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4437903220",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-09T20:06:39.561928+00:00"
         }
       ]
     }
