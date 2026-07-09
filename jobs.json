@@ -3148,6 +3148,29 @@
           "externalId": "builtin:10118946",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-siemens-eda-siemens-digital-industries-software-principal-architect-c-ds-algo-2026-w28",
+          "company": "Siemens EDA (Siemens Digital Industries Software)",
+          "title": "Principal Architect (C++/DS/Algo)",
+          "location": "Fremont, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/principal-architect-c%2B%2B-ds-algo-at-siemens-eda-siemens-digital-industries-software-4428735088",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4428735088",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-09T14:52:02.641494+00:00"
         }
       ]
     }
