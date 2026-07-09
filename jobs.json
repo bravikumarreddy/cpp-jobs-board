@@ -3103,6 +3103,28 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-08T23:13:12.966134+00:00"
+        },
+        {
+          "id": "li-flow-traders-senior-software-engineer-c-2026-w28",
+          "company": "Flow Traders",
+          "title": "Senior Software Engineer, C++",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 30 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-at-flow-traders-4435691121",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "30 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4435691121",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
