@@ -3125,6 +3125,29 @@
           "externalId": "linkedin:4435691121",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "built-flow-traders-senior-software-engineer-c-market-data-2026-w28",
+          "postedAtUtc": "2026-07-09T00:00:00.000472+00:00",
+          "company": "Flow Traders",
+          "title": "Senior Software Engineer, C++ (Market Data)",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 17 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/senior-software-engineer-c-market-data/10118946",
+          "source": "Built In",
+          "postedApprox": "17 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:10118946",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
