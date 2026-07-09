@@ -3194,6 +3194,28 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-09T16:53:22.502099+00:00"
+        },
+        {
+          "id": "hn-this-book-was-one-of-the-most-useful-c-interview-resources-c-role-see-posting-2026-w28",
+          "postedAtUtc": "2026-07-09T20:41:17.000133+00:00",
+          "company": "This book was one of the most useful C++ interview resources",
+          "title": "C++ role (see posting)",
+          "location": "me",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "HN hiring thread (just now): This book was one of the most useful C++ interview resources I found. It's very focused, full of practical interview tips, and helped me pas",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://news.ycombinator.com/item?id=48852085",
+          "source": "HN Who-is-Hiring",
+          "postedApprox": "just now",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
