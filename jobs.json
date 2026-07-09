@@ -2942,6 +2942,29 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-07-08T20:33:15.361437+00:00"
+        },
+        {
+          "id": "li-point-one-navigation-staff-embedded-software-engineer-general-2026-w28",
+          "company": "Point One Navigation",
+          "title": "Staff Embedded Software Engineer (Generalist) (C++)",
+          "location": "San Francisco, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 23 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/staff-embedded-software-engineer-generalist-c%2B%2B-at-point-one-navigation-4438152132",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "23 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4438152132",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-08T05:36:08.945889+00:00"
         }
       ]
     }
