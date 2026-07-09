@@ -2488,29 +2488,6 @@
           "postedAtUtc": "2026-07-01T21:23:27.557432+00:00"
         },
         {
-          "id": "li-bmo-capital-markets-c-quant-developer-2026-w28",
-          "company": "BMO Capital Markets",
-          "title": "C++ Quant Developer",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-quant-developer-at-bmo-capital-markets-4362462554",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "4 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4362462554",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-07T17:23:27.557432+00:00"
-        },
-        {
           "id": "li-cyngn-senior-c-engineer-2026-w28",
           "company": "Cyngn",
           "title": "Senior C++ Engineer",
