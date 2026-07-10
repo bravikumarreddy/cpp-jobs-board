@@ -687,6 +687,12 @@ function fitClass(text) {
 function renderTabs() {
   const tabs = document.getElementById('week-tabs');
   tabs.innerHTML = '';
+  const allBtn = document.createElement('button');
+  allBtn.textContent = 'All open';
+  allBtn.title = 'Every open job across all weeks';
+  if (settings.currentWeek === 'ALL') allBtn.classList.add('active');
+  allBtn.onclick = () => { settings.currentWeek = 'ALL'; saveSettings(); render(); };
+  tabs.appendChild(allBtn);
   state.data.weeks.forEach(w => {
     const b = document.createElement('button');
     b.textContent = w.weekId;
@@ -735,10 +741,13 @@ function regionEmoji(j) {
 }
 
 function render() {
-  const week = state.data.weeks.find(w => w.weekId === settings.currentWeek) || state.data.weeks[0];
-  document.getElementById('week-label').textContent = week.label;
+  const isAll = settings.currentWeek === 'ALL';
+  const week = isAll ? null : (state.data.weeks.find(w => w.weekId === settings.currentWeek) || state.data.weeks[0]);
+  document.getElementById('week-label').textContent = isAll
+    ? 'All open jobs — every week, east → west, freshest first'
+    : week.label;
 
-  const allThisWeek = week.jobs;
+  const allThisWeek = isAll ? state.data.weeks.flatMap(w => w.jobs) : week.jobs;
   // notEligible entries are physically removed server-side, but a rescrape
   // can re-add the same posting — the localStorage map keeps them hidden.
   const shown = allThisWeek.filter(matches).filter(j => !state.notEligible[j.id] && !state.badRecs.has(j.id));
@@ -1698,9 +1707,16 @@ async function load() {
   await syncOutcomes();
 
   // Initialize current week if not already saved or if the saved week no longer exists
+  // One-time migration: default everyone to the all-weeks view (jobs used to
+  // hide in per-week buckets — "I only see 15 on the board").
+  if (!localStorage.getItem('raviCppJobsAllWeeksV1')) {
+    settings.currentWeek = 'ALL';
+    localStorage.setItem('raviCppJobsAllWeeksV1', '1');
+    saveSettings();
+  }
   const weekIds = state.data.weeks.map(w => w.weekId);
-  if (!settings.currentWeek || !weekIds.includes(settings.currentWeek)) {
-    settings.currentWeek = state.data.weeks[state.data.weeks.length - 1].weekId;
+  if (!settings.currentWeek || (settings.currentWeek !== 'ALL' && !weekIds.includes(settings.currentWeek))) {
+    settings.currentWeek = 'ALL';
     saveSettings();
   }
 
