@@ -3176,28 +3176,6 @@
           "postedAtUtc": "2026-07-09T16:53:22.502099+00:00"
         },
         {
-          "id": "hn-this-book-was-one-of-the-most-useful-c-interview-resources-c-role-see-posting-2026-w28",
-          "postedAtUtc": "2026-07-09T20:41:17.000133+00:00",
-          "company": "This book was one of the most useful C++ interview resources",
-          "title": "C++ role (see posting)",
-          "location": "me",
-          "remote": "See posting",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "HN hiring thread (just now): This book was one of the most useful C++ interview resources I found. It's very focused, full of practical interview tips, and helped me pas",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://news.ycombinator.com/item?id=48852085",
-          "source": "HN Who-is-Hiring",
-          "postedApprox": "just now",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-swoon-c-embedded-software-engineer-3-99775-2026-w28",
           "company": "Swoon",
           "title": "C++ Embedded Software Engineer 3 #99775",
@@ -3241,6 +3219,98 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-07-09T20:06:39.561928+00:00"
+        },
+        {
+          "id": "li-info-way-solutions-c-developer-2026-w28",
+          "company": "Info Way Solutions",
+          "title": "C++ Developer",
+          "location": "Sunnyvale, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 days ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-info-way-solutions-4437805685",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4437805685",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-08T00:31:36.474162+00:00"
+        },
+        {
+          "id": "li-turion-space-software-c-engineer-2026-w28",
+          "company": "Turion Space",
+          "title": "Software C++ Engineer",
+          "location": "California, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 days ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-c%2B%2B-engineer-at-turion-space-4436846239",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4436846239",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-08T00:31:36.474162+00:00"
+        },
+        {
+          "id": "li-nitya-software-solutions-inc-c-software-engineer-2026-w28",
+          "company": "NITYA Software Solutions Inc",
+          "title": "C++ Software Engineer",
+          "location": "Texas, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 days ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-nitya-software-solutions-inc-4438641403",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4438641403",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-07-08T00:31:36.474162+00:00"
+        },
+        {
+          "id": "built-flatiron-health-senior-software-engineer-2026-w28",
+          "postedAtUtc": "2026-07-10T00:00:00.000978+00:00",
+          "company": "Flatiron Health",
+          "title": "Senior Software Engineer",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted just now. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/senior-software-engineer-c-net/9422245",
+          "source": "Built In",
+          "postedApprox": "just now",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:9422245",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
