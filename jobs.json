@@ -4271,7 +4271,11 @@
           "postedApprox": "2 days ago",
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head"
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4439018494",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-10T21:29:08.511808+00:00"
         },
         {
           "id": "li-tradeweb-c-developer-2026-w28",
@@ -4290,7 +4294,12 @@
           "postedApprox": "1 day ago",
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head"
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4411221874",
+          "possibleRepost": "C++ Application Developer",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-11T21:29:08.511808+00:00"
         },
         {
           "id": "li-lg-ad-solutions-backend-software-engineer-c-go-2026-w28",
@@ -4309,7 +4318,11 @@
           "postedApprox": "2 days ago",
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head"
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4429595125",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-10T21:29:08.511808+00:00"
         },
         {
           "id": "li-garmin-senior-c-software-engineer-map-rendering-2026-w28",
@@ -4328,7 +4341,126 @@
           "postedApprox": "2 days ago",
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head"
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4438858633",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-10T21:29:08.511808+00:00"
+        },
+        {
+          "id": "li-remotivated-c-kotlin-software-developer-rustrover-de-2026-w28",
+          "company": "Remotivated",
+          "title": "C++/Kotlin Software Developer (RustRover Debugger)",
+          "location": "Germany, PA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-kotlin-software-developer-rustrover-debugger-at-remotivated-4439755014",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4439755014",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-12T16:29:08.511808+00:00"
+        },
+        {
+          "id": "li-fabri-software-engineer-generalist-c-python-2026-w28",
+          "company": "Fabri",
+          "title": "Software Engineer, Generalist (C++/Python)",
+          "location": "Billerica, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-generalist-c%2B%2B-python-at-fabri-4409698344",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "8 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4409698344",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-12T13:29:08.511808+00:00"
+        },
+        {
+          "id": "li-roblox-principal-core-systems-software-engineer-2026-w28",
+          "company": "Roblox",
+          "title": "Principal Core Systems Software Engineer - Game Engine (C++)",
+          "location": "San Mateo, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/principal-core-systems-software-engineer-game-engine-c%2B%2B-at-roblox-4326401566",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4326401566",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-12T15:29:08.511808+00:00"
+        },
+        {
+          "id": "li-wells-fargo-lead-front-office-quant-developer-modern-2026-w28",
+          "company": "Wells Fargo",
+          "title": "Lead Front Office Quant Developer - Modern C++",
+          "location": "Charlotte, NC",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/lead-front-office-quant-developer-modern-c%2B%2B-at-wells-fargo-4398390526",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4398390526",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-12T15:29:08.511808+00:00"
+        },
+        {
+          "id": "li-kla-sr-software-engineer-c-ood-oop-linux-2026-w28",
+          "company": "KLA",
+          "title": "Sr Software Engineer (C++, OOD/OOP, Linux)",
+          "location": "Milpitas, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-c%2B%2B-ood-oop-linux-at-kla-4428583189",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "9 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4428583189",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-12T12:29:08.511808+00:00"
         }
       ]
     }
