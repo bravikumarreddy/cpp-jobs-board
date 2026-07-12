@@ -1272,29 +1272,6 @@
           "externalId": "linkedin:4383836152"
         },
         {
-          "id": "li-ntop-senior-software-engineer-build-team-c-c-2026-w26",
-          "company": "nTop",
-          "title": "Senior Software Engineer, Build Team (C/C++)",
-          "location": "Kings County, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 day ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-build-team-c-c%2B%2B-at-ntop-4433298484",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 day ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "postedAtUtc": "2026-07-01T04:07:34.427342+00:00",
-          "region": "East",
-          "regionRank": 1,
-          "externalId": "linkedin:4433298484"
-        },
-        {
           "id": "li-millennium-c-software-engineer-trade-capture-2026-w26",
           "company": "Millennium",
           "title": "C++ Software Engineer - Trade Capture",
