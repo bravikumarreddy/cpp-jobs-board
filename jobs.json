@@ -1603,29 +1603,6 @@
       "label": "Week of July 06, 2026",
       "jobs": [
         {
-          "id": "built-infojini-inc-c-developer-2026-w28",
-          "postedAtUtc": "2026-07-06T00:00:00.000868+00:00",
-          "company": "Infojini Inc",
-          "title": "C++ Developer",
-          "location": "New York, New York",
-          "remote": "See posting",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Live tracker (Built In): posted 13 hours ago. Verify details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.builtinnyc.com/job/c-developer/8143028",
-          "source": "Built In",
-          "postedApprox": "13 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
-          "region": "East",
-          "regionRank": 1,
-          "externalId": "builtin:8143028"
-        },
-        {
           "id": "li-5v-tech-c-software-engineer-embedded-systems-2026-w28",
           "company": "5V Tech",
           "title": "C++ Software Engineer - Embedded Systems",
@@ -4276,6 +4253,82 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-12T11:47:20.026110+00:00"
+        },
+        {
+          "id": "li-reviva-deorganising-crime-c-developer-2026-w28",
+          "company": "Reviva | Deorganising Crime \u2122",
+          "title": "C++ Developer",
+          "location": "New York City Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 days ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-reviva-deorganising-crime-%E2%84%A2-4439018494",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head"
+        },
+        {
+          "id": "li-tradeweb-c-developer-2026-w28",
+          "company": "Tradeweb",
+          "title": "C++ Developer",
+          "location": "Jersey City, NJ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 day ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-tradeweb-4411221874",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 day ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head"
+        },
+        {
+          "id": "li-lg-ad-solutions-backend-software-engineer-c-go-2026-w28",
+          "company": "LG Ad Solutions",
+          "title": "Backend Software Engineer (C++, Go)",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 days ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-c%2B%2B-go-at-lg-ad-solutions-4429595125",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head"
+        },
+        {
+          "id": "li-garmin-senior-c-software-engineer-map-rendering-2026-w28",
+          "company": "Garmin",
+          "title": "Senior C++ Software Engineer -Map Rendering",
+          "location": "Cary, NC",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 days ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-map-rendering-at-garmin-4438858633",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head"
         }
       ]
     }
