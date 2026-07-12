@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09",
+  "lastUpdated": "2026-07-12",
   "lastChecked": "2026-07-09",
   "seedVersion": 2,
   "liveTrackers": [
@@ -4207,6 +4207,98 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-09T23:54:18.162354+00:00"
+        },
+        {
+          "id": "built-citadel-securities-c-market-data-engineer-2026-w28",
+          "postedAtUtc": "2026-07-12T00:00:00.001072+00:00",
+          "company": "Citadel Securities",
+          "title": "C++ Market Data Engineer",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 15 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/c-market-data-engineer/9354553",
+          "source": "Built In",
+          "postedApprox": "15 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:9354553",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-nvidia-senior-c-software-engineer-infrastructur-2026-w28",
+          "company": "NVIDIA",
+          "title": "Senior C++ Software Engineer - Infrastructure Tools",
+          "location": "Durham, NC",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 21 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-infrastructure-tools-at-nvidia-4422081175",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "21 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4422081175",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-11T18:47:20.026110+00:00"
+        },
+        {
+          "id": "li-necessary-ventures-application-software-engineer-embedded-s-2026-w28",
+          "company": "Necessary Ventures",
+          "title": "Application Software Engineer - Embedded Software C++",
+          "location": "Detroit, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 13 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/application-software-engineer-embedded-software-c%2B%2B-at-necessary-ventures-4436687389",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "13 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4436687389",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-12T02:47:20.026110+00:00"
+        },
+        {
+          "id": "li-zoox-senior-software-engineer-c-gpu-performan-2026-w28",
+          "company": "Zoox",
+          "title": "Senior Software Engineer - C++ GPU Performance",
+          "location": "Foster City, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-gpu-performance-at-zoox-4403118199",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4403118199",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-12T11:47:20.026110+00:00"
         }
       ]
     }
