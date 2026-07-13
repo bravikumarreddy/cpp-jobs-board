@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12",
+  "lastUpdated": "2026-07-13",
   "lastChecked": "2026-07-09",
   "seedVersion": 2,
   "liveTrackers": [
@@ -4484,6 +4484,104 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-12T10:30:32.694553+00:00"
+        }
+      ]
+    },
+    {
+      "weekId": "2026-W29",
+      "label": "Week of July 13, 2026",
+      "jobs": [
+        {
+          "id": "built-stellar-development-foundation-senior-software-engineer-c-2026-w29",
+          "postedAtUtc": "2026-07-13T00:00:00.000747+00:00",
+          "company": "Stellar Development Foundation",
+          "title": "Senior Software Engineer, C++",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 18 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/senior-software-engineer-c/7080668",
+          "source": "Built In",
+          "postedApprox": "18 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:7080668",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-figma-software-engineer-c-2026-w29",
+          "company": "Figma",
+          "title": "Software Engineer, C++",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-figma-4239984024",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4239984024",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-13T12:45:25.481627+00:00"
+        },
+        {
+          "id": "li-trispoke-managed-services-pvt-ltd-senior-software-engineer-c-doors-2026-w29",
+          "company": "Trispoke Managed Services Pvt. Ltd.",
+          "title": "Senior Software Engineer (C++ & DOORS)",
+          "location": "Fort Worth, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-doors-at-trispoke-managed-services-pvt-ltd-4439418964",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4439418964",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-13T16:45:25.481627+00:00"
+        },
+        {
+          "id": "li-esri-sr-c-software-development-engineer-3d-da-2026-w29",
+          "company": "Esri",
+          "title": "Sr. C++ Software Development Engineer - 3D Data and Editing",
+          "location": "Redlands, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-c%2B%2B-software-development-engineer-3d-data-and-editing-at-esri-4363186045",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4363186045",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-13T17:45:25.481627+00:00"
         }
       ]
     }
