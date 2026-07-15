@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13",
+  "lastUpdated": "2026-07-15",
   "lastChecked": "2026-07-09",
   "seedVersion": 2,
   "liveTrackers": [
@@ -4559,6 +4559,121 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-13T17:45:25.481627+00:00"
+        },
+        {
+          "id": "li-path-robotics-software-engineer-c-robotics-2026-w29",
+          "company": "Path Robotics",
+          "title": "Software Engineer, C++/Robotics",
+          "location": "Columbus, OH",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 19 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-robotics-at-path-robotics-4440818273",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "19 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4440818273",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-14T19:30:08.513227+00:00"
+        },
+        {
+          "id": "li-signature-it-world-inc-c-developer-2026-w29",
+          "company": "Signature IT World Inc",
+          "title": "C++ Developer",
+          "location": "Irvine, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 23 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-signature-it-world-inc-4437696482",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "23 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4437696482",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-14T15:30:08.513227+00:00"
+        },
+        {
+          "id": "li-infovisa-inc-senior-c-c-software-engineer-2026-w29",
+          "company": "Infovisa, Inc.",
+          "title": "Senior C++/C# Software Engineer",
+          "location": "Centennial, CO",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 18 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-c%23-software-engineer-at-infovisa-inc-4440817757",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "18 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4440817757",
+          "region": "Mountain",
+          "regionRank": 4,
+          "postedAtUtc": "2026-07-14T20:30:08.513227+00:00"
+        },
+        {
+          "id": "li-avride-c-software-engineer-motion-planning-2026-w29",
+          "company": "Avride",
+          "title": "C++ Software Engineer \u2013 Motion Planning",
+          "location": "Austin, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-%E2%80%93-motion-planning-at-avride-4439841473",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4439841473",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-15T13:30:08.513227+00:00"
+        },
+        {
+          "id": "li-ecs-software-engineer-c-python-and-javascrip-2026-w29",
+          "company": "ECS",
+          "title": "Software Engineer (C++, Python, and JavaScript)",
+          "location": "Springfield, VA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-python-and-javascript-at-ecs-4432479796",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4432479796",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-15T13:30:08.513227+00:00"
         }
       ]
     }
