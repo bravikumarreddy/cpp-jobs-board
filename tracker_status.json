@@ -2,14 +2,14 @@
   "running": true,
   "pid": 42690,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-07-15T14:30:08.637838+00:00",
-  "nextCycleAt": "2026-07-15T15:00:08.637864+00:00",
-  "cycleCount": 101,
+  "lastCycleAt": "2026-07-16T14:31:51.045280+00:00",
+  "nextCycleAt": "2026-07-16T15:01:51.045309+00:00",
+  "cycleCount": 102,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-07-15T14:29:37.160923+00:00",
+      "lastRun": "2026-07-16T14:31:18.201192+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -17,7 +17,7 @@
     },
     {
       "name": "remotive",
-      "lastRun": "2026-07-15T14:29:37.757556+00:00",
+      "lastRun": "2026-07-16T14:31:18.879272+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -25,7 +25,7 @@
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-07-15T14:29:38.191032+00:00",
+      "lastRun": "2026-07-16T14:31:19.232670+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -33,7 +33,7 @@
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-07-15T14:29:38.527230+00:00",
+      "lastRun": "2026-07-16T14:31:19.486894+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -41,7 +41,7 @@
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-07-15T14:29:39.043303+00:00",
+      "lastRun": "2026-07-16T14:31:20.092238+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -49,7 +49,7 @@
     },
     {
       "name": "avature",
-      "lastRun": "2026-07-15T14:29:39.354650+00:00",
+      "lastRun": "2026-07-16T14:31:20.483462+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,7 +57,7 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-07-15T14:29:47.219105+00:00",
+      "lastRun": "2026-07-16T14:31:28.413509+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -65,7 +65,7 @@
     },
     {
       "name": "builtin",
-      "lastRun": "2026-07-15T14:29:48.318670+00:00",
+      "lastRun": "2026-07-16T14:31:29.736669+00:00",
       "status": "ok",
       "found": 2,
       "added": 1,
@@ -73,7 +73,7 @@
     },
     {
       "name": "goldman",
-      "lastRun": "2026-07-15T14:29:57.931329+00:00",
+      "lastRun": "2026-07-16T14:31:39.767131+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -81,10 +81,10 @@
     },
     {
       "name": "linkedin",
-      "lastRun": "2026-07-15T14:29:58.265435+00:00",
+      "lastRun": "2026-07-16T14:31:40.244012+00:00",
       "status": "ok",
       "found": null,
-      "added": 6,
+      "added": 9,
       "error": null
     },
     {
@@ -97,6 +97,12 @@
     }
   ],
   "recentFinds": [
+    {
+      "company": "IMC Trading",
+      "title": "C++ Software Engineer",
+      "source": "Built In",
+      "at": "2026-07-16T14:31:29.736669+00:00"
+    },
     {
       "company": "IMC Trading",
       "title": "C++ Software Engineer",
@@ -171,8 +177,8 @@
     }
   ],
   "totals": {
-    "day": "2026-07-15",
-    "addedToday": 7,
+    "day": "2026-07-16",
+    "addedToday": 10,
     "cyclesToday": 1
   }
 }

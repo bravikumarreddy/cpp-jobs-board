@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15",
+  "lastUpdated": "2026-07-16",
   "lastChecked": "2026-07-09",
   "seedVersion": 2,
   "liveTrackers": [
@@ -4674,6 +4674,213 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-15T13:30:08.513227+00:00"
+        },
+        {
+          "id": "built-cloud-peritus-quantitative-developer-c-python-2026-w29",
+          "postedAtUtc": "2026-07-16T00:00:00.000526+00:00",
+          "company": "Cloud Peritus",
+          "title": "Quantitative Developer (C++ & Python)",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 14 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/quantitative-developer-c-python/4195696",
+          "source": "Built In",
+          "postedApprox": "14 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:4195696",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-basis-set-software-engineer-c-robotics-2026-w29",
+          "company": "Basis Set",
+          "title": "Software Engineer, C++/Robotics",
+          "location": "Columbus, OH",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 20 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-robotics-at-basis-set-4441219821",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "20 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4441219821",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-15T18:31:50.918963+00:00"
+        },
+        {
+          "id": "li-nvidia-ai-senior-c-software-engineer-2026-w29",
+          "company": "NVIDIA AI",
+          "title": "Senior C++ Software Engineer",
+          "location": "Westford, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-nvidia-ai-4438464942",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4438464942",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-16T07:31:50.918963+00:00"
+        },
+        {
+          "id": "li-aurum-search-limited-c-engineer-2026-w29",
+          "company": "Aurum Search Limited",
+          "title": "C++ Engineer",
+          "location": "New York City Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-at-aurum-search-limited-4438493899",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4438493899",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-16T12:31:50.918963+00:00"
+        },
+        {
+          "id": "li-applied-intuition-software-engineer-c-2026-w29",
+          "company": "Applied Intuition",
+          "title": "Software Engineer - C++",
+          "location": "Sunnyvale, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-applied-intuition-4423971135",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4423971135",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-16T11:31:50.918963+00:00"
+        },
+        {
+          "id": "li-applied-intuition-c-software-engineer-autonomous-systems-2026-w29",
+          "company": "Applied Intuition",
+          "title": "C++ Software Engineer (Autonomous Systems)",
+          "location": "Ann Arbor, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-autonomous-systems-at-applied-intuition-4423961740",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4423961740",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-16T13:31:50.918963+00:00"
+        },
+        {
+          "id": "li-hire-feed-c-developer-remote-2026-w29",
+          "company": "Hire Feed",
+          "title": "C++ Developer (Remote)",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-remote-at-hire-feed-4441472018",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4441472018",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-07-16T11:31:50.918963+00:00"
+        },
+        {
+          "id": "li-cube-hub-inc-embedded-software-engineer-c-c-rtos-2026-w29",
+          "company": "Cube Hub Inc.",
+          "title": "Embedded Software Engineer (C/C++, RTOS)",
+          "location": "Cary, NC",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 21 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-c-c%2B%2B-rtos-at-cube-hub-inc-4440246489",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "21 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4440246489",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-15T17:31:50.918963+00:00"
+        },
+        {
+          "id": "li-coforge-automation-tool-developer-with-embedded--2026-w29",
+          "company": "Coforge",
+          "title": "Automation tool developer with Embedded and C++",
+          "location": "Tucson, AZ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 19 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/automation-tool-developer-with-embedded-and-c%2B%2B-at-coforge-4440259699",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "19 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4440259699",
+          "region": "Mountain",
+          "regionRank": 4,
+          "postedAtUtc": "2026-07-15T19:31:50.918963+00:00"
         }
       ]
     }
