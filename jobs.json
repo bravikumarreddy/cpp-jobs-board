@@ -4881,6 +4881,75 @@
           "region": "Mountain",
           "regionRank": 4,
           "postedAtUtc": "2026-07-15T19:31:50.918963+00:00"
+        },
+        {
+          "id": "li-roblox-senior-software-engineer-c-2026-w29",
+          "company": "Roblox",
+          "title": "Senior Software Engineer (C++)",
+          "location": "San Mateo, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-at-roblox-4431835005",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4431835005",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-16T14:37:59.706218+00:00"
+        },
+        {
+          "id": "li-garmin-senior-c-software-engineer-2026-w29",
+          "company": "Garmin",
+          "title": "Senior C++ Software Engineer",
+          "location": "Olathe, KS",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 20 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-garmin-4372726788",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "20 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4372726788",
+          "possibleRepost": "C++ Software Engineer 2",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-16T01:37:59.706218+00:00"
+        },
+        {
+          "id": "li-vbeyond-corporation-senior-c-backend-engineer-windows-excel--2026-w29",
+          "company": "VBeyond Corporation",
+          "title": "Senior C++ Backend Engineer (Windows & Excel Automation)",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 14 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-backend-engineer-windows-excel-automation-at-vbeyond-corporation-4441666729",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "14 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4441666729",
+          "region": "Remote",
+          "regionRank": 2
         }
       ]
     }
