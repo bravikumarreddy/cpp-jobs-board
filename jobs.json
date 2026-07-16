@@ -4950,6 +4950,52 @@
           "externalId": "linkedin:4441666729",
           "region": "Remote",
           "regionRank": 2
+        },
+        {
+          "id": "li-cps-inc-c-trading-systems-developer-2026-w29",
+          "company": "CPS, Inc.",
+          "title": "C++ Trading Systems Developer",
+          "location": "Austin, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-trading-systems-developer-at-cps-inc-4391398281",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4391398281",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-16T18:08:34.740189+00:00"
+        },
+        {
+          "id": "li-ntop-senior-software-engineer-build-team-c-c-2026-w29",
+          "company": "nTop",
+          "title": "Senior Software Engineer, Build Team (C/C++)",
+          "location": "Kings County, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 17 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-build-team-c-c%2B%2B-at-ntop-4438972413",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "17 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4438972413",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-16T05:08:34.740189+00:00"
         }
       ]
     }
