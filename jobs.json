@@ -4996,6 +4996,121 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-16T05:08:34.740189+00:00"
+        },
+        {
+          "id": "li-emerson-embedded-c-developer-2026-w29",
+          "company": "Emerson",
+          "title": "Embedded C++ Developer",
+          "location": "Round Rock, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 16 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-c%2B%2B-developer-at-emerson-4423059665",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "16 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4423059665",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-17T10:59:22.803620+00:00"
+        },
+        {
+          "id": "li-wolverine-trading-c-software-engineer-latency-critical-sys-2026-w29",
+          "company": "Wolverine Trading",
+          "title": "C++ Software Engineer \u2013 Latency-Critical Systems",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 15 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-%E2%80%93-latency-critical-systems-at-wolverine-trading-4404220126",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "15 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4404220126",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-17T11:59:22.803620+00:00"
+        },
+        {
+          "id": "li-lseg-c-software-engineer-2026-w29",
+          "company": "LSEG",
+          "title": "C++ Software Engineer",
+          "location": "St Louis, MO",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-lseg-4327825976",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4327825976",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-17T16:59:22.803620+00:00"
+        },
+        {
+          "id": "li-vallum-associates-front-office-c-c-developer-equity-swaps-2026-w29",
+          "company": "Vallum Associates",
+          "title": "Front Office C# / C++ Developer \u2013 Equity Swaps",
+          "location": "Manhattan, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 14 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/front-office-c%23-c%2B%2B-developer-%E2%80%93-equity-swaps-at-vallum-associates-4441970650",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "14 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4441970650",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-17T12:59:22.803620+00:00"
+        },
+        {
+          "id": "li-wayve-application-software-engineer-embedded-s-2026-w29",
+          "company": "Wayve",
+          "title": "Application Software Engineer - Embedded Software C++",
+          "location": "Detroit, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 12 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/application-software-engineer-embedded-software-c%2B%2B-at-wayve-4396151877",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "12 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4396151877",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-17T14:59:22.803620+00:00"
         }
       ]
     }
