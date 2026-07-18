@@ -5111,6 +5111,52 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-17T14:59:22.803620+00:00"
+        },
+        {
+          "id": "li-mastercard-lead-software-engineer-c-c-2026-w29",
+          "company": "Mastercard",
+          "title": "Lead Software Engineer (C/C++)",
+          "location": "Greater St. Louis",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/lead-software-engineer-c-c%2B%2B-at-mastercard-4439298439",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4439298439",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-18T05:33:43.197905+00:00"
+        },
+        {
+          "id": "li-stealth-ai-startup-senior-systems-software-engineer-c-2026-w29",
+          "company": "Stealth AI Startup",
+          "title": "Senior Systems Software Engineer (C++)",
+          "location": "Long Beach, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-systems-software-engineer-c%2B%2B-at-stealth-ai-startup-4439267538",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4439267538",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-17T21:33:43.197905+00:00"
         }
       ]
     }
