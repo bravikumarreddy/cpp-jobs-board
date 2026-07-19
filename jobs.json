@@ -5479,6 +5479,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-18T19:27:17.289115+00:00"
+        },
+        {
+          "id": "li-sdh-systems-llc-lead-c-developer-2026-w29",
+          "company": "SDH Systems LLC",
+          "title": "Lead C++ Developer",
+          "location": "Houston, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/lead-c%2B%2B-developer-at-sdh-systems-llc-4439687353",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4439687353",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-19T18:32:43.175591+00:00"
         }
       ]
     }
