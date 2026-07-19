@@ -5410,6 +5410,75 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-19T11:26:01.185389+00:00"
+        },
+        {
+          "id": "li-dataannotation-c-engineer-ai-trainer-2026-w29",
+          "company": "DataAnnotation",
+          "title": "C++ Engineer - AI Trainer",
+          "location": "Wyoming, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-ai-trainer-at-dataannotation-4397404044",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4397404044",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-07-19T16:27:17.289115+00:00"
+        },
+        {
+          "id": "li-kla-sr-software-engineer-c-linux-multi-threa-2026-w29",
+          "company": "KLA",
+          "title": "Sr. Software Engineer (C++/Linux/Multi-threaded)",
+          "location": "Milpitas, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-c%2B%2B-linux-multi-threaded-at-kla-4411552050",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4411552050",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-19T12:27:17.289115+00:00"
+        },
+        {
+          "id": "li-erias-ventures-enterprise-software-engineer-terraform-a-2026-w29",
+          "company": "Erias Ventures",
+          "title": "Enterprise - Software Engineer - Terraform, AWS, C++",
+          "location": "Annapolis Junction, MD",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 22 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/enterprise-software-engineer-terraform-aws-c%2B%2B-at-erias-ventures-4442486127",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "22 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4442486127",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-18T19:27:17.289115+00:00"
         }
       ]
     }
