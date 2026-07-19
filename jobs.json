@@ -5341,6 +5341,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-18T16:55:42.354481+00:00"
+        },
+        {
+          "id": "li-erias-ventures-cno-software-engineer-c-java-c-2026-w29",
+          "company": "Erias Ventures",
+          "title": "CNO - Software Engineer - C, Java, C++",
+          "location": "Hanover, MD",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/cno-software-engineer-c-java-c%2B%2B-at-erias-ventures-4442488147",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4442488147",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-18T20:27:26.219181+00:00"
         }
       ]
     }
