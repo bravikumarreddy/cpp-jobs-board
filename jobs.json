@@ -5387,6 +5387,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-18T19:30:19.793536+00:00"
+        },
+        {
+          "id": "li-moldshield-software-engineer-c-2026-w29",
+          "company": "MoldShield",
+          "title": "Software Engineer, C++",
+          "location": "Albany, New York Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-moldshield-4441784152",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4441784152",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-19T11:26:01.185389+00:00"
         }
       ]
     }
