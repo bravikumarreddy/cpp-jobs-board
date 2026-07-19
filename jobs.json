@@ -5297,29 +5297,6 @@
           "postedAtUtc": "2026-07-18T19:55:42.354481+00:00"
         },
         {
-          "id": "li-erias-ventures-cno-embedded-software-engineer-linux-pyt-2026-w29",
-          "company": "Erias Ventures",
-          "title": "CNO - Embedded Software Engineer - Linux, Python, C++",
-          "location": "Annapolis Junction, MD",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/cno-embedded-software-engineer-linux-python-c%2B%2B-at-erias-ventures-4442472877",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "4 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4442472877",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-18T19:55:42.354481+00:00"
-        },
-        {
           "id": "li-toyon-research-corporation-c-software-engineer-2026-w29",
           "company": "Toyon Research Corporation",
           "title": "C++ Software Engineer",
@@ -5364,6 +5341,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-18T20:27:26.219181+00:00"
+        },
+        {
+          "id": "li-erias-ventures-cno-embedded-software-engineer-linux-c-c-2026-w29",
+          "company": "Erias Ventures",
+          "title": "CNO - Embedded Software Engineer - Linux, C/C++, Python",
+          "location": "Annapolis Junction, MD",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/cno-embedded-software-engineer-linux-c-c%2B%2B-python-at-erias-ventures-4442469958",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4442469958",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-18T19:59:38.392440+00:00"
         }
       ]
     }
