@@ -5364,6 +5364,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-18T19:59:38.392440+00:00"
+        },
+        {
+          "id": "li-erias-ventures-enterprise-senior-rf-software-engineer-d-2026-w29",
+          "company": "Erias Ventures",
+          "title": "Enterprise - Senior RF Software Engineer - DSP, Linux, C++",
+          "location": "Annapolis Junction, MD",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/enterprise-senior-rf-software-engineer-dsp-linux-c%2B%2B-at-erias-ventures-4442473755",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4442473755",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-18T19:30:19.793536+00:00"
         }
       ]
     }
