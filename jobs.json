@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-20",
-  "lastChecked": "2026-07-09",
+  "lastChecked": "2026-07-20",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -1014,7 +1014,243 @@
     {
       "weekId": "2026-W26",
       "label": "Week of June 22 - June 28, 2026",
-      "jobs": [],
+      "jobs": [
+        {
+          "id": "aurora-senior-software-engineer-calibration-w26",
+          "company": "Aurora",
+          "title": "Senior Software Engineer, Calibration",
+          "location": "San Francisco, California; Seattle, Washington",
+          "remote": "Onsite/Hybrid",
+          "industry": "Software Autonomy Sensing",
+          "salary": null,
+          "summary": "FRESH \u2014 posted 6 days ago. Callback score 68.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Go"
+          ],
+          "url": "https://aurora.tech/jobs/8633156002?gh_jid=8633156002",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "6 days ago",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 68.0,
+          "postedAtUtc": "2026-07-14T13:01:58-04:00",
+          "atsJobId": "8633156002"
+        },
+        {
+          "id": "roblox-principal-software-engineer-backend-communication-platform-w26",
+          "company": "Roblox",
+          "title": "Principal Software Engineer (Backend), Communication Platform",
+          "location": "San Mateo, CA, United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "Software Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted 5 days ago. Callback score 68.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Distributed systems",
+            "Go"
+          ],
+          "url": "https://careers.roblox.com/jobs/8060252?gh_jid=8060252",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "5 days ago",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 68.0,
+          "postedAtUtc": "2026-07-15T12:44:34-04:00",
+          "atsJobId": "8060252"
+        },
+        {
+          "id": "roblox-principal-software-engineer-ci-and-cd-foundation-w26",
+          "company": "Roblox",
+          "title": "Principal Software Engineer, CI and CD Foundation",
+          "location": "San Mateo, CA, United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "Software Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted 5 days ago. Callback score 68.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Kubernetes",
+            "Python",
+            "Go"
+          ],
+          "url": "https://careers.roblox.com/jobs/8047821?gh_jid=8047821",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "5 days ago",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 68.0,
+          "postedAtUtc": "2026-07-15T14:38:53-04:00",
+          "atsJobId": "8047821"
+        },
+        {
+          "id": "roblox-senior-software-engineer-assistant-w26",
+          "company": "Roblox",
+          "title": "Senior Software Engineer: Assistant",
+          "location": "San Mateo, CA, United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "Software Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted 5 days ago. Callback score 68.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://careers.roblox.com/jobs/8047823?gh_jid=8047823",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "5 days ago",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 68.0,
+          "postedAtUtc": "2026-07-15T11:45:19-04:00",
+          "atsJobId": "8047823"
+        },
+        {
+          "id": "jump-trading-software-engineer-gui-w26",
+          "company": "Jump Trading",
+          "title": "Software Engineer | GUI",
+          "location": "Chicago",
+          "remote": "Onsite/Hybrid",
+          "industry": "IT Infrastructure + WCW",
+          "salary": null,
+          "summary": "FRESH \u2014 posted 5 days ago. Callback score 68.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Rust"
+          ],
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=7662486",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "5 days ago",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 68.0,
+          "postedAtUtc": "2026-07-15T13:46:50-04:00",
+          "atsJobId": "7662486"
+        },
+        {
+          "id": "tower-research-2-senior-platform-engineer-build-developer-infrastructure-w26",
+          "company": "Tower Research 2",
+          "title": "Senior Platform Engineer, Build & Developer Infrastructure",
+          "location": "New York",
+          "remote": "Onsite/Hybrid",
+          "industry": "Quantitative Research & Trading",
+          "salary": null,
+          "summary": "FRESH \u2014 posted 4 days ago. Callback score 68.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "CMake",
+            "Distributed systems",
+            "Networking",
+            "Kubernetes",
+            "Python"
+          ],
+          "url": "https://www.tower-research.com/open-positions/?gh_jid=8055190",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "4 days ago",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 68.0,
+          "postedAtUtc": "2026-07-16T16:14:31-04:00",
+          "atsJobId": "8055190"
+        },
+        {
+          "id": "riot-games-manager-software-engineering-core-services-valorant-w26",
+          "company": "Riot Games",
+          "title": "Manager, Software Engineering, Core Services - VALORANT",
+          "location": "Mercer Island, USA",
+          "remote": "Onsite/Hybrid",
+          "industry": "VALORANT Studio",
+          "salary": null,
+          "summary": "FRESH \u2014 posted 4 days ago. Callback score 68.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.riotgames.com/en/work-with-us/job/8056379?gh_jid=8056379",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "4 days ago",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 68.0,
+          "postedAtUtc": "2026-07-16T21:05:09-04:00",
+          "atsJobId": "8056379"
+        },
+        {
+          "id": "pinterest-staff-software-engineer-capacity-engineering-w26",
+          "company": "Pinterest",
+          "title": "Staff Software Engineer, Capacity Engineering",
+          "location": "San Francisco, CA, US; Remote, US",
+          "remote": "Remote",
+          "industry": "Data Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted 4 days ago. Callback score 68.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Distributed systems",
+            "Kubernetes",
+            "Python"
+          ],
+          "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494668",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "4 days ago",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 68.0,
+          "postedAtUtc": "2026-07-16T12:47:45-04:00",
+          "atsJobId": "7494668"
+        },
+        {
+          "id": "coreweave-gh-senior-software-engineer-gpu-kernel-authoring-optimization-w26",
+          "company": "CoreWeave GH",
+          "title": "Senior Software Engineer - GPU Kernel Authoring & Optimization",
+          "location": "Sunnyvale, CA / Bellevue, WA",
+          "remote": "Onsite/Hybrid",
+          "industry": "Technology",
+          "salary": null,
+          "summary": "FRESH \u2014 posted 6 days ago. Callback score 68.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Kubernetes",
+            "Python"
+          ],
+          "url": "https://coreweave.com/careers/job?4697100006&board=coreweave&gh_jid=4697100006",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "6 days ago",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 68.0,
+          "postedAtUtc": "2026-07-14T18:01:55-04:00",
+          "atsJobId": "4697100006"
+        },
+        {
+          "id": "perplexity-member-of-technical-staff-software-engineer-inference-training-platfo-w26",
+          "company": "Perplexity",
+          "title": "Member of Technical Staff (Software Engineer, Inference & Training Platform)",
+          "location": "San Francisco",
+          "remote": "Onsite/Hybrid",
+          "industry": "AI Research & Systems",
+          "salary": null,
+          "summary": "FRESH \u2014 posted 4 days ago. Callback score 58.0/100. Direct Ashby ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Distributed systems",
+            "Networking",
+            "Kubernetes",
+            "Rust",
+            "Go"
+          ],
+          "url": "https://jobs.ashbyhq.com/perplexity/4b8347e9-615e-4176-bfb8-3be9025f9f27",
+          "source": "Ashby API (live)",
+          "postedApprox": "4 days ago",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 58.0,
+          "postedAtUtc": "2026-07-16T19:29:48.635000+00:00",
+          "atsJobId": "4b8347e9-615e-4176-bfb8-3be9025f9f27"
+        }
+      ],
       "removedNotes": [
         "Dynatrace Senior C++ Developer (Gdansk, Poland) - job removed/closed + non-US; dropped.",
         "ServiceNow Senior C++ SWE Data Platform (Santa Clara) - posting expired; dropped.",
@@ -1275,50 +1511,80 @@
           "regionRank": 1
         },
         {
-          "id": "li-eliassen-group-c-software-engineer-2026-w30",
-          "company": "Eliassen Group",
-          "title": "C++ Software Engineer",
-          "location": "Gaithersburg, MD",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-eliassen-group-4440151897",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "10 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4440151897",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-20T16:06:35.368913+00:00"
-        },
-        {
-          "id": "li-delmar-nord-senior-quantitative-developer-top-tier-q-2026-w30",
-          "company": "Delmar Nord",
-          "title": "Senior Quantitative Developer | Top Tier Quant Trading Firm in NYC | Python & C++",
+          "id": "li-ripple-senior-software-engineer-c-2026-w30",
+          "company": "Ripple",
+          "title": "Senior Software Engineer, C++",
           "location": "New York, NY",
           "remote": "Onsite",
           "industry": "\u2014",
           "salary": null,
-          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
+          "summary": "LinkedIn scrape: posted 11 hours ago. Verify role details on opening.",
           "skills": [
             "C++"
           ],
-          "url": "https://www.linkedin.com/jobs/view/senior-quantitative-developer-top-tier-quant-trading-firm-in-nyc-python-c%2B%2B-at-delmar-nord-4442731952",
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-at-ripple-4318373256",
           "source": "LinkedIn (24h scrape)",
-          "postedApprox": "10 hours ago",
+          "postedApprox": "11 hours ago",
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4442731952",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-20T16:06:35.368913+00:00"
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head"
+        },
+        {
+          "id": "li-nvidia-ai-senior-c-software-engineer-2026-w30",
+          "company": "NVIDIA AI",
+          "title": "Senior C++ Software Engineer",
+          "location": "Westford, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 days ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-nvidia-ai-4438464942",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head"
+        },
+        {
+          "id": "li-path-robotics-software-engineer-c-robotics-2026-w30",
+          "company": "Path Robotics",
+          "title": "Software Engineer, C++/Robotics",
+          "location": "Columbus, OH",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 days ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-robotics-at-path-robotics-4440818273",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head"
+        },
+        {
+          "id": "li-applied-intuition-c-software-engineer-autonomous-systems-2026-w30",
+          "company": "Applied Intuition",
+          "title": "C++ Software Engineer \u2013 Autonomous Systems",
+          "location": "Ann Arbor, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 days ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-%E2%80%93-autonomous-systems-at-applied-intuition-4423962795",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head"
         }
       ]
     }
