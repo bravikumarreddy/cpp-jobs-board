@@ -1206,52 +1206,6 @@
           "postedAtUtc": "2026-07-20T21:07:26.624993+00:00"
         },
         {
-          "id": "li-cube-hub-inc-embedded-software-engineer-c-c-matlab-si-2026-w30",
-          "company": "Cube Hub Inc.",
-          "title": "Embedded Software Engineer \u2013 C/C++ | MATLAB/Simulink | CAN",
-          "location": "Cary, NC",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-%E2%80%93-c-c%2B%2B-matlab-simulink-can-at-cube-hub-inc-4442087558",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "9 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4442087558",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-20T16:07:26.624993+00:00"
-        },
-        {
-          "id": "li-mti-systems-sr-engineer-satcom-networking-software-c-2026-w30",
-          "company": "MTi Systems",
-          "title": "SR Engineer \u2014 SATCOM Networking & Software (C/C++/Python)",
-          "location": "Alexandria, VA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/sr-engineer-%E2%80%94-satcom-networking-software-c-c%2B%2B-python-at-mti-systems-4442086328",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "10 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4442086328",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-20T15:07:26.624993+00:00"
-        },
-        {
           "id": "li-millennium-c-software-engineer-trade-capture-2026-w30",
           "company": "Millennium",
           "title": "C++ Software Engineer - Trade Capture",
@@ -1273,52 +1227,6 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-20T01:09:17.288507+00:00"
-        },
-        {
-          "id": "li-hire-feed-c-developer-remote-2026-w30",
-          "company": "Hire Feed",
-          "title": "C++ Developer (Remote)",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 13 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-remote-at-hire-feed-4442596807",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "13 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4442596807",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-07-20T12:09:17.288507+00:00"
-        },
-        {
-          "id": "li-dataannotation-c-engineer-ai-trainer-2026-w30",
-          "company": "DataAnnotation",
-          "title": "C++ Engineer - AI Trainer",
-          "location": "North Carolina, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-ai-trainer-at-dataannotation-4397405076",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "8 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4397405076",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-07-20T17:09:17.288507+00:00"
         }
       ]
     }
