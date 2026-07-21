@@ -1585,6 +1585,684 @@
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
           "yoeNote": "Auto-scraped \u2014 apply filters in your head"
+        },
+        {
+          "id": "flow-traders-senior-software-engineer-c-market-data-new-york",
+          "company": "Flow Traders",
+          "title": "Senior Software Engineer, C++ (Market Data)",
+          "location": "New York",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-07-09.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8027267",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-07-09",
+          "region": "East",
+          "externalId": "greenhouse:8027267"
+        },
+        {
+          "id": "tower-research-capital-software-engineer-trading-systems-c-new-york",
+          "company": "Tower Research Capital",
+          "title": "Software Engineer, Trading Systems (C++)",
+          "location": "New York",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-06-05.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.tower-research.com/open-positions/?gh_jid=7985905",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-06-05",
+          "region": "East"
+        },
+        {
+          "id": "flow-traders-senior-software-engineer-c-new-york",
+          "company": "Flow Traders",
+          "title": "Senior Software Engineer, C++",
+          "location": "New York",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-07-09.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8027268",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-07-09",
+          "region": "East",
+          "externalId": "greenhouse:8027268"
+        },
+        {
+          "id": "clickhouse-core-software-engineer-c-remote-united-states-remote",
+          "company": "ClickHouse",
+          "title": "Core Software Engineer (C++) - Remote",
+          "location": "United States (remote)",
+          "remote": "Remote",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-01-16.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5755093004",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-01-16",
+          "region": "Remote",
+          "externalId": "greenhouse:5755093004"
+        },
+        {
+          "id": "akuna-capital-software-engineer-c-trading-strategies-chicago-il",
+          "company": "Akuna Capital",
+          "title": "Software Engineer - C++, Trading Strategies",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-01-02.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.akunacapital.com/careers/job/7496408/?gh_jid=7496408",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-01-02",
+          "region": "Central"
+        },
+        {
+          "id": "old-mission-capital-c-software-engineer-new-york-ny-united-states",
+          "company": "Old Mission Capital",
+          "title": "C++ Software Engineer",
+          "location": "New York, NY, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2023-05-08.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.oldmissioncapital.com/careers/?gh_jid=5607344003",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2023-05-08",
+          "region": "East"
+        },
+        {
+          "id": "drw-senior-software-engineer-c-algo-chicago",
+          "company": "DRW",
+          "title": "Senior Software Engineer, C++ (Algo)",
+          "location": "Chicago",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-06-15.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/drweng/jobs/7997877",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-06-15",
+          "region": "Central",
+          "externalId": "greenhouse:7997877"
+        },
+        {
+          "id": "akuna-capital-software-engineer-c-chicago-il",
+          "company": "Akuna Capital",
+          "title": "Software Engineer - C++",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-01-02.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.akunacapital.com/careers/job/7496397/?gh_jid=7496397",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-01-02",
+          "region": "Central"
+        },
+        {
+          "id": "tower-research-capital-senior-platform-engineer-build-developer-infrastructure-n",
+          "company": "Tower Research Capital",
+          "title": "Senior Platform Engineer, Build & Developer Infrastructure",
+          "location": "New York",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-07-16.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.tower-research.com/open-positions/?gh_jid=8055190",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-07-16",
+          "region": "East"
+        },
+        {
+          "id": "motional-engineer-senior-engineer-perception-capabilities-boston-massachusetts-u",
+          "company": "Motional",
+          "title": "Engineer/Senior Engineer - Perception Capabilities",
+          "location": "Boston, Massachusetts, United States",
+          "remote": "Remote",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2025-11-21.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://motional.com/open-positions/?gh_jid=7534977003#/7534977003",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2025-11-21",
+          "region": "East"
+        },
+        {
+          "id": "motional-senior-embedded-software-engineer-pittsburgh-pennsylvania-united-states",
+          "company": "Motional",
+          "title": "Senior Embedded Software Engineer",
+          "location": "Pittsburgh, Pennsylvania, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-05-07.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://motional.com/open-positions/?gh_jid=7727295003#/7727295003",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-05-07",
+          "region": "East"
+        },
+        {
+          "id": "motional-senior-motion-planning-engineer-trajectory-generation-boston-massachuse",
+          "company": "Motional",
+          "title": "Senior Motion Planning Engineer - Trajectory Generation",
+          "location": "Boston, Massachusetts, United States",
+          "remote": "Remote",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-06-30.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://motional.com/open-positions/?gh_jid=7789999003#/7789999003",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-06-30",
+          "region": "East"
+        },
+        {
+          "id": "point72-machine-learning-infrastructure-engineer-genai-technology-new-york-ny",
+          "company": "Point72",
+          "title": "Machine Learning Infrastructure Engineer, GenAI Technology",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-04-20.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://boards.greenhouse.io/point72/jobs/8472280002?gh_jid=8472280002",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-04-20",
+          "region": "East",
+          "externalId": "greenhouse:8472280002"
+        },
+        {
+          "id": "optiver-machine-learning-performance-engineer-new-york-new-york",
+          "company": "Optiver",
+          "title": "Machine Learning Performance Engineer",
+          "location": "New York, New York",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-02-05.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.optiver.com/join-us/jobs/8405271002/?gh_jid=8405271002",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-02-05",
+          "region": "East"
+        },
+        {
+          "id": "jump-trading-quantitative-developer-trading-team-new-york-city-or-chicago",
+          "company": "Jump Trading",
+          "title": "Quantitative Developer | Trading Team",
+          "location": "New York City or Chicago",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-03-30.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=7767735",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-03-30",
+          "region": "East"
+        },
+        {
+          "id": "jane-street-low-latency-engineer-new-york-new-york-united-states",
+          "company": "Jane Street",
+          "title": "Low-Latency Engineer",
+          "location": "New York, New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2022-07-06.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/janestreet/jobs/6254435002",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2022-07-06",
+          "region": "East",
+          "externalId": "greenhouse:6254435002"
+        },
+        {
+          "id": "drw-software-engineer-market-data-cumberland-new-york-city",
+          "company": "DRW",
+          "title": "Software Engineer, Market Data - Cumberland",
+          "location": "New York City",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-01-26.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/drweng/jobs/7563830",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-01-26",
+          "region": "East",
+          "externalId": "greenhouse:7563830"
+        },
+        {
+          "id": "clickhouse-senior-software-engineer-cloud-infrastructure-united-states-remote",
+          "company": "ClickHouse",
+          "title": "Senior Software Engineer - Cloud Infrastructure",
+          "location": "United States(Remote)",
+          "remote": "Remote",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-03-05.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819674004",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-03-05",
+          "region": "Remote",
+          "externalId": "greenhouse:5819674004"
+        },
+        {
+          "id": "clickhouse-senior-software-engineer-identity-authorization-platform-united-state",
+          "company": "ClickHouse",
+          "title": "Senior Software Engineer - Identity & Authorization Platform",
+          "location": "United States (remote)",
+          "remote": "Remote",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-06-22.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6018899004",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-06-22",
+          "region": "Remote",
+          "externalId": "greenhouse:6018899004"
+        },
+        {
+          "id": "drw-senior-software-engineer-c-ficco-data-new-york-city",
+          "company": "DRW",
+          "title": "Senior Software Engineer, C/FICCO Data",
+          "location": "New York City",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2025-08-18.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/drweng/jobs/7176348",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2025-08-18",
+          "region": "East",
+          "externalId": "greenhouse:7176348"
+        },
+        {
+          "id": "formlabs-senior-robotic-systems-integration-engineer-sla-sls-boston-ma",
+          "company": "Formlabs",
+          "title": "Senior Robotic Systems Integration Engineer (SLA & SLS)",
+          "location": "Boston, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-07-17.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://careers.formlabs.com/job/8072851/apply/?gh_jid=8072851",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-07-17",
+          "region": "East"
+        },
+        {
+          "id": "mongodb-senior-software-engineer-server-security-new-york-city",
+          "company": "MongoDB",
+          "title": "Senior Software Engineer, Server Security",
+          "location": "New York City",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-04-17.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.mongodb.com/careers/job/?gh_jid=7815677",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-04-17",
+          "region": "East"
+        },
+        {
+          "id": "mongodb-senior-software-engineer-storage-layer-services-new-york-city",
+          "company": "MongoDB",
+          "title": "Senior Software Engineer, Storage Layer Services",
+          "location": "New York City",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-06-17.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.mongodb.com/careers/job/?gh_jid=7947560",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-06-17",
+          "region": "East"
+        },
+        {
+          "id": "clickhouse-cloud-database-infrastructure-engineer-united-states-remote",
+          "company": "ClickHouse",
+          "title": "Cloud Database Infrastructure Engineer",
+          "location": "United States (Remote)",
+          "remote": "Remote",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-02-02.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5778617004",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-02-02",
+          "region": "Remote",
+          "externalId": "greenhouse:5778617004"
+        },
+        {
+          "id": "datadog-senior-software-engineer-distributed-systems-boston-massachusetts-usa",
+          "company": "Datadog",
+          "title": "Senior Software Engineer - Distributed Systems",
+          "location": "Boston, Massachusetts, USA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2022-01-27.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://careers.datadoghq.com/detail/3851927/?gh_jid=3851927",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2022-01-27",
+          "region": "East"
+        },
+        {
+          "id": "datadog-staff-software-engineer-logs-observability-pipelines-new-york-new-york-u",
+          "company": "Datadog",
+          "title": "Staff Software Engineer - Logs Observability Pipelines",
+          "location": "New York, New York, USA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-03-23.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://careers.datadoghq.com/detail/7743369/?gh_jid=7743369",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-03-23",
+          "region": "East"
+        },
+        {
+          "id": "epic-games-senior-ai-engineer-cary-north-carolina-united-states",
+          "company": "Epic Games",
+          "title": "Senior AI Engineer",
+          "location": "Cary,North Carolina,United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-05-22.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://epicgames.com/careers/jobs/6001641004?gh_jid=6001641004",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-05-22",
+          "region": "East"
+        },
+        {
+          "id": "epic-games-senior-game-security-engineer-cary-north-carolina-united-states",
+          "company": "Epic Games",
+          "title": "Senior Game Security Engineer",
+          "location": "Cary,North Carolina,United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-05-04.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://epicgames.com/careers/jobs/5986042004?gh_jid=5986042004",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-05-04",
+          "region": "East"
+        },
+        {
+          "id": "optiver-software-engineer-trading-strategies-chicago-illinois-united-states",
+          "company": "Optiver",
+          "title": "Software Engineer - Trading Strategies",
+          "location": "Chicago, Illinois, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-06-26.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.optiver.com/join-us/jobs/8576683002/?gh_jid=8576683002",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-06-26",
+          "region": "Central"
+        },
+        {
+          "id": "jump-trading-software-engineer-market-data-systems-chicago",
+          "company": "Jump Trading",
+          "title": "Software Engineer | Market Data Systems",
+          "location": "Chicago",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-07-16.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=7847009",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-07-16",
+          "region": "Central"
+        },
+        {
+          "id": "akuna-capital-performance-engineer-chicago-il",
+          "company": "Akuna Capital",
+          "title": "Performance Engineer",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-01-02.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.akunacapital.com/careers/job/7496414/?gh_jid=7496414",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-01-02",
+          "region": "Central"
+        },
+        {
+          "id": "optiver-fpga-engineer-new-york-new-york",
+          "company": "Optiver",
+          "title": "FPGA Engineer",
+          "location": "New York, New York",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-01-14.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.optiver.com/join-us/jobs/8375617002/?gh_jid=8375617002",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-01-14",
+          "region": "East"
+        },
+        {
+          "id": "imc-trading-hardware-machine-learning-engineer-chicago-united-states",
+          "company": "IMC Trading",
+          "title": "Hardware Machine Learning Engineer",
+          "location": "Chicago, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-02-13.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4713602101",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-02-13",
+          "region": "East",
+          "externalId": "greenhouse:4713602101"
+        },
+        {
+          "id": "imc-trading-quantitative-developer-new-york-united-states",
+          "company": "IMC Trading",
+          "title": "Quantitative Developer",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-02-09.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4778139101",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-02-09",
+          "region": "East",
+          "externalId": "greenhouse:4778139101"
+        },
+        {
+          "id": "jane-street-asic-engineer-new-york-new-york-united-states",
+          "company": "Jane Street",
+          "title": "ASIC Engineer",
+          "location": "New York, New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2025-10-29.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/janestreet/jobs/8213653002",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2025-10-29",
+          "region": "East",
+          "externalId": "greenhouse:8213653002"
+        },
+        {
+          "id": "jane-street-asic-physical-design-engineer-new-york-new-york-united-states",
+          "company": "Jane Street",
+          "title": "ASIC Physical Design Engineer",
+          "location": "New York, New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-04-30.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/janestreet/jobs/8531243002",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-04-30",
+          "region": "East",
+          "externalId": "greenhouse:8531243002"
+        },
+        {
+          "id": "formlabs-robotic-systems-integration-engineer-sla-sls-boston-ma",
+          "company": "Formlabs",
+          "title": "Robotic Systems Integration Engineer (SLA & SLS)",
+          "location": "Boston, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-07-17.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://careers.formlabs.com/job/8072847/apply/?gh_jid=8072847",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-07-17",
+          "region": "East"
+        },
+        {
+          "id": "epic-games-lead-ui-engineer-cary-north-carolina-united-states",
+          "company": "Epic Games",
+          "title": "Lead UI Engineer",
+          "location": "Cary,North Carolina,United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-06-11.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://epicgames.com/careers/jobs/6001702004?gh_jid=6001702004",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2026-06-11",
+          "region": "East"
+        },
+        {
+          "id": "old-mission-capital-bazel-engineer-chicago-il-united-states",
+          "company": "Old Mission Capital",
+          "title": "Bazel Engineer",
+          "location": "Chicago, IL, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Greenhouse live board (deep sweep): still open, listed since 2024-12-05.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6286727003",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "open since 2024-12-05",
+          "region": "Central"
         }
       ]
     }
