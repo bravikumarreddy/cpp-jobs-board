@@ -1227,6 +1227,98 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-20T01:09:17.288507+00:00"
+        },
+        {
+          "id": "built-citadel-securities-c-software-engineer-2026-w30",
+          "postedAtUtc": "2026-07-17T00:00:00.000295+00:00",
+          "company": "Citadel Securities",
+          "title": "C++ Software Engineer",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 4 days ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/c-software-engineer/1781461",
+          "source": "Built In",
+          "postedApprox": "4 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:1781461",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "built-imc-trading-c-software-engineer-2026-w30",
+          "postedAtUtc": "2026-07-15T00:00:00.000278+00:00",
+          "company": "IMC Trading",
+          "title": "C++ Software Engineer",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 6 days ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/c-software-engineer/7126317",
+          "source": "Built In",
+          "postedApprox": "6 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:7126317",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-eliassen-group-c-software-engineer-2026-w30",
+          "company": "Eliassen Group",
+          "title": "C++ Software Engineer",
+          "location": "Gaithersburg, MD",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-eliassen-group-4440151897",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4440151897",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-20T16:06:35.368913+00:00"
+        },
+        {
+          "id": "li-delmar-nord-senior-quantitative-developer-top-tier-q-2026-w30",
+          "company": "Delmar Nord",
+          "title": "Senior Quantitative Developer | Top Tier Quant Trading Firm in NYC | Python & C++",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-quantitative-developer-top-tier-quant-trading-firm-in-nyc-python-c%2B%2B-at-delmar-nord-4442731952",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4442731952",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-20T16:06:35.368913+00:00"
         }
       ]
     }
