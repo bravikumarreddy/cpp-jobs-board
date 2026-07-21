@@ -1016,28 +1016,6 @@
       "label": "Week of June 22 - June 28, 2026",
       "jobs": [
         {
-          "id": "aurora-senior-software-engineer-calibration-w26",
-          "company": "Aurora",
-          "title": "Senior Software Engineer, Calibration",
-          "location": "San Francisco, California; Seattle, Washington",
-          "remote": "Onsite/Hybrid",
-          "industry": "Software Autonomy Sensing",
-          "salary": null,
-          "summary": "FRESH \u2014 posted 6 days ago. Callback score 68.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Go"
-          ],
-          "url": "https://aurora.tech/jobs/8633156002?gh_jid=8633156002",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "6 days ago",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 68.0,
-          "postedAtUtc": "2026-07-14T13:01:58-04:00",
-          "atsJobId": "8633156002"
-        },
-        {
           "id": "roblox-principal-software-engineer-backend-communication-platform-w26",
           "company": "Roblox",
           "title": "Principal Software Engineer (Backend), Communication Platform",
@@ -1058,7 +1036,9 @@
           "yoeNote": "Auto-pulled from live ATS feed.",
           "callbackScore": 68.0,
           "postedAtUtc": "2026-07-15T12:44:34-04:00",
-          "atsJobId": "8060252"
+          "atsJobId": "8060252",
+          "region": "West",
+          "regionRank": 5
         },
         {
           "id": "roblox-principal-software-engineer-ci-and-cd-foundation-w26",
@@ -1082,7 +1062,9 @@
           "yoeNote": "Auto-pulled from live ATS feed.",
           "callbackScore": 68.0,
           "postedAtUtc": "2026-07-15T14:38:53-04:00",
-          "atsJobId": "8047821"
+          "atsJobId": "8047821",
+          "region": "West",
+          "regionRank": 5
         },
         {
           "id": "roblox-senior-software-engineer-assistant-w26",
@@ -1104,125 +1086,9 @@
           "yoeNote": "Auto-pulled from live ATS feed.",
           "callbackScore": 68.0,
           "postedAtUtc": "2026-07-15T11:45:19-04:00",
-          "atsJobId": "8047823"
-        },
-        {
-          "id": "jump-trading-software-engineer-gui-w26",
-          "company": "Jump Trading",
-          "title": "Software Engineer | GUI",
-          "location": "Chicago",
-          "remote": "Onsite/Hybrid",
-          "industry": "IT Infrastructure + WCW",
-          "salary": null,
-          "summary": "FRESH \u2014 posted 5 days ago. Callback score 68.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Rust"
-          ],
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=7662486",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "5 days ago",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 68.0,
-          "postedAtUtc": "2026-07-15T13:46:50-04:00",
-          "atsJobId": "7662486"
-        },
-        {
-          "id": "tower-research-2-senior-platform-engineer-build-developer-infrastructure-w26",
-          "company": "Tower Research 2",
-          "title": "Senior Platform Engineer, Build & Developer Infrastructure",
-          "location": "New York",
-          "remote": "Onsite/Hybrid",
-          "industry": "Quantitative Research & Trading",
-          "salary": null,
-          "summary": "FRESH \u2014 posted 4 days ago. Callback score 68.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Linux",
-            "CMake",
-            "Distributed systems",
-            "Networking",
-            "Kubernetes",
-            "Python"
-          ],
-          "url": "https://www.tower-research.com/open-positions/?gh_jid=8055190",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "4 days ago",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 68.0,
-          "postedAtUtc": "2026-07-16T16:14:31-04:00",
-          "atsJobId": "8055190"
-        },
-        {
-          "id": "riot-games-manager-software-engineering-core-services-valorant-w26",
-          "company": "Riot Games",
-          "title": "Manager, Software Engineering, Core Services - VALORANT",
-          "location": "Mercer Island, USA",
-          "remote": "Onsite/Hybrid",
-          "industry": "VALORANT Studio",
-          "salary": null,
-          "summary": "FRESH \u2014 posted 4 days ago. Callback score 68.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.riotgames.com/en/work-with-us/job/8056379?gh_jid=8056379",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "4 days ago",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 68.0,
-          "postedAtUtc": "2026-07-16T21:05:09-04:00",
-          "atsJobId": "8056379"
-        },
-        {
-          "id": "pinterest-staff-software-engineer-capacity-engineering-w26",
-          "company": "Pinterest",
-          "title": "Staff Software Engineer, Capacity Engineering",
-          "location": "San Francisco, CA, US; Remote, US",
-          "remote": "Remote",
-          "industry": "Data Engineering",
-          "salary": null,
-          "summary": "FRESH \u2014 posted 4 days ago. Callback score 68.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Distributed systems",
-            "Kubernetes",
-            "Python"
-          ],
-          "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494668",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "4 days ago",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 68.0,
-          "postedAtUtc": "2026-07-16T12:47:45-04:00",
-          "atsJobId": "7494668"
-        },
-        {
-          "id": "coreweave-gh-senior-software-engineer-gpu-kernel-authoring-optimization-w26",
-          "company": "CoreWeave GH",
-          "title": "Senior Software Engineer - GPU Kernel Authoring & Optimization",
-          "location": "Sunnyvale, CA / Bellevue, WA",
-          "remote": "Onsite/Hybrid",
-          "industry": "Technology",
-          "salary": null,
-          "summary": "FRESH \u2014 posted 6 days ago. Callback score 68.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Kubernetes",
-            "Python"
-          ],
-          "url": "https://coreweave.com/careers/job?4697100006&board=coreweave&gh_jid=4697100006",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "6 days ago",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 68.0,
-          "postedAtUtc": "2026-07-14T18:01:55-04:00",
-          "atsJobId": "4697100006"
+          "atsJobId": "8047823",
+          "region": "West",
+          "regionRank": 5
         },
         {
           "id": "perplexity-member-of-technical-staff-software-engineer-inference-training-platfo-w26",
@@ -1248,7 +1114,10 @@
           "yoeNote": "Auto-pulled from live ATS feed.",
           "callbackScore": 58.0,
           "postedAtUtc": "2026-07-16T19:29:48.635000+00:00",
-          "atsJobId": "4b8347e9-615e-4176-bfb8-3be9025f9f27"
+          "atsJobId": "4b8347e9-615e-4176-bfb8-3be9025f9f27",
+          "externalId": "ashby:4b8347e9-615e-4176-bfb8-3be9025f9f27",
+          "region": "West",
+          "regionRank": 5
         }
       ],
       "removedNotes": [
@@ -1511,25 +1380,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-ripple-senior-software-engineer-c-2026-w30",
-          "company": "Ripple",
-          "title": "Senior Software Engineer, C++",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 11 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-at-ripple-4318373256",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "11 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head"
-        },
-        {
           "id": "li-nvidia-ai-senior-c-software-engineer-2026-w30",
           "company": "NVIDIA AI",
           "title": "Senior C++ Software Engineer",
@@ -1546,7 +1396,11 @@
           "postedApprox": "4 days ago",
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head"
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4438464942",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-17T14:09:20.680325+00:00"
         },
         {
           "id": "li-path-robotics-software-engineer-c-robotics-2026-w30",
@@ -1565,7 +1419,11 @@
           "postedApprox": "6 days ago",
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head"
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4440818273",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-15T14:09:20.680325+00:00"
         },
         {
           "id": "li-applied-intuition-c-software-engineer-autonomous-systems-2026-w30",
@@ -1584,7 +1442,11 @@
           "postedApprox": "5 days ago",
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head"
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4423962795",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-16T14:09:20.680325+00:00"
         },
         {
           "id": "flow-traders-senior-software-engineer-c-market-data-new-york",
@@ -1602,24 +1464,8 @@
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2026-07-09",
           "region": "East",
-          "externalId": "greenhouse:8027267"
-        },
-        {
-          "id": "tower-research-capital-software-engineer-trading-systems-c-new-york",
-          "company": "Tower Research Capital",
-          "title": "Software Engineer, Trading Systems (C++)",
-          "location": "New York",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-06-05.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.tower-research.com/open-positions/?gh_jid=7985905",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2026-06-05",
-          "region": "East"
+          "externalId": "greenhouse:8027267",
+          "regionRank": 1
         },
         {
           "id": "flow-traders-senior-software-engineer-c-new-york",
@@ -1637,7 +1483,8 @@
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2026-07-09",
           "region": "East",
-          "externalId": "greenhouse:8027268"
+          "externalId": "greenhouse:8027268",
+          "regionRank": 1
         },
         {
           "id": "clickhouse-core-software-engineer-c-remote-united-states-remote",
@@ -1655,41 +1502,8 @@
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2026-01-16",
           "region": "Remote",
-          "externalId": "greenhouse:5755093004"
-        },
-        {
-          "id": "akuna-capital-software-engineer-c-trading-strategies-chicago-il",
-          "company": "Akuna Capital",
-          "title": "Software Engineer - C++, Trading Strategies",
-          "location": "Chicago, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-01-02.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.akunacapital.com/careers/job/7496408/?gh_jid=7496408",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2026-01-02",
-          "region": "Central"
-        },
-        {
-          "id": "old-mission-capital-c-software-engineer-new-york-ny-united-states",
-          "company": "Old Mission Capital",
-          "title": "C++ Software Engineer",
-          "location": "New York, NY, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2023-05-08.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.oldmissioncapital.com/careers/?gh_jid=5607344003",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2023-05-08",
-          "region": "East"
+          "externalId": "greenhouse:5755093004",
+          "regionRank": 2
         },
         {
           "id": "drw-senior-software-engineer-c-algo-chicago",
@@ -1707,7 +1521,8 @@
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2026-06-15",
           "region": "Central",
-          "externalId": "greenhouse:7997877"
+          "externalId": "greenhouse:7997877",
+          "regionRank": 3
         },
         {
           "id": "akuna-capital-software-engineer-c-chicago-il",
@@ -1724,75 +1539,8 @@
           "url": "https://www.akunacapital.com/careers/job/7496397/?gh_jid=7496397",
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2026-01-02",
-          "region": "Central"
-        },
-        {
-          "id": "tower-research-capital-senior-platform-engineer-build-developer-infrastructure-n",
-          "company": "Tower Research Capital",
-          "title": "Senior Platform Engineer, Build & Developer Infrastructure",
-          "location": "New York",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-07-16.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.tower-research.com/open-positions/?gh_jid=8055190",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2026-07-16",
-          "region": "East"
-        },
-        {
-          "id": "motional-engineer-senior-engineer-perception-capabilities-boston-massachusetts-u",
-          "company": "Motional",
-          "title": "Engineer/Senior Engineer - Perception Capabilities",
-          "location": "Boston, Massachusetts, United States",
-          "remote": "Remote",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2025-11-21.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://motional.com/open-positions/?gh_jid=7534977003#/7534977003",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2025-11-21",
-          "region": "East"
-        },
-        {
-          "id": "motional-senior-embedded-software-engineer-pittsburgh-pennsylvania-united-states",
-          "company": "Motional",
-          "title": "Senior Embedded Software Engineer",
-          "location": "Pittsburgh, Pennsylvania, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-05-07.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://motional.com/open-positions/?gh_jid=7727295003#/7727295003",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2026-05-07",
-          "region": "East"
-        },
-        {
-          "id": "motional-senior-motion-planning-engineer-trajectory-generation-boston-massachuse",
-          "company": "Motional",
-          "title": "Senior Motion Planning Engineer - Trajectory Generation",
-          "location": "Boston, Massachusetts, United States",
-          "remote": "Remote",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-06-30.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://motional.com/open-positions/?gh_jid=7789999003#/7789999003",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2026-06-30",
-          "region": "East"
+          "region": "Central",
+          "regionRank": 3
         },
         {
           "id": "point72-machine-learning-infrastructure-engineer-genai-technology-new-york-ny",
@@ -1810,7 +1558,8 @@
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2026-04-20",
           "region": "East",
-          "externalId": "greenhouse:8472280002"
+          "externalId": "greenhouse:8472280002",
+          "regionRank": 1
         },
         {
           "id": "optiver-machine-learning-performance-engineer-new-york-new-york",
@@ -1827,24 +1576,8 @@
           "url": "https://www.optiver.com/join-us/jobs/8405271002/?gh_jid=8405271002",
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2026-02-05",
-          "region": "East"
-        },
-        {
-          "id": "jump-trading-quantitative-developer-trading-team-new-york-city-or-chicago",
-          "company": "Jump Trading",
-          "title": "Quantitative Developer | Trading Team",
-          "location": "New York City or Chicago",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-03-30.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=7767735",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2026-03-30",
-          "region": "East"
+          "region": "East",
+          "regionRank": 1
         },
         {
           "id": "jane-street-low-latency-engineer-new-york-new-york-united-states",
@@ -1862,7 +1595,8 @@
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2022-07-06",
           "region": "East",
-          "externalId": "greenhouse:6254435002"
+          "externalId": "greenhouse:6254435002",
+          "regionRank": 1
         },
         {
           "id": "drw-software-engineer-market-data-cumberland-new-york-city",
@@ -1880,7 +1614,8 @@
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2026-01-26",
           "region": "East",
-          "externalId": "greenhouse:7563830"
+          "externalId": "greenhouse:7563830",
+          "regionRank": 1
         },
         {
           "id": "clickhouse-senior-software-engineer-cloud-infrastructure-united-states-remote",
@@ -1898,7 +1633,8 @@
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2026-03-05",
           "region": "Remote",
-          "externalId": "greenhouse:5819674004"
+          "externalId": "greenhouse:5819674004",
+          "regionRank": 2
         },
         {
           "id": "clickhouse-senior-software-engineer-identity-authorization-platform-united-state",
@@ -1916,7 +1652,8 @@
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2026-06-22",
           "region": "Remote",
-          "externalId": "greenhouse:6018899004"
+          "externalId": "greenhouse:6018899004",
+          "regionRank": 2
         },
         {
           "id": "drw-senior-software-engineer-c-ficco-data-new-york-city",
@@ -1934,24 +1671,8 @@
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2025-08-18",
           "region": "East",
-          "externalId": "greenhouse:7176348"
-        },
-        {
-          "id": "formlabs-senior-robotic-systems-integration-engineer-sla-sls-boston-ma",
-          "company": "Formlabs",
-          "title": "Senior Robotic Systems Integration Engineer (SLA & SLS)",
-          "location": "Boston, MA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-07-17.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://careers.formlabs.com/job/8072851/apply/?gh_jid=8072851",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2026-07-17",
-          "region": "East"
+          "externalId": "greenhouse:7176348",
+          "regionRank": 1
         },
         {
           "id": "mongodb-senior-software-engineer-server-security-new-york-city",
@@ -1968,7 +1689,8 @@
           "url": "https://www.mongodb.com/careers/job/?gh_jid=7815677",
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2026-04-17",
-          "region": "East"
+          "region": "East",
+          "regionRank": 1
         },
         {
           "id": "mongodb-senior-software-engineer-storage-layer-services-new-york-city",
@@ -1985,7 +1707,8 @@
           "url": "https://www.mongodb.com/careers/job/?gh_jid=7947560",
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2026-06-17",
-          "region": "East"
+          "region": "East",
+          "regionRank": 1
         },
         {
           "id": "clickhouse-cloud-database-infrastructure-engineer-united-states-remote",
@@ -2003,7 +1726,8 @@
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2026-02-02",
           "region": "Remote",
-          "externalId": "greenhouse:5778617004"
+          "externalId": "greenhouse:5778617004",
+          "regionRank": 2
         },
         {
           "id": "datadog-senior-software-engineer-distributed-systems-boston-massachusetts-usa",
@@ -2020,7 +1744,8 @@
           "url": "https://careers.datadoghq.com/detail/3851927/?gh_jid=3851927",
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2022-01-27",
-          "region": "East"
+          "region": "East",
+          "regionRank": 1
         },
         {
           "id": "datadog-staff-software-engineer-logs-observability-pipelines-new-york-new-york-u",
@@ -2037,41 +1762,8 @@
           "url": "https://careers.datadoghq.com/detail/7743369/?gh_jid=7743369",
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2026-03-23",
-          "region": "East"
-        },
-        {
-          "id": "epic-games-senior-ai-engineer-cary-north-carolina-united-states",
-          "company": "Epic Games",
-          "title": "Senior AI Engineer",
-          "location": "Cary,North Carolina,United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-05-22.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://epicgames.com/careers/jobs/6001641004?gh_jid=6001641004",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2026-05-22",
-          "region": "East"
-        },
-        {
-          "id": "epic-games-senior-game-security-engineer-cary-north-carolina-united-states",
-          "company": "Epic Games",
-          "title": "Senior Game Security Engineer",
-          "location": "Cary,North Carolina,United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-05-04.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://epicgames.com/careers/jobs/5986042004?gh_jid=5986042004",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2026-05-04",
-          "region": "East"
+          "region": "East",
+          "regionRank": 1
         },
         {
           "id": "optiver-software-engineer-trading-strategies-chicago-illinois-united-states",
@@ -2088,24 +1780,8 @@
           "url": "https://www.optiver.com/join-us/jobs/8576683002/?gh_jid=8576683002",
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2026-06-26",
-          "region": "Central"
-        },
-        {
-          "id": "jump-trading-software-engineer-market-data-systems-chicago",
-          "company": "Jump Trading",
-          "title": "Software Engineer | Market Data Systems",
-          "location": "Chicago",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-07-16.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=7847009",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2026-07-16",
-          "region": "Central"
+          "region": "Central",
+          "regionRank": 3
         },
         {
           "id": "akuna-capital-performance-engineer-chicago-il",
@@ -2122,7 +1798,8 @@
           "url": "https://www.akunacapital.com/careers/job/7496414/?gh_jid=7496414",
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2026-01-02",
-          "region": "Central"
+          "region": "Central",
+          "regionRank": 3
         },
         {
           "id": "optiver-fpga-engineer-new-york-new-york",
@@ -2139,7 +1816,8 @@
           "url": "https://www.optiver.com/join-us/jobs/8375617002/?gh_jid=8375617002",
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2026-01-14",
-          "region": "East"
+          "region": "East",
+          "regionRank": 1
         },
         {
           "id": "imc-trading-hardware-machine-learning-engineer-chicago-united-states",
@@ -2156,8 +1834,9 @@
           "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4713602101",
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2026-02-13",
-          "region": "East",
-          "externalId": "greenhouse:4713602101"
+          "region": "Central",
+          "externalId": "greenhouse:4713602101",
+          "regionRank": 3
         },
         {
           "id": "imc-trading-quantitative-developer-new-york-united-states",
@@ -2175,7 +1854,8 @@
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2026-02-09",
           "region": "East",
-          "externalId": "greenhouse:4778139101"
+          "externalId": "greenhouse:4778139101",
+          "regionRank": 1
         },
         {
           "id": "jane-street-asic-engineer-new-york-new-york-united-states",
@@ -2193,7 +1873,8 @@
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2025-10-29",
           "region": "East",
-          "externalId": "greenhouse:8213653002"
+          "externalId": "greenhouse:8213653002",
+          "regionRank": 1
         },
         {
           "id": "jane-street-asic-physical-design-engineer-new-york-new-york-united-states",
@@ -2211,58 +1892,168 @@
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2026-04-30",
           "region": "East",
-          "externalId": "greenhouse:8531243002"
+          "externalId": "greenhouse:8531243002",
+          "regionRank": 1
         },
         {
-          "id": "formlabs-robotic-systems-integration-engineer-sla-sls-boston-ma",
-          "company": "Formlabs",
-          "title": "Robotic Systems Integration Engineer (SLA & SLS)",
-          "location": "Boston, MA",
+          "id": "li-boxbot-senior-software-engineer-c-2026-w30",
+          "company": "Boxbot",
+          "title": "Senior Software Engineer (C++)",
+          "location": "Alameda, CA",
           "remote": "Onsite",
           "industry": "\u2014",
           "salary": null,
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-07-17.",
+          "summary": "LinkedIn scrape: posted 14 hours ago. Verify role details on opening.",
           "skills": [
             "C++"
           ],
-          "url": "https://careers.formlabs.com/job/8072847/apply/?gh_jid=8072847",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2026-07-17",
-          "region": "East"
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-at-boxbot-4443045939",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "14 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4443045939",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-21T00:09:20.680325+00:00"
         },
         {
-          "id": "epic-games-lead-ui-engineer-cary-north-carolina-united-states",
-          "company": "Epic Games",
-          "title": "Lead UI Engineer",
-          "location": "Cary,North Carolina,United States",
+          "id": "li-signature-it-world-inc-c-engineer-2026-w30",
+          "company": "Signature IT World Inc",
+          "title": "C++ Engineer",
+          "location": "Irvine, CA",
           "remote": "Onsite",
           "industry": "\u2014",
           "salary": null,
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-06-11.",
+          "summary": "LinkedIn scrape: posted 20 hours ago. Verify role details on opening.",
           "skills": [
             "C++"
           ],
-          "url": "https://epicgames.com/careers/jobs/6001702004?gh_jid=6001702004",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2026-06-11",
-          "region": "East"
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-at-signature-it-world-inc-4440167540",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "20 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4440167540",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-20T18:09:20.680325+00:00"
         },
         {
-          "id": "old-mission-capital-bazel-engineer-chicago-il-united-states",
-          "company": "Old Mission Capital",
-          "title": "Bazel Engineer",
-          "location": "Chicago, IL, United States",
+          "id": "li-netrolynx-ai-c-developer-2026-w30",
+          "company": "Netrolynx AI",
+          "title": "C++ Developer",
+          "location": "United States",
           "remote": "Onsite",
           "industry": "\u2014",
           "salary": null,
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2024-12-05.",
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
           "skills": [
             "C++"
           ],
-          "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6286727003",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2024-12-05",
-          "region": "Central"
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-netrolynx-ai-4443369354",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4443369354",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-07-21T13:09:20.680325+00:00"
+        },
+        {
+          "id": "li-boxbot-principal-software-engineer-c-2026-w30",
+          "company": "Boxbot",
+          "title": "Principal Software Engineer (C++)",
+          "location": "Alameda, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 14 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-c%2B%2B-at-boxbot-4443047842",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "14 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4443047842",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-21T00:09:20.680325+00:00"
+        },
+        {
+          "id": "li-vallum-associates-c-c-developer-front-office-equity-swaps-2026-w30",
+          "company": "Vallum Associates",
+          "title": "C# / C++ Developer ( Front office / Equity Swaps)",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%23-c%2B%2B-developer-front-office-equity-swaps-at-vallum-associates-4443346970",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4443346970",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-07-21T12:09:20.680325+00:00"
+        },
+        {
+          "id": "li-njf-global-holdings-ltd-software-engineer-c-2026-w30",
+          "company": "NJF Global Holdings Ltd",
+          "title": "Software Engineer (C++)",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 51 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-njf-global-holdings-ltd-4443378503",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "51 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4443378503",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-sapphire-software-solutions-inc-c-developer-2026-w30",
+          "company": "Sapphire Software Solutions Inc",
+          "title": "C++ Developer",
+          "location": "Irving, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 18 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-sapphire-software-solutions-inc-4440187234",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "18 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4440187234",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-20T20:09:20.680325+00:00"
         }
       ]
     }
