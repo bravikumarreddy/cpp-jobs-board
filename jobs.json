@@ -1229,29 +1229,6 @@
           "postedAtUtc": "2026-07-20T16:07:26.624993+00:00"
         },
         {
-          "id": "li-dataannotation-c-developer-ai-trainer-2026-w30",
-          "company": "DataAnnotation",
-          "title": "C++ Developer - AI Trainer",
-          "location": "Georgia, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-ai-trainer-at-dataannotation-4397404192",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "8 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4397404192",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-07-20T17:07:26.624993+00:00"
-        },
-        {
           "id": "li-mti-systems-sr-engineer-satcom-networking-software-c-2026-w30",
           "company": "MTi Systems",
           "title": "SR Engineer \u2014 SATCOM Networking & Software (C/C++/Python)",
@@ -1273,6 +1250,75 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-20T15:07:26.624993+00:00"
+        },
+        {
+          "id": "li-millennium-c-software-engineer-trade-capture-2026-w30",
+          "company": "Millennium",
+          "title": "C++ Software Engineer - Trade Capture",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 day ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-trade-capture-at-millennium-4227670777",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 day ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4227670777",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-20T01:09:17.288507+00:00"
+        },
+        {
+          "id": "li-hire-feed-c-developer-remote-2026-w30",
+          "company": "Hire Feed",
+          "title": "C++ Developer (Remote)",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 13 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-remote-at-hire-feed-4442596807",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "13 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4442596807",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-07-20T12:09:17.288507+00:00"
+        },
+        {
+          "id": "li-dataannotation-c-engineer-ai-trainer-2026-w30",
+          "company": "DataAnnotation",
+          "title": "C++ Engineer - AI Trainer",
+          "location": "North Carolina, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-ai-trainer-at-dataannotation-4397405076",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "8 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4397405076",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-07-20T17:09:17.288507+00:00"
         }
       ]
     }
