@@ -2095,7 +2095,11 @@
           "postedApprox": "1 day ago",
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head"
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4425287017",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-21T22:28:21.390799+00:00"
         },
         {
           "id": "vatic-labs-low-latency-c-engineer-new-york",
@@ -2112,7 +2116,8 @@
           "url": "https://job-boards.greenhouse.io/vaticlabs/jobs/52953",
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2022-07-28",
-          "region": "East"
+          "region": "East",
+          "regionRank": 1
         },
         {
           "id": "vatic-labs-quantitative-developer-new-york",
@@ -2130,7 +2135,8 @@
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2024-11-07",
           "region": "East",
-          "externalId": "greenhouse:598228"
+          "externalId": "greenhouse:598228",
+          "regionRank": 1
         },
         {
           "id": "five-rings-experienced-lateral-software-developer-new-york",
@@ -2148,7 +2154,8 @@
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2024-03-14",
           "region": "East",
-          "externalId": "greenhouse:4006376008"
+          "externalId": "greenhouse:4006376008",
+          "regionRank": 1
         },
         {
           "id": "torc-robotics-ml-engineer-ii-app-engine-ann-arbor-mi-fort-worth-tx",
@@ -2166,7 +2173,8 @@
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2026-04-29",
           "region": "East",
-          "externalId": "greenhouse:8525554002"
+          "externalId": "greenhouse:8525554002",
+          "regionRank": 1
         },
         {
           "id": "torc-robotics-senior-autonomy-simulation-data-engineer-python-c-remote-u-s-ann-a",
@@ -2184,7 +2192,8 @@
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2026-05-07",
           "region": "East",
-          "externalId": "greenhouse:8516209002"
+          "externalId": "greenhouse:8516209002",
+          "regionRank": 1
         },
         {
           "id": "torc-robotics-senior-motion-planning-engineer-trajectory-optimization-remote-u-s",
@@ -2202,7 +2211,8 @@
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2026-07-16",
           "region": "East",
-          "externalId": "greenhouse:8596546002"
+          "externalId": "greenhouse:8596546002",
+          "regionRank": 1
         },
         {
           "id": "torc-robotics-senior-simulation-vehicle-modeling-engineer-ann-arbor-mi-remote-us",
@@ -2220,7 +2230,8 @@
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2026-07-14",
           "region": "East",
-          "externalId": "greenhouse:8624508002"
+          "externalId": "greenhouse:8624508002",
+          "regionRank": 1
         },
         {
           "id": "torc-robotics-senior-software-engineer-calibration-remote-u-s-ann-arbor-mi",
@@ -2238,7 +2249,8 @@
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2026-04-28",
           "region": "East",
-          "externalId": "greenhouse:8526368002"
+          "externalId": "greenhouse:8526368002",
+          "regionRank": 1
         },
         {
           "id": "torc-robotics-senior-software-engineer-scaled-simulation-ann-arbor-mi-blacksburg",
@@ -2256,7 +2268,8 @@
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2026-03-04",
           "region": "East",
-          "externalId": "greenhouse:8445200002"
+          "externalId": "greenhouse:8445200002",
+          "regionRank": 1
         },
         {
           "id": "torc-robotics-software-engineer-ii-device-drivers-ann-arbor-mi",
@@ -2274,7 +2287,8 @@
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2026-07-21",
           "region": "East",
-          "externalId": "greenhouse:8634991002"
+          "externalId": "greenhouse:8634991002",
+          "regionRank": 1
         },
         {
           "id": "torc-robotics-software-engineer-ii-localization-ann-arbor-mi",
@@ -2292,7 +2306,8 @@
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2026-06-24",
           "region": "East",
-          "externalId": "greenhouse:8597758002"
+          "externalId": "greenhouse:8597758002",
+          "regionRank": 1
         },
         {
           "id": "torc-robotics-software-engineer-ii-mcu-applications-c-linux-ann-arbor-mi",
@@ -2310,7 +2325,8 @@
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2026-03-24",
           "region": "East",
-          "externalId": "greenhouse:8461442002"
+          "externalId": "greenhouse:8461442002",
+          "regionRank": 1
         },
         {
           "id": "torc-robotics-software-engineer-ii-scaled-simulation-ann-arbor-mi-blacksburg-va",
@@ -2328,7 +2344,8 @@
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2026-07-22",
           "region": "East",
-          "externalId": "greenhouse:8643228002"
+          "externalId": "greenhouse:8643228002",
+          "regionRank": 1
         },
         {
           "id": "torc-robotics-sr-system-test-engineer-hil-remote-u-s-ann-arbor-mi",
@@ -2346,7 +2363,8 @@
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2026-07-20",
           "region": "East",
-          "externalId": "greenhouse:8542718002"
+          "externalId": "greenhouse:8542718002",
+          "regionRank": 1
         },
         {
           "id": "torc-robotics-systems-engineer-ii-ad-kit-components-ann-arbor-mi",
@@ -2364,7 +2382,8 @@
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2026-07-21",
           "region": "East",
-          "externalId": "greenhouse:8640642002"
+          "externalId": "greenhouse:8640642002",
+          "regionRank": 1
         },
         {
           "id": "may-mobility-lead-machine-learning-engineer-remote-usa",
@@ -2382,7 +2401,8 @@
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2026-04-29",
           "region": "Remote",
-          "externalId": "greenhouse:8528636002"
+          "externalId": "greenhouse:8528636002",
+          "regionRank": 2
         },
         {
           "id": "may-mobility-lead-vehicle-controls-and-interface-engineer-ann-arbor-mi",
@@ -2400,7 +2420,8 @@
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2026-06-25",
           "region": "East",
-          "externalId": "greenhouse:8206419002"
+          "externalId": "greenhouse:8206419002",
+          "regionRank": 1
         },
         {
           "id": "may-mobility-machine-learning-engineer-ii-autonomous-driving-training-infrastruc",
@@ -2418,7 +2439,8 @@
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2026-06-05",
           "region": "Remote",
-          "externalId": "greenhouse:8580411002"
+          "externalId": "greenhouse:8580411002",
+          "regionRank": 2
         },
         {
           "id": "may-mobility-robotics-engineer-ii-ann-arbor-mi",
@@ -2436,7 +2458,8 @@
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2026-04-29",
           "region": "East",
-          "externalId": "greenhouse:8502427002"
+          "externalId": "greenhouse:8502427002",
+          "regionRank": 1
         },
         {
           "id": "may-mobility-senior-autonomy-applications-engineer-ann-arbor-mi",
@@ -2454,7 +2477,8 @@
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2026-05-28",
           "region": "East",
-          "externalId": "greenhouse:8561454002"
+          "externalId": "greenhouse:8561454002",
+          "regionRank": 1
         },
         {
           "id": "may-mobility-senior-autonomy-engineer-ann-arbor-mi",
@@ -2472,7 +2496,8 @@
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2026-07-01",
           "region": "East",
-          "externalId": "greenhouse:8611992002"
+          "externalId": "greenhouse:8611992002",
+          "regionRank": 1
         },
         {
           "id": "may-mobility-senior-autonomy-engineer-integration-ann-arbor-mi",
@@ -2490,7 +2515,8 @@
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2026-07-13",
           "region": "East",
-          "externalId": "greenhouse:8605750002"
+          "externalId": "greenhouse:8605750002",
+          "regionRank": 1
         },
         {
           "id": "may-mobility-senior-autonomy-release-engineer-ii-ann-arbor-mi",
@@ -2508,7 +2534,8 @@
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2026-03-25",
           "region": "East",
-          "externalId": "greenhouse:8465980002"
+          "externalId": "greenhouse:8465980002",
+          "regionRank": 1
         },
         {
           "id": "may-mobility-senior-ml-engineer-mapping-ann-arbor-mi",
@@ -2526,7 +2553,8 @@
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2026-06-04",
           "region": "East",
-          "externalId": "greenhouse:8502303002"
+          "externalId": "greenhouse:8502303002",
+          "regionRank": 1
         },
         {
           "id": "agility-robotics-senior-staff-software-engineer-motion-planning-remote",
@@ -2543,7 +2571,8 @@
           "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6007559004",
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2026-06-22",
-          "region": "Remote"
+          "region": "Remote",
+          "regionRank": 2
         },
         {
           "id": "fastly-senior-engineer-developer-experience-new-york-city-ny",
@@ -2560,7 +2589,8 @@
           "url": "https://www.fastly.com/about/jobs/apply?gh_jid=7979875",
           "source": "Employer ATS (live)",
           "postedApprox": "open since 2026-06-05",
-          "region": "East"
+          "region": "East",
+          "regionRank": 1
         },
         {
           "id": "belvedere-trading-senior-trading-software-engineer-new-york-new-york",
@@ -2578,7 +2608,54 @@
           "source": "Employer ATS (live)",
           "postedApprox": "live now",
           "region": "East",
-          "externalId": "lever:ca1afefa-8e3b-4981-9a42-91dc81daf1ca"
+          "externalId": "lever:ca1afefa-8e3b-4981-9a42-91dc81daf1ca",
+          "regionRank": 1
+        },
+        {
+          "id": "li-largeton-group-c-software-engineer-ai-first-development-2026-w30",
+          "company": "Largeton Group",
+          "title": "C++ Software Engineer (AI-First Development)",
+          "location": "Atlanta, GA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-ai-first-development-at-largeton-group-4443993200",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4443993200",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-22T20:28:21.390799+00:00"
+        },
+        {
+          "id": "li-stealth-ai-startup-senior-software-engineer-c-2026-w30",
+          "company": "Stealth AI Startup",
+          "title": "Senior Software Engineer, C++",
+          "location": "Los Angeles Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 14 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-at-stealth-ai-startup-4443777216",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "14 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4443777216",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-22T08:28:21.390799+00:00"
         }
       ]
     }
