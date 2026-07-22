@@ -2656,6 +2656,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-22T08:28:21.390799+00:00"
+        },
+        {
+          "id": "li-atto-trading-c-developer-2026-w30",
+          "company": "Atto Trading",
+          "title": "C++ Developer",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-atto-trading-4443954146",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4443954146",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-22T17:58:56.203706+00:00"
         }
       ]
     }
