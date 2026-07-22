@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-20",
-  "lastChecked": "2026-07-20",
+  "lastUpdated": "2026-07-22",
+  "lastChecked": "2026-07-22",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -2554,42 +2554,6 @@
           "postedApprox": "open since 2026-06-04",
           "region": "East",
           "externalId": "greenhouse:8502303002",
-          "regionRank": 1
-        },
-        {
-          "id": "agility-robotics-senior-staff-software-engineer-motion-planning-remote",
-          "company": "Agility Robotics",
-          "title": "Senior Staff Software Engineer, Motion Planning",
-          "location": "Remote",
-          "remote": "Remote",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-06-22.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6007559004",
-          "source": "Employer ATS (live)",
-          "postedApprox": "open since 2026-06-22",
-          "region": "Remote",
-          "regionRank": 2
-        },
-        {
-          "id": "fastly-senior-engineer-developer-experience-new-york-city-ny",
-          "company": "Fastly",
-          "title": "Senior Engineer - Developer Experience",
-          "location": "New York City, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-06-05.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.fastly.com/about/jobs/apply?gh_jid=7979875",
-          "source": "Employer ATS (live)",
-          "postedApprox": "open since 2026-06-05",
-          "region": "East",
           "regionRank": 1
         },
         {
