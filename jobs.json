@@ -2096,6 +2096,543 @@
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
           "yoeNote": "Auto-scraped \u2014 apply filters in your head"
+        },
+        {
+          "id": "geneva-trading-junior-software-engineer-chicago-office",
+          "company": "Geneva Trading",
+          "title": "Junior Software Engineer",
+          "location": "Chicago Office",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-03-20.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5085231007",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-03-20",
+          "region": "Central",
+          "externalId": "greenhouse:5085231007"
+        },
+        {
+          "id": "vatic-labs-low-latency-c-engineer-new-york",
+          "company": "Vatic Labs",
+          "title": "Low Latency C++ Engineer",
+          "location": "New York",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2022-07-28.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/vaticlabs/jobs/52953",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2022-07-28",
+          "region": "East"
+        },
+        {
+          "id": "vatic-labs-quantitative-developer-new-york",
+          "company": "Vatic Labs",
+          "title": "Quantitative Developer",
+          "location": "New York",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2024-11-07.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/vaticlabs/jobs/598228",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2024-11-07",
+          "region": "East",
+          "externalId": "greenhouse:598228"
+        },
+        {
+          "id": "five-rings-experienced-lateral-software-developer-new-york",
+          "company": "Five Rings",
+          "title": "Experienced/Lateral - Software Developer",
+          "location": "New York",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2024-03-14.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4006376008",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2024-03-14",
+          "region": "East",
+          "externalId": "greenhouse:4006376008"
+        },
+        {
+          "id": "torc-robotics-hardware-engineer-i-sensors-ann-arbor-mi",
+          "company": "Torc Robotics",
+          "title": "Hardware Engineer I - Sensors",
+          "location": "Ann Arbor, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-07-13.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8622606002",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-07-13",
+          "region": "East",
+          "externalId": "greenhouse:8622606002"
+        },
+        {
+          "id": "torc-robotics-ml-engineer-ii-app-engine-ann-arbor-mi-fort-worth-tx",
+          "company": "Torc Robotics",
+          "title": "ML Engineer, II - App Engine",
+          "location": "Ann Arbor, MI, Fort Worth, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-04-29.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8525554002",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-04-29",
+          "region": "East",
+          "externalId": "greenhouse:8525554002"
+        },
+        {
+          "id": "torc-robotics-senior-autonomy-simulation-data-engineer-python-c-remote-u-s-ann-a",
+          "company": "Torc Robotics",
+          "title": "Senior Autonomy Simulation & Data Engineer (Python / C++)",
+          "location": "Remote - U.S, Ann Arbor, MI",
+          "remote": "Remote",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-05-07.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8516209002",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-05-07",
+          "region": "East",
+          "externalId": "greenhouse:8516209002"
+        },
+        {
+          "id": "torc-robotics-senior-motion-planning-engineer-trajectory-optimization-remote-u-s",
+          "company": "Torc Robotics",
+          "title": "Senior Motion Planning Engineer - Trajectory Optimization",
+          "location": "Remote - U.S, Ann Arbor, MI, Fort Worth, TX, Blacksburg, VA",
+          "remote": "Remote",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-07-16.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8596546002",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-07-16",
+          "region": "East",
+          "externalId": "greenhouse:8596546002"
+        },
+        {
+          "id": "torc-robotics-senior-simulation-vehicle-modeling-engineer-ann-arbor-mi-remote-us",
+          "company": "Torc Robotics",
+          "title": "Senior Simulation Vehicle Modeling Engineer",
+          "location": "Ann Arbor, MI, Remote - US",
+          "remote": "Remote",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-07-14.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8624508002",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-07-14",
+          "region": "East",
+          "externalId": "greenhouse:8624508002"
+        },
+        {
+          "id": "torc-robotics-senior-software-engineer-calibration-remote-u-s-ann-arbor-mi",
+          "company": "Torc Robotics",
+          "title": "Senior Software Engineer, Calibration",
+          "location": "Remote - U.S, Ann Arbor, MI",
+          "remote": "Remote",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-04-28.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8526368002",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-04-28",
+          "region": "East",
+          "externalId": "greenhouse:8526368002"
+        },
+        {
+          "id": "torc-robotics-senior-software-engineer-scaled-simulation-ann-arbor-mi-blacksburg",
+          "company": "Torc Robotics",
+          "title": "Senior Software Engineer - Scaled Simulation",
+          "location": "Ann Arbor, MI, Blacksburg, VA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-03-04.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8445200002",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-03-04",
+          "region": "East",
+          "externalId": "greenhouse:8445200002"
+        },
+        {
+          "id": "torc-robotics-software-engineer-i-device-drivers-ann-arbor-mi",
+          "company": "Torc Robotics",
+          "title": "Software Engineer I - Device Drivers",
+          "location": "Ann Arbor, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-07-13.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8534177002",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-07-13",
+          "region": "East",
+          "externalId": "greenhouse:8534177002"
+        },
+        {
+          "id": "torc-robotics-software-engineer-ii-device-drivers-ann-arbor-mi",
+          "company": "Torc Robotics",
+          "title": "Software Engineer II - Device Drivers",
+          "location": "Ann Arbor, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-07-21.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8634991002",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-07-21",
+          "region": "East",
+          "externalId": "greenhouse:8634991002"
+        },
+        {
+          "id": "torc-robotics-software-engineer-ii-localization-ann-arbor-mi",
+          "company": "Torc Robotics",
+          "title": "Software Engineer II - Localization",
+          "location": "Ann Arbor, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-06-24.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8597758002",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-06-24",
+          "region": "East",
+          "externalId": "greenhouse:8597758002"
+        },
+        {
+          "id": "torc-robotics-software-engineer-ii-mcu-applications-c-linux-ann-arbor-mi",
+          "company": "Torc Robotics",
+          "title": "Software Engineer II - MCU Applications (C++/Linux)",
+          "location": "Ann Arbor, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-03-24.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8461442002",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-03-24",
+          "region": "East",
+          "externalId": "greenhouse:8461442002"
+        },
+        {
+          "id": "torc-robotics-software-engineer-ii-scaled-simulation-ann-arbor-mi-blacksburg-va",
+          "company": "Torc Robotics",
+          "title": "Software Engineer, II - Scaled Simulation",
+          "location": "Ann Arbor, MI, Blacksburg, VA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-07-22.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8643228002",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-07-22",
+          "region": "East",
+          "externalId": "greenhouse:8643228002"
+        },
+        {
+          "id": "torc-robotics-sr-system-test-engineer-hil-remote-u-s-ann-arbor-mi",
+          "company": "Torc Robotics",
+          "title": "Sr. System Test Engineer - HiL",
+          "location": "Remote - U.S, Ann Arbor, MI",
+          "remote": "Remote",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-07-20.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8542718002",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-07-20",
+          "region": "East",
+          "externalId": "greenhouse:8542718002"
+        },
+        {
+          "id": "torc-robotics-systems-engineer-ii-ad-kit-components-ann-arbor-mi",
+          "company": "Torc Robotics",
+          "title": "Systems Engineer II \u2013 AD-Kit Components",
+          "location": "Ann Arbor, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-07-21.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8640642002",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-07-21",
+          "region": "East",
+          "externalId": "greenhouse:8640642002"
+        },
+        {
+          "id": "may-mobility-lead-machine-learning-engineer-remote-usa",
+          "company": "May Mobility",
+          "title": "Lead Machine Learning Engineer",
+          "location": "Remote, USA",
+          "remote": "Remote",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-04-29.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/maymobility/jobs/8528636002",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-04-29",
+          "region": "Remote",
+          "externalId": "greenhouse:8528636002"
+        },
+        {
+          "id": "may-mobility-lead-vehicle-controls-and-interface-engineer-ann-arbor-mi",
+          "company": "May Mobility",
+          "title": "Lead Vehicle Controls and Interface Engineer",
+          "location": "Ann Arbor, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-06-25.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/maymobility/jobs/8206419002",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-06-25",
+          "region": "East",
+          "externalId": "greenhouse:8206419002"
+        },
+        {
+          "id": "may-mobility-machine-learning-engineer-ii-autonomous-driving-training-infrastruc",
+          "company": "May Mobility",
+          "title": "Machine Learning Engineer II - Autonomous Driving Training Infrastructure",
+          "location": "Remote, USA",
+          "remote": "Remote",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-06-05.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/maymobility/jobs/8580411002",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-06-05",
+          "region": "Remote",
+          "externalId": "greenhouse:8580411002"
+        },
+        {
+          "id": "may-mobility-robotics-engineer-ii-ann-arbor-mi",
+          "company": "May Mobility",
+          "title": "Robotics Engineer II",
+          "location": "Ann Arbor, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-04-29.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/maymobility/jobs/8502427002",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-04-29",
+          "region": "East",
+          "externalId": "greenhouse:8502427002"
+        },
+        {
+          "id": "may-mobility-senior-autonomy-applications-engineer-ann-arbor-mi",
+          "company": "May Mobility",
+          "title": "Senior Autonomy Applications Engineer",
+          "location": "Ann Arbor, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-05-28.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/maymobility/jobs/8561454002",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-05-28",
+          "region": "East",
+          "externalId": "greenhouse:8561454002"
+        },
+        {
+          "id": "may-mobility-senior-autonomy-engineer-ann-arbor-mi",
+          "company": "May Mobility",
+          "title": "Senior Autonomy Engineer",
+          "location": "Ann Arbor, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-07-01.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/maymobility/jobs/8611992002",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-07-01",
+          "region": "East",
+          "externalId": "greenhouse:8611992002"
+        },
+        {
+          "id": "may-mobility-senior-autonomy-engineer-integration-ann-arbor-mi",
+          "company": "May Mobility",
+          "title": "Senior Autonomy Engineer, Integration",
+          "location": "Ann Arbor, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-07-13.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/maymobility/jobs/8605750002",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-07-13",
+          "region": "East",
+          "externalId": "greenhouse:8605750002"
+        },
+        {
+          "id": "may-mobility-senior-autonomy-release-engineer-ii-ann-arbor-mi",
+          "company": "May Mobility",
+          "title": "Senior Autonomy Release Engineer II",
+          "location": "Ann Arbor, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-03-25.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/maymobility/jobs/8465980002",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-03-25",
+          "region": "East",
+          "externalId": "greenhouse:8465980002"
+        },
+        {
+          "id": "may-mobility-senior-ml-engineer-mapping-ann-arbor-mi",
+          "company": "May Mobility",
+          "title": "Senior ML Engineer - Mapping",
+          "location": "Ann Arbor, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-06-04.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/maymobility/jobs/8502303002",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-06-04",
+          "region": "East",
+          "externalId": "greenhouse:8502303002"
+        },
+        {
+          "id": "agility-robotics-senior-staff-software-engineer-motion-planning-remote",
+          "company": "Agility Robotics",
+          "title": "Senior Staff Software Engineer, Motion Planning",
+          "location": "Remote",
+          "remote": "Remote",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-06-22.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6007559004",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-06-22",
+          "region": "Remote"
+        },
+        {
+          "id": "fastly-senior-engineer-developer-experience-new-york-city-ny",
+          "company": "Fastly",
+          "title": "Senior Engineer - Developer Experience",
+          "location": "New York City, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-06-05.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.fastly.com/about/jobs/apply?gh_jid=7979875",
+          "source": "Employer ATS (live)",
+          "postedApprox": "open since 2026-06-05",
+          "region": "East"
+        },
+        {
+          "id": "belvedere-trading-senior-trading-software-engineer-new-york-new-york",
+          "company": "Belvedere Trading",
+          "title": "Senior Trading Software Engineer",
+          "location": "New York, New York",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Employer ATS board (deep sweep 2): live posting.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://jobs.lever.co/belvederetrading/ca1afefa-8e3b-4981-9a42-91dc81daf1ca",
+          "source": "Employer ATS (live)",
+          "postedApprox": "live now",
+          "region": "East",
+          "externalId": "lever:ca1afefa-8e3b-4981-9a42-91dc81daf1ca"
         }
       ]
     }
