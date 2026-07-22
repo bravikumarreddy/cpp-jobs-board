@@ -2098,24 +2098,6 @@
           "yoeNote": "Auto-scraped \u2014 apply filters in your head"
         },
         {
-          "id": "geneva-trading-junior-software-engineer-chicago-office",
-          "company": "Geneva Trading",
-          "title": "Junior Software Engineer",
-          "location": "Chicago Office",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-03-20.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5085231007",
-          "source": "Employer ATS (live)",
-          "postedApprox": "open since 2026-03-20",
-          "region": "Central",
-          "externalId": "greenhouse:5085231007"
-        },
-        {
           "id": "vatic-labs-low-latency-c-engineer-new-york",
           "company": "Vatic Labs",
           "title": "Low Latency C++ Engineer",
@@ -2167,24 +2149,6 @@
           "postedApprox": "open since 2024-03-14",
           "region": "East",
           "externalId": "greenhouse:4006376008"
-        },
-        {
-          "id": "torc-robotics-hardware-engineer-i-sensors-ann-arbor-mi",
-          "company": "Torc Robotics",
-          "title": "Hardware Engineer I - Sensors",
-          "location": "Ann Arbor, MI",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-07-13.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8622606002",
-          "source": "Employer ATS (live)",
-          "postedApprox": "open since 2026-07-13",
-          "region": "East",
-          "externalId": "greenhouse:8622606002"
         },
         {
           "id": "torc-robotics-ml-engineer-ii-app-engine-ann-arbor-mi-fort-worth-tx",
@@ -2293,24 +2257,6 @@
           "postedApprox": "open since 2026-03-04",
           "region": "East",
           "externalId": "greenhouse:8445200002"
-        },
-        {
-          "id": "torc-robotics-software-engineer-i-device-drivers-ann-arbor-mi",
-          "company": "Torc Robotics",
-          "title": "Software Engineer I - Device Drivers",
-          "location": "Ann Arbor, MI",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-07-13.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8534177002",
-          "source": "Employer ATS (live)",
-          "postedApprox": "open since 2026-07-13",
-          "region": "East",
-          "externalId": "greenhouse:8534177002"
         },
         {
           "id": "torc-robotics-software-engineer-ii-device-drivers-ann-arbor-mi",
