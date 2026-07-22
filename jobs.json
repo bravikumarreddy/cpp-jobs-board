@@ -1919,29 +1919,6 @@
           "postedAtUtc": "2026-07-21T00:09:20.680325+00:00"
         },
         {
-          "id": "li-signature-it-world-inc-c-engineer-2026-w30",
-          "company": "Signature IT World Inc",
-          "title": "C++ Engineer",
-          "location": "Irvine, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 20 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-at-signature-it-world-inc-4440167540",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "20 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4440167540",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-07-20T18:09:20.680325+00:00"
-        },
-        {
           "id": "li-netrolynx-ai-c-developer-2026-w30",
           "company": "Netrolynx AI",
           "title": "C++ Developer",
@@ -1988,29 +1965,6 @@
           "postedAtUtc": "2026-07-21T00:09:20.680325+00:00"
         },
         {
-          "id": "li-vallum-associates-c-c-developer-front-office-equity-swaps-2026-w30",
-          "company": "Vallum Associates",
-          "title": "C# / C++ Developer ( Front office / Equity Swaps)",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%23-c%2B%2B-developer-front-office-equity-swaps-at-vallum-associates-4443346970",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4443346970",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-07-21T12:09:20.680325+00:00"
-        },
-        {
           "id": "li-njf-global-holdings-ltd-software-engineer-c-2026-w30",
           "company": "NJF Global Holdings Ltd",
           "title": "Software Engineer (C++)",
@@ -2031,29 +1985,6 @@
           "externalId": "linkedin:4443378503",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-sapphire-software-solutions-inc-c-developer-2026-w30",
-          "company": "Sapphire Software Solutions Inc",
-          "title": "C++ Developer",
-          "location": "Irving, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 18 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-sapphire-software-solutions-inc-4440187234",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "18 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4440187234",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-07-20T20:09:20.680325+00:00"
         },
         {
           "id": "li-accriva-diagnostics-senior-embedded-software-engineer-c-c-2026-w30",
@@ -2077,29 +2008,6 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-20T17:40:08.341675+00:00"
-        },
-        {
-          "id": "li-request-technology-llc-c-developer-trading-applications-systems-2026-w30",
-          "company": "Request Technology, LLC",
-          "title": "C++ Developer (Trading Applications/Systems)",
-          "location": "Woodridge, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-trading-applications-systems-at-request-technology-llc-4438353079",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "4 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4438353079",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-07-22T17:57:47.226399+00:00"
         },
         {
           "id": "li-tradeweb-c-software-engineer-2026-w30",
@@ -2171,27 +2079,23 @@
           "postedAtUtc": "2026-07-22T18:57:47.226399+00:00"
         },
         {
-          "id": "li-coaspire-senior-software-engineer-c-and-embedded--2026-w30",
-          "company": "CoAspire",
-          "title": "Senior Software Engineer (C++ and Embedded Software)",
-          "location": "Washington DC-Baltimore Area",
+          "id": "li-millennium-quantitative-developer-c-i-low-latency-s-2026-w30",
+          "company": "Millennium",
+          "title": "Quantitative Developer, C++ I Low-Latency Systems",
+          "location": "New York, NY",
           "remote": "Onsite",
           "industry": "\u2014",
           "salary": null,
-          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "summary": "LinkedIn scrape: posted 1 day ago. Verify role details on opening.",
           "skills": [
             "C++"
           ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-and-embedded-software-at-coaspire-4380458997",
+          "url": "https://www.linkedin.com/jobs/view/quantitative-developer-c%2B%2B-i-low-latency-systems-at-millennium-4425287017",
           "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 hours ago",
+          "postedApprox": "1 day ago",
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4380458997",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-22T18:57:47.226399+00:00"
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head"
         }
       ]
     }
