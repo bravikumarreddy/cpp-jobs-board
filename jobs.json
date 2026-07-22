@@ -2077,6 +2077,121 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-20T17:40:08.341675+00:00"
+        },
+        {
+          "id": "li-request-technology-llc-c-developer-trading-applications-systems-2026-w30",
+          "company": "Request Technology, LLC",
+          "title": "C++ Developer (Trading Applications/Systems)",
+          "location": "Woodridge, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-trading-applications-systems-at-request-technology-llc-4438353079",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4438353079",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-22T17:57:47.226399+00:00"
+        },
+        {
+          "id": "li-tradeweb-c-software-engineer-2026-w30",
+          "company": "Tradeweb",
+          "title": "C++ Software Engineer",
+          "location": "Jersey City, NJ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 14 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-tradeweb-4442989603",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "14 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4442989603",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-22T07:57:47.226399+00:00"
+        },
+        {
+          "id": "li-siemens-senior-software-engineer-c-ds-algorithm-2026-w30",
+          "company": "Siemens",
+          "title": "Senior Software Engineer (C++/DS/Algorithm)",
+          "location": "Santa Clara, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-ds-algorithm-at-siemens-4443169660",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4443169660",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-22T16:57:47.226399+00:00"
+        },
+        {
+          "id": "li-ice-senior-c-developer-2026-w30",
+          "company": "ICE",
+          "title": "Senior C++ Developer",
+          "location": "Atlanta, GA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-at-ice-4443963816",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4443963816",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-22T18:57:47.226399+00:00"
+        },
+        {
+          "id": "li-coaspire-senior-software-engineer-c-and-embedded--2026-w30",
+          "company": "CoAspire",
+          "title": "Senior Software Engineer (C++ and Embedded Software)",
+          "location": "Washington DC-Baltimore Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-and-embedded-software-at-coaspire-4380458997",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4380458997",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-22T18:57:47.226399+00:00"
         }
       ]
     }
