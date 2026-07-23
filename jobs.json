@@ -2849,6 +2849,28 @@
           "externalId": "linkedin:4416901971",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "li-venchr-lead-software-engineer-c-juce-remote-200-2026-w30",
+          "company": "Venchr",
+          "title": "Lead Software Engineer - C++/ JUCE - Remote - $200k",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/lead-software-engineer-c%2B%2B-juce-remote-%24200k-at-venchr-4444456724",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4444456724",
+          "region": "Remote",
+          "regionRank": 2
         }
       ]
     }
