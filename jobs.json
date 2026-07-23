@@ -2757,6 +2757,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-22T08:33:04.935260+00:00"
+        },
+        {
+          "id": "li-jpmorganchase-senior-lead-software-engineering-c-low-l-2026-w30",
+          "company": "JPMorganChase",
+          "title": "Senior Lead Software Engineering - C++ low latency",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 16 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-lead-software-engineering-c%2B%2B-low-latency-at-jpmorganchase-4443781179",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "16 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4443781179",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-22T09:36:14.359183+00:00"
         }
       ]
     }

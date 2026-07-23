@@ -1,58 +1,66 @@
 {
-  "checkedAt": "2026-07-22T19:31:55",
-  "elapsedSec": 8.1,
+  "checkedAt": "2026-07-22T21:36:32",
+  "elapsedSec": 18.3,
   "verifierVersion": 2,
   "totals": {
-    "alive": 89,
-    "dead": 5,
-    "unknown": 38
+    "alive": 84,
+    "dead": 2,
+    "unknown": 49
   },
   "deadIds": [
     "morgan-stanley-low-latency-network-operations-and-analytics-vice-president-w26",
-    "waymo-senior-software-engineer-fleet-response-infrastructure-w26",
-    "li-bowden-brown-c-developer-2026-w27",
-    "agility-robotics-senior-staff-software-engineer-motion-planning-remote",
-    "fastly-senior-engineer-developer-experience-new-york-city-ny"
+    "waymo-senior-software-engineer-fleet-response-infrastructure-w26"
   ],
   "unknownIds": [
+    "li-atgames-holdings-ltd-senior-software-engineer-c-and-java-spri-2026-w27",
+    "li-aaa-global-software-engineer-c-quant-trading-2026-w27",
+    "li-worldquant-c-quantitative-developer-algorithmic-exe-2026-w27",
     "li-aaa-global-senior-c-developer-2026-w27",
-    "li-esri-c-c-software-development-engineer-ii-2026-w27",
-    "li-fionics-senior-c-software-engineer-2026-w27",
+    "li-edgewater-federal-solutions-inc-senior-c-programmer-2026-w27",
     "li-zapnix-llc-lead-software-developer-with-c-and-broad-2026-w27",
+    "li-nvidia-senior-c-and-build-engineer-dc-system-so-2026-w27",
+    "li-esri-c-c-software-development-engineer-ii-2026-w27",
     "li-trexquant-investment-lp-c-trading-simulator-engineer-usa-2026-w27",
+    "li-fionics-senior-c-software-engineer-2026-w27",
     "li-snap-inc-software-engineer-spectacles-c-level-4-2026-w27",
+    "li-vastika-inc-senior-avionics-embedded-software-engine-2026-w27",
     "li-tradeweb-c-application-developer-2026-w27",
     "li-selby-jennings-c-engineer-hardware-systems-2026-w27",
-    "li-xai-software-engineer-network-c-2026-w27",
-    "li-emerson-c-software-engineer-2026-w27",
-    "li-wolverine-trading-low-level-c-software-engineer-2026-w27",
     "li-optiver-senior-software-engineer-c-2026-w27",
+    "li-xai-software-engineer-network-c-2026-w27",
+    "li-esri-c-software-developer-ii-raster-imagery-2026-w27",
     "li-nvidia-senior-c-software-engineer-chip-design-t-2026-w27",
     "li-garmin-c-c-software-engineer-2-communication-pr-2026-w27",
-    "li-general-motors-senior-software-engineer-c-ui-2026-w27",
-    "li-garmin-c-software-engineer-2-2026-w27",
+    "li-wolverine-trading-low-level-c-software-engineer-2026-w27",
+    "li-emerson-c-software-engineer-2026-w27",
     "li-nvidia-senior-software-engineer-c-and-cuda-anal-2026-w27",
+    "li-vast-ai-c-software-engineer-2026-w27",
+    "li-garmin-c-software-engineer-2-2026-w27",
     "li-varonis-software-engineer-c-c-2026-w27",
-    "li-vastika-inc-senior-avionics-embedded-software-engine-2026-w27",
-    "li-geocue-software-developer-c-lp360-desktop-2026-w30",
-    "li-venture-up-c-software-engineer-2026-w30",
+    "li-general-motors-senior-software-engineer-c-ui-2026-w27",
     "li-mastercard-lead-software-engineer-c-c-2026-w30",
     "li-millennium-c-software-engineer-trade-capture-2026-w30",
-    "li-nvidia-ai-senior-c-software-engineer-2026-w30",
+    "li-geocue-software-developer-c-lp360-desktop-2026-w30",
+    "li-venture-up-c-software-engineer-2026-w30",
     "li-path-robotics-software-engineer-c-robotics-2026-w30",
+    "li-nvidia-ai-senior-c-software-engineer-2026-w30",
     "li-applied-intuition-c-software-engineer-autonomous-systems-2026-w30",
-    "li-netrolynx-ai-c-developer-2026-w30",
-    "li-boxbot-senior-software-engineer-c-2026-w30",
     "li-boxbot-principal-software-engineer-c-2026-w30",
+    "li-netrolynx-ai-c-developer-2026-w30",
     "li-accriva-diagnostics-senior-embedded-software-engineer-c-c-2026-w30",
-    "li-ice-senior-c-developer-2026-w30",
     "li-njf-global-holdings-ltd-software-engineer-c-2026-w30",
-    "li-millennium-quantitative-developer-c-i-low-latency-s-2026-w30",
-    "li-tradeweb-c-software-engineer-2026-w30",
     "li-siemens-senior-software-engineer-c-ds-algorithm-2026-w30",
+    "li-tradeweb-c-software-engineer-2026-w30",
+    "li-ice-senior-c-developer-2026-w30",
+    "li-millennium-quantitative-developer-c-i-low-latency-s-2026-w30",
     "li-largeton-group-c-software-engineer-ai-first-development-2026-w30",
+    "li-stealth-ai-startup-senior-software-engineer-c-2026-w30",
     "li-atto-trading-c-developer-2026-w30",
-    "li-stealth-ai-startup-senior-software-engineer-c-2026-w30"
+    "li-actalent-c-software-engineer-2026-w30",
+    "li-josh-pros-embedded-software-engineer-c-c-rtos-2026-w30",
+    "li-metrea-senior-c-signal-processing-engineer-rada-2026-w30",
+    "li-stealth-ai-startup-senior-software-engineer-embedded-system-2026-w30",
+    "li-jpmorganchase-senior-lead-software-engineering-c-low-l-2026-w30"
   ],
   "deadDetails": [
     {
@@ -66,24 +74,6 @@
       "company": "Waymo",
       "status": 200,
       "reason": "no-results: no jobs matching"
-    },
-    {
-      "id": "li-bowden-brown-c-developer-2026-w27",
-      "company": "Bowden Brown",
-      "status": 200,
-      "reason": "closed-job-text: No longer accepting"
-    },
-    {
-      "id": "agility-robotics-senior-staff-software-engineer-motion-planning-remote",
-      "company": "Agility Robotics",
-      "status": 200,
-      "reason": "no-cpp-mention"
-    },
-    {
-      "id": "fastly-senior-engineer-developer-experience-new-york-city-ny",
-      "company": "Fastly",
-      "status": 200,
-      "reason": "no-results: Sorry, no"
     }
   ]
 }
