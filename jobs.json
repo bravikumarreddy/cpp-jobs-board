@@ -2643,6 +2643,74 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-22T17:58:56.203706+00:00"
+        },
+        {
+          "id": "li-josh-pros-embedded-software-engineer-c-c-rtos-2026-w30",
+          "company": "Josh Pros",
+          "title": "Embedded Software Engineer (C, C++, RTOS)",
+          "location": "Plano, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 minute ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-c-c%2B%2B-rtos-at-josh-pros-4444225563",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 minute ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4444225563",
+          "region": "Central",
+          "regionRank": 3
+        },
+        {
+          "id": "li-actalent-c-software-engineer-2026-w30",
+          "company": "Actalent",
+          "title": "C++ Software Engineer",
+          "location": "Manassas, VA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 22 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-actalent-4442919911",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "22 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4442919911",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-22T02:02:30.561814+00:00"
+        },
+        {
+          "id": "li-metrea-senior-c-signal-processing-engineer-rada-2026-w30",
+          "company": "Metrea",
+          "title": "Senior C++ Signal Processing Engineer (Radar & RF Systems)",
+          "location": "Victor, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-signal-processing-engineer-radar-rf-systems-at-metrea-4427017342",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4427017342",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-22T17:02:30.561814+00:00"
         }
       ]
     }
