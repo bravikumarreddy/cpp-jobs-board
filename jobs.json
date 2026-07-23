@@ -2711,6 +2711,52 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-22T17:02:30.561814+00:00"
+        },
+        {
+          "id": "built-lg-ad-solutions-backend-software-engineer-c-go-2026-w30",
+          "postedAtUtc": "2026-07-23T00:00:00.001999+00:00",
+          "company": "LG Ad Solutions",
+          "title": "Backend Software Engineer (C++, Go)",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted just now. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/backend-software-engineer-c-golang-node-js/6957245",
+          "source": "Built In",
+          "postedApprox": "just now",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:6957245",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-stealth-ai-startup-senior-software-engineer-embedded-system-2026-w30",
+          "company": "Stealth AI Startup",
+          "title": "Senior Software Engineer, Embedded Systems (C++)",
+          "location": "San Francisco Bay Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 16 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-embedded-systems-c%2B%2B-at-stealth-ai-startup-4443771384",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "16 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4443771384",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-22T08:33:04.935260+00:00"
         }
       ]
     }
