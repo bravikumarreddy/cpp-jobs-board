@@ -3006,6 +3006,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-23T18:31:42.814751+00:00"
+        },
+        {
+          "id": "li-comcast-software-engineer-c-python-golang-or-jav-2026-w30",
+          "company": "Comcast",
+          "title": "Software Engineer (C++, Python, GoLang, or Java)- Onsite 2 Days -Reston, VA- FreeWheel",
+          "location": "Reston, VA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-python-golang-or-java-onsite-2-days-reston-va-freewheel-at-comcast-4443896926",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4443896926",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-23T20:02:21.280072+00:00"
         }
       ]
     }
