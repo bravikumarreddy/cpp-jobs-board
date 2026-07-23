@@ -2757,6 +2757,29 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-07-22T09:36:14.359183+00:00"
+        },
+        {
+          "id": "li-simbe-robotics-software-engineer-c-python-2026-w30",
+          "company": "Simbe",
+          "title": "Robotics Software Engineer (C++ & Python)",
+          "location": "San Francisco Bay Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/robotics-software-engineer-c%2B%2B-python-at-simbe-4444265729",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4444265729",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-23T04:11:32.031898+00:00"
         }
       ]
     }
