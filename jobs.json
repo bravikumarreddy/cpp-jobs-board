@@ -2576,29 +2576,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-largeton-group-c-software-engineer-ai-first-development-2026-w30",
-          "company": "Largeton Group",
-          "title": "C++ Software Engineer (AI-First Development)",
-          "location": "Atlanta, GA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-ai-first-development-at-largeton-group-4443993200",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4443993200",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-22T20:28:21.390799+00:00"
-        },
-        {
           "id": "li-stealth-ai-startup-senior-software-engineer-c-2026-w30",
           "company": "Stealth AI Startup",
           "title": "Senior Software Engineer, C++",
