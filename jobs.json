@@ -2871,6 +2871,51 @@
           "externalId": "linkedin:4444456724",
           "region": "Remote",
           "regionRank": 2
+        },
+        {
+          "id": "li-5v-tech-c-software-engineer-embedded-systems-2026-w30",
+          "company": "5V Tech",
+          "title": "C++ Software Engineer - Embedded Systems",
+          "location": "Austin, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 31 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-embedded-systems-at-5v-tech-4435470957",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "31 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4435470957",
+          "region": "Central",
+          "regionRank": 3
+        },
+        {
+          "id": "li-citadel-securities-rates-credit-c-engineer-2026-w30",
+          "company": "Citadel Securities",
+          "title": "Rates & Credit C++ Engineer",
+          "location": "New York City Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/rates-credit-c%2B%2B-engineer-at-citadel-securities-4420112853",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4420112853",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-23T15:50:36.231521+00:00"
         }
       ]
     }
