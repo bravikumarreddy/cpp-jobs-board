@@ -2938,6 +2938,51 @@
           "externalId": "linkedin:4441538656",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-infovision-inc-c-developer-2026-w30",
+          "company": "InfoVision Inc.",
+          "title": "C++ Developer",
+          "location": "Addison, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-infovision-inc-4444004434",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4444004434",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-23T17:25:32.323047+00:00"
+        },
+        {
+          "id": "li-client-of-maven-companies-inc-embedded-c-software-development-engineer-2026-w30",
+          "company": "Client of Maven Companies Inc.",
+          "title": "Embedded C++ Software Development Engineer",
+          "location": "Peoria, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 21 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-c%2B%2B-software-development-engineer-4441561036",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "21 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4441561036",
+          "region": "Central",
+          "regionRank": 3
         }
       ]
     }
