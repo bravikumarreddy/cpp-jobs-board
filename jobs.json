@@ -2983,6 +2983,29 @@
           "externalId": "linkedin:4441561036",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "li-esri-sr-c-software-development-engineer-arcgi-2026-w30",
+          "company": "Esri",
+          "title": "Sr. C++ Software Development Engineer - ArcGIS Geocoding Algorithms",
+          "location": "Redlands, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-c%2B%2B-software-development-engineer-arcgis-geocoding-algorithms-at-esri-4417032574",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4417032574",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-23T18:31:42.814751+00:00"
         }
       ]
     }
