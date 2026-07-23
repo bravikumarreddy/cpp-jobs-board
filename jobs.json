@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-22",
-  "lastChecked": "2026-07-22",
+  "lastUpdated": "2026-07-23",
+  "lastChecked": "2026-07-23",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -1116,6 +1116,30 @@
           "postedAtUtc": "2026-07-16T19:29:48.635000+00:00",
           "atsJobId": "4b8347e9-615e-4176-bfb8-3be9025f9f27",
           "externalId": "ashby:4b8347e9-615e-4176-bfb8-3be9025f9f27",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "waymo-senior-software-engineer-fleet-response-infrastructure-w26",
+          "company": "Waymo",
+          "title": "Senior Software Engineer, Fleet Response Infrastructure",
+          "location": "Mountain View, California, United States of America",
+          "remote": "Onsite/Hybrid",
+          "industry": "CSI (7LV)",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (18h ago). Callback score 93.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Distributed systems"
+          ],
+          "url": "https://careers.withwaymo.com/jobs?gh_jid=7947243",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (18h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 93.0,
+          "postedAtUtc": "2026-07-22T15:38:33-04:00",
+          "atsJobId": "7947243",
           "region": "West",
           "regionRank": 5
         }
@@ -2780,6 +2804,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-23T04:11:32.031898+00:00"
+        },
+        {
+          "id": "li-hewlett-packard-enterprise-software-engineer-networking-c-c-2026-w30",
+          "company": "Hewlett Packard Enterprise",
+          "title": "Software Engineer, Networking & C/C++",
+          "location": "Sunnyvale, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 15 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-networking-c-c%2B%2B-at-hewlett-packard-enterprise-4444208648",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "15 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4444208648",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-22T23:14:40.730197+00:00"
         }
       ]
     }
