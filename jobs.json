@@ -2827,6 +2827,28 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-22T23:14:40.730197+00:00"
+        },
+        {
+          "id": "li-oceaneering-c-software-developer-2026-w30",
+          "company": "Oceaneering",
+          "title": "C++ Software Developer",
+          "location": "Austin, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-developer-at-oceaneering-4416901971",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4416901971",
+          "region": "Central",
+          "regionRank": 3
         }
       ]
     }
