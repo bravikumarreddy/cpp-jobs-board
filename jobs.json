@@ -2916,6 +2916,28 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-23T15:50:36.231521+00:00"
+        },
+        {
+          "id": "li-src-staff-c-software-engineer-2026-w30",
+          "company": "SRC",
+          "title": "Staff C++ Software Engineer",
+          "location": "Fairborn, OH",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 51 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/staff-c%2B%2B-software-engineer-at-src-4441538656",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "51 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4441538656",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
