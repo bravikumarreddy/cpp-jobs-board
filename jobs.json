@@ -1142,6 +1142,31 @@
           "atsJobId": "7947243",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "lucid-motors-senior-engineer-motion-planning-and-controls-autonomous-driving-w26",
+          "company": "Lucid Motors",
+          "title": "Senior Engineer - Motion Planning and Controls, Autonomous Driving",
+          "location": "Newark, CA",
+          "remote": "Onsite/Hybrid",
+          "industry": "ADAS - HDW & SW Eng, ADAS & Autonomous Vehicles",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 93.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194178007",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (0h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 93.0,
+          "postedAtUtc": "2026-07-23T18:13:47-04:00",
+          "atsJobId": "5194178007",
+          "externalId": "greenhouse:5194178007",
+          "region": "West",
+          "regionRank": 5
         }
       ],
       "removedNotes": [
