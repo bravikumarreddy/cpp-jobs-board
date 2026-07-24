@@ -1171,30 +1171,6 @@
           "externalId": "greenhouse:5194716007",
           "region": "West",
           "regionRank": 5
-        },
-        {
-          "id": "elastic-principal-software-engineer-security-elasticsearch-w26",
-          "company": "Elastic",
-          "title": "Principal Software Engineer - Security - Elasticsearch",
-          "location": "United States",
-          "remote": "Onsite/Hybrid",
-          "industry": "Platform - Data and Compute",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (13h ago). Callback score 93.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Distributed systems"
-          ],
-          "url": "https://jobs.elastic.co/jobs?gh_jid=8082612&gh_jid=8082612",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (13h ago)",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 93.0,
-          "postedAtUtc": "2026-07-23T17:48:24-04:00",
-          "atsJobId": "8082612",
-          "region": "Remote",
-          "regionRank": 2
         }
       ],
       "removedNotes": [
@@ -2698,29 +2674,6 @@
           "postedAtUtc": "2026-07-22T02:02:30.561814+00:00"
         },
         {
-          "id": "li-metrea-senior-c-signal-processing-engineer-rada-2026-w30",
-          "company": "Metrea",
-          "title": "Senior C++ Signal Processing Engineer (Radar & RF Systems)",
-          "location": "Victor, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-signal-processing-engineer-radar-rf-systems-at-metrea-4427017342",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "7 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4427017342",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-22T17:02:30.561814+00:00"
-        },
-        {
           "id": "built-lg-ad-solutions-backend-software-engineer-c-go-2026-w30",
           "postedAtUtc": "2026-07-23T00:00:00.001999+00:00",
           "company": "LG Ad Solutions",
@@ -2925,28 +2878,6 @@
           "postedAtUtc": "2026-07-23T15:50:36.231521+00:00"
         },
         {
-          "id": "li-src-staff-c-software-engineer-2026-w30",
-          "company": "SRC",
-          "title": "Staff C++ Software Engineer",
-          "location": "Fairborn, OH",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 51 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/staff-c%2B%2B-software-engineer-at-src-4441538656",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "51 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4441538656",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-infovision-inc-c-developer-2026-w30",
           "company": "InfoVision Inc.",
           "title": "C++ Developer",
@@ -2968,28 +2899,6 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-07-23T17:25:32.323047+00:00"
-        },
-        {
-          "id": "li-client-of-maven-companies-inc-embedded-c-software-development-engineer-2026-w30",
-          "company": "Client of Maven Companies Inc.",
-          "title": "Embedded C++ Software Development Engineer",
-          "location": "Peoria, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 21 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/embedded-c%2B%2B-software-development-engineer-4441561036",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "21 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4441561036",
-          "region": "Central",
-          "regionRank": 3
         },
         {
           "id": "li-esri-sr-c-software-development-engineer-arcgi-2026-w30",
@@ -3106,29 +3015,6 @@
           "postedAtUtc": "2026-07-23T15:10:59.519491+00:00"
         },
         {
-          "id": "li-grit-c-engineer-hft-trading-fresh-graduates-1-2026-w30",
-          "company": "GRIT",
-          "title": "C++ Engineer (HFT Trading, Fresh Graduates/ 1yr+, high-flyer & Fast career-track)",
-          "location": "New York, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-hft-trading-fresh-graduates-1yr%2B-high-flyer-fast-career-track-at-grit-4443898024",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "10 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4443898024",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-23T16:43:44.135084+00:00"
-        },
-        {
           "id": "li-susquehanna-international-group-c-developer-trading-strategies-experienc-2026-w30",
           "company": "Susquehanna International Group",
           "title": "C++ Developer | Trading Strategies | Experienced Hire",
@@ -3195,51 +3081,6 @@
           "possibleRepost": "Software Engineer (Java, C++)",
           "region": "Remote",
           "regionRank": 2
-        },
-        {
-          "id": "li-spacexai-software-engineer-network-c-2026-w30",
-          "company": "SpaceXAI",
-          "title": "Software Engineer - Network (C++)",
-          "location": "Seattle, WA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 29 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-network-c%2B%2B-at-spacexai-4436419135",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "29 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4436419135",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
-          "id": "li-jobgether-software-engineer-networking-c-c-2026-w30",
-          "company": "Jobgether",
-          "title": "Software Engineer, Networking & C/C++",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-networking-c-c%2B%2B-at-jobgether-4444335210",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4444335210",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-07-24T09:37:45.798983+00:00"
         },
         {
           "id": "li-omnissa-software-engineer-c-c-2026-w30",
