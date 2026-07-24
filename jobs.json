@@ -1067,30 +1067,6 @@
           "regionRank": 5
         },
         {
-          "id": "roblox-senior-software-engineer-assistant-w26",
-          "company": "Roblox",
-          "title": "Senior Software Engineer: Assistant",
-          "location": "San Mateo, CA, United States",
-          "remote": "Onsite/Hybrid",
-          "industry": "Software Engineering",
-          "salary": null,
-          "summary": "FRESH \u2014 posted 5 days ago. Callback score 68.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://careers.roblox.com/jobs/8047823?gh_jid=8047823",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "5 days ago",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 68.0,
-          "postedAtUtc": "2026-07-15T11:45:19-04:00",
-          "atsJobId": "8047823",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
           "id": "perplexity-member-of-technical-staff-software-engineer-inference-training-platfo-w26",
           "company": "Perplexity",
           "title": "Member of Technical Staff (Software Engineer, Inference & Training Platform)",
@@ -1195,6 +1171,30 @@
           "externalId": "greenhouse:5194716007",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "elastic-principal-software-engineer-security-elasticsearch-w26",
+          "company": "Elastic",
+          "title": "Principal Software Engineer - Security - Elasticsearch",
+          "location": "United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "Platform - Data and Compute",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (13h ago). Callback score 93.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Distributed systems"
+          ],
+          "url": "https://jobs.elastic.co/jobs?gh_jid=8082612&gh_jid=8082612",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (13h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 93.0,
+          "postedAtUtc": "2026-07-23T17:48:24-04:00",
+          "atsJobId": "8082612",
+          "region": "Remote",
+          "regionRank": 2
         }
       ],
       "removedNotes": [
@@ -1317,29 +1317,6 @@
           "externalId": "builtin:10261764",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-venture-up-c-software-engineer-2026-w30",
-          "company": "Venture Up",
-          "title": "C++ Software Engineer",
-          "location": "San Francisco, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 13 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-venture-up-4442590961",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "13 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4442590961",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-07-20T12:07:26.624993+00:00"
         },
         {
           "id": "li-geocue-software-developer-c-lp360-desktop-2026-w30",
@@ -2062,29 +2039,6 @@
           "externalId": "linkedin:4443378503",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-accriva-diagnostics-senior-embedded-software-engineer-c-c-2026-w30",
-          "company": "Accriva Diagnostics",
-          "title": "Senior Embedded Software Engineer (C/C++)",
-          "location": "Bedford, MA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 21 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-embedded-software-engineer-c-c%2B%2B-at-accriva-diagnostics-4442763289",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "21 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4442763289",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-20T17:40:08.341675+00:00"
         },
         {
           "id": "li-tradeweb-c-software-engineer-2026-w30",
