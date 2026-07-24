@@ -3054,6 +3054,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-23T20:02:21.280072+00:00"
+        },
+        {
+          "id": "built-comcast-lead-c-software-engineer-2026-w30",
+          "postedAtUtc": "2026-07-24T00:00:00.000687+00:00",
+          "company": "Comcast",
+          "title": "Lead C++ Software Engineer",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted just now. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/lead-c-rtb-software-engineer-new-york-hybrid-freewheel/9970062",
+          "source": "Built In",
+          "postedApprox": "just now",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:9970062",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
