@@ -3127,6 +3127,29 @@
           "externalId": "linkedin:4444772120",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-netapp-software-engineer-cloud-engineering-c-2026-w30",
+          "company": "NetApp",
+          "title": "Software Engineer - Cloud Engineering (C++)",
+          "location": "San Jose, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 11 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-cloud-engineering-c%2B%2B-at-netapp-4441541014",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "11 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4441541014",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-23T15:10:59.519491+00:00"
         }
       ]
     }
