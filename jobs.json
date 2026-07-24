@@ -1167,6 +1167,34 @@
           "externalId": "greenhouse:5194178007",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "verkada-embedded-software-engineer-access-control-w26",
+          "company": "Verkada",
+          "title": "Embedded Software Engineer, Access Control",
+          "location": "San Mateo, CA United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "Software - Early Careers",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 103.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "Distributed systems",
+            "Python",
+            "Go"
+          ],
+          "url": "https://job-boards.greenhouse.io/verkada/jobs/5194716007",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (0h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 103.0,
+          "postedAtUtc": "2026-07-23T19:42:32-04:00",
+          "atsJobId": "5194716007",
+          "externalId": "greenhouse:5194716007",
+          "region": "West",
+          "regionRank": 5
         }
       ],
       "removedNotes": [
@@ -3075,6 +3103,28 @@
           "yoeFit": "Verify",
           "yoeNote": "Auto-tracked \u2014 apply filters in your head",
           "externalId": "builtin:9970062",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-soni-software-engineer-c-2026-w30",
+          "company": "Soni",
+          "title": "Software Engineer (C++)",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-soni-4444772120",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4444772120",
           "region": "East",
           "regionRank": 1
         }
