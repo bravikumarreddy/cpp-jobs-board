@@ -3195,6 +3195,51 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-07-23T20:32:26.253154+00:00"
+        },
+        {
+          "id": "built-rockstar-games-software-engineer-c-net-2026-w30",
+          "postedAtUtc": "2026-07-24T00:00:00.001800+00:00",
+          "company": "Rockstar Games",
+          "title": "Software Engineer (C#/.NET)",
+          "location": "Manhattan, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 20 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/software-engineer-c-net/9366338",
+          "source": "Built In",
+          "postedApprox": "20 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:9366338",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-inherent-technologies-c-technical-specialist-2026-w30",
+          "company": "Inherent Technologies",
+          "title": "C++ Technical Specialist",
+          "location": "Somerset, NJ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 57 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-technical-specialist-at-inherent-technologies-4445227542",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "57 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4445227542",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
