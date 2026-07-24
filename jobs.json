@@ -3106,29 +3106,6 @@
           "postedAtUtc": "2026-07-24T13:43:13.541404+00:00"
         },
         {
-          "id": "li-susquehanna-international-group-c-quantitative-developer-trading-strateg-2026-w30",
-          "company": "Susquehanna International Group",
-          "title": "C++ Quantitative Developer | Trading Strategies | Experienced Hire",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-quantitative-developer-trading-strategies-experienced-hire-at-susquehanna-international-group-4406724221",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "5 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4406724221",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-24T09:43:13.541404+00:00"
-        },
-        {
           "id": "li-near-earth-autonomy-autonomy-software-engineer-c-2026-w30",
           "company": "Near Earth Autonomy",
           "title": "Autonomy Software Engineer (C++)",
@@ -3149,6 +3126,52 @@
           "externalId": "linkedin:4419646382",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-selby-jennings-senior-software-engineer-c-trading-syste-2026-w30",
+          "company": "Selby Jennings",
+          "title": "Senior Software Engineer (C++ Trading Systems) | Fixed Income Technology",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-trading-systems-fixed-income-technology-at-selby-jennings-4444991064",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4444991064",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-24T15:47:55.536250+00:00"
+        },
+        {
+          "id": "li-susquehanna-international-group-c-developer-trading-strategies-experienc-2026-w30",
+          "company": "Susquehanna International Group",
+          "title": "C++ Developer | Trading Strategies | Experienced Hire",
+          "location": "Bala-Cynwyd, PA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-trading-strategies-experienced-hire-at-susquehanna-international-group-4406722216",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4406722216",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-24T09:47:55.536250+00:00"
         }
       ]
     }
