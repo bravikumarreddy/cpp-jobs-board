@@ -3149,6 +3149,119 @@
           "externalId": "linkedin:4406722216",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-venture-up-c-software-engineer-2026-w30",
+          "company": "Venture Up",
+          "title": "C++ Software Engineer",
+          "location": "San Francisco, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 19 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-venture-up-4444485163",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "19 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4444485163",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-23T16:37:45.798983+00:00"
+        },
+        {
+          "id": "li-sundayy-software-engineer-python-c-2026-w30",
+          "company": "Sundayy",
+          "title": "Software Engineer (Python, C++)",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 49 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-python-c%2B%2B-at-sundayy-4444953086",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "49 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4444953086",
+          "possibleRepost": "Software Engineer (Java, C++)",
+          "region": "Remote",
+          "regionRank": 2
+        },
+        {
+          "id": "li-spacexai-software-engineer-network-c-2026-w30",
+          "company": "SpaceXAI",
+          "title": "Software Engineer - Network (C++)",
+          "location": "Seattle, WA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 29 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-network-c%2B%2B-at-spacexai-4436419135",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "29 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4436419135",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "li-jobgether-software-engineer-networking-c-c-2026-w30",
+          "company": "Jobgether",
+          "title": "Software Engineer, Networking & C/C++",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-networking-c-c%2B%2B-at-jobgether-4444335210",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4444335210",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-07-24T09:37:45.798983+00:00"
+        },
+        {
+          "id": "li-omnissa-software-engineer-c-c-2026-w30",
+          "company": "Omnissa",
+          "title": "Software Engineer, C/C++",
+          "location": "Mountain View, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 15 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c-c%2B%2B-at-omnissa-4424809725",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "15 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4424809725",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
