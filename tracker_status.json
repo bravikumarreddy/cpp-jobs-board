@@ -2,14 +2,14 @@
   "running": true,
   "pid": 80661,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-07-24T18:59:17.322612+00:00",
-  "nextCycleAt": "2026-07-24T19:29:17.322637+00:00",
-  "cycleCount": 192,
+  "lastCycleAt": "2026-07-24T19:32:34.321224+00:00",
+  "nextCycleAt": "2026-07-24T20:02:34.321271+00:00",
+  "cycleCount": 193,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-07-24T18:52:02.490461+00:00",
+      "lastRun": "2026-07-24T19:29:17.741388+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -17,7 +17,7 @@
     },
     {
       "name": "remotive",
-      "lastRun": "2026-07-24T18:52:08.307731+00:00",
+      "lastRun": "2026-07-24T19:29:18.691967+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -25,15 +25,15 @@
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-07-24T18:52:23.015625+00:00",
-      "status": "error",
+      "lastRun": "2026-07-24T19:29:19.137986+00:00",
+      "status": "ok",
       "found": 0,
       "added": 0,
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "error": null
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-07-24T18:52:53.067027+00:00",
+      "lastRun": "2026-07-24T19:29:20.058633+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -41,7 +41,7 @@
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-07-24T18:53:38.861699+00:00",
+      "lastRun": "2026-07-24T19:29:20.535256+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -49,7 +49,7 @@
     },
     {
       "name": "avature",
-      "lastRun": "2026-07-24T18:53:40.599949+00:00",
+      "lastRun": "2026-07-24T19:29:20.997874+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,7 +57,7 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-07-24T18:54:04.009193+00:00",
+      "lastRun": "2026-07-24T19:29:34.426597+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -65,7 +65,7 @@
     },
     {
       "name": "builtin",
-      "lastRun": "2026-07-24T18:55:26.344278+00:00",
+      "lastRun": "2026-07-24T19:29:35.768283+00:00",
       "status": "ok",
       "found": 2,
       "added": 0,
@@ -73,26 +73,26 @@
     },
     {
       "name": "goldman",
-      "lastRun": "2026-07-24T18:59:09.542033+00:00",
-      "status": "error",
-      "found": 0,
-      "added": 0,
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "name": "linkedin",
-      "lastRun": "2026-07-24T18:59:09.580998+00:00",
+      "lastRun": "2026-07-24T19:29:46.008383+00:00",
       "status": "ok",
-      "found": null,
+      "found": 0,
       "added": 0,
       "error": null
     },
     {
-      "name": "ats_apis",
-      "lastRun": null,
-      "status": "skipped",
+      "name": "linkedin",
+      "lastRun": "2026-07-24T19:29:46.406698+00:00",
+      "status": "ok",
       "found": null,
-      "added": 0,
+      "added": 3,
+      "error": null
+    },
+    {
+      "name": "ats_apis",
+      "lastRun": "2026-07-24T19:29:57.075074+00:00",
+      "status": "ok",
+      "found": null,
+      "added": 2,
       "error": null
     }
   ],
@@ -226,7 +226,7 @@
   ],
   "totals": {
     "day": "2026-07-24",
-    "addedToday": 55,
-    "cyclesToday": 37
+    "addedToday": 60,
+    "cyclesToday": 38
   }
 }
