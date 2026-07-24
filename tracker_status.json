@@ -2,14 +2,14 @@
   "running": true,
   "pid": 80661,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-07-24T21:37:00.036532+00:00",
-  "nextCycleAt": "2026-07-24T22:07:00.036575+00:00",
-  "cycleCount": 197,
+  "lastCycleAt": "2026-07-24T22:07:32.898998+00:00",
+  "nextCycleAt": "2026-07-24T22:37:32.899029+00:00",
+  "cycleCount": 198,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-07-24T21:34:27.966984+00:00",
+      "lastRun": "2026-07-24T22:07:01.913656+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -17,7 +17,7 @@
     },
     {
       "name": "remotive",
-      "lastRun": "2026-07-24T21:34:28.528398+00:00",
+      "lastRun": "2026-07-24T22:07:02.643061+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -25,7 +25,7 @@
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-07-24T21:34:28.807804+00:00",
+      "lastRun": "2026-07-24T22:07:03.048203+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -33,7 +33,7 @@
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-07-24T21:34:29.847033+00:00",
+      "lastRun": "2026-07-24T22:07:03.338837+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -41,7 +41,7 @@
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-07-24T21:34:30.253982+00:00",
+      "lastRun": "2026-07-24T22:07:03.879345+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -49,7 +49,7 @@
     },
     {
       "name": "avature",
-      "lastRun": "2026-07-24T21:34:30.665701+00:00",
+      "lastRun": "2026-07-24T22:07:04.574057+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,7 +57,7 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-07-24T21:34:37.679413+00:00",
+      "lastRun": "2026-07-24T22:07:12.026613+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -65,15 +65,15 @@
     },
     {
       "name": "builtin",
-      "lastRun": "2026-07-24T21:34:38.980001+00:00",
+      "lastRun": "2026-07-24T22:07:13.247646+00:00",
       "status": "ok",
       "found": 3,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
       "name": "goldman",
-      "lastRun": "2026-07-24T21:34:49.563758+00:00",
+      "lastRun": "2026-07-24T22:07:22.384143+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -81,22 +81,28 @@
     },
     {
       "name": "linkedin",
-      "lastRun": "2026-07-24T21:34:49.973240+00:00",
+      "lastRun": "2026-07-24T22:07:22.739918+00:00",
       "status": "ok",
       "found": null,
-      "added": 3,
+      "added": 4,
       "error": null
     },
     {
       "name": "ats_apis",
-      "lastRun": "2026-07-24T21:35:00.101314+00:00",
-      "status": "ok",
+      "lastRun": null,
+      "status": "skipped",
       "found": null,
-      "added": 2,
+      "added": 0,
       "error": null
     }
   ],
   "recentFinds": [
+    {
+      "company": "Rockstar Games",
+      "title": "Software Engineer (C#/.NET)",
+      "source": "Built In",
+      "at": "2026-07-24T22:07:13.247646+00:00"
+    },
     {
       "company": "Rockstar Games",
       "title": "Software Engineer (C#/.NET)",
@@ -232,7 +238,7 @@
   ],
   "totals": {
     "day": "2026-07-24",
-    "addedToday": 76,
-    "cyclesToday": 42
+    "addedToday": 81,
+    "cyclesToday": 43
   }
 }
