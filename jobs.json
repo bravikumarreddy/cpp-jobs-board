@@ -2811,50 +2811,6 @@
           "regionRank": 3
         },
         {
-          "id": "li-venchr-lead-software-engineer-c-juce-remote-200-2026-w30",
-          "company": "Venchr",
-          "title": "Lead Software Engineer - C++/ JUCE - Remote - $200k",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 10 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/lead-software-engineer-c%2B%2B-juce-remote-%24200k-at-venchr-4444456724",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "10 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4444456724",
-          "region": "Remote",
-          "regionRank": 2
-        },
-        {
-          "id": "li-5v-tech-c-software-engineer-embedded-systems-2026-w30",
-          "company": "5V Tech",
-          "title": "C++ Software Engineer - Embedded Systems",
-          "location": "Austin, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 31 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-embedded-systems-at-5v-tech-4435470957",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "31 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4435470957",
-          "region": "Central",
-          "regionRank": 3
-        },
-        {
           "id": "li-citadel-securities-rates-credit-c-engineer-2026-w30",
           "company": "Citadel Securities",
           "title": "Rates & Credit C++ Engineer",
@@ -2876,29 +2832,6 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-23T15:50:36.231521+00:00"
-        },
-        {
-          "id": "li-infovision-inc-c-developer-2026-w30",
-          "company": "InfoVision Inc.",
-          "title": "C++ Developer",
-          "location": "Addison, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-infovision-inc-4444004434",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4444004434",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-07-23T17:25:32.323047+00:00"
         },
         {
           "id": "li-esri-sr-c-software-development-engineer-arcgi-2026-w30",
@@ -2966,28 +2899,6 @@
           "yoeFit": "Verify",
           "yoeNote": "Auto-tracked \u2014 apply filters in your head",
           "externalId": "builtin:9970062",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
-          "id": "li-soni-software-engineer-c-2026-w30",
-          "company": "Soni",
-          "title": "Software Engineer (C++)",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 3 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-soni-4444772120",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4444772120",
           "region": "East",
           "regionRank": 1
         },
@@ -3083,29 +2994,6 @@
           "regionRank": 5
         },
         {
-          "id": "li-joseph-anthony-group-c-developer-2026-w30",
-          "company": "Joseph Anthony Group",
-          "title": "C++ Developer",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-joseph-anthony-group-4441592948",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4441592948",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-24T13:43:13.541404+00:00"
-        },
-        {
           "id": "li-near-earth-autonomy-autonomy-software-engineer-c-2026-w30",
           "company": "Near Earth Autonomy",
           "title": "Autonomy Software Engineer (C++)",
@@ -3126,29 +3014,6 @@
           "externalId": "linkedin:4419646382",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-selby-jennings-senior-software-engineer-c-trading-syste-2026-w30",
-          "company": "Selby Jennings",
-          "title": "Senior Software Engineer (C++ Trading Systems) | Fixed Income Technology",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-trading-systems-fixed-income-technology-at-selby-jennings-4444991064",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4444991064",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-24T15:47:55.536250+00:00"
         },
         {
           "id": "li-susquehanna-international-group-c-quantitative-developer-trading-strateg-2026-w30",
@@ -3172,74 +3037,6 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-24T09:51:28.359675+00:00"
-        },
-        {
-          "id": "li-selby-jennings-c-developer-low-latency-trading-2026-w30",
-          "company": "Selby Jennings",
-          "title": "C++ Developer (Low-Latency Trading)",
-          "location": "Chicago, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 23 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-low-latency-trading-at-selby-jennings-4444719184",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "23 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4444719184",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-07-23T20:32:26.253154+00:00"
-        },
-        {
-          "id": "built-rockstar-games-software-engineer-c-net-2026-w30",
-          "postedAtUtc": "2026-07-24T00:00:00.001800+00:00",
-          "company": "Rockstar Games",
-          "title": "Software Engineer (C#/.NET)",
-          "location": "Manhattan, New York",
-          "remote": "See posting",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Live tracker (Built In): posted 20 hours ago. Verify details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.builtinnyc.com/job/software-engineer-c-net/9366338",
-          "source": "Built In",
-          "postedApprox": "20 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
-          "externalId": "builtin:9366338",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
-          "id": "li-inherent-technologies-c-technical-specialist-2026-w30",
-          "company": "Inherent Technologies",
-          "title": "C++ Technical Specialist",
-          "location": "Somerset, NJ",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 57 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-technical-specialist-at-inherent-technologies-4445227542",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "57 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445227542",
-          "region": "East",
-          "regionRank": 1
         }
       ]
     }
