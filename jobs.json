@@ -2063,29 +2063,6 @@
           "postedAtUtc": "2026-07-22T16:57:47.226399+00:00"
         },
         {
-          "id": "li-ice-senior-c-developer-2026-w30",
-          "company": "ICE",
-          "title": "Senior C++ Developer",
-          "location": "Atlanta, GA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-at-ice-4443963816",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4443963816",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-22T18:57:47.226399+00:00"
-        },
-        {
           "id": "li-millennium-quantitative-developer-c-i-low-latency-s-2026-w30",
           "company": "Millennium",
           "title": "Quantitative Developer, C++ I Low-Latency Systems",
@@ -2789,28 +2766,6 @@
           "postedAtUtc": "2026-07-22T23:14:40.730197+00:00"
         },
         {
-          "id": "li-oceaneering-c-software-developer-2026-w30",
-          "company": "Oceaneering",
-          "title": "C++ Software Developer",
-          "location": "Austin, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 5 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-developer-at-oceaneering-4416901971",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "5 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4416901971",
-          "region": "Central",
-          "regionRank": 3
-        },
-        {
           "id": "li-citadel-securities-rates-credit-c-engineer-2026-w30",
           "company": "Citadel Securities",
           "title": "Rates & Credit C++ Engineer",
@@ -3016,52 +2971,6 @@
           "regionRank": 1
         },
         {
-          "id": "built-rockstar-games-software-engineer-c-net-2026-w30",
-          "postedAtUtc": "2026-07-24T00:00:00.001258+00:00",
-          "company": "Rockstar Games",
-          "title": "Software Engineer (C#/.NET)",
-          "location": "Manhattan, New York",
-          "remote": "See posting",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Live tracker (Built In): posted 22 hours ago. Verify details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.builtinnyc.com/job/software-engineer-c-net/9366338",
-          "source": "Built In",
-          "postedApprox": "22 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
-          "externalId": "builtin:9366338",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
-          "id": "li-inherent-technologies-c-technical-specialist-2026-w30",
-          "company": "Inherent Technologies",
-          "title": "C++ Technical Specialist",
-          "location": "Somerset, NJ",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-technical-specialist-at-inherent-technologies-4445227542",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445227542",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-24T20:07:32.802841+00:00"
-        },
-        {
           "id": "li-health-here-software-engineer-c-2026-w30",
           "company": "Health Here",
           "title": "Software Engineer (C++)",
@@ -3082,120 +2991,6 @@
           "externalId": "linkedin:4444619346",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-staffworxs-senior-c-software-engineer-2026-w30",
-          "company": "STAFFWORXS",
-          "title": "Senior C++ Software Engineer",
-          "location": "Dallas-Fort Worth Metroplex",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-staffworxs-4445246673",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445246673",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-07-24T22:42:28.483245+00:00"
-        },
-        {
-          "id": "li-strativ-group-staff-software-engineer-c-physics-gaming-2026-w30",
-          "company": "Strativ Group",
-          "title": "Staff Software Engineer \u2013 C++ / Physics / Gaming",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-%E2%80%93-c%2B%2B-physics-gaming-at-strativ-group-4435832453",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "5 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4435832453",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-07-24T19:42:28.483245+00:00"
-        },
-        {
-          "id": "li-techmagic-lead-c-developer-new-york-hybrid-2026-w30",
-          "company": "TechMagic",
-          "title": "Lead C++ developer (New York, hybrid)",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 59 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/lead-c%2B%2B-developer-new-york-hybrid-at-techmagic-4444626442",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "59 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4444626442",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
-          "id": "li-val-s-services-software-engineer-c-2026-w30",
-          "company": "val's services",
-          "title": "Software Engineer C++",
-          "location": "Salina, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-val-s-services-4445266468",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445266468",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-25T00:13:01.017611+00:00"
-        },
-        {
-          "id": "li-charter-global-c-developer-2026-w30",
-          "company": "Charter Global",
-          "title": "C++ Developer",
-          "location": "Atlanta, GA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-charter-global-4441830323",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "8 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4441830323",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-24T17:45:30.083703+00:00"
         },
         {
           "id": "li-susquehanna-international-group-c-quantitative-developer-trading-strateg-2026-w30",
