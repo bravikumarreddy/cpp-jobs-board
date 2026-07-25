@@ -3062,29 +3062,6 @@
           "postedAtUtc": "2026-07-24T20:07:32.802841+00:00"
         },
         {
-          "id": "li-susquehanna-international-group-c-developer-trading-strategies-experienc-2026-w30",
-          "company": "Susquehanna International Group",
-          "title": "C++ Developer | Trading Strategies | Experienced Hire",
-          "location": "Bala-Cynwyd, PA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 12 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-trading-strategies-experienced-hire-at-susquehanna-international-group-4406722216",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "12 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4406722216",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-24T10:07:32.802841+00:00"
-        },
-        {
           "id": "li-health-here-software-engineer-c-2026-w30",
           "company": "Health Here",
           "title": "Software Engineer (C++)",
@@ -3219,6 +3196,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-24T17:45:30.083703+00:00"
+        },
+        {
+          "id": "li-susquehanna-international-group-c-quantitative-developer-trading-strateg-2026-w30",
+          "company": "Susquehanna International Group",
+          "title": "C++ Quantitative Developer | Trading Strategies | Experienced Hire",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 16 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-quantitative-developer-trading-strategies-experienced-hire-at-susquehanna-international-group-4406724221",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "16 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4406724221",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-24T10:16:12.322365+00:00"
         }
       ]
     }
