@@ -3105,6 +3105,29 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-07-25T00:11:13.014370+00:00"
+        },
+        {
+          "id": "li-pearlsoft-solutions-inc-senior-c-developer-media-streaming-drm-g-2026-w30",
+          "company": "Pearlsoft Solutions Inc.",
+          "title": "Senior C++ Developer \u2013 Media Streaming (DRM, GStreamer, FFmpeg)",
+          "location": "Dallas-Fort Worth Metroplex",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 20 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-%E2%80%93-media-streaming-drm-gstreamer-ffmpeg-at-pearlsoft-solutions-inc-4444387875",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "20 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4444387875",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-24T19:15:44.515327+00:00"
         }
       ]
     }
