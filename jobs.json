@@ -3264,6 +3264,29 @@
           "externalId": "linkedin:4445291200",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-susquehanna-international-group-senior-c-developer-trading-infrastructur-2026-w30",
+          "company": "Susquehanna International Group",
+          "title": "Senior C++ Developer | Trading Infrastructure | Experienced Hire",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-trading-infrastructure-experienced-hire-at-susquehanna-international-group-4406728155",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4406728155",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-25T09:46:52.970031+00:00"
         }
       ]
     }
