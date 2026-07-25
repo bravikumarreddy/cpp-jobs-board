@@ -1096,30 +1096,6 @@
           "regionRank": 5
         },
         {
-          "id": "waymo-senior-software-engineer-fleet-response-infrastructure-w26",
-          "company": "Waymo",
-          "title": "Senior Software Engineer, Fleet Response Infrastructure",
-          "location": "Mountain View, California, United States of America",
-          "remote": "Onsite/Hybrid",
-          "industry": "CSI (7LV)",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (18h ago). Callback score 93.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Distributed systems"
-          ],
-          "url": "https://careers.withwaymo.com/jobs?gh_jid=7947243",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (18h ago)",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 93.0,
-          "postedAtUtc": "2026-07-22T15:38:33-04:00",
-          "atsJobId": "7947243",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
           "id": "lucid-motors-senior-engineer-motion-planning-and-controls-autonomous-driving-w26",
           "company": "Lucid Motors",
           "title": "Senior Engineer - Motion Planning and Controls, Autonomous Driving",
@@ -3151,6 +3127,28 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-25T06:46:17.416102+00:00"
+        },
+        {
+          "id": "li-devhouse-unreal-ui-developer-c-blueprint-2026-w30",
+          "company": "Devhouse",
+          "title": "Unreal UI Developer (C++/Blueprint)",
+          "location": "Dallas, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/unreal-ui-developer-c%2B%2B-blueprint-at-devhouse-4444692703",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4444692703",
+          "region": "Central",
+          "regionRank": 3
         }
       ]
     }
