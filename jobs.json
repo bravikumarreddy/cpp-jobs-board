@@ -3151,6 +3151,51 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-07-24T19:42:28.483245+00:00"
+        },
+        {
+          "id": "li-techmagic-lead-c-developer-new-york-hybrid-2026-w30",
+          "company": "TechMagic",
+          "title": "Lead C++ developer (New York, hybrid)",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 59 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/lead-c%2B%2B-developer-new-york-hybrid-at-techmagic-4444626442",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "59 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4444626442",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-val-s-services-software-engineer-c-2026-w30",
+          "company": "val's services",
+          "title": "Software Engineer C++",
+          "location": "Salina, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-val-s-services-4445266468",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4445266468",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-25T00:13:01.017611+00:00"
         }
       ]
     }
