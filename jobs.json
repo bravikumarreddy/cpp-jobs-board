@@ -3105,6 +3105,52 @@
           "externalId": "linkedin:4444619346",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-staffworxs-senior-c-software-engineer-2026-w30",
+          "company": "STAFFWORXS",
+          "title": "Senior C++ Software Engineer",
+          "location": "Dallas-Fort Worth Metroplex",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-staffworxs-4445246673",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4445246673",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-24T22:42:28.483245+00:00"
+        },
+        {
+          "id": "li-strativ-group-staff-software-engineer-c-physics-gaming-2026-w30",
+          "company": "Strativ Group",
+          "title": "Staff Software Engineer \u2013 C++ / Physics / Gaming",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-%E2%80%93-c%2B%2B-physics-gaming-at-strativ-group-4435832453",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4435832453",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-07-24T19:42:28.483245+00:00"
         }
       ]
     }
