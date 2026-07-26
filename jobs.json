@@ -3037,75 +3037,6 @@
           "postedAtUtc": "2026-07-25T09:46:52.970031+00:00"
         },
         {
-          "id": "li-noblq-c-software-engineer-iii-irving-tx-onsite-2026-w30",
-          "company": "Noblq",
-          "title": "C++ Software Engineer III - Irving, TX (Onsite)",
-          "location": "Irving, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 13 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-iii-irving-tx-onsite-at-noblq-4445338156",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "13 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445338156",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-07-25T00:11:13.014370+00:00"
-        },
-        {
-          "id": "li-pearlsoft-solutions-inc-senior-c-developer-media-streaming-drm-g-2026-w30",
-          "company": "Pearlsoft Solutions Inc.",
-          "title": "Senior C++ Developer \u2013 Media Streaming (DRM, GStreamer, FFmpeg)",
-          "location": "Dallas-Fort Worth Metroplex",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 20 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-%E2%80%93-media-streaming-drm-gstreamer-ffmpeg-at-pearlsoft-solutions-inc-4444387875",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "20 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4444387875",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-07-24T19:15:44.515327+00:00"
-        },
-        {
-          "id": "li-rg-t-solutions-software-engineer-c-2026-w30",
-          "company": "RG&T Solutions",
-          "title": "Software Engineer (C++)",
-          "location": "Salina, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-rg-t-solutions-4444644810",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "9 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4444644810",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-25T06:46:17.416102+00:00"
-        },
-        {
           "id": "li-devhouse-unreal-ui-developer-c-blueprint-2026-w30",
           "company": "Devhouse",
           "title": "Unreal UI Developer (C++/Blueprint)",
@@ -3217,6 +3148,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-26T04:21:23.420227+00:00"
+        },
+        {
+          "id": "li-oracle-principal-software-developer-c-c-java-di-2026-w30",
+          "company": "Oracle",
+          "title": "Principal Software Developer- C/C++ , Java, Distributed System (Redwood City, CA)",
+          "location": "Redwood City, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/principal-software-developer-c-c%2B%2B-java-distributed-system-redwood-city-ca-at-oracle-4406456831",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4406456831",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-26T09:53:06.500227+00:00"
         }
       ]
     }
