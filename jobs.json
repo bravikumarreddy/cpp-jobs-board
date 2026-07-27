@@ -3238,6 +3238,28 @@
           "externalId": "builtin:9354553",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-rs-global-services-software-engineer-c-systems-on-site-san--2026-w30",
+          "company": "RS Global Services",
+          "title": "Software Engineer (C++ Systems) - On-site San Francisco",
+          "location": "San Francisco, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 23 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-systems-on-site-san-francisco-at-rs-global-services-4445371445",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "23 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4445371445",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
