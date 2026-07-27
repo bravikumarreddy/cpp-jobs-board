@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25",
+  "lastUpdated": "2026-07-26",
   "lastChecked": "2026-07-25",
   "seedVersion": 2,
   "liveTrackers": [
@@ -3215,6 +3215,29 @@
           "externalId": "linkedin:4445649208",
           "region": "Remote",
           "regionRank": 2
+        },
+        {
+          "id": "built-citadel-securities-c-market-data-engineer-2026-w30",
+          "postedAtUtc": "2026-07-27T00:00:00.000740+00:00",
+          "company": "Citadel Securities",
+          "title": "C++ Market Data Engineer",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted just now. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/c-market-data-engineer/9354553",
+          "source": "Built In",
+          "postedApprox": "just now",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:9354553",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
