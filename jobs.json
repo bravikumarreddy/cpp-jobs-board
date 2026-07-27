@@ -1147,6 +1147,31 @@
           "externalId": "greenhouse:5194716007",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "verkada-software-engineer-computer-vision-w26",
+          "company": "Verkada",
+          "title": "Software Engineer - Computer Vision",
+          "location": "San Mateo, CA United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "Software - Early Careers",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 100.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/verkada/jobs/5195995007",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 100.0,
+          "postedAtUtc": "2026-07-27T13:40:21-04:00",
+          "atsJobId": "5195995007",
+          "externalId": "greenhouse:5195995007",
+          "region": "West",
+          "regionRank": 5
         }
       ],
       "removedNotes": [
