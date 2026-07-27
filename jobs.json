@@ -3447,6 +3447,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-27T18:39:07.550839+00:00"
+        },
+        {
+          "id": "li-ledgent-technology-sr-software-engineer-c-linux-2026-w31",
+          "company": "Ledgent Technology",
+          "title": "Sr Software Engineer (C++/Linux)",
+          "location": "Weston, FL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-c%2B%2B-linux-at-ledgent-technology-4445153083",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4445153083",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-27T15:10:01.291656+00:00"
         }
       ]
     }
