@@ -3333,6 +3333,28 @@
           "externalId": "linkedin:4445952467",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-umanist-na-senior-firmware-engineer-embedded-c-rtos-2026-w31",
+          "company": "Umanist NA",
+          "title": "Senior Firmware Engineer \u2013 Embedded C++ / RTOS",
+          "location": "Mayfield Heights, OH",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 20 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-firmware-engineer-%E2%80%93-embedded-c%2B%2B-rtos-at-umanist-na-4445158321",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "20 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4445158321",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
