@@ -3516,6 +3516,29 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-07-27T06:43:40.579021+00:00"
+        },
+        {
+          "id": "li-omnissa-software-engineer-c-c-cloud-networking-2026-w31",
+          "company": "Omnissa",
+          "title": "Software Engineer, C/C++ (Cloud/Networking)",
+          "location": "Mountain View, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c-c%2B%2B-cloud-networking-at-omnissa-4445192717",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4445192717",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-27T21:44:50.771725+00:00"
         }
       ]
     }
