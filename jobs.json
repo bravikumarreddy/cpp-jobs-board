@@ -3311,6 +3311,28 @@
           "externalId": "linkedin:4437930680",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-alexander-chapman-software-engineer-c-2026-w31",
+          "company": "Alexander Chapman",
+          "title": "Software Engineer - C++",
+          "location": "New York City Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-alexander-chapman-4445952467",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4445952467",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
