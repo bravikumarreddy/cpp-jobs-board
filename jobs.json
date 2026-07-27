@@ -3266,7 +3266,31 @@
     {
       "weekId": "2026-W31",
       "label": "Week of July 27, 2026",
-      "jobs": []
+      "jobs": [
+        {
+          "id": "li-cyberforce-global-senior-c-engineer-2026-w31",
+          "company": "CyberForce Global",
+          "title": "Senior C++ Engineer",
+          "location": "Boca Raton, FL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-engineer-at-cyberforce-global-4445911720",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4445911720",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-27T10:54:33.259013+00:00"
+        }
+      ]
     }
   ]
 }
