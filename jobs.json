@@ -3683,6 +3683,28 @@
           "externalId": "linkedin:4443244214",
           "region": "Remote",
           "regionRank": 2
+        },
+        {
+          "id": "li-info-way-solutions-system-analyst-c-2026-w31",
+          "company": "Info Way Solutions",
+          "title": "System Analyst (C++)",
+          "location": "Irvine, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 20 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/system-analyst-c%2B%2B-at-info-way-solutions-4446322562",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "20 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4446322562",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
