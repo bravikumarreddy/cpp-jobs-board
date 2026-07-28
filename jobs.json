@@ -3703,6 +3703,52 @@
           "externalId": "linkedin:4445747847",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "li-ea-sports-advanced-c-generalist-software-engineer--2026-w31",
+          "company": "EA SPORTS",
+          "title": "Advanced C++ Generalist Software Engineer - Tiburon Innovation and Engine",
+          "location": "Orlando, FL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/advanced-c%2B%2B-generalist-software-engineer-tiburon-innovation-and-engine-at-ea-sports-4433994274",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4433994274",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-28T19:06:55.959975+00:00"
+        },
+        {
+          "id": "li-lightpanda-senior-software-engineer-system-programm-2026-w31",
+          "company": "Lightpanda",
+          "title": "Senior Software Engineer - System Programming (Zig/C++)",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 11 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-system-programming-zig-c%2B%2B-at-lightpanda-4443250313",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "11 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4443250313",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-07-28T09:06:55.959975+00:00"
         }
       ]
     }
