@@ -2041,29 +2041,6 @@
           "postedAtUtc": "2026-07-22T07:57:47.226399+00:00"
         },
         {
-          "id": "li-siemens-senior-software-engineer-c-ds-algorithm-2026-w30",
-          "company": "Siemens",
-          "title": "Senior Software Engineer (C++/DS/Algorithm)",
-          "location": "Santa Clara, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-ds-algorithm-at-siemens-4443169660",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "5 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4443169660",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-07-22T16:57:47.226399+00:00"
-        },
-        {
           "id": "li-millennium-quantitative-developer-c-i-low-latency-s-2026-w30",
           "company": "Millennium",
           "title": "Quantitative Developer, C++ I Low-Latency Systems",
@@ -3059,29 +3036,6 @@
           "externalId": "linkedin:4444692703",
           "region": "Central",
           "regionRank": 3
-        },
-        {
-          "id": "li-lightpanda-senior-software-engineer-system-programm-2026-w30",
-          "company": "Lightpanda",
-          "title": "Senior Software Engineer - System Programming (Zig/C++)",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-system-programming-zig-c%2B%2B-at-lightpanda-4444697099",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "5 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4444697099",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-07-25T21:02:04.666375+00:00"
         },
         {
           "id": "li-susquehanna-international-group-c-developer-options-market-making-experi-2026-w30",
