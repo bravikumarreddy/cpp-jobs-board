@@ -3661,6 +3661,28 @@
           "atsJobId": "4700102006",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-elric-studios-inc-senior-engine-programmer-c-c-asm-c-2026-w31",
+          "company": "\u00c6\u00d0ELRIC STUDIOS INC.",
+          "title": "Senior Engine Programmer - C++, C, ASM, C#",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 21 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-engine-programmer-c%2B%2B-c-asm-c%23-4443244214",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "21 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4443244214",
+          "region": "Remote",
+          "regionRank": 2
         }
       ]
     }
