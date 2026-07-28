@@ -2882,29 +2882,6 @@
           "postedAtUtc": "2026-07-23T15:10:59.519491+00:00"
         },
         {
-          "id": "li-venture-up-c-software-engineer-2026-w30",
-          "company": "Venture Up",
-          "title": "C++ Software Engineer",
-          "location": "San Francisco, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 19 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-venture-up-4444485163",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "19 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4444485163",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-07-23T16:37:45.798983+00:00"
-        },
-        {
           "id": "li-omnissa-software-engineer-c-c-2026-w30",
           "company": "Omnissa",
           "title": "Software Engineer, C/C++",
@@ -3293,29 +3270,6 @@
       "label": "Week of July 27, 2026",
       "jobs": [
         {
-          "id": "li-cyberforce-global-senior-c-engineer-2026-w31",
-          "company": "CyberForce Global",
-          "title": "Senior C++ Engineer",
-          "location": "Boca Raton, FL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-engineer-at-cyberforce-global-4445911720",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445911720",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-27T10:54:33.259013+00:00"
-        },
-        {
           "id": "li-analogic-sr-software-engineer-microservices-c-lin-2026-w31",
           "company": "Analogic",
           "title": "Sr. Software Engineer (Microservices, C++, Linux)",
@@ -3334,28 +3288,6 @@
           "yoeFit": "Verify",
           "yoeNote": "Auto-scraped \u2014 apply filters in your head",
           "externalId": "linkedin:4437930680",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
-          "id": "li-alexander-chapman-software-engineer-c-2026-w31",
-          "company": "Alexander Chapman",
-          "title": "Software Engineer - C++",
-          "location": "New York City Metropolitan Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 10 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-alexander-chapman-4445952467",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "10 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445952467",
           "region": "East",
           "regionRank": 1
         },
@@ -3449,52 +3381,6 @@
           "postedAtUtc": "2026-07-27T18:39:07.550839+00:00"
         },
         {
-          "id": "li-ledgent-technology-sr-software-engineer-c-linux-2026-w31",
-          "company": "Ledgent Technology",
-          "title": "Sr Software Engineer (C++/Linux)",
-          "location": "Weston, FL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-c%2B%2B-linux-at-ledgent-technology-4445153083",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "5 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445153083",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-27T15:10:01.291656+00:00"
-        },
-        {
-          "id": "li-oho-group-software-engineer-python-c-2026-w31",
-          "company": "Oho Group",
-          "title": "Software Engineer (Python / C++)",
-          "location": "San Francisco Bay Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-python-c%2B%2B-at-oho-group-4445117654",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "9 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445117654",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-07-27T11:40:33.940956+00:00"
-        },
-        {
           "id": "li-cultural-resource-management-c-developer-2026-w31",
           "company": "Cultural Resource Management",
           "title": "C++ Developer",
@@ -3541,28 +3427,6 @@
           "postedAtUtc": "2026-07-27T21:44:50.771725+00:00"
         },
         {
-          "id": "li-talisman-software-engineer-c-2026-w31",
-          "company": "talisman",
-          "title": "Software Engineer C++",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 18 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-talisman-4437867694",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "18 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4437867694",
-          "region": "Remote",
-          "regionRank": 2
-        },
-        {
           "id": "li-analogic-sr-embedded-software-engineer-c-c-linux-2026-w31",
           "company": "Analogic",
           "title": "Sr. Embedded Software Engineer (C, C++, Linux)",
@@ -3586,49 +3450,142 @@
           "postedAtUtc": "2026-07-27T19:53:02.138813+00:00"
         },
         {
-          "id": "li-yo-ai-labs-c-software-developer-remote-2026-w31",
-          "company": "YO AI Labs",
-          "title": "C++ Software Developer - Remote",
-          "location": "California City, CA",
-          "remote": "Onsite",
+          "id": "built-akkodis-c-developer-2026-w31",
+          "postedAtUtc": "2026-07-27T00:00:00.001054+00:00",
+          "company": "Akkodis",
+          "title": "C++ Developer",
+          "location": "New York, New York",
+          "remote": "See posting",
           "industry": "\u2014",
           "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "summary": "Live tracker (Built In): posted 1 days ago. Verify details on opening.",
           "skills": [
             "C++"
           ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-developer-remote-at-yo-ai-labs-4445444268",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
+          "url": "https://www.builtinnyc.com/job/c-developer/7705591",
+          "source": "Built In",
+          "postedApprox": "1 days ago",
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445444268",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-07-28T02:57:36.362519+00:00"
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:7705591",
+          "region": "East",
+          "regionRank": 1
         },
         {
-          "id": "li-alumni-founders-spacecraft-firmware-engineer-c-2026-w31",
-          "company": "Alumni Founders",
-          "title": "Spacecraft Firmware Engineer, C++",
-          "location": "El Segundo, CA",
+          "id": "li-venture-up-c-software-engineer-2026-w31",
+          "company": "Venture Up",
+          "title": "C++ Software Engineer",
+          "location": "San Francisco, CA",
           "remote": "Onsite",
           "industry": "\u2014",
           "salary": null,
-          "summary": "LinkedIn scrape: posted 9 minutes ago. Verify role details on opening.",
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
           "skills": [
             "C++"
           ],
-          "url": "https://www.linkedin.com/jobs/view/spacecraft-firmware-engineer-c%2B%2B-at-alumni-founders-4443205829",
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-venture-up-4445702689",
           "source": "LinkedIn (24h scrape)",
-          "postedApprox": "9 minutes ago",
+          "postedApprox": "2 hours ago",
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
           "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4443205829",
+          "externalId": "linkedin:4445702689",
           "region": "West",
-          "regionRank": 5
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-28T12:52:11.516970+00:00"
+        },
+        {
+          "id": "li-ari-embedded-software-engineer-perception-sy-2026-w31",
+          "company": "ARi",
+          "title": "Embedded Software Engineer \u2013 Perception Systems (C++/Linux)",
+          "location": "Peoria Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-%E2%80%93-perception-systems-c%2B%2B-linux-at-ari-4437713557",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4437713557",
+          "region": "Other",
+          "regionRank": 6,
+          "postedAtUtc": "2026-07-28T11:52:11.516970+00:00"
+        },
+        {
+          "id": "li-bowden-brown-low-latency-c-developer-2026-w31",
+          "company": "Bowden Brown",
+          "title": "Low Latency C++ Developer",
+          "location": "New York City Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/low-latency-c%2B%2B-developer-at-bowden-brown-4445489868",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4445489868",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-28T10:52:11.516970+00:00"
+        },
+        {
+          "id": "li-axon-senior-c-software-engineer-2026-w31",
+          "company": "Axon",
+          "title": "Senior C++ Software Engineer",
+          "location": "Sterling, VA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 20 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-axon-4418926648",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "20 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4418926648",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-27T18:52:11.516970+00:00"
+        },
+        {
+          "id": "li-zimmer-biomet-senior-software-developer-c-qt-mitk-vtk-2026-w31",
+          "company": "Zimmer Biomet",
+          "title": "Senior Software Developer - C++/Qt/MiTK/VTK",
+          "location": "Fremont, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 23 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-developer-c%2B%2B-qt-mitk-vtk-at-zimmer-biomet-4407967289",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "23 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4407967289",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-27T15:52:11.516970+00:00"
         }
       ]
     }

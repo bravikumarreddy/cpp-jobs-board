@@ -2,14 +2,14 @@
   "running": true,
   "pid": 5858,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-07-28T06:43:03.351606+00:00",
-  "nextCycleAt": "2026-07-28T07:13:03.351659+00:00",
-  "cycleCount": 335,
+  "lastCycleAt": "2026-07-28T14:52:11.650038+00:00",
+  "nextCycleAt": "2026-07-28T15:22:11.650087+00:00",
+  "cycleCount": 336,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-07-28T06:42:26.999243+00:00",
+      "lastRun": "2026-07-28T14:51:36.800046+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -17,7 +17,7 @@
     },
     {
       "name": "remotive",
-      "lastRun": "2026-07-28T06:42:27.749205+00:00",
+      "lastRun": "2026-07-28T14:51:37.482264+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -25,7 +25,7 @@
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-07-28T06:42:28.299346+00:00",
+      "lastRun": "2026-07-28T14:51:37.909279+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -33,7 +33,7 @@
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-07-28T06:42:28.831070+00:00",
+      "lastRun": "2026-07-28T14:51:38.933391+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -41,7 +41,7 @@
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-07-28T06:42:29.162599+00:00",
+      "lastRun": "2026-07-28T14:51:39.366587+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -49,7 +49,7 @@
     },
     {
       "name": "avature",
-      "lastRun": "2026-07-28T06:42:30.492639+00:00",
+      "lastRun": "2026-07-28T14:51:40.129735+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,7 +57,7 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-07-28T06:42:38.637062+00:00",
+      "lastRun": "2026-07-28T14:51:48.417149+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -65,15 +65,15 @@
     },
     {
       "name": "builtin",
-      "lastRun": "2026-07-28T06:42:39.934378+00:00",
+      "lastRun": "2026-07-28T14:51:49.767940+00:00",
       "status": "ok",
-      "found": 1,
-      "added": 0,
+      "found": 2,
+      "added": 1,
       "error": null
     },
     {
       "name": "goldman",
-      "lastRun": "2026-07-28T06:42:52.426204+00:00",
+      "lastRun": "2026-07-28T14:52:00.373297+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -81,10 +81,10 @@
     },
     {
       "name": "linkedin",
-      "lastRun": "2026-07-28T06:42:52.842843+00:00",
+      "lastRun": "2026-07-28T14:52:00.682955+00:00",
       "status": "ok",
       "found": null,
-      "added": 0,
+      "added": 5,
       "error": null
     },
     {
@@ -97,6 +97,12 @@
     }
   ],
   "recentFinds": [
+    {
+      "company": "Citadel Securities",
+      "title": "C++ Market Data Engineer",
+      "source": "Built In",
+      "at": "2026-07-28T14:51:49.767940+00:00"
+    },
     {
       "company": "Citadel Securities",
       "title": "C++ Market Data Engineer",
@@ -250,7 +256,7 @@
   ],
   "totals": {
     "day": "2026-07-28",
-    "addedToday": 14,
-    "cyclesToday": 13
+    "addedToday": 20,
+    "cyclesToday": 14
   }
 }
