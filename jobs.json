@@ -3586,6 +3586,81 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-27T15:52:11.516970+00:00"
+        },
+        {
+          "id": "li-techead-c-software-developer-2026-w31",
+          "company": "TECHEAD",
+          "title": "C++ Software Developer",
+          "location": "Norfolk, VA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-developer-at-techead-4446310113",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4446310113",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-28T14:25:20.209374+00:00"
+        },
+        {
+          "id": "aurora-staff-software-engineer-map-fusion-2026-w31",
+          "company": "Aurora",
+          "title": "Staff Software Engineer, Map Fusion",
+          "location": "Mountain View, California",
+          "remote": "Onsite/Hybrid",
+          "industry": "Software Autonomy Sensing",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (19h ago). Callback score 91.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Python",
+            "Go"
+          ],
+          "url": "https://aurora.tech/jobs/8618748002?gh_jid=8618748002",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (19h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 91.0,
+          "postedAtUtc": "2026-07-27T16:00:23-04:00",
+          "atsJobId": "8618748002",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "coreweave-gh-senior-software-engineer-storage-file-block-2026-w31",
+          "company": "CoreWeave GH",
+          "title": "Senior Software Engineer, Storage (File & Block)",
+          "location": "San Francisco, California",
+          "remote": "Onsite/Hybrid",
+          "industry": "Technology",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (22h ago). Callback score 91.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Distributed systems",
+            "Kubernetes",
+            "Rust",
+            "Go"
+          ],
+          "url": "https://coreweave.com/careers/job?4700102006&board=coreweave&gh_jid=4700102006",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (22h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 91.0,
+          "postedAtUtc": "2026-07-27T12:25:25-04:00",
+          "atsJobId": "4700102006",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
