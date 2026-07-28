@@ -3705,6 +3705,28 @@
           "externalId": "linkedin:4446322562",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-startekk-llc-principal-embedded-engineer-embedded-c-c-2026-w31",
+          "company": "STARTekk LLC",
+          "title": "Principal Embedded Engineer \u2013 Embedded C/C++ | Medical Devices | Lake Forest, CA (Local Only)",
+          "location": "Lake Forest, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 27 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/principal-embedded-engineer-%E2%80%93-embedded-c-c%2B%2B-medical-devices-lake-forest-ca-local-only-at-startekk-llc-4446335344",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "27 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4446335344",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
