@@ -3561,6 +3561,29 @@
           "externalId": "linkedin:4437867694",
           "region": "Remote",
           "regionRank": 2
+        },
+        {
+          "id": "li-analogic-sr-embedded-software-engineer-c-c-linux-2026-w31",
+          "company": "Analogic",
+          "title": "Sr. Embedded Software Engineer (C, C++, Linux)",
+          "location": "Salem, NH",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-embedded-software-engineer-c-c%2B%2B-linux-at-analogic-4437931647",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4437931647",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-27T19:53:02.138813+00:00"
         }
       ]
     }
