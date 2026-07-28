@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-27",
-  "lastChecked": "2026-07-27",
+  "lastUpdated": "2026-07-28",
+  "lastChecked": "2026-07-28",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -3607,6 +3607,28 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-28T02:57:36.362519+00:00"
+        },
+        {
+          "id": "li-alumni-founders-spacecraft-firmware-engineer-c-2026-w31",
+          "company": "Alumni Founders",
+          "title": "Spacecraft Firmware Engineer, C++",
+          "location": "El Segundo, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 9 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/spacecraft-firmware-engineer-c%2B%2B-at-alumni-founders-4443205829",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "9 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4443205829",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
