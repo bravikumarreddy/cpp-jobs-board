@@ -3771,6 +3771,29 @@
           "externalId": "linkedin:4446376843",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "built-3red-partners-c-developer-2026-w31",
+          "postedAtUtc": "2026-07-29T00:00:00.000530+00:00",
+          "company": "3Red Partners",
+          "title": "C++ Developer",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted just now. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/c-developer/1130604",
+          "source": "Built In",
+          "postedApprox": "just now",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:1130604",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
