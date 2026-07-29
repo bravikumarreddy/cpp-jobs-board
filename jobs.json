@@ -3794,6 +3794,29 @@
           "externalId": "builtin:1130604",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-simbe-senior-robotics-software-engineer-c-pyth-2026-w31",
+          "company": "Simbe",
+          "title": "Senior Robotics Software Engineer (C++ & Python)",
+          "location": "San Francisco Bay Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 23 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-robotics-software-engineer-c%2B%2B-python-at-simbe-4443220409",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "23 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4443220409",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-28T04:54:53.744750+00:00"
         }
       ]
     }
