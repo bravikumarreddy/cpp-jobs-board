@@ -3840,6 +3840,29 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-07-28T23:26:46.301851+00:00"
+        },
+        {
+          "id": "li-wand-senior-c-reverse-engineer-2026-w31",
+          "company": "Wand",
+          "title": "Senior C++ Reverse Engineer",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 23 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-reverse-engineer-at-wand-4443248178",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "23 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4443248178",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-28T08:00:54.343935+00:00"
         }
       ]
     }
