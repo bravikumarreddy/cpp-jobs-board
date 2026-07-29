@@ -3818,6 +3818,50 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-07-29T11:44:12.572710+00:00"
+        },
+        {
+          "id": "li-island-senior-c-engineer-2026-w31",
+          "company": "Island",
+          "title": "Senior C++ Engineer",
+          "location": "Coppell, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 17 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-engineer-at-island-4446583945",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "17 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4446583945",
+          "region": "Central",
+          "regionRank": 3
+        },
+        {
+          "id": "li-siemens-eda-siemens-digital-industries-software-software-developer-c-linux-ilt-2026-w31",
+          "company": "Siemens EDA (Siemens Digital Industries Software)",
+          "title": "Software Developer: C++ / Linux / ILT",
+          "location": "Wilsonville, OR",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-developer-c%2B%2B-linux-ilt-at-siemens-eda-siemens-digital-industries-software-4436887913",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4436887913",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
