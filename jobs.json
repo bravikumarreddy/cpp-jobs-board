@@ -4042,6 +4042,55 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-07-29T15:04:16.637936+00:00"
+        },
+        {
+          "id": "li-balin-technologies-llc-senior-software-engineer-c-embedded-2026-w31",
+          "company": "BALIN TECHNOLOGIES LLC",
+          "title": "Senior Software Engineer (C++, Embedded)",
+          "location": "Dallas, NC",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-embedded-at-balin-technologies-llc-4446866777",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4446866777",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-29T22:43:12.298801+00:00"
+        },
+        {
+          "id": "aurora-software-engineer-ii-vehicle-platform-integrations-2026-w31",
+          "company": "Aurora",
+          "title": "Software Engineer II, Vehicle Platform Integrations",
+          "location": "Pittsburgh, Pennsylvania",
+          "remote": "Onsite/Hybrid",
+          "industry": "Software Autonomy Action",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 100.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "Networking",
+            "Go"
+          ],
+          "url": "https://aurora.tech/jobs/8627496002?gh_jid=8627496002",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 100.0,
+          "postedAtUtc": "2026-07-29T18:15:33-04:00",
+          "atsJobId": "8627496002",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
