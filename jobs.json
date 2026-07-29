@@ -3884,6 +3884,29 @@
           "externalId": "linkedin:4429181743",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-torentify-software-engineer-c-java-2026-w31",
+          "company": "Torentify",
+          "title": "Software Engineer (C++, Java)",
+          "location": "Reston, VA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 16 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-java-at-torentify-4446389855",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "16 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4446389855",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-28T22:50:14.593551+00:00"
         }
       ]
     }
