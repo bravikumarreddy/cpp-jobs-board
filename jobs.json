@@ -3862,6 +3862,28 @@
           "externalId": "linkedin:4436887913",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-cyngn-senior-c-engineer-2026-w31",
+          "company": "Cyngn",
+          "title": "Senior C++ Engineer",
+          "location": "San Francisco Bay Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-engineer-at-cyngn-4429181743",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4429181743",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
