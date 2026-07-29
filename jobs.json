@@ -3996,6 +3996,29 @@
           "externalId": "linkedin:4387988222",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-actalent-embedded-c-dev-power-systems-2026-w31",
+          "company": "Actalent",
+          "title": "Embedded C++ Dev/Power Systems",
+          "location": "Durham, NC",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 11 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-c%2B%2B-dev-power-systems-at-actalent-4446576011",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "11 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4446576011",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-29T08:33:20.380255+00:00"
         }
       ]
     }
