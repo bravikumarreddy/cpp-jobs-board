@@ -3473,29 +3473,6 @@
           "postedAtUtc": "2026-07-28T11:52:11.516970+00:00"
         },
         {
-          "id": "li-bowden-brown-low-latency-c-developer-2026-w31",
-          "company": "Bowden Brown",
-          "title": "Low Latency C++ Developer",
-          "location": "New York City Metropolitan Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/low-latency-c%2B%2B-developer-at-bowden-brown-4445489868",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "4 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445489868",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-28T10:52:11.516970+00:00"
-        },
-        {
           "id": "li-axon-senior-c-software-engineer-2026-w31",
           "company": "Axon",
           "title": "Senior C++ Software Engineer",
@@ -3540,29 +3517,6 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-27T15:52:11.516970+00:00"
-        },
-        {
-          "id": "li-techead-c-software-developer-2026-w31",
-          "company": "TECHEAD",
-          "title": "C++ Software Developer",
-          "location": "Norfolk, VA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-developer-at-techead-4446310113",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446310113",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-28T14:25:20.209374+00:00"
         },
         {
           "id": "aurora-staff-software-engineer-map-fusion-2026-w31",
@@ -3639,72 +3593,6 @@
           "regionRank": 2
         },
         {
-          "id": "li-info-way-solutions-system-analyst-c-2026-w31",
-          "company": "Info Way Solutions",
-          "title": "System Analyst (C++)",
-          "location": "Irvine, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 20 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/system-analyst-c%2B%2B-at-info-way-solutions-4446322562",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "20 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446322562",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
-          "id": "li-startekk-llc-principal-embedded-engineer-embedded-c-c-2026-w31",
-          "company": "STARTekk LLC",
-          "title": "Principal Embedded Engineer \u2013 Embedded C/C++ | Medical Devices | Lake Forest, CA (Local Only)",
-          "location": "Lake Forest, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 27 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/principal-embedded-engineer-%E2%80%93-embedded-c-c%2B%2B-medical-devices-lake-forest-ca-local-only-at-startekk-llc-4446335344",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "27 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446335344",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
-          "id": "li-dkmrbh-inc-c-c-linux-software-engineer-2026-w31",
-          "company": "DKMRBH Inc",
-          "title": "C/C++ Linux Software Engineer",
-          "location": "Bossier City, LA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 18 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-linux-software-engineer-at-dkmrbh-inc-4445747847",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "18 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445747847",
-          "region": "Central",
-          "regionRank": 3
-        },
-        {
           "id": "li-ea-sports-advanced-c-generalist-software-engineer--2026-w31",
           "company": "EA SPORTS",
           "title": "Advanced C++ Generalist Software Engineer - Tiburon Innovation and Engine",
@@ -3749,28 +3637,6 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-07-28T09:06:55.959975+00:00"
-        },
-        {
-          "id": "li-belcan-aerospace-software-engineer-c-2026-w31",
-          "company": "Belcan",
-          "title": "Aerospace Software Engineer (C++)",
-          "location": "Rockford, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 28 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/aerospace-software-engineer-c%2B%2B-at-belcan-4446376843",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "28 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446376843",
-          "region": "Central",
-          "regionRank": 3
         },
         {
           "id": "built-3red-partners-c-developer-2026-w31",
@@ -3929,6 +3795,29 @@
           "externalId": "linkedin:4436846239",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-sme-careers-c-engineer-2026-w31",
+          "company": "SME Careers",
+          "title": "C++ Engineer",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-at-sme-careers-4418944977",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4418944977",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-07-29T11:44:12.572710+00:00"
         }
       ]
     }
