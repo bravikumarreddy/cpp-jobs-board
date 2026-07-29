@@ -3907,6 +3907,73 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-28T22:50:14.593551+00:00"
+        },
+        {
+          "id": "li-torch-technologies-inc-c-software-engineer-2026-w31",
+          "company": "Torch Technologies, Inc.",
+          "title": "C++ Software Engineer",
+          "location": "Huntsville, AL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 14 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-torch-technologies-inc-4429166066",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "14 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4429166066",
+          "region": "Central",
+          "regionRank": 3
+        },
+        {
+          "id": "li-e-solutions-senior-c-systems-engineer-2026-w31",
+          "company": "E-Solutions",
+          "title": "Senior C++ Systems Engineer",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-systems-engineer-at-e-solutions-4446823027",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4446823027",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-07-29T15:25:07.307737+00:00"
+        },
+        {
+          "id": "li-roblox-senior-software-engineer-client-systems--2026-w31",
+          "company": "Roblox",
+          "title": "Senior Software Engineer, Client Systems (C++)",
+          "location": "San Mateo, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 49 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-client-systems-c%2B%2B-at-roblox-4436863673",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "49 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4436863673",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
