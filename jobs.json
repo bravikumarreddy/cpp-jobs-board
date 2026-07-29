@@ -3907,6 +3907,28 @@
           "externalId": "linkedin:4446032868",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-turion-space-software-c-engineer-2026-w31",
+          "company": "Turion Space",
+          "title": "Software C++ Engineer",
+          "location": "California, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 25 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-c%2B%2B-engineer-at-turion-space-4436846239",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "25 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4436846239",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
