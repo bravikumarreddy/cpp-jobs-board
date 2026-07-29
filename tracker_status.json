@@ -2,14 +2,14 @@
   "running": true,
   "pid": 5858,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-07-29T11:40:30.021945+00:00",
-  "nextCycleAt": "2026-07-29T12:10:30.021990+00:00",
-  "cycleCount": 376,
+  "lastCycleAt": "2026-07-29T12:13:28.518386+00:00",
+  "nextCycleAt": "2026-07-29T12:43:28.562394+00:00",
+  "cycleCount": 377,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-07-29T11:39:56.577184+00:00",
+      "lastRun": "2026-07-29T12:10:33.915713+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -17,7 +17,7 @@
     },
     {
       "name": "remotive",
-      "lastRun": "2026-07-29T11:39:57.307412+00:00",
+      "lastRun": "2026-07-29T12:10:34.598790+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -25,7 +25,7 @@
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-07-29T11:39:57.621329+00:00",
+      "lastRun": "2026-07-29T12:10:34.916608+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -33,7 +33,7 @@
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-07-29T11:39:58.641001+00:00",
+      "lastRun": "2026-07-29T12:10:35.266922+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -41,7 +41,7 @@
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-07-29T11:39:59.016294+00:00",
+      "lastRun": "2026-07-29T12:10:35.672268+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -49,7 +49,7 @@
     },
     {
       "name": "avature",
-      "lastRun": "2026-07-29T11:40:00.124587+00:00",
+      "lastRun": "2026-07-29T12:10:36.104860+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,7 +57,7 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-07-29T11:40:08.003656+00:00",
+      "lastRun": "2026-07-29T12:10:43.369195+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -65,7 +65,7 @@
     },
     {
       "name": "builtin",
-      "lastRun": "2026-07-29T11:40:09.121425+00:00",
+      "lastRun": "2026-07-29T12:10:44.582716+00:00",
       "status": "ok",
       "found": 3,
       "added": 0,
@@ -73,7 +73,7 @@
     },
     {
       "name": "goldman",
-      "lastRun": "2026-07-29T11:40:18.486848+00:00",
+      "lastRun": "2026-07-29T12:10:53.602529+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -81,16 +81,16 @@
     },
     {
       "name": "linkedin",
-      "lastRun": "2026-07-29T11:40:18.765291+00:00",
+      "lastRun": "2026-07-29T12:10:53.949894+00:00",
       "status": "ok",
       "found": null,
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
       "name": "ats_apis",
-      "lastRun": null,
-      "status": "skipped",
+      "lastRun": "2026-07-29T12:11:05.303502+00:00",
+      "status": "ok",
       "found": null,
       "added": 0,
       "error": null
@@ -263,6 +263,6 @@
   "totals": {
     "day": "2026-07-29",
     "addedToday": 7,
-    "cyclesToday": 23
+    "cyclesToday": 24
   }
 }
