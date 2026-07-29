@@ -3974,6 +3974,28 @@
           "externalId": "linkedin:4436863673",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-goldman-sachs-asset-wealth-management-c-software-engin-2026-w31",
+          "company": "Goldman Sachs",
+          "title": "Asset & Wealth Management - C++ Software Engineer - Vice President - New York",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 34 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/asset-wealth-management-c%2B%2B-software-engineer-vice-president-new-york-at-goldman-sachs-4387988222",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "34 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4387988222",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
