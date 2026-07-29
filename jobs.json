@@ -4019,6 +4019,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-29T08:33:20.380255+00:00"
+        },
+        {
+          "id": "li-motorola-solutions-sr-embedded-software-engineer-c-c-2026-w31",
+          "company": "Motorola Solutions",
+          "title": "Sr. Embedded Software Engineer - C/C++",
+          "location": "Allen, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-embedded-software-engineer-c-c%2B%2B-at-motorola-solutions-4438127439",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4438127439",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-29T15:04:16.637936+00:00"
         }
       ]
     }
