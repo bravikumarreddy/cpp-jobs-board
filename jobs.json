@@ -3863,6 +3863,50 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-28T08:00:54.343935+00:00"
+        },
+        {
+          "id": "li-fionics-core-c-engineer-2026-w31",
+          "company": "Fionics",
+          "title": "Core C++ Engineer",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 28 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/core-c%2B%2B-engineer-at-fionics-4446045614",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "28 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4446045614",
+          "region": "Central",
+          "regionRank": 3
+        },
+        {
+          "id": "li-balyasny-asset-management-l-p-senior-low-latency-c-developer-2026-w31",
+          "company": "Balyasny Asset Management L.P.",
+          "title": "Senior Low Latency C++ Developer",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 8 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-low-latency-c%2B%2B-developer-at-balyasny-asset-management-l-p-4446032868",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "8 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4446032868",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
