@@ -3194,28 +3194,6 @@
           "externalId": "builtin:9354553",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-rs-global-services-software-engineer-c-systems-on-site-san--2026-w30",
-          "company": "RS Global Services",
-          "title": "Software Engineer (C++ Systems) - On-site San Francisco",
-          "location": "San Francisco, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 23 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-systems-on-site-san-francisco-at-rs-global-services-4445371445",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "23 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445371445",
-          "region": "West",
-          "regionRank": 5
         }
       ]
     },
@@ -3427,29 +3405,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-venture-up-c-software-engineer-2026-w31",
-          "company": "Venture Up",
-          "title": "C++ Software Engineer",
-          "location": "San Francisco, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-venture-up-4445702689",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445702689",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-07-28T12:52:11.516970+00:00"
-        },
-        {
           "id": "li-ari-embedded-software-engineer-perception-sy-2026-w31",
           "company": "ARi",
           "title": "Embedded Software Engineer \u2013 Perception Systems (C++/Linux)",
@@ -3571,28 +3526,6 @@
           "regionRank": 5
         },
         {
-          "id": "li-elric-studios-inc-senior-engine-programmer-c-c-asm-c-2026-w31",
-          "company": "\u00c6\u00d0ELRIC STUDIOS INC.",
-          "title": "Senior Engine Programmer - C++, C, ASM, C#",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 21 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-engine-programmer-c%2B%2B-c-asm-c%23-4443244214",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "21 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4443244214",
-          "region": "Remote",
-          "regionRank": 2
-        },
-        {
           "id": "li-ea-sports-advanced-c-generalist-software-engineer--2026-w31",
           "company": "EA SPORTS",
           "title": "Advanced C++ Generalist Software Engineer - Tiburon Innovation and Engine",
@@ -3616,29 +3549,6 @@
           "postedAtUtc": "2026-07-28T19:06:55.959975+00:00"
         },
         {
-          "id": "li-lightpanda-senior-software-engineer-system-programm-2026-w31",
-          "company": "Lightpanda",
-          "title": "Senior Software Engineer - System Programming (Zig/C++)",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 11 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-system-programming-zig-c%2B%2B-at-lightpanda-4443250313",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "11 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4443250313",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-07-28T09:06:55.959975+00:00"
-        },
-        {
           "id": "built-3red-partners-c-developer-2026-w31",
           "postedAtUtc": "2026-07-29T00:00:00.000530+00:00",
           "company": "3Red Partners",
@@ -3660,29 +3570,6 @@
           "externalId": "builtin:1130604",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-simbe-senior-robotics-software-engineer-c-pyth-2026-w31",
-          "company": "Simbe",
-          "title": "Senior Robotics Software Engineer (C++ & Python)",
-          "location": "San Francisco Bay Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 23 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-robotics-software-engineer-c%2B%2B-python-at-simbe-4443220409",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "23 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4443220409",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-07-28T04:54:53.744750+00:00"
         },
         {
           "id": "li-objective-partners-c-engineer-2026-w31",
