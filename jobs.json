@@ -4161,29 +4161,6 @@
           "postedAtUtc": "2026-07-30T10:23:06.460554+00:00"
         },
         {
-          "id": "li-sundayy-software-engineer-c-or-c-2026-w31",
-          "company": "Sundayy",
-          "title": "Software Engineer (C or C++)",
-          "location": "New York, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c-or-c%2B%2B-at-sundayy-4446739892",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446739892",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-30T11:03:30.523145+00:00"
-        },
-        {
           "id": "li-varda-space-industries-space-embedded-software-engineer-c-2026-w31",
           "company": "Varda Space Industries",
           "title": "Space Embedded Software Engineer, C++",
@@ -4387,6 +4364,81 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-30T16:41:07.295286+00:00"
+        },
+        {
+          "id": "li-bloomberg-senior-software-engineer-office-apps-c-2026-w31",
+          "company": "Bloomberg",
+          "title": "Senior Software Engineer - Office Apps C++",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 24 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-office-apps-c%2B%2B-at-bloomberg-4428031106",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "24 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4428031106",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "samsara-senior-software-engineer-ii-2026-w31",
+          "company": "Samsara",
+          "title": "Senior Software Engineer II",
+          "location": "Remote - US",
+          "remote": "Remote",
+          "industry": "Hardware Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 100.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "Networking",
+            "Go"
+          ],
+          "url": "https://www.samsara.com/company/careers/roles/8021301?gh_jid=8021301",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 100.0,
+          "postedAtUtc": "2026-07-30T12:38:08-04:00",
+          "atsJobId": "8021301",
+          "region": "Remote",
+          "regionRank": 2
+        },
+        {
+          "id": "together-ai-software-engineer-customer-insights-2026-w31",
+          "company": "Together AI",
+          "title": "Software Engineer, Customer Insights",
+          "location": "San Francisco",
+          "remote": "Onsite/Hybrid",
+          "industry": "Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 91.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Distributed systems",
+            "Python",
+            "Go"
+          ],
+          "url": "https://job-boards.greenhouse.io/togetherai/jobs/5196805007",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 91.0,
+          "postedAtUtc": "2026-07-30T12:31:23-04:00",
+          "atsJobId": "5196805007",
+          "externalId": "greenhouse:5196805007",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
