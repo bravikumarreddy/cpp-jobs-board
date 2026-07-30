@@ -4205,6 +4205,75 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-30T00:34:23.160315+00:00"
+        },
+        {
+          "id": "li-avride-senior-c-software-engineer-simulation-in-2026-w31",
+          "company": "Avride",
+          "title": "Senior C++ Software Engineer \u2013 Simulation Infrastructure",
+          "location": "Austin, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-%E2%80%93-simulation-infrastructure-at-avride-4439839484",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4439839484",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-30T14:05:01.615108+00:00"
+        },
+        {
+          "id": "li-comcast-lead-c-software-engineer-new-york-hybrid-2026-w31",
+          "company": "Comcast",
+          "title": "Lead C++ Software Engineer - New York - Hybrid - FreeWheel",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/lead-c%2B%2B-software-engineer-new-york-hybrid-freewheel-at-comcast-4446723242",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4446723242",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-30T08:05:01.615108+00:00"
+        },
+        {
+          "id": "li-kla-senior-systems-software-engineer-c-2026-w31",
+          "company": "KLA",
+          "title": "Senior Systems Software Engineer (C++)",
+          "location": "Ann Arbor, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-systems-software-engineer-c%2B%2B-at-kla-4430182695",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4430182695",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-30T12:05:01.615108+00:00"
         }
       ]
     }
