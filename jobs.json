@@ -4274,6 +4274,28 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-30T12:05:01.615108+00:00"
+        },
+        {
+          "id": "li-avride-c-software-engineer-motion-planning-2026-w31",
+          "company": "Avride",
+          "title": "C++ Software Engineer \u2013 Motion Planning",
+          "location": "Austin, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 55 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-%E2%80%93-motion-planning-at-avride-4439841473",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "55 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4439841473",
+          "region": "Central",
+          "regionRank": 3
         }
       ]
     }
