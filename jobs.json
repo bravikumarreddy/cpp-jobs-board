@@ -4048,29 +4048,6 @@
           "postedAtUtc": "2026-07-30T10:23:06.460554+00:00"
         },
         {
-          "id": "li-varda-space-industries-space-embedded-software-engineer-c-2026-w31",
-          "company": "Varda Space Industries",
-          "title": "Space Embedded Software Engineer, C++",
-          "location": "El Segundo, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 14 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/space-embedded-software-engineer-c%2B%2B-at-varda-space-industries-4446884988",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "14 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446884988",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-07-30T00:34:23.160315+00:00"
-        },
-        {
           "id": "li-avride-senior-c-software-engineer-simulation-in-2026-w31",
           "company": "Avride",
           "title": "Senior C++ Software Engineer \u2013 Simulation Infrastructure",
@@ -4394,6 +4371,74 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-30T17:04:49.381074+00:00"
+        },
+        {
+          "id": "li-tesla-software-engineer-c-generalist-ai-system-2026-w31",
+          "company": "Tesla",
+          "title": "Software Engineer, C++ Generalist, AI Systems & Infrastructure",
+          "location": "Palo Alto, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 42 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-generalist-ai-systems-infrastructure-at-tesla-4447097753",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "42 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4447097753",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "li-varda-space-industries-senior-space-embedded-software-engineer--2026-w31",
+          "company": "Varda Space Industries",
+          "title": "Senior Space Embedded Software Engineer, C++",
+          "location": "El Segundo, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 21 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-space-embedded-software-engineer-c%2B%2B-at-varda-space-industries-4446895520",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "21 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4446895520",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-30T01:16:33.808353+00:00"
+        },
+        {
+          "id": "li-aizoon-usa-software-developer-c-c-rif-2025-128-2026-w31",
+          "company": "aizoOn USA",
+          "title": "Software Developer (C#/C++) Rif. 2025-128",
+          "location": "Grand Rapids, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-developer-c%23-c%2B%2B-rif-2025-128-at-aizoon-usa-4286707818",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "8 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4286707818",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-30T14:16:33.808353+00:00"
         }
       ]
     }
