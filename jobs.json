@@ -4461,6 +4461,29 @@
           "externalId": "linkedin:4447073224",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "li-globallogic-senior-c-developer-2026-w31",
+          "company": "GlobalLogic",
+          "title": "Senior C++ Developer",
+          "location": "Dallas, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-at-globallogic-4446907324",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4446907324",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-30T18:50:03.785690+00:00"
         }
       ]
     }
