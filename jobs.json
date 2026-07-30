@@ -4371,6 +4371,29 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-07-30T18:50:03.785690+00:00"
+        },
+        {
+          "id": "li-venture-up-c-software-engineer-2026-w31",
+          "company": "Venture Up",
+          "title": "C++ Software Engineer",
+          "location": "San Francisco, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-venture-up-4447022872",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4447022872",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-30T17:04:49.381074+00:00"
         }
       ]
     }
