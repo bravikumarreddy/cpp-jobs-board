@@ -4439,6 +4439,28 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-07-30T14:16:33.808353+00:00"
+        },
+        {
+          "id": "li-intelliswift-an-ltts-company-software-engineer-c-and-distributed-syst-2026-w31",
+          "company": "Intelliswift - An LTTS Company",
+          "title": "Software Engineer - C++ and Distributed systems",
+          "location": "Redmond, WA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 8 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-and-distributed-systems-at-intelliswift-an-ltts-company-4446943380",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "8 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4446943380",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
