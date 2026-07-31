@@ -1016,31 +1016,6 @@
       "label": "Week of June 22 - June 28, 2026",
       "jobs": [
         {
-          "id": "roblox-principal-software-engineer-backend-communication-platform-w26",
-          "company": "Roblox",
-          "title": "Principal Software Engineer (Backend), Communication Platform",
-          "location": "San Mateo, CA, United States",
-          "remote": "Onsite/Hybrid",
-          "industry": "Software Engineering",
-          "salary": null,
-          "summary": "FRESH \u2014 posted 5 days ago. Callback score 68.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Distributed systems",
-            "Go"
-          ],
-          "url": "https://careers.roblox.com/jobs/8060252?gh_jid=8060252",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "5 days ago",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 68.0,
-          "postedAtUtc": "2026-07-15T12:44:34-04:00",
-          "atsJobId": "8060252",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
           "id": "roblox-principal-software-engineer-ci-and-cd-foundation-w26",
           "company": "Roblox",
           "title": "Principal Software Engineer, CI and CD Foundation",
