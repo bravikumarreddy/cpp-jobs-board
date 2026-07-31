@@ -4755,6 +4755,28 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-31T00:39:47.308355+00:00"
+        },
+        {
+          "id": "li-veridian-tech-solutions-inc-senior-c-software-engineer-2026-w31",
+          "company": "Veridian Tech Solutions, Inc.",
+          "title": "Senior C++ Software Engineer",
+          "location": "Fort Washington, PA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 31 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-veridian-tech-solutions-inc-4447160156",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "31 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4447160156",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
