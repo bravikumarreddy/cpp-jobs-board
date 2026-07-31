@@ -4640,6 +4640,52 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-07-31T13:07:35.469562+00:00"
+        },
+        {
+          "id": "li-garmin-senior-c-software-engineer-map-rendering-2026-w31",
+          "company": "Garmin",
+          "title": "Senior C++ Software Engineer -Map Rendering",
+          "location": "Cary, NC",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-map-rendering-at-garmin-4438858633",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4438858633",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-31T12:38:33.335378+00:00"
+        },
+        {
+          "id": "li-latitude-ai-software-engineer-ii-vehicle-communicati-2026-w31",
+          "company": "Latitude AI",
+          "title": "Software Engineer II - Vehicle Communication (C++)",
+          "location": "Palo Alto, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 15 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-vehicle-communication-c%2B%2B-at-latitude-ai-4447215273",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "15 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4447215273",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-30T23:38:33.335378+00:00"
         }
       ]
     }
