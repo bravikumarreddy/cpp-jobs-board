@@ -4002,29 +4002,6 @@
           "regionRank": 5
         },
         {
-          "id": "li-varda-space-industries-space-flight-software-engineer-c-2026-w31",
-          "company": "Varda Space Industries",
-          "title": "Space Flight Software Engineer, C++",
-          "location": "El Segundo, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/space-flight-software-engineer-c%2B%2B-at-varda-space-industries-4446886880",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446886880",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-07-30T01:18:29.093036+00:00"
-        },
-        {
           "id": "li-thurn-partners-low-level-c-engineer-hft-build-2026-w31",
           "company": "Thurn Partners",
           "title": "Low-level C++ Engineer - HFT build",
@@ -4484,6 +4461,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-30T22:26:26.836220+00:00"
+        },
+        {
+          "id": "li-varda-space-industries-senior-space-flight-software-engineer-c-2026-w31",
+          "company": "Varda Space Industries",
+          "title": "Senior Space Flight Software Engineer, C++",
+          "location": "El Segundo, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 23 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-space-flight-software-engineer-c%2B%2B-at-varda-space-industries-4446890687",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "23 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4446890687",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-30T01:27:39.480029+00:00"
         }
       ]
     }
