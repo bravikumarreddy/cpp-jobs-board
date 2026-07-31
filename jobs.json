@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-30",
-  "lastChecked": "2026-07-30",
+  "lastUpdated": "2026-07-31",
+  "lastChecked": "2026-07-31",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -1409,29 +1409,6 @@
           "externalId": "builtin:7126317",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-nvidia-ai-senior-c-software-engineer-2026-w30",
-          "company": "NVIDIA AI",
-          "title": "Senior C++ Software Engineer",
-          "location": "Westford, MA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 4 days ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-nvidia-ai-4438464942",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "4 days ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4438464942",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-17T14:09:20.680325+00:00"
         },
         {
           "id": "li-path-robotics-software-engineer-c-robotics-2026-w30",
@@ -4139,28 +4116,6 @@
           "postedAtUtc": "2026-07-30T12:39:51.327814+00:00"
         },
         {
-          "id": "li-calitii-senior-c-developer-with-swap-or-equities-2026-w31",
-          "company": "Calitii",
-          "title": "Senior C++ Developer with SWAP OR Equities e...",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 50 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-with-swap-or-equities-e-at-calitii-4446779817",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "50 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446779817",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-garmin-senior-c-engineer-maps-platform-2026-w31",
           "company": "Garmin",
           "title": "Senior C++ Engineer - Maps Platform",
@@ -4253,33 +4208,6 @@
           "atsJobId": "8021301",
           "region": "Remote",
           "regionRank": 2
-        },
-        {
-          "id": "together-ai-software-engineer-customer-insights-2026-w31",
-          "company": "Together AI",
-          "title": "Software Engineer, Customer Insights",
-          "location": "San Francisco",
-          "remote": "Onsite/Hybrid",
-          "industry": "Engineering",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 91.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Distributed systems",
-            "Python",
-            "Go"
-          ],
-          "url": "https://job-boards.greenhouse.io/togetherai/jobs/5196805007",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (1h ago)",
-          "h1bFit": "Uncertain",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 91.0,
-          "postedAtUtc": "2026-07-30T12:31:23-04:00",
-          "atsJobId": "5196805007",
-          "externalId": "greenhouse:5196805007",
-          "region": "West",
-          "regionRank": 5
         },
         {
           "id": "li-garmin-c-c-software-engineer-core-tech-team-2026-w31",
@@ -4393,51 +4321,6 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-30T01:16:33.808353+00:00"
-        },
-        {
-          "id": "li-aizoon-usa-software-developer-c-c-rif-2025-128-2026-w31",
-          "company": "aizoOn USA",
-          "title": "Software Developer (C#/C++) Rif. 2025-128",
-          "location": "Grand Rapids, MI",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-developer-c%23-c%2B%2B-rif-2025-128-at-aizoon-usa-4286707818",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "8 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4286707818",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-30T14:16:33.808353+00:00"
-        },
-        {
-          "id": "li-intelliswift-an-ltts-company-software-engineer-c-and-distributed-syst-2026-w31",
-          "company": "Intelliswift - An LTTS Company",
-          "title": "Software Engineer - C++ and Distributed systems",
-          "location": "Redmond, WA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 8 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-and-distributed-systems-at-intelliswift-an-ltts-company-4446943380",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "8 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446943380",
-          "region": "West",
-          "regionRank": 5
         },
         {
           "id": "li-bcforward-software-engineer-c-distributed-systems-2026-w31",
@@ -4576,73 +4459,6 @@
           "postedAtUtc": "2026-07-30T12:05:35.740915+00:00"
         },
         {
-          "id": "li-oneclick-smart-resume-systems-software-engineer-game-engine-ne-2026-w31",
-          "company": "OneClick Smart Resume",
-          "title": "Systems Software Engineer - Game Engine Network (C++)",
-          "location": "San Mateo, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 51 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/systems-software-engineer-game-engine-network-c%2B%2B-at-oneclick-smart-resume-4447240719",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "51 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4447240719",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
-          "id": "li-oneclick-smart-resume-core-engine-developer-systems-c-2026-w31",
-          "company": "OneClick Smart Resume",
-          "title": "Core Engine Developer - Systems (C++)",
-          "location": "San Mateo, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 37 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/core-engine-developer-systems-c%2B%2B-at-oneclick-smart-resume-4447258575",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "37 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4447258575",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
-          "id": "li-oneclick-smart-resume-senior-software-engineer-c-2026-w31",
-          "company": "OneClick Smart Resume",
-          "title": "Senior Software Engineer (C++)",
-          "location": "San Mateo, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-at-oneclick-smart-resume-4447255575",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4447255575",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-07-31T03:38:55.342978+00:00"
-        },
-        {
           "id": "li-srm-digital-llc-senior-software-engineer-c-c-linux-embed-2026-w31",
           "company": "SRM Digital LLC",
           "title": "Senior Software Engineer \u2013 C/C++ (Linux & Embedded Networking)",
@@ -4664,6 +4480,166 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-07-31T02:38:55.342978+00:00"
+        },
+        {
+          "id": "li-rtl-deutschland-c-engineer-f-m-d-2026-w31",
+          "company": "RTL Deutschland",
+          "title": "C++ Engineer (f/m/d)",
+          "location": "Berlin, CT",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-f-m-d-at-rtl-deutschland-4447299842",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4447299842",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-31T12:07:35.469562+00:00"
+        },
+        {
+          "id": "li-old-mission-c-software-engineer-2026-w31",
+          "company": "Old Mission",
+          "title": "C++ Software Engineer",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-old-mission-3761769427",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:3761769427",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-07-31T11:07:35.469562+00:00"
+        },
+        {
+          "id": "li-venture-search-c-developer-global-prop-trading-firm-2026-w31",
+          "company": "Venture Search",
+          "title": "C++ Developer - Global Prop Trading Firm",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-global-prop-trading-firm-at-venture-search-4445094222",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4445094222",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-31T11:07:35.469562+00:00"
+        },
+        {
+          "id": "li-latitude-ai-embedded-software-engineer-ii-c-realtime-2026-w31",
+          "company": "Latitude AI",
+          "title": "Embedded Software Engineer II - (C++) Realtime Platform",
+          "location": "Detroit Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-ii-c%2B%2B-realtime-platform-at-latitude-ai-4438851159",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4438851159",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-31T13:07:35.469562+00:00"
+        },
+        {
+          "id": "li-tailored-management-software-engineer-v-c-2026-w31",
+          "company": "Tailored Management",
+          "title": "Software Engineer V (C++)",
+          "location": "Redmond, WA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 18 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-v-c%2B%2B-at-tailored-management-4447512794",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "18 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4447512794",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "li-shain-associates-c-team-lead-2026-w31",
+          "company": "Shain Associates",
+          "title": "C++ Team Lead",
+          "location": "New York City Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-team-lead-at-shain-associates-4446955887",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4446955887",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-07-31T04:07:35.469562+00:00"
+        },
+        {
+          "id": "li-acceler8-talent-senior-embedded-c-engineer-2026-w31",
+          "company": "Acceler8 Talent",
+          "title": "Senior Embedded C++ Engineer",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-embedded-c%2B%2B-engineer-at-acceler8-talent-4445095606",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4445095606",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-07-31T13:07:35.469562+00:00"
         }
       ]
     }
