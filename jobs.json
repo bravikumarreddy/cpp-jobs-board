@@ -4823,6 +4823,31 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-07-31T08:45:26.720136+00:00"
+        },
+        {
+          "id": "torc-robotics-software-engineer-ii-fleet-enablement-insights-2026-w31",
+          "company": "Torc Robotics",
+          "title": "Software Engineer II - Fleet Enablement & Insights",
+          "location": "Ann Arbor, MI, Blacksburg, VA, Fort Worth, TX",
+          "remote": "Onsite/Hybrid",
+          "industry": "Data Loop and Simulation",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 91.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Python"
+          ],
+          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8596550002",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 91.0,
+          "postedAtUtc": "2026-07-31T12:42:30-04:00",
+          "atsJobId": "8596550002",
+          "externalId": "greenhouse:8596550002",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
