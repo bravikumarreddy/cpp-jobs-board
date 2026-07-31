@@ -4574,6 +4574,50 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-30T12:05:35.740915+00:00"
+        },
+        {
+          "id": "li-oneclick-smart-resume-systems-software-engineer-game-engine-ne-2026-w31",
+          "company": "OneClick Smart Resume",
+          "title": "Systems Software Engineer - Game Engine Network (C++)",
+          "location": "San Mateo, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 51 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/systems-software-engineer-game-engine-network-c%2B%2B-at-oneclick-smart-resume-4447240719",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "51 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4447240719",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "li-oneclick-smart-resume-core-engine-developer-systems-c-2026-w31",
+          "company": "OneClick Smart Resume",
+          "title": "Core Engine Developer - Systems (C++)",
+          "location": "San Mateo, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 37 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/core-engine-developer-systems-c%2B%2B-at-oneclick-smart-resume-4447258575",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "37 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4447258575",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
