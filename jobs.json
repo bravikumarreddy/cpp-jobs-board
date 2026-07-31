@@ -4618,6 +4618,52 @@
           "externalId": "linkedin:4447258575",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-oneclick-smart-resume-senior-software-engineer-c-2026-w31",
+          "company": "OneClick Smart Resume",
+          "title": "Senior Software Engineer (C++)",
+          "location": "San Mateo, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-at-oneclick-smart-resume-4447255575",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4447255575",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-31T03:38:55.342978+00:00"
+        },
+        {
+          "id": "li-srm-digital-llc-senior-software-engineer-c-c-linux-embed-2026-w31",
+          "company": "SRM Digital LLC",
+          "title": "Senior Software Engineer \u2013 C/C++ (Linux & Embedded Networking)",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-c-c%2B%2B-linux-embedded-networking-at-srm-digital-llc-4447258270",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4447258270",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-07-31T02:38:55.342978+00:00"
         }
       ]
     }
