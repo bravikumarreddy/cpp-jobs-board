@@ -4848,6 +4848,29 @@
           "externalId": "greenhouse:8596550002",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-tradeweb-c-developer-2026-w31",
+          "company": "Tradeweb",
+          "title": "C++ Developer",
+          "location": "Jersey City, NJ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 22 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-tradeweb-4411221874",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "22 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4411221874",
+          "possibleRepost": "C++ Application Developer",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
