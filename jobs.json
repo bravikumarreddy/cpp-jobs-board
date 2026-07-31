@@ -4529,6 +4529,28 @@
           "externalId": "linkedin:4446953351",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "li-accord-technologies-inc-embedded-software-engineer-c-2026-w31",
+          "company": "Accord Technologies Inc",
+          "title": "Embedded Software Engineer C++",
+          "location": "Phoenix, AZ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 13 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-c%2B%2B-at-accord-technologies-inc-4447257115",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "13 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4447257115",
+          "region": "Mountain",
+          "regionRank": 4
         }
       ]
     }
