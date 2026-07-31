@@ -4686,6 +4686,75 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-30T23:38:33.335378+00:00"
+        },
+        {
+          "id": "li-fionics-senior-c-engineer-core-engineering-lead-2026-w31",
+          "company": "Fionics",
+          "title": "Senior C++ Engineer, Core Engineering Lead",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 50 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-engineer-core-engineering-lead-at-fionics-4447136795",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "50 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4447136795",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-sundayy-software-engineer-c-c-2026-w31",
+          "company": "Sundayy",
+          "title": "Software Engineer (C++, C#)",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-c%23-at-sundayy-4447288684",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4447288684",
+          "possibleRepost": "Software Engineer (Java, C++)",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-07-31T11:39:47.308355+00:00"
+        },
+        {
+          "id": "li-intuitive-senior-software-engineer-embedded-ui-qt--2026-w31",
+          "company": "Intuitive",
+          "title": "Senior Software Engineer - Embedded UI (Qt / C++)",
+          "location": "Sunnyvale, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 15 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-embedded-ui-qt-c%2B%2B-at-intuitive-4447229643",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "15 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4447229643",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-31T00:39:47.308355+00:00"
         }
       ]
     }
