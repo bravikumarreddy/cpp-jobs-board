@@ -5028,6 +5028,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-01T10:59:09.507897+00:00"
+        },
+        {
+          "id": "li-ptr-global-software-engineer-c-nlp-v-2026-w31",
+          "company": "PTR Global",
+          "title": "Software Engineer (C++, NLP)- V",
+          "location": "Redmond, WA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 23 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-nlp-v-at-ptr-global-4447583776",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "23 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4447583776",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-31T22:02:39.350693+00:00"
         }
       ],
       "removedNotes": [
