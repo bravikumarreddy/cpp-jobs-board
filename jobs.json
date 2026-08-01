@@ -4869,6 +4869,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-01T09:43:59.771965+00:00"
+        },
+        {
+          "id": "li-zoox-software-engineer-c-gpu-performance-2026-w31",
+          "company": "Zoox",
+          "title": "Software Engineer - C++ GPU Performance",
+          "location": "Foster City, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-gpu-performance-at-zoox-4403103397",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4403103397",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-01T10:14:33.151182+00:00"
         }
       ],
       "removedNotes": [
