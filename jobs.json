@@ -4896,6 +4896,29 @@
           "externalId": "greenhouse:8656854002",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-applied-intuition-senior-c-software-engineer-collaborative-2026-w31",
+          "company": "Applied Intuition",
+          "title": "Senior C++ Software Engineer (Collaborative Autonomy)",
+          "location": "Sunnyvale, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 12 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-collaborative-autonomy-at-applied-intuition-4437944018",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "12 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4437944018",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-31T12:03:00.026551+00:00"
         }
       ]
     }
