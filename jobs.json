@@ -4959,6 +4959,29 @@
           "externalId": "linkedin:4439373678",
           "region": "Remote",
           "regionRank": 2
+        },
+        {
+          "id": "li-cbase-inc-senior-c-developer-with-cloud-computing--2026-w31",
+          "company": "Cbase Inc",
+          "title": "Senior C++ Developer with Cloud Computing Expertise @ Whippany, NJ - Hybrid",
+          "location": "Whippany, NJ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-with-cloud-computing-expertise-%40-whippany-nj-hybrid-at-cbase-inc-4447465554",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "9 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4447465554",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-01T08:23:37.854954+00:00"
         }
       ],
       "removedNotes": [
