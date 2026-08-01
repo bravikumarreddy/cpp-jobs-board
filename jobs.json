@@ -4892,6 +4892,51 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-01T10:14:33.151182+00:00"
+        },
+        {
+          "id": "li-susquehanna-international-group-software-developer-c-prediction-markets--2026-w31",
+          "company": "Susquehanna International Group",
+          "title": "Software Developer | C++ | Prediction Markets | Experienced Hire",
+          "location": "Bala-Cynwyd, PA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-developer-c%2B%2B-prediction-markets-experienced-hire-at-susquehanna-international-group-4409602518",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4409602518",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-01T09:45:07.702273+00:00"
+        },
+        {
+          "id": "li-siemens-eda-siemens-digital-industries-software-software-engineer-c-compiler-2026-w31",
+          "company": "Siemens EDA (Siemens Digital Industries Software)",
+          "title": "Software Engineer - C++, Compiler",
+          "location": "Burlington, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 9 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-compiler-at-siemens-eda-siemens-digital-industries-software-4438918125",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "9 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4438918125",
+          "region": "East",
+          "regionRank": 1
         }
       ],
       "removedNotes": [
