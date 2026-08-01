@@ -3725,28 +3725,6 @@
           "regionRank": 5
         },
         {
-          "id": "li-torch-technologies-inc-c-software-engineer-2026-w31",
-          "company": "Torch Technologies, Inc.",
-          "title": "C++ Software Engineer",
-          "location": "Huntsville, AL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 14 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-torch-technologies-inc-4429166066",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "14 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4429166066",
-          "region": "Central",
-          "regionRank": 3
-        },
-        {
           "id": "li-e-solutions-senior-c-systems-engineer-2026-w31",
           "company": "E-Solutions",
           "title": "Senior C++ Systems Engineer",
@@ -4457,29 +4435,6 @@
           "postedAtUtc": "2026-07-31T02:38:55.342978+00:00"
         },
         {
-          "id": "li-rtl-deutschland-c-engineer-f-m-d-2026-w31",
-          "company": "RTL Deutschland",
-          "title": "C++ Engineer (f/m/d)",
-          "location": "Berlin, CT",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-f-m-d-at-rtl-deutschland-4447299842",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4447299842",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-31T12:07:35.469562+00:00"
-        },
-        {
           "id": "li-old-mission-c-software-engineer-2026-w31",
           "company": "Old Mission",
           "title": "C++ Software Engineer",
@@ -4800,31 +4755,6 @@
           "postedAtUtc": "2026-07-31T08:45:26.720136+00:00"
         },
         {
-          "id": "torc-robotics-software-engineer-ii-fleet-enablement-insights-2026-w31",
-          "company": "Torc Robotics",
-          "title": "Software Engineer II - Fleet Enablement & Insights",
-          "location": "Ann Arbor, MI, Blacksburg, VA, Fort Worth, TX",
-          "remote": "Onsite/Hybrid",
-          "industry": "Data Loop and Simulation",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 91.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Python"
-          ],
-          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8596550002",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (1h ago)",
-          "h1bFit": "Uncertain",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 91.0,
-          "postedAtUtc": "2026-07-31T12:42:30-04:00",
-          "atsJobId": "8596550002",
-          "externalId": "greenhouse:8596550002",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-tradeweb-c-developer-2026-w31",
           "company": "Tradeweb",
           "title": "C++ Developer",
@@ -4871,33 +4801,6 @@
           "postedAtUtc": "2026-07-31T18:22:11.870682+00:00"
         },
         {
-          "id": "discord-senior-software-engineer-application-security-2026-w31",
-          "company": "Discord",
-          "title": "Senior Software Engineer, Application Security",
-          "location": "San Francisco Bay Area",
-          "remote": "Onsite/Hybrid",
-          "industry": "Security Engineering",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 100.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Python",
-            "Rust",
-            "Go"
-          ],
-          "url": "https://job-boards.greenhouse.io/discord/jobs/8656854002",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (1h ago)",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 100.0,
-          "postedAtUtc": "2026-07-31T16:41:03-04:00",
-          "atsJobId": "8656854002",
-          "externalId": "greenhouse:8656854002",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
           "id": "li-applied-intuition-senior-c-software-engineer-collaborative-2026-w31",
           "company": "Applied Intuition",
           "title": "Senior C++ Software Engineer (Collaborative Autonomy)",
@@ -4919,7 +4822,60 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-31T12:03:00.026551+00:00"
+        },
+        {
+          "id": "li-nvidia-senior-software-engineer-cuda-c-core-lib-2026-w31",
+          "company": "NVIDIA",
+          "title": "Senior Software Engineer, CUDA C++ Core Libraries",
+          "location": "Santa Clara, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 21 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-cuda-c%2B%2B-core-libraries-at-nvidia-4437936153",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "21 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4437936153",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-07-31T15:43:59.771965+00:00"
+        },
+        {
+          "id": "li-susquehanna-international-group-c-algo-developer-options-trading-experie-2026-w31",
+          "company": "Susquehanna International Group",
+          "title": "C++ Algo Developer| Options Trading | Experienced Hire",
+          "location": "Bala-Cynwyd, PA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-algo-developer-options-trading-experienced-hire-at-susquehanna-international-group-4428234012",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4428234012",
+          "possibleRepost": "C++ Developer | Trading Strategies | Experienced Hire",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-01T09:43:59.771965+00:00"
         }
+      ],
+      "removedNotes": [
+        "RTL Deutschland C++ Engineer (f/m/d) \u2014 German posting geocoded to Berlin, CT; EU gender marker gate added",
+        "Torc Fleet Enablement \u2014 SQL/data role, C++ only as 'ability to ramp into'; hedged-mention gate added",
+        "Discord AppSec \u2014 not a C++ role, C++ only under Bonus points; bonus-section gate added",
+        "Torch Technologies C++ SWE (Huntsville) \u2014 defense contractor (Army/missile programs), H1B-incompatible; added to DEFENSE_COMPANY_RE."
       ]
     }
   ]
