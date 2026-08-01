@@ -4982,6 +4982,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-01T08:23:37.854954+00:00"
+        },
+        {
+          "id": "li-lseg-c-software-engineer-2026-w31",
+          "company": "LSEG",
+          "title": "C++ Software Engineer",
+          "location": "St Louis, MO",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-lseg-4418818881",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4418818881",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-01T16:54:13.703483+00:00"
         }
       ],
       "removedNotes": [
