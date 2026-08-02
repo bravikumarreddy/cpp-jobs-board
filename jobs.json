@@ -3197,28 +3197,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-dracoe-uas-software-engineer-golang-python-c-2026-w31",
-          "company": "Dracoe",
-          "title": "UAS Software Engineer (Golang / Python / C++)",
-          "location": "Aberdeen, NC",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 36 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/uas-software-engineer-golang-python-c%2B%2B-at-dracoe-4446104205",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "36 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446104205",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-varda-space-industries-spacecraft-firmware-engineer-c-2026-w31",
           "company": "Varda Space Industries",
           "title": "Spacecraft Firmware Engineer, C++",
@@ -4664,51 +4642,6 @@
           "postedAtUtc": "2026-07-31T00:39:47.308355+00:00"
         },
         {
-          "id": "li-veridian-tech-solutions-inc-senior-c-software-engineer-2026-w31",
-          "company": "Veridian Tech Solutions, Inc.",
-          "title": "Senior C++ Software Engineer",
-          "location": "Fort Washington, PA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 31 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-veridian-tech-solutions-inc-4447160156",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "31 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4447160156",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
-          "id": "li-dexian-c-software-engineer-distributed-systems--2026-w31",
-          "company": "Dexian",
-          "title": "C++ Software Engineer - Distributed Systems & Backend",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-distributed-systems-backend-at-dexian-4445500921",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445500921",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-31T15:14:49.213235+00:00"
-        },
-        {
           "id": "li-lightpanda-senior-software-engineer-system-programm-2026-w31",
           "company": "Lightpanda",
           "title": "Senior Software Engineer - System Programming (Zig/C++)",
@@ -4753,29 +4686,6 @@
           "possibleRepost": "C++ Application Developer",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-cps-inc-c-engineer-performance-2026-w31",
-          "company": "CPS, Inc.",
-          "title": "C++ Engineer - Performance",
-          "location": "Chicago, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-performance-at-cps-inc-4437920395",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4437920395",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-07-31T18:22:11.870682+00:00"
         },
         {
           "id": "li-applied-intuition-senior-c-software-engineer-collaborative-2026-w31",
@@ -4961,29 +4871,6 @@
           "regionRank": 2
         },
         {
-          "id": "li-cbase-inc-senior-c-developer-with-cloud-computing--2026-w31",
-          "company": "Cbase Inc",
-          "title": "Senior C++ Developer with Cloud Computing Expertise @ Whippany, NJ - Hybrid",
-          "location": "Whippany, NJ",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-with-cloud-computing-expertise-%40-whippany-nj-hybrid-at-cbase-inc-4447465554",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "9 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4447465554",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-01T08:23:37.854954+00:00"
-        },
-        {
           "id": "li-lseg-c-software-engineer-2026-w31",
           "company": "LSEG",
           "title": "C++ Software Engineer",
@@ -5028,36 +4915,18 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-01T10:59:09.507897+00:00"
-        },
-        {
-          "id": "li-ptr-global-software-engineer-c-nlp-v-2026-w31",
-          "company": "PTR Global",
-          "title": "Software Engineer (C++, NLP)- V",
-          "location": "Redmond, WA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 23 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-nlp-v-at-ptr-global-4447583776",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "23 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4447583776",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-07-31T22:02:39.350693+00:00"
         }
       ],
       "removedNotes": [
         "RTL Deutschland C++ Engineer (f/m/d) \u2014 German posting geocoded to Berlin, CT; EU gender marker gate added",
         "Torc Fleet Enablement \u2014 SQL/data role, C++ only as 'ability to ramp into'; hedged-mention gate added",
         "Discord AppSec \u2014 not a C++ role, C++ only under Bonus points; bonus-section gate added",
-        "Torch Technologies C++ SWE (Huntsville) \u2014 defense contractor (Army/missile programs), H1B-incompatible; added to DEFENSE_COMPANY_RE."
+        "Torch Technologies C++ SWE (Huntsville) \u2014 defense contractor (Army/missile programs), H1B-incompatible; added to DEFENSE_COMPANY_RE.",
+        "Veridian Tech Solutions Senior C++ SWE \u2014 IT staffing agency; added to CONSULTANCY_RE.",
+        "Dexian C++ SWE (NYC) \u2014 IT staffing agency (DISYS/Signature); added to CONSULTANCY_RE.",
+        "CPS, Inc. C++ Engineer (Chicago) \u2014 generalist recruiting firm; added to CONSULTANCY_RE.",
+        "Cbase Inc Senior C++ Dev (Whippany NJ) \u2014 body-shop req with client site in title; added to CONSULTANCY_RE.",
+        "PTR Global (Redmond) \u2014 staffing agency contractor req; added to CONSULTANCY_RE."
       ]
     }
   ]
