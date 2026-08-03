@@ -5363,6 +5363,29 @@
           "externalId": "linkedin:4448231172",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-kla-sr-software-engineer-c-ood-oop-linux-2026-w32",
+          "company": "KLA",
+          "title": "Sr Software Engineer (C++, OOD/OOP, Linux)",
+          "location": "Milpitas, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-c%2B%2B-ood-oop-linux-at-kla-4428583189",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "8 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4428583189",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-03T11:51:00.917986+00:00"
         }
       ]
     }
