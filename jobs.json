@@ -5115,6 +5115,52 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-03T08:15:10.411363+00:00"
+        },
+        {
+          "id": "li-new-york-technology-partners-embedded-software-engineer-c-2026-w32",
+          "company": "New York Technology Partners",
+          "title": "Embedded Software Engineer C++",
+          "location": "Phoenix, AZ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-c%2B%2B-at-new-york-technology-partners-4447596678",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4447596678",
+          "region": "Mountain",
+          "regionRank": 4,
+          "postedAtUtc": "2026-08-03T13:45:48.347948+00:00"
+        },
+        {
+          "id": "li-crowdstrike-sr-engineer-cloud-ai-runtime-c-ebpf-k8s--2026-w32",
+          "company": "CrowdStrike",
+          "title": "Sr. Engineer - Cloud & AI Runtime - C++/eBPF/K8s (Hybrid)",
+          "location": "Sunnyvale, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-engineer-cloud-ai-runtime-c%2B%2B-ebpf-k8s-hybrid-at-crowdstrike-4363185159",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4363185159",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-03T10:45:48.347948+00:00"
         }
       ]
     }
