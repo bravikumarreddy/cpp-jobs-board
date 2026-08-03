@@ -5528,6 +5528,28 @@
           "externalId": "linkedin:4448251342",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "li-xoriant-navigation-software-engineer-embedded-c--2026-w32",
+          "company": "Xoriant",
+          "title": "Navigation Software Engineer (Embedded/C/C++, GNSS & Sensor)",
+          "location": "San Jose, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 51 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/navigation-software-engineer-embedded-c-c%2B%2B-gnss-sensor-at-xoriant-4407898146",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "51 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4407898146",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
