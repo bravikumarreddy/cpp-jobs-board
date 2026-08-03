@@ -4997,6 +4997,35 @@
         "Cbase Inc Senior C++ Dev (Whippany NJ) \u2014 body-shop req with client site in title; added to CONSULTANCY_RE.",
         "PTR Global (Redmond) \u2014 staffing agency contractor req; added to CONSULTANCY_RE."
       ]
+    },
+    {
+      "weekId": "2026-W32",
+      "label": "Week of August 03, 2026",
+      "jobs": [
+        {
+          "id": "li-roblox-principal-core-systems-software-engineer-2026-w32",
+          "company": "Roblox",
+          "title": "Principal Core Systems Software Engineer - Game Engine (C++)",
+          "location": "San Mateo, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 13 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/principal-core-systems-software-engineer-game-engine-c%2B%2B-at-roblox-4326401566",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "13 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4326401566",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-02T15:32:03.975847+00:00"
+        }
+      ]
     }
   ]
 }
