@@ -5024,6 +5024,97 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-02T15:32:03.975847+00:00"
+        },
+        {
+          "id": "li-figma-software-engineer-c-2026-w32",
+          "company": "Figma",
+          "title": "Software Engineer, C++",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 13 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-figma-4239984024",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "13 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4239984024",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-motorola-solutions-embedded-software-engineer-modern-c-linu-2026-w32",
+          "company": "Motorola Solutions",
+          "title": "Embedded Software Engineer - Modern C++, Linux",
+          "location": "Allen, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 23 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-modern-c%2B%2B-linux-at-motorola-solutions-4420681069",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "23 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4420681069",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-02T15:15:10.411363+00:00"
+        },
+        {
+          "id": "li-palo-alto-networks-principal-software-engineer-c-low-level--2026-w32",
+          "company": "Palo Alto Networks",
+          "title": "Principal Software Engineer (C++-low level-Prisma Browser)",
+          "location": "Santa Clara, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 22 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-c%2B%2B-low-level-prisma-browser-at-palo-alto-networks-4417991820",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "22 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4417991820",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-02T16:15:10.411363+00:00"
+        },
+        {
+          "id": "li-umatr-backend-engineer-rust-c-distributed-syst-2026-w32",
+          "company": "UMATR",
+          "title": "Backend Engineer \u2013 Rust & C++ (Distributed Systems & Databases)",
+          "location": "San Francisco, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/backend-engineer-%E2%80%93-rust-c%2B%2B-distributed-systems-databases-at-umatr-4420113476",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4420113476",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-03T08:15:10.411363+00:00"
         }
       ]
     }
