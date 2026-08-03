@@ -5250,6 +5250,51 @@
           "externalId": "linkedin:4447986807",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-grid-dynamics-senior-c-software-engineer-bazel-2026-w32",
+          "company": "Grid Dynamics",
+          "title": "Senior C++ Software Engineer (Bazel)",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 58 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-bazel-at-grid-dynamics-4446218667",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "58 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4446218667",
+          "region": "Remote",
+          "regionRank": 2
+        },
+        {
+          "id": "li-zoox-senior-software-engineer-c-gpu-performan-2026-w32",
+          "company": "Zoox",
+          "title": "Senior Software Engineer - C++ GPU Performance",
+          "location": "Foster City, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-gpu-performance-at-zoox-4403118199",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4403118199",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-03T10:21:19.869544+00:00"
         }
       ]
     }
