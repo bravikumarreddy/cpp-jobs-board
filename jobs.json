@@ -5206,6 +5206,50 @@
           "externalId": "linkedin:4363466380",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-morgan-mckinley-c-software-engineer-2026-w32",
+          "company": "Morgan McKinley",
+          "title": "C++ Software Engineer",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-morgan-mckinley-4447998742",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4447998742",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-covet-it-inc-senor-c-developer-2026-w32",
+          "company": "COVET IT INC",
+          "title": "Senor C++ Developer",
+          "location": "Whippany, NJ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 53 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senor-c%2B%2B-developer-at-covet-it-inc-4447986807",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "53 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4447986807",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
