@@ -4915,6 +4915,75 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-01T10:59:09.507897+00:00"
+        },
+        {
+          "id": "li-nvidia-senior-c-software-engineer-infrastructur-2026-w31",
+          "company": "NVIDIA",
+          "title": "Senior C++ Software Engineer - Infrastructure Tools",
+          "location": "Durham, NC",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 13 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-infrastructure-tools-at-nvidia-4422081175",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "13 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4422081175",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-02T15:01:11.823313+00:00"
+        },
+        {
+          "id": "li-fabri-software-engineer-generalist-c-python-2026-w31",
+          "company": "Fabri",
+          "title": "Software Engineer, Generalist (C++/Python)",
+          "location": "Billerica, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 12 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-generalist-c%2B%2B-python-at-fabri-4409698344",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "12 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4409698344",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-02T16:01:11.823313+00:00"
+        },
+        {
+          "id": "li-esri-sr-c-software-development-engineer-arcgi-2026-w31",
+          "company": "Esri",
+          "title": "Sr. C++Software Development Engineer - ArcGIS Pro 3D Analysis",
+          "location": "Redlands, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-c%2B%2Bsoftware-development-engineer-arcgis-pro-3d-analysis-at-esri-4363118421",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4363118421",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-02T18:01:11.823313+00:00"
         }
       ],
       "removedNotes": [
