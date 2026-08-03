@@ -2832,28 +2832,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-health-here-software-engineer-c-2026-w30",
-          "company": "Health Here",
-          "title": "Software Engineer (C++)",
-          "location": "Salina, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 10 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-health-here-4444619346",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "10 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4444619346",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-susquehanna-international-group-c-quantitative-developer-trading-strateg-2026-w30",
           "company": "Susquehanna International Group",
           "title": "C++ Quantitative Developer | Trading Strategies | Experienced Hire",
@@ -5386,6 +5364,34 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-03T11:51:00.917986+00:00"
+        },
+        {
+          "id": "aptos-labs-senior-software-engineer-trading-infrastructure-2026-w32",
+          "company": "Aptos Labs",
+          "title": "Senior Software Engineer, Trading Infrastructure",
+          "location": "Palo Alto, California, New York City, New York, and Remote - United States",
+          "remote": "Remote",
+          "industry": "Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 95.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Distributed systems",
+            "Python",
+            "Rust",
+            "Go"
+          ],
+          "url": "https://job-boards.greenhouse.io/aptoslabs/jobs/4720881005",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (0h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 95.0,
+          "postedAtUtc": "2026-08-03T16:00:34-04:00",
+          "atsJobId": "4720881005",
+          "externalId": "greenhouse:4720881005",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
