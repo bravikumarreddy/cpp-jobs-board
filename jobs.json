@@ -5295,6 +5295,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-03T10:21:19.869544+00:00"
+        },
+        {
+          "id": "li-holistic-partners-inc-sr-rust-c-c-python-developer-2026-w32",
+          "company": "Holistic Partners, Inc",
+          "title": "Sr. RUST, C/C++, Python Developer",
+          "location": "Camden, NJ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-rust-c-c%2B%2B-python-developer-at-holistic-partners-inc-4447980878",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4447980878",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-03T15:51:56.653635+00:00"
         }
       ]
     }
