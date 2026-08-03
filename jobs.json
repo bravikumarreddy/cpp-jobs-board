@@ -5392,6 +5392,120 @@
           "externalId": "greenhouse:4720881005",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-millennium-quantitative-developer-c-central-liquidi-2026-w32",
+          "company": "Millennium",
+          "title": "Quantitative Developer (C++) - Central Liquidity Strategies",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/quantitative-developer-c%2B%2B-central-liquidity-strategies-at-millennium-4371161753",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4371161753",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-03T18:55:31.657027+00:00"
+        },
+        {
+          "id": "li-nutanix-software-engineer-4-c-systems-2026-w32",
+          "company": "Nutanix",
+          "title": "Software Engineer 4 (C++, Systems)",
+          "location": "Durham, NC",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-4-c%2B%2B-systems-at-nutanix-4448331608",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4448331608",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-03T17:55:31.657027+00:00"
+        },
+        {
+          "id": "li-crossing-hurdles-c-developer-65-hr-remote-2026-w32",
+          "company": "Crossing Hurdles",
+          "title": "C++ Developer | $65/hr Remote",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-%2465-hr-remote-at-crossing-hurdles-4439131703",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "9 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4439131703",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-08-03T11:55:31.657027+00:00"
+        },
+        {
+          "id": "li-nlb-services-senior-c-developer-2026-w32",
+          "company": "NLB Services",
+          "title": "Senior C++ Developer",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 27 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-at-nlb-services-4448239487",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "27 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4448239487",
+          "region": "Remote",
+          "regionRank": 2
+        },
+        {
+          "id": "li-pulserise-technologies-sr-rust-c-c-developer-2026-w32",
+          "company": "PulseRise Technologies",
+          "title": "Sr. RUST, C/C++ Developer",
+          "location": "New Jersey, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-rust-c-c%2B%2B-developer-at-pulserise-technologies-4447983642",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4447983642",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-08-03T14:55:31.657027+00:00"
         }
       ]
     }
