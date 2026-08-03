@@ -5161,6 +5161,51 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-03T10:45:48.347948+00:00"
+        },
+        {
+          "id": "li-njf-global-holdings-ltd-quantitative-developer-applied-ai-resear-2026-w32",
+          "company": "NJF Global Holdings Ltd",
+          "title": "Quantitative Developer \u2013 Applied AI Research & C++ Engineering",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/quantitative-developer-%E2%80%93-applied-ai-research-c%2B%2B-engineering-at-njf-global-holdings-ltd-4448170170",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4448170170",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-03T11:19:25.597147+00:00"
+        },
+        {
+          "id": "li-roblox-core-engine-developer-systems-c-2026-w32",
+          "company": "Roblox",
+          "title": "Core Engine Developer - Systems (C++)",
+          "location": "San Mateo, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 40 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/core-engine-developer-systems-c%2B%2B-at-roblox-4363466380",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "40 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4363466380",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
