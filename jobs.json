@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-01",
-  "lastChecked": "2026-08-01",
+  "lastUpdated": "2026-08-03",
+  "lastChecked": "2026-08-03",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -5318,6 +5318,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-03T15:51:56.653635+00:00"
+        },
+        {
+          "id": "li-softhq-inc-sr-rust-c-c-developer-2026-w32",
+          "company": "SoftHQ Inc",
+          "title": "Sr. RUST, C/C++ Developer",
+          "location": "Camden, NJ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-rust-c-c%2B%2B-developer-at-softhq-inc-4448216130",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4448216130",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-03T17:18:47.610532+00:00"
         }
       ]
     }
