@@ -5622,6 +5622,75 @@
           "externalId": "greenhouse:8670853002",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-infinite-computer-solutions-c-developer-with-cloud-computing-experti-2026-w32",
+          "company": "Infinite Computer Solutions",
+          "title": "C++ Developer with Cloud Computing Expertise",
+          "location": "Whippany, NJ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-with-cloud-computing-expertise-at-infinite-computer-solutions-4449045200",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4449045200",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-04T19:27:46.986342+00:00"
+        },
+        {
+          "id": "li-full-spectrum-senior-embedded-c-rust-software-engineer-2026-w32",
+          "company": "Full Spectrum",
+          "title": "Senior Embedded C++/Rust Software Engineer (Safety Critical)",
+          "location": "Westborough, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-embedded-c%2B%2B-rust-software-engineer-safety-critical-at-full-spectrum-4449035296",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4449035296",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-04T19:27:46.986342+00:00"
+        },
+        {
+          "id": "li-roblox-senior-software-engineer-game-engine-net-2026-w32",
+          "company": "Roblox",
+          "title": "Senior Software Engineer - Game Engine Network (C++)",
+          "location": "San Mateo, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-game-engine-network-c%2B%2B-at-roblox-4323574778",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4323574778",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-04T15:27:46.986342+00:00"
         }
       ]
     }
