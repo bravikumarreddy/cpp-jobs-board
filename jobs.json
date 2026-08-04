@@ -5597,6 +5597,31 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-04T17:07:52.898317+00:00"
+        },
+        {
+          "id": "torc-robotics-systems-engineer-cybersecurity-2026-w32",
+          "company": "Torc Robotics",
+          "title": "Systems Engineer, Cybersecurity",
+          "location": "Ann Arbor, MI",
+          "remote": "Onsite/Hybrid",
+          "industry": "Compute Platform",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (2h ago). Callback score 91.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8670853002",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (2h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 91.0,
+          "postedAtUtc": "2026-08-04T13:00:00-04:00",
+          "atsJobId": "8670853002",
+          "externalId": "greenhouse:8670853002",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
