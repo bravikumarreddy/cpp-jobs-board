@@ -5691,6 +5691,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-04T15:27:46.986342+00:00"
+        },
+        {
+          "id": "li-largeton-group-senior-c-software-engineer-2026-w32",
+          "company": "Largeton Group",
+          "title": "Senior C++ Software Engineer",
+          "location": "Dallas, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-largeton-group-4449036899",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4449036899",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-04T20:29:01.500265+00:00"
         }
       ]
     }
