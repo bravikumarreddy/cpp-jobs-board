@@ -5095,29 +5095,6 @@
           "postedAtUtc": "2026-08-03T08:15:10.411363+00:00"
         },
         {
-          "id": "li-new-york-technology-partners-embedded-software-engineer-c-2026-w32",
-          "company": "New York Technology Partners",
-          "title": "Embedded Software Engineer C++",
-          "location": "Phoenix, AZ",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-c%2B%2B-at-new-york-technology-partners-4447596678",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4447596678",
-          "region": "Mountain",
-          "regionRank": 4,
-          "postedAtUtc": "2026-08-03T13:45:48.347948+00:00"
-        },
-        {
           "id": "li-crowdstrike-sr-engineer-cloud-ai-runtime-c-ebpf-k8s--2026-w32",
           "company": "CrowdStrike",
           "title": "Sr. Engineer - Cloud & AI Runtime - C++/eBPF/K8s (Hybrid)",
@@ -5275,52 +5252,6 @@
           "postedAtUtc": "2026-08-03T10:21:19.869544+00:00"
         },
         {
-          "id": "li-holistic-partners-inc-sr-rust-c-c-python-developer-2026-w32",
-          "company": "Holistic Partners, Inc",
-          "title": "Sr. RUST, C/C++, Python Developer",
-          "location": "Camden, NJ",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/sr-rust-c-c%2B%2B-python-developer-at-holistic-partners-inc-4447980878",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4447980878",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-03T15:51:56.653635+00:00"
-        },
-        {
-          "id": "li-softhq-inc-sr-rust-c-c-developer-2026-w32",
-          "company": "SoftHQ Inc",
-          "title": "Sr. RUST, C/C++ Developer",
-          "location": "Camden, NJ",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/sr-rust-c-c%2B%2B-developer-at-softhq-inc-4448216130",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4448216130",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-03T17:18:47.610532+00:00"
-        },
-        {
           "id": "li-covet-it-inc-senior-c-developer-with-cloud-computing-2026-w32",
           "company": "COVET IT INC",
           "title": "Senior C++ Developer with Cloud Computing",
@@ -5440,29 +5371,6 @@
           "postedAtUtc": "2026-08-03T17:55:31.657027+00:00"
         },
         {
-          "id": "li-crossing-hurdles-c-developer-65-hr-remote-2026-w32",
-          "company": "Crossing Hurdles",
-          "title": "C++ Developer | $65/hr Remote",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-%2465-hr-remote-at-crossing-hurdles-4439131703",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "9 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4439131703",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-08-03T11:55:31.657027+00:00"
-        },
-        {
           "id": "li-nlb-services-senior-c-developer-2026-w32",
           "company": "NLB Services",
           "title": "Senior C++ Developer",
@@ -5483,29 +5391,6 @@
           "externalId": "linkedin:4448239487",
           "region": "Remote",
           "regionRank": 2
-        },
-        {
-          "id": "li-pulserise-technologies-sr-rust-c-c-developer-2026-w32",
-          "company": "PulseRise Technologies",
-          "title": "Sr. RUST, C/C++ Developer",
-          "location": "New Jersey, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/sr-rust-c-c%2B%2B-developer-at-pulserise-technologies-4447983642",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "6 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4447983642",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-08-03T14:55:31.657027+00:00"
         },
         {
           "id": "li-swoon-c-developer-2026-w32",
@@ -5552,29 +5437,6 @@
           "regionRank": 5
         },
         {
-          "id": "li-infostride-sr-rust-c-c-developer-2026-w32",
-          "company": "InfoStride",
-          "title": "Sr RUST, C/C++ Developer",
-          "location": "New Jersey, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/sr-rust-c-c%2B%2B-developer-at-infostride-4448621650",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4448621650",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-08-03T22:02:09.251376+00:00"
-        },
-        {
           "id": "li-openyield-senior-c-rust-developer-2026-w32",
           "company": "OpenYield",
           "title": "Senior C++/Rust Developer",
@@ -5601,7 +5463,7 @@
           "postedAtUtc": "2026-08-04T06:38:21.001012+00:00",
           "company": "Lopaka",
           "title": "Embedded UI / Graphics Engineer",
-          "location": "de",
+          "location": "Remote (US) \u2014 verify",
           "remote": "See posting",
           "industry": "\u2014",
           "salary": null,
@@ -5615,8 +5477,34 @@
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
           "yoeNote": "Auto-tracked \u2014 apply filters in your head",
-          "region": "East",
-          "regionRank": 1
+          "region": "Remote",
+          "regionRank": 2
+        },
+        {
+          "id": "xai-spacexai-software-engineer-platform-core-c-c-2026-w32",
+          "company": "xAI (SpaceXAI)",
+          "title": "Software Engineer - Platform Core (C++, C)",
+          "location": "Palo Alto, California, United States; Seattle, Washington, United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (18h ago). Callback score 86.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "Networking"
+          ],
+          "url": "https://job-boards.greenhouse.io/xai/jobs/5202187007",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (18h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 86.0,
+          "postedAtUtc": "2026-08-03T16:27:25-04:00",
+          "atsJobId": "5202187007",
+          "externalId": "greenhouse:5202187007",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
