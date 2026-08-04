@@ -2,22 +2,22 @@
   "running": true,
   "pid": 18285,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-08-04T05:15:33.202054+00:00",
-  "nextCycleAt": "2026-08-04T05:45:33.202076+00:00",
-  "cycleCount": 526,
+  "lastCycleAt": "2026-08-04T06:45:45.973131+00:00",
+  "nextCycleAt": "2026-08-04T07:15:45.973159+00:00",
+  "cycleCount": 527,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-08-04T05:14:59.476141+00:00",
+      "lastRun": "2026-08-04T06:45:09.383238+00:00",
       "status": "ok",
-      "found": 0,
-      "added": 0,
+      "found": 1,
+      "added": 1,
       "error": null
     },
     {
       "name": "remotive",
-      "lastRun": "2026-08-04T05:15:00.066265+00:00",
+      "lastRun": "2026-08-04T06:45:10.234586+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -25,7 +25,7 @@
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-08-04T05:15:00.426730+00:00",
+      "lastRun": "2026-08-04T06:45:10.600249+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -33,7 +33,7 @@
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-08-04T05:15:00.832130+00:00",
+      "lastRun": "2026-08-04T06:45:11.616985+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -41,7 +41,7 @@
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-08-04T05:15:01.097055+00:00",
+      "lastRun": "2026-08-04T06:45:11.928317+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -49,7 +49,7 @@
     },
     {
       "name": "avature",
-      "lastRun": "2026-08-04T05:15:01.533617+00:00",
+      "lastRun": "2026-08-04T06:45:13.135060+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,7 +57,7 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-08-04T05:15:08.916091+00:00",
+      "lastRun": "2026-08-04T06:45:20.426515+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -65,7 +65,7 @@
     },
     {
       "name": "builtin",
-      "lastRun": "2026-08-04T05:15:10.265738+00:00",
+      "lastRun": "2026-08-04T06:45:22.070499+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -73,7 +73,7 @@
     },
     {
       "name": "goldman",
-      "lastRun": "2026-08-04T05:15:21.824845+00:00",
+      "lastRun": "2026-08-04T06:45:34.102765+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -81,7 +81,7 @@
     },
     {
       "name": "millennium",
-      "lastRun": "2026-08-04T05:15:22.216510+00:00",
+      "lastRun": "2026-08-04T06:45:34.495669+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -89,10 +89,10 @@
     },
     {
       "name": "linkedin",
-      "lastRun": "2026-08-04T05:15:23.125470+00:00",
+      "lastRun": "2026-08-04T06:45:35.198601+00:00",
       "status": "ok",
       "found": null,
-      "added": 2,
+      "added": 1,
       "error": null
     },
     {
@@ -105,6 +105,12 @@
     }
   ],
   "recentFinds": [
+    {
+      "company": "Lopaka",
+      "title": "Embedded UI / Graphics Engineer",
+      "source": "HN Who-is-Hiring",
+      "at": "2026-08-04T06:45:09.383238+00:00"
+    },
     {
       "company": "IMC Trading",
       "title": "C++ Software Engineer",
@@ -270,7 +276,7 @@
   ],
   "totals": {
     "day": "2026-08-04",
-    "addedToday": 13,
-    "cyclesToday": 11
+    "addedToday": 15,
+    "cyclesToday": 12
   }
 }

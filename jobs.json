@@ -5595,6 +5595,28 @@
           "externalId": "linkedin:4446285681",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "hn-lopaka-embedded-ui-graphics-engineer-2026-w32",
+          "postedAtUtc": "2026-08-04T06:38:21.001012+00:00",
+          "company": "Lopaka",
+          "title": "Embedded UI / Graphics Engineer",
+          "location": "de",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "HN hiring thread (just now): Lopaka | Embedded UI / Graphics Engineer | REMOTE | Contract | Part-time | $80\u2013140/hr |  https://lopaka.app/careers  Lopaka is a browser-bas",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://news.ycombinator.com/item?id=49165024",
+          "source": "HN Who-is-Hiring",
+          "postedApprox": "just now",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
