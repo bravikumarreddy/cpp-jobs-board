@@ -5505,6 +5505,52 @@
           "externalId": "greenhouse:5202187007",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-verkada-senior-software-engineer-c-2026-w32",
+          "company": "Verkada",
+          "title": "Senior Software Engineer - C++",
+          "location": "San Mateo, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-at-verkada-3765967704",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:3765967704",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-04T13:42:50.601901+00:00"
+        },
+        {
+          "id": "li-x4-alpha-senior-software-engineer-c-high-performa-2026-w32",
+          "company": "X4 Alpha",
+          "title": "Senior Software Engineer (C++) | High-Performance Distributed Systems",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-high-performance-distributed-systems-at-x4-alpha-4446626544",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4446626544",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-04T09:42:50.601901+00:00"
         }
       ]
     }
