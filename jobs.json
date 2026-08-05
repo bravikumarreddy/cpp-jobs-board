@@ -5759,6 +5759,35 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-08-05T00:39:24.644428+00:00"
+        },
+        {
+          "id": "perplexity-member-of-technical-staff-software-engineer-gpu-cluster-infrastructur-2026-w32",
+          "company": "Perplexity",
+          "title": "Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure)",
+          "location": "San Francisco",
+          "remote": "Onsite/Hybrid",
+          "industry": "Platform & Infrastructure",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (2h ago). Callback score 91.0/100. Direct Ashby ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Distributed systems",
+            "Networking",
+            "Kubernetes",
+            "Rust",
+            "Go"
+          ],
+          "url": "https://jobs.ashbyhq.com/perplexity/886f4ab3-e691-45ed-b2db-069edf6f5413",
+          "source": "Ashby API (live)",
+          "postedApprox": "Today (2h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 91.0,
+          "postedAtUtc": "2026-08-05T00:06:48.345000+00:00",
+          "atsJobId": "886f4ab3-e691-45ed-b2db-069edf6f5413",
+          "externalId": "ashby:886f4ab3-e691-45ed-b2db-069edf6f5413",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
