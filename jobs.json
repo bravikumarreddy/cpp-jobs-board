@@ -5750,6 +5750,28 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-05T14:26:07.303857+00:00"
+        },
+        {
+          "id": "li-devhub-software-engineer-platform-core-c-c-2026-w32",
+          "company": "DevHub",
+          "title": "Software Engineer - Platform Core (C++, C)",
+          "location": "Seattle, WA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 52 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-platform-core-c%2B%2B-c-at-devhub-4449113984",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "52 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4449113984",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
