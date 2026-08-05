@@ -5935,6 +5935,30 @@
           "externalId": "linkedin:4449158257",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "epic-games-senior-engine-programmer-content-distribution-2026-w32",
+          "company": "Epic Games",
+          "title": "Senior Engine Programmer, Content Distribution",
+          "location": "Cary,North Carolina,United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "Engineering Generalist",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 100.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Networking"
+          ],
+          "url": "https://epicgames.com/careers/jobs/6127797004?gh_jid=6127797004",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (0h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 100.0,
+          "postedAtUtc": "2026-08-05T14:19:03-04:00",
+          "atsJobId": "6127797004",
+          "region": "Remote",
+          "regionRank": 2
         }
       ]
     }
