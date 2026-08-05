@@ -5772,6 +5772,34 @@
           "externalId": "linkedin:4449113984",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "dv-trading-c-software-engineer-dv-commodities-chicago-2026-w32",
+          "company": "DV Trading",
+          "title": "C++ Software Engineer (DV Commodities - Chicago)",
+          "location": "New York",
+          "remote": "Onsite/Hybrid",
+          "industry": "DV Commodities",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (20h ago). Callback score 86.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "Distributed systems",
+            "Networking",
+            "Python"
+          ],
+          "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4721259005",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (20h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 86.0,
+          "postedAtUtc": "2026-08-04T16:52:44-04:00",
+          "atsJobId": "4721259005",
+          "externalId": "greenhouse:4721259005",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
