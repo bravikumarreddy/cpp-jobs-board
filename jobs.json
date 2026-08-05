@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-04",
-  "lastChecked": "2026-08-04",
+  "lastUpdated": "2026-08-05",
+  "lastChecked": "2026-08-05",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -4459,29 +4459,6 @@
           "regionRank": 5
         },
         {
-          "id": "li-shain-associates-c-team-lead-2026-w31",
-          "company": "Shain Associates",
-          "title": "C++ Team Lead",
-          "location": "New York City Metropolitan Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-team-lead-at-shain-associates-4446955887",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "10 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446955887",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-31T04:07:35.469562+00:00"
-        },
-        {
           "id": "li-acceler8-talent-senior-embedded-c-engineer-2026-w31",
           "company": "Acceler8 Talent",
           "title": "Senior Embedded C++ Engineer",
@@ -5811,6 +5788,96 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-04T19:44:29.003873+00:00"
+        },
+        {
+          "id": "li-venture-search-c-quantitative-developer-systematic-equi-2026-w32",
+          "company": "Venture Search",
+          "title": "C++ Quantitative Developer - Systematic Equities POD",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-quantitative-developer-systematic-equities-pod-at-venture-search-4448001218",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4448001218",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-05T13:05:45.099677+00:00"
+        },
+        {
+          "id": "hn-category-labs-c-role-see-posting-2026-w32",
+          "postedAtUtc": "2026-08-03T19:58:43.000048+00:00",
+          "company": "Category Labs",
+          "title": "C++ role (see posting)",
+          "location": "NYC",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "HN hiring thread (1 days ago): Category Labs |  https://www.category.xyz/  | Remote and NYC | Full Time | $200K USD+ Category Labs (formerly known as Monad Labs) is a team",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://news.ycombinator.com/item?id=49160662",
+          "source": "HN Who-is-Hiring",
+          "postedApprox": "1 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-quantum-search-c-software-engineer-2026-w32",
+          "company": "Quantum Search",
+          "title": "C++ Software Engineer",
+          "location": "Greater Chicago Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-quantum-search-4448011621",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4448011621",
+          "region": "Central",
+          "regionRank": 3
+        },
+        {
+          "id": "li-applied-intuition-senior-software-engineer-c-2026-w32",
+          "company": "Applied Intuition",
+          "title": "Senior Software Engineer - C++",
+          "location": "Sunnyvale, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-at-applied-intuition-4423967470",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4423967470",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-05T14:04:59.480695+00:00"
         }
       ]
     }
