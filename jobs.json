@@ -2049,25 +2049,6 @@
           "regionRank": 1
         },
         {
-          "id": "torc-robotics-ml-engineer-ii-app-engine-ann-arbor-mi-fort-worth-tx",
-          "company": "Torc Robotics",
-          "title": "ML Engineer, II - App Engine",
-          "location": "Ann Arbor, MI, Fort Worth, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-04-29.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8525554002",
-          "source": "Employer ATS (live)",
-          "postedApprox": "open since 2026-04-29",
-          "region": "East",
-          "externalId": "greenhouse:8525554002",
-          "regionRank": 1
-        },
-        {
           "id": "torc-robotics-senior-autonomy-simulation-data-engineer-python-c-remote-u-s-ann-a",
           "company": "Torc Robotics",
           "title": "Senior Autonomy Simulation & Data Engineer (Python / C++)",
@@ -2236,44 +2217,6 @@
           "postedApprox": "open since 2026-07-22",
           "region": "East",
           "externalId": "greenhouse:8643228002",
-          "regionRank": 1
-        },
-        {
-          "id": "torc-robotics-sr-system-test-engineer-hil-remote-u-s-ann-arbor-mi",
-          "company": "Torc Robotics",
-          "title": "Sr. System Test Engineer - HiL",
-          "location": "Remote - U.S, Ann Arbor, MI",
-          "remote": "Remote",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-07-20.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8542718002",
-          "source": "Employer ATS (live)",
-          "postedApprox": "open since 2026-07-20",
-          "region": "East",
-          "externalId": "greenhouse:8542718002",
-          "regionRank": 1
-        },
-        {
-          "id": "torc-robotics-systems-engineer-ii-ad-kit-components-ann-arbor-mi",
-          "company": "Torc Robotics",
-          "title": "Systems Engineer II \u2013 AD-Kit Components",
-          "location": "Ann Arbor, MI",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-07-21.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8640642002",
-          "source": "Employer ATS (live)",
-          "postedApprox": "open since 2026-07-21",
-          "region": "East",
-          "externalId": "greenhouse:8640642002",
           "regionRank": 1
         },
         {
@@ -3658,29 +3601,6 @@
           "regionRank": 5
         },
         {
-          "id": "li-e-solutions-senior-c-systems-engineer-2026-w31",
-          "company": "E-Solutions",
-          "title": "Senior C++ Systems Engineer",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-systems-engineer-at-e-solutions-4446823027",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446823027",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-07-29T15:25:07.307737+00:00"
-        },
-        {
           "id": "li-roblox-senior-software-engineer-client-systems--2026-w31",
           "company": "Roblox",
           "title": "Senior Software Engineer, Client Systems (C++)",
@@ -4388,29 +4308,6 @@
           "externalId": "linkedin:3761769427",
           "region": "Central",
           "regionRank": 3,
-          "postedAtUtc": "2026-07-31T11:07:35.469562+00:00"
-        },
-        {
-          "id": "li-venture-search-c-developer-global-prop-trading-firm-2026-w31",
-          "company": "Venture Search",
-          "title": "C++ Developer - Global Prop Trading Firm",
-          "location": "New York, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-global-prop-trading-firm-at-venture-search-4445094222",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445094222",
-          "region": "East",
-          "regionRank": 1,
           "postedAtUtc": "2026-07-31T11:07:35.469562+00:00"
         },
         {
@@ -5325,29 +5222,6 @@
           "postedAtUtc": "2026-08-03T18:55:31.657027+00:00"
         },
         {
-          "id": "li-nutanix-software-engineer-4-c-systems-2026-w32",
-          "company": "Nutanix",
-          "title": "Software Engineer 4 (C++, Systems)",
-          "location": "Durham, NC",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-4-c%2B%2B-systems-at-nutanix-4448331608",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4448331608",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-03T17:55:31.657027+00:00"
-        },
-        {
           "id": "li-nlb-services-senior-c-developer-2026-w32",
           "company": "NLB Services",
           "title": "Senior C++ Developer",
@@ -5553,77 +5427,6 @@
           "postedAtUtc": "2026-08-04T18:07:52.898317+00:00"
         },
         {
-          "id": "li-sunrise-systems-inc-software-development-engineer-c-c-python-2026-w32",
-          "company": "Sunrise Systems, Inc.",
-          "title": "Software Development Engineer (C, C++, Python,Linux GPU kernel driver)",
-          "location": "Austin, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-development-engineer-c-c%2B%2B-python-linux-gpu-kernel-driver-at-sunrise-systems-inc-4448549370",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4448549370",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-04T17:07:52.898317+00:00"
-        },
-        {
-          "id": "torc-robotics-systems-engineer-cybersecurity-2026-w32",
-          "company": "Torc Robotics",
-          "title": "Systems Engineer, Cybersecurity",
-          "location": "Ann Arbor, MI",
-          "remote": "Onsite/Hybrid",
-          "industry": "Compute Platform",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (2h ago). Callback score 91.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8670853002",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (2h ago)",
-          "h1bFit": "Uncertain",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 91.0,
-          "postedAtUtc": "2026-08-04T13:00:00-04:00",
-          "atsJobId": "8670853002",
-          "externalId": "greenhouse:8670853002",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
-          "id": "li-infinite-computer-solutions-c-developer-with-cloud-computing-experti-2026-w32",
-          "company": "Infinite Computer Solutions",
-          "title": "C++ Developer with Cloud Computing Expertise",
-          "location": "Whippany, NJ",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-with-cloud-computing-expertise-at-infinite-computer-solutions-4449045200",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4449045200",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-04T19:27:46.986342+00:00"
-        },
-        {
           "id": "li-roblox-senior-software-engineer-game-engine-net-2026-w32",
           "company": "Roblox",
           "title": "Senior Software Engineer - Game Engine Network (C++)",
@@ -5767,29 +5570,6 @@
           "regionRank": 5
         },
         {
-          "id": "li-full-spectrum-senior-embedded-c-rust-software-engineer-2026-w32",
-          "company": "Full Spectrum",
-          "title": "Senior Embedded C++/Rust Software Engineer (Safety Critical)",
-          "location": "Westborough, MA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-embedded-c%2B%2B-rust-software-engineer-safety-critical-at-full-spectrum-4449035296",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "7 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4449035296",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-04T19:44:29.003873+00:00"
-        },
-        {
           "id": "li-venture-search-c-quantitative-developer-systematic-equi-2026-w32",
           "company": "Venture Search",
           "title": "C++ Quantitative Developer - Systematic Equities POD",
@@ -5816,23 +5596,25 @@
           "id": "hn-category-labs-c-role-see-posting-2026-w32",
           "postedAtUtc": "2026-08-03T19:58:43.000048+00:00",
           "company": "Category Labs",
-          "title": "C++ role (see posting)",
-          "location": "NYC",
+          "title": "Senior Software Engineer (C++ EVM client)",
+          "location": "New York (Hybrid); other roles remote",
           "remote": "See posting",
           "industry": "\u2014",
-          "salary": null,
+          "salary": "$180K-$250K + tokens/equity",
           "summary": "HN hiring thread (1 days ago): Category Labs |  https://www.category.xyz/  | Remote and NYC | Full Time | $200K USD+ Category Labs (formerly known as Monad Labs) is a team",
           "skills": [
             "C++"
           ],
-          "url": "https://news.ycombinator.com/item?id=49160662",
+          "url": "https://jobs.ashbyhq.com/category-labs/a0af69a1-8a77-4bda-b573-48087d905ae2",
           "source": "HN Who-is-Hiring",
           "postedApprox": "1 days ago",
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
           "yoeNote": "Auto-tracked \u2014 apply filters in your head",
           "region": "East",
-          "regionRank": 1
+          "regionRank": 1,
+          "notes": "ex-Monad team, C++ EVM client. 4 more C++ roles on same ashby board (Compiler, Formal Verification, Systems Research, Smart Contracts \u2014 all remote, same band).",
+          "externalId": "ashby:a0af69a1-8a77-4bda-b573-48087d905ae2"
         },
         {
           "id": "li-quantum-search-c-software-engineer-2026-w32",
@@ -5878,6 +5660,96 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-05T14:04:59.480695+00:00"
+        },
+        {
+          "id": "li-nutanix-indonesia-software-engineer-4-c-systems-2026-w32",
+          "company": "Nutanix",
+          "title": "Software Engineer 4 (C++, Systems)",
+          "location": "Durham, NC",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 days ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-4-c%2B%2B-systems-at-nutanix-indonesia-4448962537",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4448962537",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-03T15:26:07.303857+00:00"
+        },
+        {
+          "id": "li-zimmer-biomet-senior-c-development-engineer-2026-w32",
+          "company": "Zimmer Biomet",
+          "title": "Senior C++ Development Engineer",
+          "location": "Austin, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 19 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-development-engineer-at-zimmer-biomet-4439954832",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "19 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4439954832",
+          "region": "Central",
+          "regionRank": 3
+        },
+        {
+          "id": "li-novatech-automation-staff-application-software-engineer-c-2026-w32",
+          "company": "NovaTech Automation",
+          "title": "Staff Application Software Engineer C++",
+          "location": "Lenexa, KS",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 37 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/staff-application-software-engineer-c%2B%2B-at-novatech-automation-4449110758",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "37 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4449110758",
+          "region": "Central",
+          "regionRank": 3
+        },
+        {
+          "id": "li-ecs-software-engineer-c-python-and-javascrip-2026-w32",
+          "company": "ECS",
+          "title": "Software Engineer (C++, Python, and JavaScript)",
+          "location": "Springfield, VA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-python-and-javascript-at-ecs-4432479796",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4432479796",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-05T14:26:07.303857+00:00"
         }
       ]
     }
