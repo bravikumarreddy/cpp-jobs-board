@@ -5788,6 +5788,29 @@
           "externalId": "ashby:886f4ab3-e691-45ed-b2db-069edf6f5413",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-full-spectrum-senior-embedded-c-rust-software-engineer-2026-w32",
+          "company": "Full Spectrum",
+          "title": "Senior Embedded C++/Rust Software Engineer (Safety Critical)",
+          "location": "Westborough, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-embedded-c%2B%2B-rust-software-engineer-safety-critical-at-full-spectrum-4449035296",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4449035296",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-04T19:44:29.003873+00:00"
         }
       ]
     }
