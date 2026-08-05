@@ -2821,28 +2821,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-wand-game-modification-engineer-c-2026-w30",
-          "company": "Wand",
-          "title": "Game Modification Engineer, C++",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 51 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/game-modification-engineer-c%2B%2B-at-wand-4445291200",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "51 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445291200",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-susquehanna-international-group-senior-c-developer-trading-infrastructur-2026-w30",
           "company": "Susquehanna International Group",
           "title": "Senior C++ Developer | Trading Infrastructure | Experienced Hire",
@@ -3070,28 +3048,6 @@
           "yoeFit": "Verify",
           "yoeNote": "Auto-scraped \u2014 apply filters in your head",
           "externalId": "linkedin:4437930680",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
-          "id": "li-umanist-na-senior-firmware-engineer-embedded-c-rtos-2026-w31",
-          "company": "Umanist NA",
-          "title": "Senior Firmware Engineer \u2013 Embedded C++ / RTOS",
-          "location": "Mayfield Heights, OH",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 20 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-firmware-engineer-%E2%80%93-embedded-c%2B%2B-rtos-at-umanist-na-4445158321",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "20 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445158321",
           "region": "East",
           "regionRank": 1
         },
@@ -5982,6 +5938,53 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-04T19:37:36.995477+00:00"
+        },
+        {
+          "id": "li-kpg99-inc-c-programmer-2026-w32",
+          "company": "KPG99 INC",
+          "title": "C++ Programmer",
+          "location": "New York City Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 15 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-programmer-at-kpg99-inc-4449913674",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "15 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4449913674",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "apptronik-software-engineer-dexterous-manipulation-2026-w32",
+          "company": "Apptronik",
+          "title": "Software Engineer - Dexterous Manipulation",
+          "location": "Austin, TX",
+          "remote": "Onsite/Hybrid",
+          "industry": "Advanced Technologies",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 91.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Python"
+          ],
+          "url": "https://boards.greenhouse.io/apptronik/jobs/6135687004?gh_jid=6135687004",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (0h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 91.0,
+          "postedAtUtc": "2026-08-05T16:57:41-04:00",
+          "atsJobId": "6135687004",
+          "externalId": "greenhouse:6135687004",
+          "region": "Central",
+          "regionRank": 3
         }
       ]
     }
