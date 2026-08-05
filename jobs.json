@@ -5985,6 +5985,29 @@
           "externalId": "greenhouse:6135687004",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "li-baanyan-software-services-inc-c-software-engineer-2026-w32",
+          "company": "Baanyan Software Services, Inc.",
+          "title": "C++ Software Engineer",
+          "location": "Fort Washington, PA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-baanyan-software-services-inc-4449309208",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4449309208",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-05T21:13:27.963232+00:00"
         }
       ]
     }
