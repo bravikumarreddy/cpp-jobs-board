@@ -6076,6 +6076,28 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-08-05T14:17:07.622867+00:00"
+        },
+        {
+          "id": "li-full-spectrum-staff-embedded-c-software-engineer-robot-2026-w32",
+          "company": "Full Spectrum",
+          "title": "Staff Embedded C++ Software Engineer - Robotics",
+          "location": "Westborough, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/staff-embedded-c%2B%2B-software-engineer-robotics-at-full-spectrum-4449939576",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4449939576",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
