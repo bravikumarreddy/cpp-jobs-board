@@ -6053,6 +6053,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-05T04:44:03.508237+00:00"
+        },
+        {
+          "id": "li-agilegrid-solutions-c-engineer-2026-w32",
+          "company": "AgileGrid Solutions",
+          "title": "C++ Engineer",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-at-agilegrid-solutions-4449640242",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "9 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4449640242",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-08-05T14:17:07.622867+00:00"
         }
       ]
     }
