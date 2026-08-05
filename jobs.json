@@ -5823,6 +5823,51 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-05T15:31:14.132861+00:00"
+        },
+        {
+          "id": "li-talent-software-services-wireless-systems-architect-mac-phy-c-emb-2026-w32",
+          "company": "TALENT Software Services",
+          "title": "Wireless Systems Architect (MAC, PHY, C++, embedded)",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/wireless-systems-architect-mac-phy-c%2B%2B-embedded-at-talent-software-services-4448055377",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4448055377",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-08-05T15:02:18.617215+00:00"
+        },
+        {
+          "id": "li-re-build-manufacturing-senior-software-engineer-c-grpc-services-2026-w32",
+          "company": "Re:Build Manufacturing",
+          "title": "Senior Software Engineer \u2013 C++ gRPC Services",
+          "location": "Seattle, WA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-c%2B%2B-grpc-services-at-re-build-manufacturing-4440828832",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4440828832",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
