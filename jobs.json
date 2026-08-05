@@ -5868,6 +5868,73 @@
           "externalId": "linkedin:4440828832",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-citi-svp-senior-c-market-data-engineer-2026-w32",
+          "company": "Citi",
+          "title": "SVP Senior C++ Market Data Engineer",
+          "location": "Jersey City, NJ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 32 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/svp-senior-c%2B%2B-market-data-engineer-at-citi-4413156445",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "32 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4413156445",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-roblox-systems-software-engineer-game-engine-ne-2026-w32",
+          "company": "Roblox",
+          "title": "Systems Software Engineer - Game Engine Network (C++)",
+          "location": "San Mateo, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/systems-software-engineer-game-engine-network-c%2B%2B-at-roblox-4321333907",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4321333907",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-05T15:32:59.933945+00:00"
+        },
+        {
+          "id": "li-jeevan-technologies-a-nobl-q-company-c-developer-2026-w32",
+          "company": "Jeevan Technologies (a Nobl Q company)",
+          "title": "C++ Developer",
+          "location": "Brentwood, TN",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 minute ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-jeevan-technologies-a-nobl-q-company-4449158257",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 minute ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4449158257",
+          "region": "Central",
+          "regionRank": 3
         }
       ]
     }
