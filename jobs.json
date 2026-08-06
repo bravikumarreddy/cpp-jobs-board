@@ -6448,6 +6448,75 @@
           "atsJobId": "8036287",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-applied-intuition-c-software-engineer-physical-ai-2026-w32",
+          "company": "Applied Intuition",
+          "title": "C++ Software Engineer - Physical AI",
+          "location": "Ann Arbor, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-physical-ai-at-applied-intuition-4423948914",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4423948914",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-06T13:23:00.665062+00:00"
+        },
+        {
+          "id": "li-lseg-software-development-engineer-c-2026-w32",
+          "company": "LSEG",
+          "title": "Software Development Engineer - C++",
+          "location": "St Louis, MO",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-development-engineer-c%2B%2B-at-lseg-4423229917",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4423229917",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-06T16:23:00.665062+00:00"
+        },
+        {
+          "id": "li-tekwissen-c-engineer-2026-w32",
+          "company": "TekWissen \u00ae",
+          "title": "C++ Engineer",
+          "location": "Austin, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-at-tekwissen-%C2%AE-4450276094",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "9 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4450276094",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-06T14:23:00.665062+00:00"
         }
       ]
     }
