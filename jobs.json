@@ -6194,6 +6194,29 @@
           "externalId": "greenhouse:5205179007",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-altinity-inc-server-c-engineer-security-amp-amp-distr-2026-w32",
+          "company": "Altinity, Inc.",
+          "title": "Server C++ Engineer (Security &amp;amp; Distributed Systems)",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/server-c%2B%2B-engineer-security-amp-amp-distributed-systems-at-altinity-inc-4448079279",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4448079279",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-08-05T21:57:05.340625+00:00"
         }
       ]
     }
