@@ -6241,6 +6241,143 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-06T05:05:45.001465+00:00"
+        },
+        {
+          "id": "li-aquatic-capital-management-software-engineer-c-2026-w32",
+          "company": "Aquatic Capital Management",
+          "title": "Software Engineer, C++",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-aquatic-capital-management-4409026104",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "8 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4409026104",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-06T14:19:09.055859+00:00"
+        },
+        {
+          "id": "li-io-associates-c-engineer-low-latency-2026-w32",
+          "company": "iO Associates",
+          "title": "C++ Engineer - Low latency",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-low-latency-at-io-associates-4450272855",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4450272855",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-06T16:19:09.055859+00:00"
+        },
+        {
+          "id": "li-garmin-senior-software-engineer-c-c-2026-w32",
+          "company": "Garmin",
+          "title": "Senior Software Engineer - C++/C",
+          "location": "Cary, NC",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 11 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-c-at-garmin-4441407046",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "11 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4441407046",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-06T11:19:09.055859+00:00"
+        },
+        {
+          "id": "li-kyyba-inc-systems-engineer-c-magicdraw-2026-w32",
+          "company": "KYYBA Inc",
+          "title": "Systems Engineer - C++, MagicDraw",
+          "location": "Dearborn, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 56 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/systems-engineer-c%2B%2B-magicdraw-at-kyyba-inc-4448469502",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "56 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4448469502",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-pivot-path-solutions-senior-c-programmer-2026-w32",
+          "company": "Pivot Path Solutions",
+          "title": "Senior C++ Programmer",
+          "location": "Seattle, WA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 22 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-programmer-at-pivot-path-solutions-4448463181",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "22 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4448463181",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-06T00:19:09.055859+00:00"
+        },
+        {
+          "id": "li-adobe-principal-ai-systems-engineer-c-applied--2026-w32",
+          "company": "Adobe",
+          "title": "Principal AI Systems Engineer \u2014 C++ / Applied AI",
+          "location": "San Jose, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 13 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/principal-ai-systems-engineer-%E2%80%94-c%2B%2B-applied-ai-at-adobe-4431444453",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "13 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4431444453",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-06T09:19:09.055859+00:00"
         }
       ]
     }
