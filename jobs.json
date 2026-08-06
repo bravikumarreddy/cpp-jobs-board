@@ -6217,6 +6217,30 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-08-05T21:57:05.340625+00:00"
+        },
+        {
+          "id": "li-ormco-3d-c-software-engineer-2026-w32",
+          "company": "Ormco",
+          "title": "3D C++ Software Engineer",
+          "location": "Pomona, MO",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/3d-c%2B%2B-software-engineer-at-ormco-4449355817",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4449355817",
+          "possibleRepost": "Sr. 3D C++ Software Engineer (On-site)",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-06T05:05:45.001465+00:00"
         }
       ]
     }
