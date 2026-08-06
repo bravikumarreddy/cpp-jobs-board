@@ -6098,6 +6098,51 @@
           "externalId": "linkedin:4449939576",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-thomas-to-senior-c-software-engineer-infrastructur-2026-w32",
+          "company": "Thomas To",
+          "title": "Senior C++ Software Engineer - Infrastructure Tools",
+          "location": "Santa Clara, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-infrastructure-tools-at-thomas-to-4449956446",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4449956446",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "li-media21-onlinedienste-e-k-praktikum-softwareentwicklung-c-c-web-od-2026-w32",
+          "company": "media21 Onlinedienste e.K.",
+          "title": "Praktikum Softwareentwicklung (C/C++/Web oder KI)",
+          "location": "Indiana, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 13 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/praktikum-softwareentwicklung-c-c%2B%2B-web-oder-ki-at-media21-onlinedienste-e-k-4448992696",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "13 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4448992696",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-08-05T11:49:17.268835+00:00"
         }
       ]
     }
