@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-05",
-  "lastChecked": "2026-08-05",
+  "lastUpdated": "2026-08-06",
+  "lastChecked": "2026-08-06",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -6378,6 +6378,76 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-06T09:19:09.055859+00:00"
+        },
+        {
+          "id": "li-shee-atik-government-services-eikon-radar-software-engineer-c-develope-2026-w32",
+          "company": "Shee Atik\u00e1 Government Services",
+          "title": "Eikon - Radar Software Engineer/C++ Developer (Huntsville, AL/Hybrid)",
+          "location": "Huntsville, AL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 14 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/eikon-radar-software-engineer-c%2B%2B-developer-huntsville-al-hybrid-at-shee-atik%C3%A1-government-services-4449991981",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "14 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4449991981",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-06T08:52:04.115979+00:00"
+        },
+        {
+          "id": "li-zoox-senior-staff-software-engineer-c-simulat-2026-w32",
+          "company": "Zoox",
+          "title": "Senior/Staff Software Engineer - C++ Simulation Platform",
+          "location": "Foster City, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-staff-software-engineer-c%2B%2B-simulation-platform-at-zoox-4432146319",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4432146319",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-06T12:52:04.115979+00:00"
+        },
+        {
+          "id": "roblox-principal-rendering-engineer-2026-w32",
+          "company": "Roblox",
+          "title": "Principal Rendering Engineer",
+          "location": "San Mateo, CA, United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "Software Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (5h ago). Callback score 100.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://careers.roblox.com/jobs/8036287?gh_jid=8036287",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (5h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 100.0,
+          "postedAtUtc": "2026-08-06T13:07:59-04:00",
+          "atsJobId": "8036287",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
