@@ -6143,6 +6143,57 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-08-05T11:49:17.268835+00:00"
+        },
+        {
+          "id": "li-thomas-to-senior-software-engineer-cuda-c-core-lib-2026-w32",
+          "company": "Thomas To",
+          "title": "Senior Software Engineer, CUDA C++ Core Libraries",
+          "location": "Santa Clara, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-cuda-c%2B%2B-core-libraries-at-thomas-to-4449946173",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4449946173",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-06T00:21:37.493294+00:00"
+        },
+        {
+          "id": "xai-spacexai-software-engineer-search-infrastructure-2026-w32",
+          "company": "xAI (SpaceXAI)",
+          "title": "Software Engineer - Search Infrastructure",
+          "location": "Palo Alto, California, United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 91.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Distributed systems",
+            "Networking",
+            "Rust",
+            "Go"
+          ],
+          "url": "https://job-boards.greenhouse.io/xai/jobs/5205179007",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (0h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 91.0,
+          "postedAtUtc": "2026-08-05T21:04:10-04:00",
+          "atsJobId": "5205179007",
+          "externalId": "greenhouse:5205179007",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
