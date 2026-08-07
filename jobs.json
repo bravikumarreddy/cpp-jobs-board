@@ -6571,6 +6571,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-06T15:13:16.518711+00:00"
+        },
+        {
+          "id": "li-fairwaves-senior-c-c-developer-for-2g-4g-5g-protoc-2026-w32",
+          "company": "Fairwaves",
+          "title": "Senior C/C++ developer for 2G/4G/5G protocol stacks - Fairwaves",
+          "location": "Indiana, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 11 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c-c%2B%2B-developer-for-2g-4g-5g-protocol-stacks-fairwaves-at-fairwaves-4450054251",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "11 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4450054251",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-08-07T04:18:19.246615+00:00"
         }
       ],
       "removedNotes": [
