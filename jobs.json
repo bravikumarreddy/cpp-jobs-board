@@ -6639,6 +6639,30 @@
           "externalId": "linkedin:4450339939",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-mathworks-principal-c-software-engineer-2026-w32",
+          "company": "MathWorks",
+          "title": "Principal C++ Software Engineer",
+          "location": "Natick, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/principal-c%2B%2B-software-engineer-at-mathworks-4420125671",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "9 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4420125671",
+          "possibleRepost": "Senior C++ Software Engineer",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-07T09:24:32.551389+00:00"
         }
       ],
       "removedNotes": [
