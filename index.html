@@ -1630,7 +1630,7 @@ function renderAction() {
   renderManualCheckPanel();
   if (!state.data) return;
 
-  // Job picks moved to the Jobs tab (gold "TODAY'S PICK" cards).
+  // Jobs tab lists everything east -> west; no pinned pick cards.
   // This tab is now the pipeline dashboard: live tracker, ATS coverage,
   // and the manual-check employer list.
   document.getElementById('tab-action-badge').textContent = '';
