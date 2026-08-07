@@ -6457,6 +6457,28 @@
           "externalId": "linkedin:4450035025",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-kla-sr-software-engineer-c-ai-ml-oop-linux-2026-w32",
+          "company": "KLA",
+          "title": "Sr Software Engineer (C++, AI/ML, OOP, Linux)",
+          "location": "Milpitas, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 12 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-c%2B%2B-ai-ml-oop-linux-at-kla-4448707258",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "12 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4448707258",
+          "region": "West",
+          "regionRank": 5
         }
       ],
       "removedNotes": [
