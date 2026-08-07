@@ -2051,25 +2051,6 @@
           "regionRank": 1
         },
         {
-          "id": "torc-robotics-senior-autonomy-simulation-data-engineer-python-c-remote-u-s-ann-a",
-          "company": "Torc Robotics",
-          "title": "Senior Autonomy Simulation & Data Engineer (Python / C++)",
-          "location": "Remote - U.S, Ann Arbor, MI",
-          "remote": "Remote",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-05-07.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8516209002",
-          "source": "Employer ATS (live)",
-          "postedApprox": "open since 2026-05-07",
-          "region": "East",
-          "externalId": "greenhouse:8516209002",
-          "regionRank": 1
-        },
-        {
           "id": "torc-robotics-senior-motion-planning-engineer-trajectory-optimization-remote-u-s",
           "company": "Torc Robotics",
           "title": "Senior Motion Planning Engineer - Trajectory Optimization",
@@ -2162,25 +2143,6 @@
           "postedApprox": "open since 2026-07-21",
           "region": "East",
           "externalId": "greenhouse:8634991002",
-          "regionRank": 1
-        },
-        {
-          "id": "torc-robotics-software-engineer-ii-localization-ann-arbor-mi",
-          "company": "Torc Robotics",
-          "title": "Software Engineer II - Localization",
-          "location": "Ann Arbor, MI",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-06-24.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8597758002",
-          "source": "Employer ATS (live)",
-          "postedApprox": "open since 2026-06-24",
-          "region": "East",
-          "externalId": "greenhouse:8597758002",
           "regionRank": 1
         },
         {
