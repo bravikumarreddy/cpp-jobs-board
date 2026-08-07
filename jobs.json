@@ -6517,6 +6517,29 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-06T14:23:00.665062+00:00"
+        },
+        {
+          "id": "built-comcast-c-software-engineer-3-2026-w32",
+          "postedAtUtc": "2026-08-07T00:00:00.002600+00:00",
+          "company": "Comcast",
+          "title": "C++ Software Engineer 3",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted just now. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/software-engineer-3/10146624",
+          "source": "Built In",
+          "postedApprox": "just now",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:10146624",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
