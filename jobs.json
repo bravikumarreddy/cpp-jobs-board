@@ -6479,6 +6479,98 @@
           "externalId": "linkedin:4448707258",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-wolverine-trading-c-software-engineer-latency-critical-sys-2026-w32",
+          "company": "Wolverine Trading",
+          "title": "C++ Software Engineer \u2013 Latency-Critical Systems",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-%E2%80%93-latency-critical-systems-at-wolverine-trading-4404220126",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4404220126",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-07T13:13:16.518711+00:00"
+        },
+        {
+          "id": "li-durlston-partners-c-software-engineer-2026-w32",
+          "company": "Durlston Partners",
+          "title": "C++ Software Engineer",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-durlston-partners-4448764506",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4448764506",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-07T11:13:16.518711+00:00"
+        },
+        {
+          "id": "li-voltforce-senior-staff-software-engineer-c-2026-w32",
+          "company": "VoltForce",
+          "title": "Senior/Staff Software Engineer - C++",
+          "location": "San Leandro, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 19 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-staff-software-engineer-c%2B%2B-at-voltforce-4450000014",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "19 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4450000014",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-06T19:13:16.518711+00:00"
+        },
+        {
+          "id": "li-roblox-senior-software-engineer-c-2026-w32",
+          "company": "Roblox",
+          "title": "Senior Software Engineer (C++)",
+          "location": "San Mateo, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 23 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-at-roblox-4431835005",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "23 hours ago",
+          "h1bFit": "No \u2014 Roblox C++ JDs: 'may not be able to... support future H-1B sponsorship at this time'",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4431835005",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-06T15:13:16.518711+00:00"
         }
       ],
       "removedNotes": [
