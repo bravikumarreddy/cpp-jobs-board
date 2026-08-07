@@ -550,6 +550,9 @@ const state = {
   unavailable: new Set(JSON.parse(localStorage.getItem(UNAVAIL_KEY) || '[]')),
   // {companyName: ISO date string} — companies you've already interviewed at
   interviewed: JSON.parse(localStorage.getItem(INTERVIEWED_KEY) || '{}'),
+  // {companyName: true} — cooldowns set automatically by "Call received"
+  // (vs. manually on the Companies tab). Auto ones lift if the mark is undone.
+  autoCooldown: JSON.parse(localStorage.getItem(INTERVIEWED_KEY + 'Auto') || '{}'),
   autoStale: new Set(),       // IDs auto-detected dead by verify_urls.py
   autoStaleCheckedAt: null,    // ISO timestamp from jobs_stale.json
   // {jobId: "callback"|"rejected"} — application outcomes. Mirrored to the
@@ -636,10 +639,33 @@ function postOutcome(id, outcome) {
 }
 
 function setOutcome(id, outcome) {
-  if (outcome === 'none') delete state.outcomes[id];
-  else state.outcomes[id] = outcome;
+  const job = state.data ? state.data.weeks.flatMap(w => w.jobs).find(j => j.id === id) : null;
+  if (outcome === 'none') {
+    const wasCallback = state.outcomes[id] === 'callback';
+    delete state.outcomes[id];
+    // Un-marking a callback lifts the cooldown it created (manual cooldowns
+    // from the Companies tab are left alone).
+    if (wasCallback && job && state.autoCooldown[job.company]) {
+      delete state.interviewed[job.company];
+      delete state.autoCooldown[job.company];
+      saveInterviewed(); saveAutoCooldown();
+    }
+  } else {
+    state.outcomes[id] = outcome;
+    // A call back means you're in process — the company's re-application
+    // policy kicks in, so stop recommending it for COOLDOWN_MONTHS.
+    if (outcome === 'callback' && job && !state.interviewed[job.company]) {
+      state.interviewed[job.company] = new Date().toISOString().slice(0, 10);
+      state.autoCooldown[job.company] = true;
+      saveInterviewed(); saveAutoCooldown();
+    }
+  }
   saveOutcomes();
   postOutcome(id, outcome);
+}
+
+function saveAutoCooldown() {
+  localStorage.setItem(INTERVIEWED_KEY + 'Auto', JSON.stringify(state.autoCooldown));
 }
 
 // Is this job stale (user-marked OR auto-detected)?
@@ -767,40 +793,9 @@ function render() {
   const container = document.getElementById('jobs');
   container.innerHTML = '';
 
-  // Today's picks — the action-plan top 5 pinned at the top of the Jobs tab
-  // as special gold cards, regardless of which week they came from.
-  const picks = topOpenJobs();
-  const pickIds = new Set(picks.map(j => j.id));
-  picks.forEach((job, i) => {
-    const card = buildJobCard(job);
-    card.classList.add('todays-pick');
-    const ribbon = document.createElement('div');
-    ribbon.className = 'pick-ribbon';
-    ribbon.textContent = `⭐ TODAY'S PICK #${i + 1} — highest callback odds right now`;
-    card.prepend(ribbon);
-    // Carry the apply toolkit over from the old action cards.
-    const kit = document.createElement('div');
-    kit.className = 'pick-kit';
-    kit.innerHTML = `
-      <button class="copy-btn" data-kit="snippet">📝 Copy cover snippet</button>
-      <button class="copy-btn" data-kit="dm">💬 Copy referral DM</button>`;
-    kit.querySelector('[data-kit="snippet"]').onclick = (e) => {
-      navigator.clipboard.writeText(snippetFor(job));
-      e.target.textContent = '✓ Copied';
-      setTimeout(() => { e.target.textContent = '📝 Copy cover snippet'; }, 1500);
-    };
-    kit.querySelector('[data-kit="dm"]').onclick = (e) => {
-      navigator.clipboard.writeText(referralDM(job));
-      e.target.textContent = '✓ Copied';
-      setTimeout(() => { e.target.textContent = '💬 Copy referral DM'; }, 1500);
-    };
-    card.appendChild(kit);
-    container.appendChild(card);
-  });
-
-  // Flat list — no company grouping. Hot jobs bubble up: east -> west region
-  // priority first, freshest first within each region tier.
-  const flat = [...shown].filter(j => !pickIds.has(j.id)).sort((a, b) => {
+  // Flat list — no company grouping, no pinned "Today's Pick" cards.
+  // East -> west region priority leads, freshest first within each region tier.
+  const flat = [...shown].sort((a, b) => {
     const ra = regionRank(a), rb = regionRank(b);
     if (ra !== rb) return ra - rb;
     const ta = a.postedAtUtc ? Date.parse(a.postedAtUtc) : 0;
@@ -839,7 +834,7 @@ function render() {
     card.innerHTML = `
       <div class="company">${job.company}</div>
       <div class="title">${job.title}${freshBadge}${cbChip}</div>
-      ${inCooldown ? `<div class="cooldown-badge">⏰ Interviewed ${state.interviewed[job.company]} · ${cdMonths} ${cdMonths === 1 ? 'month' : 'months'} until eligible</div>` : ''}
+      ${inCooldown ? `<div class="cooldown-badge">⏰ ${state.autoCooldown[job.company] ? 'Call received' : 'Interviewed'} ${state.interviewed[job.company]} · ${cdMonths} ${cdMonths === 1 ? 'month' : 'months'} until eligible — company re-apply policy</div>` : ''}
       <div class="meta">
         <span>📍 ${job.location}</span>
         <span class="region-chip region-${(job.region || regionName(job)).toLowerCase()}">${regionEmoji(job)} ${job.region || regionName(job)}</span>
@@ -1654,7 +1649,7 @@ function renderAction() {
     ${nNotSelected ? `<span>🚷 Not selected: <b>${nNotSelected}</b></span>` : ''}
     ${nNoElig ? `<span>🚫 Not eligible: <b>${nNoElig}</b></span>` : ''}
     <span style="color: var(--muted);">Outcomes feed the nightly tracker-improver — mark 📞 on every recruiter response and 🚫 on every sponsorship/compliance block.</span>`;
-  cards.innerHTML = `<div class="action-empty">⭐ Today's picks now live at the top of the <b>Jobs</b> tab as gold cards — apply from there. This tab keeps the live-tracker status, ATS pipeline coverage, and the weekly manual-check employer list.</div>`;
+  cards.innerHTML = `<div class="action-empty">The <b>Jobs</b> tab lists everything east → west (East Coast first), freshest first within each region. This tab keeps the live-tracker status, ATS pipeline coverage, and the weekly manual-check employer list.</div>`;
 }
 
 function updateBadges() {
