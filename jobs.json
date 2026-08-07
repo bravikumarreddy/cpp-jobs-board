@@ -6648,6 +6648,28 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-07T17:28:30.186983+00:00"
+        },
+        {
+          "id": "li-x-rite-embedded-systems-engineer-c-2026-w32",
+          "company": "X-Rite",
+          "title": "Embedded Systems Engineer C++",
+          "location": "Grand Rapids, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-systems-engineer-c%2B%2B-at-x-rite-4450399313",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4450399313",
+          "region": "East",
+          "regionRank": 1
         }
       ],
       "removedNotes": [
