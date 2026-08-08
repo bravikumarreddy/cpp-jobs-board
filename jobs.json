@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07",
+  "lastUpdated": "2026-08-08",
   "lastChecked": "2026-08-07",
   "seedVersion": 2,
   "liveTrackers": [
@@ -7104,32 +7104,6 @@
           "easyApply": false
         },
         {
-          "id": "li-fresh-wayve-4396151877",
-          "company": "Wayve",
-          "title": "Application Software Engineer \u2014 Embedded C++",
-          "location": "Detroit, MI",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Wayve Embodied AI for autonomous vehicles \u2014 embedded C++ application software, Detroit.",
-          "skills": [
-            "C++",
-            "Embedded",
-            "AV"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4396151877/",
-          "source": "LinkedIn (Aug 7 fresh sweep)",
-          "postedApprox": "8 hours ago",
-          "h1bFit": "Confirm \u2014 JD clean (EEO only); UK-headquartered AV company with international workforce \u2014 ask",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4396151877",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-07T17:16:09.215347+00:00",
-          "easyApply": false
-        },
-        {
           "id": "li-fresh-cps-inc-4391398281",
           "company": "CPS, Inc.",
           "title": "C++ Trading Systems Developer",
@@ -7802,6 +7776,75 @@
           "externalId": "linkedin:4450527361",
           "region": "Remote",
           "regionRank": 2
+        },
+        {
+          "id": "li-wayve-application-software-engineer-embedded-s-2026-w32",
+          "company": "Wayve",
+          "title": "Application Software Engineer - Embedded Software C++",
+          "location": "Sunnyvale, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/application-software-engineer-embedded-software-c%2B%2B-at-wayve-4396152817",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4396152817",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-08T14:18:27.479021+00:00"
+        },
+        {
+          "id": "li-lansweeper-senior-software-engineer-c-golang-rust-2026-w32",
+          "company": "Lansweeper",
+          "title": "Senior Software Engineer C++ - Golang - Rust",
+          "location": "Austin, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-golang-rust-at-lansweeper-4442138636",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4442138636",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-08T12:18:27.479021+00:00"
+        },
+        {
+          "id": "li-omnissa-software-engineer-customer-escalations-c-2026-w32",
+          "company": "Omnissa",
+          "title": "Software Engineer - Customer Escalations - C++",
+          "location": "Mountain View, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-customer-escalations-c%2B%2B-at-omnissa-4432695525",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4432695525",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-08T11:18:27.479021+00:00"
         }
       ],
       "removedNotes": [
