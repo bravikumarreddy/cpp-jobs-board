@@ -7913,6 +7913,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-08T12:27:57.188077+00:00"
+        },
+        {
+          "id": "li-cadence-lead-c-software-engineer-2026-w32",
+          "company": "Cadence",
+          "title": "Lead C++ Software Engineer",
+          "location": "San Jose, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/lead-c%2B%2B-software-engineer-at-cadence-4414706700",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4414706700",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-08T18:35:48.362582+00:00"
         }
       ],
       "removedNotes": [
