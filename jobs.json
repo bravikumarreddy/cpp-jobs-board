@@ -7891,6 +7891,28 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-08T03:22:02.458017+00:00"
+        },
+        {
+          "id": "li-etap-software-c-developer-2026-w32",
+          "company": "ETAP Software",
+          "title": "C++ Developer",
+          "location": "Irvine, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 16 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-etap-software-4424101718",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "16 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4424101718",
+          "region": "West",
+          "regionRank": 5
         }
       ],
       "removedNotes": [
@@ -7914,7 +7936,8 @@
         "Net2Source \u2014 Embedded Software & Control Lead (New Hudson MI) \u2014 US Government clearance required (fresh sweep 2026-08-07)",
         "Hyra \u2014 SWE (VA) \u2014 clearance + $79-135K below floor (fresh sweep 2026-08-07)",
         "Stealth Co (SF), Parsec (Fresno), Technovative (Brea CA), NVTS follow-up \u2014 citizenship / no-sponsor language (fresh sweep 2026-08-07)",
-        "Skipped non-matches: 3Red Graduate C++ (new-grad), Torc Robotics SWE II (level), CyberForce Sr C++ Boca (repost of role already applied to), Acquire Me x2 (already applied), SpaceXAI (impostor repost), Tiger Resourcing SSET (test role) (fresh sweep 2026-08-07)"
+        "Skipped non-matches: 3Red Graduate C++ (new-grad), Torc Robotics SWE II (level), CyberForce Sr C++ Boca (repost of role already applied to), Acquire Me x2 (already applied), SpaceXAI (impostor repost), Tiger Resourcing SSET (test role) (fresh sweep 2026-08-07)",
+        "NinjaOne \u2014 Senior Software Engineer, C++ (Endpoint State & Control) \u2014 NinjaOne \u2014 JD: 'This position is NOT eligible for Visa sponsorship' (JD/policy verified 2026-08-06)"
       ]
     }
   ]
