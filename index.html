@@ -423,6 +423,7 @@
     <span>Stale: <b id="stat-stale">0</b></span>
     <span>Cooldown: <b id="stat-cooldown">0</b></span>
     <span>Open: <b id="stat-open">0</b></span>
+    <span id="cloud-chip" style="cursor:pointer" title="Cross-device sync via Supabase">☁ sync: …</span>
   </div>
 </header>
 
@@ -1676,6 +1677,150 @@ function switchTab(name) {
   if (name === 'action') renderAction();
 }
 
+// ============================================================================
+// Cloud sync (Supabase) — centralizes applied/callback/cooldown state so every
+// device and origin (localhost board, public github.io board, phone) shares
+// one store instead of per-browser localStorage. localStorage remains the
+// offline cache; the cloud is the source of truth once connected.
+//
+// Config comes from supabase_config.json (url + anonKey; the private Mac copy
+// also carries boardKey so the local board connects automatically). On other
+// devices the board key is asked for once via the ☁ chip and kept in
+// localStorage. All requests carry the x-board-key header; Supabase RLS
+// rejects anything without it. No config file → everything below is inert.
+// ============================================================================
+const CLOUD_KEY_LS = 'raviCppJobsBoardKey';
+const cloud = { cfg: null, key: '', on: false, applying: false, timers: {} };
+
+const CLOUD_SLICES = {
+  applied:      { get: () => [...state.applied],     put: v => { state.applied = new Set(v); },      save: 'saveApplied',      merge: v => [...new Set([...state.applied, ...v])] },
+  unavailable:  { get: () => [...state.unavailable], put: v => { state.unavailable = new Set(v); },  save: 'saveUnavailable',  merge: v => [...new Set([...state.unavailable, ...v])] },
+  badRecs:      { get: () => [...state.badRecs],     put: v => { state.badRecs = new Set(v); },      save: 'saveBadRecs',      merge: v => [...new Set([...state.badRecs, ...v])] },
+  outcomes:     { get: () => state.outcomes,         put: v => { state.outcomes = v || {}; },        save: 'saveOutcomes',     merge: v => ({ ...state.outcomes, ...v }) },
+  notEligible:  { get: () => state.notEligible,      put: v => { state.notEligible = v || {}; },     save: 'saveNotEligible',  merge: v => ({ ...state.notEligible, ...v }) },
+  interviewed:  { get: () => state.interviewed,      put: v => { state.interviewed = v || {}; },     save: 'saveInterviewed',  merge: v => ({ ...state.interviewed, ...v }) },
+  autoCooldown: { get: () => state.autoCooldown,     put: v => { state.autoCooldown = v || {}; },    save: 'saveAutoCooldown', merge: v => ({ ...state.autoCooldown, ...v }) },
+};
+
+function cloudHeaders() {
+  return {
+    'apikey': cloud.cfg.anonKey,
+    'Authorization': 'Bearer ' + cloud.cfg.anonKey,
+    'x-board-key': cloud.key,
+    'Content-Type': 'application/json',
+  };
+}
+
+function cloudChip(text, title) {
+  const el = document.getElementById('cloud-chip');
+  if (!el) return;
+  el.textContent = text;
+  if (title) el.title = title;
+}
+
+async function cloudInit() {
+  try {
+    const r = await fetch('supabase_config.json?_=' + Date.now());
+    if (!r.ok) { cloudChip('☁ sync: not set up', 'No supabase_config.json — state stays in this browser only'); return; }
+    const cfg = await r.json();
+    if (!cfg.url || !cfg.anonKey) { cloudChip('☁ sync: not set up'); return; }
+    cloud.cfg = cfg;
+    cloud.key = cfg.boardKey || localStorage.getItem(CLOUD_KEY_LS) || '';
+  } catch (e) { cloudChip('☁ sync: not set up'); return; }
+  if (!cloud.key) cloudChip('☁ sync: click to connect', 'Click and enter your board key to sync across devices');
+}
+
+async function cloudHydrate() {
+  if (!cloud.cfg || !cloud.key) return;
+  let rows;
+  try {
+    const r = await fetch(cloud.cfg.url.replace(/\/$/, '') + '/rest/v1/board_state?select=key,value', { headers: cloudHeaders() });
+    if (r.status === 401 || r.status === 403) { cloudChip('☁ sync: bad key — click to fix'); return; }
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    rows = await r.json();
+  } catch (e) { cloudChip('☁ sync: offline', String(e)); return; }
+
+  cloud.on = true;
+  const byKey = Object.fromEntries(rows.map(x => [x.key, x.value]));
+  let pushAll = false;
+  cloud.applying = true;
+  try {
+    if (rows.length === 0) {
+      // First connect ever: seed the cloud with everything this browser knows.
+      pushAll = true;
+    } else if (!localStorage.getItem('raviCppJobsCloudMergedV1')) {
+      // First connect from THIS browser while cloud already has data:
+      // union-merge so neither side's history is lost, then push.
+      for (const [slice, s] of Object.entries(CLOUD_SLICES)) {
+        if (slice in byKey) s.put(s.merge(byKey[slice]));
+        window[s.save]();  // persist merged result to localStorage
+      }
+      pushAll = true;
+    } else {
+      // Normal load: cloud is the source of truth (deletes propagate too).
+      for (const [slice, s] of Object.entries(CLOUD_SLICES)) {
+        if (slice in byKey) { s.put(byKey[slice]); window[s.save](); }
+      }
+    }
+    localStorage.setItem('raviCppJobsCloudMergedV1', '1');
+  } finally { cloud.applying = false; }
+  if (pushAll) for (const slice of Object.keys(CLOUD_SLICES)) cloudPushSlice(slice, 0);
+  cloudChip('☁ sync: on', 'State is shared across your devices via Supabase');
+}
+
+function cloudPushSlice(slice, delay = 400) {
+  if (!cloud.cfg || !cloud.key || cloud.applying) return;
+  clearTimeout(cloud.timers[slice]);
+  cloud.timers[slice] = setTimeout(async () => {
+    try {
+      await fetch(cloud.cfg.url.replace(/\/$/, '') + '/rest/v1/board_state?on_conflict=key', {
+        method: 'POST',
+        headers: { ...cloudHeaders(), 'Prefer': 'resolution=merge-duplicates,return=minimal' },
+        body: JSON.stringify([{ key: slice, value: CLOUD_SLICES[slice].get() }]),
+      });
+    } catch (e) { cloudChip('☁ sync: offline (retries on next change)'); }
+  }, delay);
+}
+
+function cloudEvent(jobId, outcome, reason) {
+  if (!cloud.cfg || !cloud.key) return;
+  fetch(cloud.cfg.url.replace(/\/$/, '') + '/rest/v1/outcome_events', {
+    method: 'POST',
+    headers: { ...cloudHeaders(), 'Prefer': 'return=minimal' },
+    body: JSON.stringify([{ job_id: jobId, outcome, reason: reason || null }]),
+  }).catch(() => {});
+}
+
+// Route every state change through the cloud: wrap the existing save/record
+// functions (classic-script declarations are reassignable window properties).
+(function hookCloud() {
+  for (const [slice, s] of Object.entries(CLOUD_SLICES)) {
+    const orig = window[s.save];
+    window[s.save] = function (...a) { const r = orig.apply(this, a); cloudPushSlice(slice); return r; };
+  }
+  const origPost = window.postOutcome;
+  window.postOutcome = function (id, outcome) { cloudEvent(id, outcome); return origPost.call(this, id, outcome); };
+  const origBadRec = window.setBadRec;
+  window.setBadRec = function (id) { cloudEvent(id, 'bad_recommendation'); return origBadRec.call(this, id); };
+  const origNoElig = window.setNotEligible;
+  window.setNotEligible = function (id, reason) {
+    cloudEvent(id, reason ? 'not_eligible' : 'none', reason || undefined);
+    return origNoElig.call(this, id, reason);
+  };
+  document.addEventListener('DOMContentLoaded', () => {
+    const chip = document.getElementById('cloud-chip');
+    if (chip) chip.onclick = async () => {
+      if (!cloud.cfg) { alert('Cloud sync is not set up yet — see supabase_config.example.json in the site folder.'); return; }
+      const k = prompt('Enter your board key (from supabase_setup.sql):', cloud.key || '');
+      if (k === null) return;
+      cloud.key = k.trim();
+      localStorage.setItem(CLOUD_KEY_LS, cloud.key);
+      await cloudHydrate();
+      render(); updateBadges();
+    };
+  });
+})();
+
 async function load() {
   const res = await fetch('jobs.json?_=' + Date.now());
   state.data = await res.json();
@@ -1700,6 +1845,8 @@ async function load() {
   } catch (e) { /* file missing — that's fine */ }
 
   await syncOutcomes();
+  await cloudInit();
+  await cloudHydrate();
 
   // Initialize current week if not already saved or if the saved week no longer exists
   // One-time migration: default everyone to the all-weeks view (jobs used to
