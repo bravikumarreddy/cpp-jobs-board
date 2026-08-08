@@ -2672,29 +2672,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-netapp-software-engineer-cloud-engineering-c-2026-w30",
-          "company": "NetApp",
-          "title": "Software Engineer - Cloud Engineering (C++)",
-          "location": "San Jose, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Own Every Moment at NetApp At NetApp, your ideas power innovation. We lead in intelligent data infrastructure\u2014delivering unified storage, integrated data services, and\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-cloud-engineering-c%2B%2B-at-netapp-4441541014",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "11 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4441541014",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-07-23T15:10:59.519491+00:00"
-        },
-        {
           "id": "li-susquehanna-international-group-c-quantitative-developer-trading-strateg-2026-w30",
           "company": "Susquehanna International Group",
           "title": "C++ Quantitative Developer | Trading Strategies | Experienced Hire",
@@ -4737,28 +4714,6 @@
           "postedAtUtc": "2026-08-02T15:32:03.975847+00:00"
         },
         {
-          "id": "li-figma-software-engineer-c-2026-w32",
-          "company": "Figma",
-          "title": "Software Engineer, C++",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma\u2019s platform helps teams bring ideas to life\u2014whether you're\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-figma-4239984024",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "13 minutes ago",
-          "h1bFit": "Yes \u2014 Figma is an established sponsor; JD clean",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4239984024",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-motorola-solutions-embedded-software-engineer-modern-c-linu-2026-w32",
           "company": "Motorola Solutions",
           "title": "Embedded Software Engineer - Modern C++, Linux",
@@ -6169,29 +6124,6 @@
           "postedAtUtc": "2026-08-06T16:19:09.055859+00:00"
         },
         {
-          "id": "li-garmin-senior-software-engineer-c-c-2026-w32",
-          "company": "Garmin",
-          "title": "Senior Software Engineer - C++/C",
-          "location": "Cary, NC",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Overview We are seeking a full-time Senior Software Engineer - C++/C at Garmin's U.S. headquarters in the Greater Kansas City area or in our Cary, NC location. In this role,\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-c-at-garmin-4441407046",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "11 hours ago",
-          "h1bFit": "Yes \u2014 Garmin: 437 filings, 29 at Cary NC; JD clean (EEO boilerplate only)",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4441407046",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-06T11:19:09.055859+00:00"
-        },
-        {
           "id": "li-kyyba-inc-systems-engineer-c-magicdraw-2026-w32",
           "company": "KYYBA Inc",
           "title": "Systems Engineer - C++, MagicDraw",
@@ -6722,31 +6654,6 @@
           "easyApply": false
         },
         {
-          "id": "li-fresh-3red-partners-4448729142",
-          "company": "3Red Partners",
-          "title": "C++ Developer",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "3Red Partners, proprietary trading firm \u2014 C++ developer for high-frequency trading systems, NYC team.",
-          "skills": [
-            "C++",
-            "HFT"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4448729142/",
-          "source": "LinkedIn (Aug 7 fresh sweep)",
-          "postedApprox": "20 hours ago",
-          "h1bFit": "Confirm \u2014 JD silent on sponsorship; filing history unchecked (prop trading firm)",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4448729142",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-07T05:16:09.215347+00:00",
-          "easyApply": false
-        },
-        {
           "id": "li-fresh-trackman-4413491269",
           "company": "Trackman",
           "title": "Signal Processing Developer \u2014 American Football",
@@ -7123,31 +7030,6 @@
           "easyApply": false
         },
         {
-          "id": "li-fresh-akuna-capital-4349334451",
-          "company": "Akuna Capital",
-          "title": "Software Engineer \u2014 C++",
-          "location": "Chicago, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Akuna Capital options market-making \u2014 collaborative C++ engineering on trading systems.",
-          "skills": [
-            "C++",
-            "Trading"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4349334451/",
-          "source": "LinkedIn (Aug 7 fresh sweep)",
-          "postedApprox": "2 days ago",
-          "h1bFit": "Yes (verify) \u2014 Akuna is a known H1B filer for engineering roles; JD clean",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4349334451",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-05T14:16:09.215347+00:00",
-          "easyApply": false
-        },
-        {
           "id": "li-fresh-capgemini-engineering-4449174433",
           "company": "Capgemini Engineering",
           "title": "Graphics Software Engineer (C++/OpenGL)",
@@ -7242,8 +7124,8 @@
           "yoeFit": "Fits",
           "yoeNote": "",
           "externalId": "linkedin:4396151877",
-          "region": "Central",
-          "regionRank": 3,
+          "region": "East",
+          "regionRank": 1,
           "postedAtUtc": "2026-08-07T17:16:09.215347+00:00",
           "easyApply": false
         },
@@ -7324,31 +7206,6 @@
           "easyApply": false
         },
         {
-          "id": "li-fresh-huxley-4450699852",
-          "company": "Huxley",
-          "title": "C++ Low Latency Trading Systems Dev \u2014 $150-300K",
-          "location": "Chicago, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Huxley recruiter: low-latency C++ trading systems developer, Chicago, $150-300K base.",
-          "skills": [
-            "C++",
-            "HFT"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4450699852/",
-          "source": "LinkedIn (Aug 7 fresh sweep)",
-          "postedApprox": "11 hours ago",
-          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4450699852",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-07T14:16:09.215347+00:00",
-          "easyApply": false
-        },
-        {
           "id": "li-fresh-apex-systems-4450785441",
           "company": "Apex Systems",
           "title": "C++ Developer",
@@ -7421,7 +7278,8 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-07T12:16:09.215347+00:00",
-          "easyApply": false
+          "easyApply": false,
+          "possibleRepost": "Senior C++ Software Engineer"
         },
         {
           "id": "li-fresh-infovision-inc-4448534049",
@@ -7493,8 +7351,8 @@
           "yoeFit": "Fits",
           "yoeNote": "",
           "externalId": "linkedin:4449666634",
-          "region": "Central",
-          "regionRank": 3,
+          "region": "Remote",
+          "regionRank": 2,
           "postedAtUtc": "2026-08-05T17:16:09.215347+00:00",
           "easyApply": true
         },
@@ -7566,8 +7424,8 @@
           "yoeFit": "Fits",
           "yoeNote": "",
           "externalId": "linkedin:4448579441",
-          "region": "Central",
-          "regionRank": 3,
+          "region": "East",
+          "regionRank": 1,
           "postedAtUtc": "2026-08-04T20:16:09.215347+00:00",
           "easyApply": true
         },
@@ -7595,31 +7453,6 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-07T21:16:09.215347+00:00",
-          "easyApply": false
-        },
-        {
-          "id": "li-fresh-netapp-4449203189",
-          "company": "NetApp",
-          "title": "Software Engineer (C++)",
-          "location": "San Jose, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Second NetApp San Jose C++ opening \u2014 data services / storage systems.",
-          "skills": [
-            "C++",
-            "Storage"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4449203189/",
-          "source": "LinkedIn (Aug 7 fresh sweep)",
-          "postedApprox": "7 hours ago",
-          "h1bFit": "Yes \u2014 NetApp is an established large-volume H1B sponsor; JD clean",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4449203189",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-07T18:16:09.215347+00:00",
           "easyApply": false
         },
         {
@@ -7869,8 +7702,8 @@
           "yoeFit": "Fits",
           "yoeNote": "",
           "externalId": "linkedin:4450712165",
-          "region": "Remote",
-          "regionRank": 2,
+          "region": "Central",
+          "regionRank": 3,
           "postedAtUtc": "2026-08-07T14:16:09.215347+00:00",
           "easyApply": true
         },
@@ -7895,8 +7728,8 @@
           "yoeFit": "Fits",
           "yoeNote": "",
           "externalId": "linkedin:4447652604",
-          "region": "Central",
-          "regionRank": 3,
+          "region": "East",
+          "regionRank": 1,
           "postedAtUtc": "2026-08-02T20:16:09.215347+00:00",
           "easyApply": true
         },
@@ -7924,6 +7757,51 @@
           "regionRank": 1,
           "postedAtUtc": "2026-08-07T15:16:09.215347+00:00",
           "easyApply": true
+        },
+        {
+          "id": "built-stellar-development-foundation-senior-software-engineer-c-2026-w32",
+          "postedAtUtc": "2026-08-08T00:00:00.000742+00:00",
+          "company": "Stellar Development Foundation",
+          "title": "Senior Software Engineer, C++",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 1 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/senior-software-engineer-c/7080668",
+          "source": "Built In",
+          "postedApprox": "1 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:7080668",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-gener8-the-rnd-group-senior-software-engineer-qt-c-2026-w32",
+          "company": "Gener8 | The RND Group",
+          "title": "Senior Software Engineer (Qt, C++)",
+          "location": "Indiana, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 29 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-qt-c%2B%2B-at-gener8-the-rnd-group-4450527361",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "29 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4450527361",
+          "region": "Remote",
+          "regionRank": 2
         }
       ],
       "removedNotes": [
