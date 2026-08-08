@@ -2,14 +2,14 @@
   "running": true,
   "pid": 8726,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-08-08T22:01:59.566526+00:00",
-  "nextCycleAt": "2026-08-08T22:31:59.566548+00:00",
-  "cycleCount": 622,
+  "lastCycleAt": "2026-08-08T22:32:36.998068+00:00",
+  "nextCycleAt": "2026-08-08T23:02:36.998088+00:00",
+  "cycleCount": 623,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-08-08T22:01:28.205758+00:00",
+      "lastRun": "2026-08-08T22:32:02.053676+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -17,7 +17,7 @@
     },
     {
       "name": "remotive",
-      "lastRun": "2026-08-08T22:01:28.790648+00:00",
+      "lastRun": "2026-08-08T22:32:02.704560+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -25,7 +25,7 @@
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-08-08T22:01:29.146903+00:00",
+      "lastRun": "2026-08-08T22:32:03.107772+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -33,7 +33,7 @@
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-08-08T22:01:29.415618+00:00",
+      "lastRun": "2026-08-08T22:32:04.126188+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -41,7 +41,7 @@
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-08-08T22:01:29.754018+00:00",
+      "lastRun": "2026-08-08T22:32:04.345411+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -49,7 +49,7 @@
     },
     {
       "name": "avature",
-      "lastRun": "2026-08-08T22:01:30.241794+00:00",
+      "lastRun": "2026-08-08T22:32:05.316273+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,7 +57,7 @@
     },
     {
       "name": "tradeweb",
-      "lastRun": "2026-08-08T22:01:37.248546+00:00",
+      "lastRun": "2026-08-08T22:32:13.580494+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -65,7 +65,7 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-08-08T22:01:37.823618+00:00",
+      "lastRun": "2026-08-08T22:32:14.641822+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -73,7 +73,7 @@
     },
     {
       "name": "builtin",
-      "lastRun": "2026-08-08T22:01:39.270036+00:00",
+      "lastRun": "2026-08-08T22:32:16.052464+00:00",
       "status": "ok",
       "found": 3,
       "added": 1,
@@ -81,7 +81,7 @@
     },
     {
       "name": "goldman",
-      "lastRun": "2026-08-08T22:01:49.109249+00:00",
+      "lastRun": "2026-08-08T22:32:25.745122+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -89,7 +89,7 @@
     },
     {
       "name": "millennium",
-      "lastRun": "2026-08-08T22:01:49.477016+00:00",
+      "lastRun": "2026-08-08T22:32:26.044198+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -97,7 +97,7 @@
     },
     {
       "name": "linkedin",
-      "lastRun": "2026-08-08T22:01:50.042682+00:00",
+      "lastRun": "2026-08-08T22:32:26.744607+00:00",
       "status": "ok",
       "found": null,
       "added": 1,
@@ -121,6 +121,12 @@
     }
   ],
   "recentFinds": [
+    {
+      "company": "Citadel Securities",
+      "title": "Rates & Credit C++ Engineer",
+      "source": "Built In",
+      "at": "2026-08-08T22:32:16.052464+00:00"
+    },
     {
       "company": "Citadel Securities",
       "title": "Rates & Credit C++ Engineer",
@@ -354,17 +360,11 @@
       "title": "Lead Front Office Quant Developer",
       "source": "Built In",
       "at": "2026-07-09T17:19:22.254576+00:00"
-    },
-    {
-      "company": "Wells Fargo",
-      "title": "Lead Front Office Quant Developer",
-      "source": "Built In",
-      "at": "2026-07-09T13:39:40.019621+00:00"
     }
   ],
   "totals": {
     "day": "2026-08-08",
-    "addedToday": 35,
-    "cyclesToday": 16
+    "addedToday": 37,
+    "cyclesToday": 17
   }
 }
