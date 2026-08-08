@@ -4962,29 +4962,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-kla-sr-software-engineer-c-ood-oop-linux-2026-w32",
-          "company": "KLA",
-          "title": "Sr Software Engineer (C++, OOD/OOP, Linux)",
-          "location": "Milpitas, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Company Overview KLA is a global leader in diversified electronics for the semiconductor manufacturing ecosystem. Virtually every electronic device in the world is produced\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-c%2B%2B-ood-oop-linux-at-kla-4428583189",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "8 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4428583189",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-03T11:51:00.917986+00:00"
-        },
-        {
           "id": "aptos-labs-senior-software-engineer-trading-infrastructure-2026-w32",
           "company": "Aptos Labs",
           "title": "Senior Software Engineer, Trading Infrastructure",
@@ -7913,6 +7890,29 @@
           "externalId": "linkedin:4424101718",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-kla-software-engineer-c-ood-oop-linux-2026-w32",
+          "company": "KLA",
+          "title": "Software Engineer (C++, OOD/OOP, Linux)",
+          "location": "Milpitas, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-ood-oop-linux-at-kla-4411540228",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "8 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4411540228",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-08T12:27:57.188077+00:00"
         }
       ],
       "removedNotes": [
