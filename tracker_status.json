@@ -2,14 +2,14 @@
   "running": true,
   "pid": 8726,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-08-08T20:27:57.374129+00:00",
-  "nextCycleAt": "2026-08-08T20:57:57.374150+00:00",
-  "cycleCount": 619,
+  "lastCycleAt": "2026-08-08T20:58:31.415820+00:00",
+  "nextCycleAt": "2026-08-08T21:28:31.415842+00:00",
+  "cycleCount": 620,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-08-08T20:27:22.684923+00:00",
+      "lastRun": "2026-08-08T20:57:59.967262+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -17,7 +17,7 @@
     },
     {
       "name": "remotive",
-      "lastRun": "2026-08-08T20:27:23.406200+00:00",
+      "lastRun": "2026-08-08T20:58:00.701660+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -25,7 +25,7 @@
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-08-08T20:27:23.714159+00:00",
+      "lastRun": "2026-08-08T20:58:00.974159+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -33,7 +33,7 @@
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-08-08T20:27:24.652483+00:00",
+      "lastRun": "2026-08-08T20:58:01.312956+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -41,7 +41,7 @@
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-08-08T20:27:24.990969+00:00",
+      "lastRun": "2026-08-08T20:58:01.790634+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -49,7 +49,7 @@
     },
     {
       "name": "avature",
-      "lastRun": "2026-08-08T20:27:25.902735+00:00",
+      "lastRun": "2026-08-08T20:58:02.237904+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,7 +57,7 @@
     },
     {
       "name": "tradeweb",
-      "lastRun": "2026-08-08T20:27:34.657804+00:00",
+      "lastRun": "2026-08-08T20:58:09.648041+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -65,7 +65,7 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-08-08T20:27:35.668051+00:00",
+      "lastRun": "2026-08-08T20:58:10.277442+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -73,7 +73,7 @@
     },
     {
       "name": "builtin",
-      "lastRun": "2026-08-08T20:27:36.916908+00:00",
+      "lastRun": "2026-08-08T20:58:11.462879+00:00",
       "status": "ok",
       "found": 3,
       "added": 1,
@@ -81,7 +81,7 @@
     },
     {
       "name": "goldman",
-      "lastRun": "2026-08-08T20:27:46.211482+00:00",
+      "lastRun": "2026-08-08T20:58:20.634787+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -89,7 +89,7 @@
     },
     {
       "name": "millennium",
-      "lastRun": "2026-08-08T20:27:46.595037+00:00",
+      "lastRun": "2026-08-08T20:58:20.912906+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -97,10 +97,10 @@
     },
     {
       "name": "linkedin",
-      "lastRun": "2026-08-08T20:27:47.231192+00:00",
+      "lastRun": "2026-08-08T20:58:21.585027+00:00",
       "status": "ok",
       "found": null,
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
@@ -121,6 +121,12 @@
     }
   ],
   "recentFinds": [
+    {
+      "company": "Citadel Securities",
+      "title": "Rates & Credit C++ Engineer",
+      "source": "Built In",
+      "at": "2026-08-08T20:58:11.462879+00:00"
+    },
     {
       "company": "Citadel Securities",
       "title": "Rates & Credit C++ Engineer",
@@ -354,17 +360,11 @@
       "title": "Senior Software Engineer - Embedded, AV Labs",
       "source": "The Muse",
       "at": "2026-07-06T23:20:09.535459+00:00"
-    },
-    {
-      "company": "Uber",
-      "title": "Senior Software Engineer - Embedded, AV Labs",
-      "source": "The Muse",
-      "at": "2026-07-06T21:15:35.782875+00:00"
     }
   ],
   "totals": {
     "day": "2026-08-08",
-    "addedToday": 30,
-    "cyclesToday": 13
+    "addedToday": 31,
+    "cyclesToday": 14
   }
 }
