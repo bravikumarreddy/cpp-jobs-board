@@ -6982,31 +6982,6 @@
           "easyApply": true
         },
         {
-          "id": "li-fresh-garmin-4441289851",
-          "company": "Garmin",
-          "title": "Senior Software Engineer \u2014 C++/C",
-          "location": "Olathe, KS",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Senior C++/C engineering at Garmin HQ (Greater Kansas City) \u2014 third fresh Garmin C++ opening this cycle.",
-          "skills": [
-            "C++",
-            "Embedded"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4441289851/",
-          "source": "LinkedIn (Aug 7 fresh sweep)",
-          "postedApprox": "37 hours ago",
-          "h1bFit": "Yes \u2014 Garmin: 437 H1B filings incl. SWE titles; JD shows only EEO boilerplate",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4441289851",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-06T12:16:09.215347+00:00",
-          "easyApply": false
-        },
-        {
           "id": "li-fresh-capgemini-engineering-4449174433",
           "company": "Capgemini Engineering",
           "title": "Graphics Software Engineer (C++/OpenGL)",
@@ -7936,6 +7911,52 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-08T18:35:48.362582+00:00"
+        },
+        {
+          "id": "li-morse-corp-c-software-engineer-2026-w32",
+          "company": "MORSE Corp",
+          "title": "C++ Software Engineer",
+          "location": "Cambridge, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 day ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-morse-corp-4450055184",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 day ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4450055184",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-08T00:06:43.695158+00:00"
+        },
+        {
+          "id": "li-garmin-senior-software-engineer-c-c-2026-w32",
+          "company": "Garmin",
+          "title": "Senior Software Engineer - C++/C",
+          "location": "Cary, NC",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Overview We are seeking a full-time Senior Software Engineer - C++/C at Garmin's U.S. headquarters in the Greater Kansas City area or in our Cary, NC location. In this role,\u2026",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-c-at-garmin-4441407046",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 days ago",
+          "h1bFit": "Yes \u2014 Garmin: 437 filings, 29 at Cary NC; JD clean (EEO boilerplate only)",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4441407046",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-07T00:06:43.695158+00:00"
         }
       ],
       "removedNotes": [
