@@ -7911,6 +7911,51 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-09T07:45:44.665735+00:00"
+        },
+        {
+          "id": "li-tower-research-capital-software-engineer-trading-systems-c-2026-w32",
+          "company": "Tower Research Capital",
+          "title": "Software Engineer, Trading Systems (C++)",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-trading-systems-c%2B%2B-at-tower-research-capital-4424908005",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4424908005",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-keeper-security-inc-senior-software-engineer-electron-deskto-2026-w32",
+          "company": "Keeper Security, Inc.",
+          "title": "Senior Software Engineer, Electron Desktop (React & C++)",
+          "location": "El Dorado Hills, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-electron-desktop-react-c%2B%2B-at-keeper-security-inc-4402477919",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4402477919",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-09T13:46:55.297295+00:00"
         }
       ],
       "removedNotes": [
