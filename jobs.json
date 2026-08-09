@@ -4851,28 +4851,6 @@
           "regionRank": 5
         },
         {
-          "id": "li-morgan-mckinley-c-software-engineer-2026-w32",
-          "company": "Morgan McKinley",
-          "title": "C++ Software Engineer",
-          "location": "New York, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Morgan McKinley is exclusively supporting a premier inter-dealer brokerage as they expand their core Fixed Income trading platform team in the NYC area. They are looking for\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-morgan-mckinley-4447998742",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4447998742",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-covet-it-inc-senor-c-developer-2026-w32",
           "company": "COVET IT INC",
           "title": "Senor C++ Developer",
@@ -7799,52 +7777,6 @@
           "postedAtUtc": "2026-08-08T11:18:27.479021+00:00"
         },
         {
-          "id": "li-spil-labs-software-engineer-c-2026-w32",
-          "company": "SPIL Labs",
-          "title": "Software Engineer (C++)",
-          "location": "Indiana, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-spil-labs-4449239462",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "9 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4449239462",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-08-08T08:22:02.458017+00:00"
-        },
-        {
-          "id": "li-productionbeast-research-on-building-a-c-programming-sys-2026-w32",
-          "company": "ProductionBeast",
-          "title": "Research on Building a C++ Programming System",
-          "location": "Benicia, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 14 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/research-on-building-a-c%2B%2B-programming-system-at-productionbeast-4451025830",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "14 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4451025830",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-08T03:22:02.458017+00:00"
-        },
-        {
           "id": "li-etap-software-c-developer-2026-w32",
           "company": "ETAP Software",
           "title": "C++ Developer",
@@ -7913,29 +7845,6 @@
           "postedAtUtc": "2026-08-08T18:35:48.362582+00:00"
         },
         {
-          "id": "li-morse-corp-c-software-engineer-2026-w32",
-          "company": "MORSE Corp",
-          "title": "C++ Software Engineer",
-          "location": "Cambridge, MA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 day ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-morse-corp-4450055184",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 day ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4450055184",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-08T00:06:43.695158+00:00"
-        },
-        {
           "id": "li-garmin-senior-software-engineer-c-c-2026-w32",
           "company": "Garmin",
           "title": "Senior Software Engineer - C++/C",
@@ -7957,6 +7866,51 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-07T00:06:43.695158+00:00"
+        },
+        {
+          "id": "arbeitnow-wehrtyou-software-engineer-c-2026-w32",
+          "postedAtUtc": "2026-08-09T06:55:40.000406+00:00",
+          "company": "Wehrtyou",
+          "title": "Software Engineer \u2013 C++",
+          "location": "Austin, TX, United States; Chicago, Illinois, United States; London; New York, N",
+          "remote": "Remote (US)",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Arbeitnow): posted 8 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/software-engineer-c-austin-tx-united-states-chicago-illinois-united-states-london-new-york-ny-united-states-298002",
+          "source": "Arbeitnow",
+          "postedApprox": "8 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-matrix-design-group-llc-senior-software-engineer-python-c-c-linu-2026-w32",
+          "company": "Matrix Design Group LLC",
+          "title": "Senior Software Engineer (Python, C#, C++, Linux)",
+          "location": "Newburgh, IN",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-python-c%23-c%2B%2B-linux-at-matrix-design-group-llc-4383463914",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "8 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4383463914",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-09T07:45:44.665735+00:00"
         }
       ],
       "removedNotes": [
