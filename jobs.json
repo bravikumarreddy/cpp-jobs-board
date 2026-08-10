@@ -7875,6 +7875,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-10T16:38:06.094968+00:00"
+        },
+        {
+          "id": "li-ladders-displays-software-engineer-c-c-2026-w33",
+          "company": "Ladders",
+          "title": "Displays Software Engineer, C/C++",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/displays-software-engineer-c-c%2B%2B-at-ladders-4449553469",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4449553469",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-08-10T11:09:01.971275+00:00"
         }
       ]
     }
