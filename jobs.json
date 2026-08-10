@@ -7785,6 +7785,51 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-10T11:59:48.589893+00:00"
+        },
+        {
+          "id": "li-sundayy-software-engineer-ii-c-c-2026-w33",
+          "company": "Sundayy",
+          "title": "Software Engineer II (C, C++)",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-c-c%2B%2B-at-sundayy-4451560856",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4451560856",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-08-10T17:04:09.863140+00:00"
+        },
+        {
+          "id": "li-netrolynx-ai-c-software-engineer-2026-w33",
+          "company": "Netrolynx AI",
+          "title": "C++ Software Engineer",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-netrolynx-ai-4451857011",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4451857011",
+          "region": "Remote",
+          "regionRank": 2
         }
       ]
     }
