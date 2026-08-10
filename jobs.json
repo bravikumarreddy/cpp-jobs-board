@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-09",
-  "lastChecked": "2026-08-07",
+  "lastUpdated": "2026-08-10",
+  "lastChecked": "2026-08-10",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -7829,6 +7829,52 @@
           "externalId": "linkedin:4451856235",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-factset-sr-software-engineer-c-ci-cd-data-struct-2026-w33",
+          "company": "FactSet",
+          "title": "Sr. Software Engineer (C++, CI/CD, Data Structures, Algorithms, OOD) \u2013 Hybrid",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-c%2B%2B-ci-cd-data-structures-algorithms-ood-%E2%80%93-hybrid-at-factset-4449803221",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4449803221",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-10T18:38:06.094968+00:00"
+        },
+        {
+          "id": "li-triune-infomatics-inc-senior-c-developer-2026-w33",
+          "company": "Triune Infomatics Inc",
+          "title": "Senior C++ Developer",
+          "location": "Silver Spring, MD",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-at-triune-infomatics-inc-4449583414",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4449583414",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-10T16:38:06.094968+00:00"
         }
       ]
     }
