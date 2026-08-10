@@ -3016,8 +3016,8 @@
           "yoeFit": "Verify",
           "yoeNote": "Auto-scraped \u2014 apply filters in your head",
           "externalId": "linkedin:4445668962",
-          "region": "Remote",
-          "regionRank": 2,
+          "region": "East",
+          "regionRank": 1,
           "postedAtUtc": "2026-07-27T06:43:40.579021+00:00"
         },
         {
@@ -5260,8 +5260,8 @@
           "yoeFit": "Verify",
           "yoeNote": "Auto-scraped \u2014 apply filters in your head",
           "externalId": "linkedin:4446688763",
-          "region": "Remote",
-          "regionRank": 2
+          "region": "East",
+          "regionRank": 1
         },
         {
           "id": "li-align-technology-sr-3d-c-software-engineer-2026-w32",
@@ -5703,8 +5703,8 @@
           "callbackScore": 100.0,
           "postedAtUtc": "2026-08-05T14:19:03-04:00",
           "atsJobId": "6127797004",
-          "region": "Remote",
-          "regionRank": 2
+          "region": "East",
+          "regionRank": 1
         },
         {
           "id": "li-full-spectrum-senior-embedded-c-rust-software-engineer-2026-w32",
@@ -5910,29 +5910,6 @@
           "externalId": "linkedin:4449956446",
           "region": "West",
           "regionRank": 5
-        },
-        {
-          "id": "li-media21-onlinedienste-e-k-praktikum-softwareentwicklung-c-c-web-od-2026-w32",
-          "company": "media21 Onlinedienste e.K.",
-          "title": "Praktikum Softwareentwicklung (C/C++/Web oder KI)",
-          "location": "Indiana, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Jobs in Regensburg Praktikum Softwareentwicklung (C/C++/Web oder KI) Media L\u00f6sungen im 21. Jahrhundert Praktikum vor Ort in Regensburg (kein Homeoffice) media21 entwickelt\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/praktikum-softwareentwicklung-c-c%2B%2B-web-oder-ki-at-media21-onlinedienste-e-k-4448992696",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "13 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4448992696",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-08-05T11:49:17.268835+00:00"
         },
         {
           "id": "li-thomas-to-senior-software-engineer-cuda-c-core-lib-2026-w32",
@@ -6440,8 +6417,8 @@
           "yoeFit": "Verify",
           "yoeNote": "Auto-scraped \u2014 apply filters in your head",
           "externalId": "linkedin:4450054251",
-          "region": "Remote",
-          "regionRank": 2,
+          "region": "East",
+          "regionRank": 1,
           "postedAtUtc": "2026-08-07T04:18:19.246615+00:00"
         },
         {
@@ -7055,8 +7032,8 @@
           "yoeFit": "Fits",
           "yoeNote": "",
           "externalId": "linkedin:4449666634",
-          "region": "Remote",
-          "regionRank": 2,
+          "region": "Central",
+          "regionRank": 3,
           "postedAtUtc": "2026-08-05T17:16:09.215347+00:00",
           "easyApply": true
         },
@@ -7456,8 +7433,8 @@
           "yoeFit": "Verify",
           "yoeNote": "Auto-scraped \u2014 apply filters in your head",
           "externalId": "linkedin:4450527361",
-          "region": "Remote",
-          "regionRank": 2
+          "region": "East",
+          "regionRank": 1
         },
         {
           "id": "li-wayve-application-software-engineer-embedded-s-2026-w32",
@@ -7665,29 +7642,6 @@
           "postedAtUtc": "2026-08-09T13:46:55.297295+00:00"
         },
         {
-          "id": "built-cloud-peritus-quantitative-developer-c-python-2026-w32",
-          "postedAtUtc": "2026-08-10T00:00:00.000823+00:00",
-          "company": "Cloud Peritus",
-          "title": "Quantitative Developer (C++ & Python)",
-          "location": "New York, New York",
-          "remote": "See posting",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Live tracker (Built In): posted just now. Verify details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.builtinnyc.com/job/quantitative-developer-c-python/4195696",
-          "source": "Built In",
-          "postedApprox": "just now",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
-          "externalId": "builtin:4195696",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-varda-space-industries-firmware-engineer-c-2026-w32",
           "company": "Varda Space Industries",
           "title": "Firmware Engineer, C++",
@@ -7754,6 +7708,8 @@
         "Hyra \u2014 SWE (VA) \u2014 clearance + $79-135K below floor (fresh sweep 2026-08-07)",
         "Stealth Co (SF), Parsec (Fresno), Technovative (Brea CA), NVTS follow-up \u2014 citizenship / no-sponsor language (fresh sweep 2026-08-07)",
         "Skipped non-matches: 3Red Graduate C++ (new-grad), Torc Robotics SWE II (level), CyberForce Sr C++ Boca (repost of role already applied to), Acquire Me x2 (already applied), SpaceXAI (impostor repost), Tiger Resourcing SSET (test role) (fresh sweep 2026-08-07)",
+        "media21 Onlinedienste e.K. \"Praktikum Softwareentwicklung C/C++\" \u2014 German internship mistagged as Indiana US; junk-title filter extended (praktikum/werkstudent).",
+        "Cloud Peritus \"Quantitative Developer (C++ & Python)\" \u2014 Salesforce consultancy posting an unnamed client req (staffing spam); company added to consultancy filter.",
         "NinjaOne \u2014 Senior Software Engineer, C++ (Endpoint State & Control) \u2014 NinjaOne \u2014 JD: 'This position is NOT eligible for Visa sponsorship' (JD/policy verified 2026-08-06)"
       ]
     },
@@ -7783,6 +7739,52 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-10T09:34:52.184507+00:00"
+        },
+        {
+          "id": "li-presage-technologies-senior-software-engineer-c-2026-w33",
+          "company": "Presage Technologies",
+          "title": "Senior Software Engineer (C++)",
+          "location": "St Louis, MO",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-at-presage-technologies-4451190706",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4451190706",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-10T14:59:48.589893+00:00"
+        },
+        {
+          "id": "li-kla-sr-software-engineer-c-linux-multi-threa-2026-w33",
+          "company": "KLA",
+          "title": "Sr. Software Engineer (C++/Linux/Multi-threaded)",
+          "location": "Milpitas, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-c%2B%2B-linux-multi-threaded-at-kla-4411552050",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4411552050",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-10T11:59:48.589893+00:00"
         }
       ]
     }
