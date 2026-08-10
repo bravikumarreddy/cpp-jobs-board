@@ -7663,6 +7663,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-09T13:46:55.297295+00:00"
+        },
+        {
+          "id": "built-cloud-peritus-quantitative-developer-c-python-2026-w32",
+          "postedAtUtc": "2026-08-10T00:00:00.000823+00:00",
+          "company": "Cloud Peritus",
+          "title": "Quantitative Developer (C++ & Python)",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted just now. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/quantitative-developer-c-python/4195696",
+          "source": "Built In",
+          "postedApprox": "just now",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:4195696",
+          "region": "East",
+          "regionRank": 1
         }
       ],
       "removedNotes": [

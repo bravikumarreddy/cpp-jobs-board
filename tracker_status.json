@@ -2,14 +2,14 @@
   "running": true,
   "pid": 8726,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-08-10T00:11:39.304750+00:00",
-  "nextCycleAt": "2026-08-10T00:41:39.304774+00:00",
-  "cycleCount": 650,
+  "lastCycleAt": "2026-08-10T00:42:16.739802+00:00",
+  "nextCycleAt": "2026-08-10T01:12:16.739833+00:00",
+  "cycleCount": 651,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-08-10T00:11:05.179444+00:00",
+      "lastRun": "2026-08-10T00:41:41.983378+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -17,7 +17,7 @@
     },
     {
       "name": "remotive",
-      "lastRun": "2026-08-10T00:11:05.705531+00:00",
+      "lastRun": "2026-08-10T00:41:42.791467+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -25,7 +25,7 @@
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-08-10T00:11:06.026267+00:00",
+      "lastRun": "2026-08-10T00:41:43.182828+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -33,7 +33,7 @@
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-08-10T00:11:07.025875+00:00",
+      "lastRun": "2026-08-10T00:41:44.568643+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -41,7 +41,7 @@
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-08-10T00:11:07.417938+00:00",
+      "lastRun": "2026-08-10T00:41:45.003314+00:00",
       "status": "ok",
       "found": 1,
       "added": 0,
@@ -49,7 +49,7 @@
     },
     {
       "name": "avature",
-      "lastRun": "2026-08-10T00:11:08.367760+00:00",
+      "lastRun": "2026-08-10T00:41:45.465928+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,7 +57,7 @@
     },
     {
       "name": "tradeweb",
-      "lastRun": "2026-08-10T00:11:15.511456+00:00",
+      "lastRun": "2026-08-10T00:41:52.902166+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -65,7 +65,7 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-08-10T00:11:16.381721+00:00",
+      "lastRun": "2026-08-10T00:41:53.738699+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -73,15 +73,15 @@
     },
     {
       "name": "builtin",
-      "lastRun": "2026-08-10T00:11:17.929553+00:00",
+      "lastRun": "2026-08-10T00:41:55.161671+00:00",
       "status": "ok",
-      "found": 0,
-      "added": 0,
+      "found": 2,
+      "added": 1,
       "error": null
     },
     {
       "name": "goldman",
-      "lastRun": "2026-08-10T00:11:28.299030+00:00",
+      "lastRun": "2026-08-10T00:42:05.325848+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -89,7 +89,7 @@
     },
     {
       "name": "millennium",
-      "lastRun": "2026-08-10T00:11:28.687160+00:00",
+      "lastRun": "2026-08-10T00:42:05.635361+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -97,7 +97,7 @@
     },
     {
       "name": "linkedin",
-      "lastRun": "2026-08-10T00:11:29.235293+00:00",
+      "lastRun": "2026-08-10T00:42:06.346402+00:00",
       "status": "ok",
       "found": null,
       "added": 0,
@@ -121,6 +121,12 @@
     }
   ],
   "recentFinds": [
+    {
+      "company": "Cloud Peritus",
+      "title": "Quantitative Developer (C++ & Python)",
+      "source": "Built In",
+      "at": "2026-08-10T00:41:55.161671+00:00"
+    },
     {
       "company": "Wehrtyou",
       "title": "Software Engineer \u2013 C++",
@@ -354,17 +360,11 @@
       "title": "Rates & Credit C++ Engineer",
       "source": "Built In",
       "at": "2026-07-25T02:46:26.858031+00:00"
-    },
-    {
-      "company": "Rockstar Games",
-      "title": "Software Engineer (C#/.NET)",
-      "source": "Built In",
-      "at": "2026-07-24T22:07:13.247646+00:00"
     }
   ],
   "totals": {
     "day": "2026-08-10",
-    "addedToday": 0,
-    "cyclesToday": 1
+    "addedToday": 1,
+    "cyclesToday": 2
   }
 }
