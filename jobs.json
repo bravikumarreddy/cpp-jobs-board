@@ -7898,6 +7898,73 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-08-10T11:09:01.971275+00:00"
+        },
+        {
+          "id": "li-swoon-c-embedded-software-engineer-3-100249-2026-w33",
+          "company": "Swoon",
+          "title": "C++ Embedded Software Engineer 3 #100249",
+          "location": "Peoria Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 58 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-embedded-software-engineer-3-%23100249-at-swoon-4451473036",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "58 minutes ago",
+          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4451473036",
+          "region": "Other",
+          "regionRank": 6
+        },
+        {
+          "id": "li-partnerverse-software-engineer-c-c-or-rust-2026-w33",
+          "company": "Partnerverse",
+          "title": "Software Engineer (C, C++, or Rust)",
+          "location": "Indiana, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 55 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c-c%2B%2B-or-rust-at-partnerverse-4449821916",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "55 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4449821916",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-haemonetics-principal-software-developer-bloodtrack--2026-w33",
+          "company": "Haemonetics",
+          "title": "Principal Software Developer \u2013 BloodTrack (C++ expert)",
+          "location": "Boston, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/principal-software-developer-%E2%80%93-bloodtrack-c%2B%2B-expert-at-haemonetics-4424913464",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "9 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4424913464",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-10T13:10:12.418411+00:00"
         }
       ]
     }
