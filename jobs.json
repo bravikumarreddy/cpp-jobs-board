@@ -7760,7 +7760,31 @@
     {
       "weekId": "2026-W33",
       "label": "Week of August 10, 2026",
-      "jobs": []
+      "jobs": [
+        {
+          "id": "li-susquehanna-international-group-software-developer-c-etf-experienced-hir-2026-w33",
+          "company": "Susquehanna International Group",
+          "title": "Software Developer | C++ | ETF | Experienced Hire",
+          "location": "Bala-Cynwyd, PA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-developer-c%2B%2B-etf-experienced-hire-at-susquehanna-international-group-4421183751",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4421183751",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-10T09:34:52.184507+00:00"
+        }
+      ]
     }
   ]
 }
