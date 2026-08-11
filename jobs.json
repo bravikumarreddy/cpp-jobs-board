@@ -8085,6 +8085,28 @@
           "atsJobId": "8122477",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-acnovate-corporation-c-developer-medical-device-industry-sant-2026-w33",
+          "company": "Acnovate Corporation",
+          "title": "C++ Developer -Medical Device Industry - Santa Clara, CA",
+          "location": "Santa Clara, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 46 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-medical-device-industry-santa-clara-ca-at-acnovate-corporation-4449884297",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "46 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4449884297",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
