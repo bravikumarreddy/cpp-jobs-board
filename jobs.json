@@ -7965,6 +7965,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-10T13:10:12.418411+00:00"
+        },
+        {
+          "id": "li-ladgov-corporation-senior-c-programmer-2026-w33",
+          "company": "Ladgov Corporation",
+          "title": "Senior C++ Programmer",
+          "location": "Seattle, WA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 day ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-programmer-at-ladgov-corporation-4451310671",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 day ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4451310671",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-10T01:18:18.033667+00:00"
         }
       ]
     }
