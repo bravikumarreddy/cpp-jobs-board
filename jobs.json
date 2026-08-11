@@ -7984,6 +7984,28 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-11T15:10:41.967758+00:00"
+        },
+        {
+          "id": "li-cintal-inc-senior-embedded-c-engineer-robotics-auto-2026-w33",
+          "company": "Cintal, Inc.",
+          "title": "Senior Embedded C++ Engineer \u2013 Robotics & Autonomous Systems",
+          "location": "Chillicothe, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 23 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-embedded-c%2B%2B-engineer-%E2%80%93-robotics-autonomous-systems-at-cintal-inc-4453004078",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "23 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4453004078",
+          "region": "Central",
+          "regionRank": 3
         }
       ]
     }
