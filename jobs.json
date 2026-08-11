@@ -1858,29 +1858,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-boxbot-senior-software-engineer-c-2026-w30",
-          "company": "Boxbot",
-          "title": "Senior Software Engineer (C++)",
-          "location": "Alameda, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "About Boxbot Boxbot revolutionizes logistics with adaptive automation, creating the facility of the future. As the industry grapples with labor shortages and rising costs,\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-at-boxbot-4443045939",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "14 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4443045939",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-07-21T00:09:20.680325+00:00"
-        },
-        {
           "id": "li-netrolynx-ai-c-developer-2026-w30",
           "company": "Netrolynx AI",
           "title": "C++ Developer",
@@ -6426,31 +6403,6 @@
           "easyApply": false
         },
         {
-          "id": "li-fresh-open-systems-technologie-3952272779",
-          "company": "Open Systems Technologies",
-          "title": "C++ Developer",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Tier-one staffing vendor for major financial firms \u2014 C++ developer placement, NYC.",
-          "skills": [
-            "C++",
-            "Finance"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/3952272779/",
-          "source": "LinkedIn (Aug 7 fresh sweep)",
-          "postedApprox": "4 days ago",
-          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:3952272779",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-04T10:16:09.215347+00:00",
-          "easyApply": false
-        },
-        {
           "id": "li-fresh-open-systems-technologie-3952276517",
           "company": "Open Systems Technologies",
           "title": "C++ Developer (second opening)",
@@ -6474,56 +6426,6 @@
           "regionRank": 1,
           "postedAtUtc": "2026-08-05T10:16:09.215347+00:00",
           "easyApply": false
-        },
-        {
-          "id": "li-fresh-infinite-computer-soluti-4449045200",
-          "company": "Infinite Computer Solutions",
-          "title": "C++ Developer with Cloud Computing Expertise",
-          "location": "Whippany, NJ",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Consulting firm: C++ + cloud computing role at Whippany NJ client site.",
-          "skills": [
-            "C++",
-            "Cloud"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4449045200/",
-          "source": "LinkedIn (Aug 7 fresh sweep)",
-          "postedApprox": "3 days ago",
-          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4449045200",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-04T19:16:09.215347+00:00",
-          "easyApply": false
-        },
-        {
-          "id": "li-fresh-infotron-4445589472",
-          "company": "INFOTRON",
-          "title": "Risk Application Software Developer (C++)",
-          "location": "Manhattan, NY",
-          "remote": "Hybrid",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Risk application C++ development, NYC hybrid (2-3 days onsite); open to exceptional remote.",
-          "skills": [
-            "C++",
-            "Risk"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4445589472/",
-          "source": "LinkedIn (Aug 7 fresh sweep)",
-          "postedApprox": "7 days ago",
-          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4445589472",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-01T09:16:09.215347+00:00",
-          "easyApply": true
         },
         {
           "id": "li-fresh-warwick-consulting-4448263567",
@@ -6624,30 +6526,6 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-07T14:16:09.215347+00:00",
-          "easyApply": false
-        },
-        {
-          "id": "li-fresh-teamviewer-4450733192",
-          "company": "TeamViewer",
-          "title": "Senior Software Engineer, C++ (second req)",
-          "location": "Austin, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Second TeamViewer senior C++ opening, same Austin platform group.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4450733192/",
-          "source": "LinkedIn (Aug 7 fresh sweep)",
-          "postedApprox": "9 hours ago",
-          "h1bFit": "Confirm \u2014 JD silent; TeamViewer US files some H1Bs \u2014 verify per-role",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4450733192",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-07T16:16:09.215347+00:00",
           "easyApply": false
         },
         {
@@ -6850,31 +6728,6 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-04T14:16:09.215347+00:00",
-          "easyApply": true
-        },
-        {
-          "id": "li-fresh-pentangle-tech-services-4449666634",
-          "company": "Pentangle Tech Services",
-          "title": "C++ Developer (Qt/QML)",
-          "location": "Illinois, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Mid-level C++ with multithreading and Qt/QML via Pentangle, Illinois.",
-          "skills": [
-            "C++",
-            "Qt"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4449666634/",
-          "source": "LinkedIn (Aug 7 fresh sweep)",
-          "postedApprox": "2 days ago",
-          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4449666634",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-05T17:16:09.215347+00:00",
           "easyApply": true
         },
         {
