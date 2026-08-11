@@ -7988,6 +7988,31 @@
           "externalId": "linkedin:4449867657",
           "region": "Mountain",
           "regionRank": 4
+        },
+        {
+          "id": "anthropic-software-engineer-desktop-2026-w33",
+          "company": "Anthropic",
+          "title": "Software Engineer, Desktop",
+          "location": "San Francisco, CA | New York City, NY",
+          "remote": "Onsite/Hybrid",
+          "industry": "Engineering & Design - Product",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 100.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Rust"
+          ],
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5367585008",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (0h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 100.0,
+          "postedAtUtc": "2026-08-11T13:13:09-04:00",
+          "atsJobId": "5367585008",
+          "externalId": "greenhouse:5367585008",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
