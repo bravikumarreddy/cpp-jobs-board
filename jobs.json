@@ -8012,6 +8012,29 @@
           "atsJobId": "8095924",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-intuitive-research-and-technology-corporation-c-c-embedded-software-engineer-analyst-2026-w33",
+          "company": "Intuitive Research and Technology Corporation",
+          "title": "C/C++ Embedded Software Engineer/Analyst",
+          "location": "Huntsville, AL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-embedded-software-engineer-analyst-at-intuitive-research-and-technology-corporation-4452176272",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4452176272",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-11T02:23:29.334939+00:00"
         }
       ]
     }
