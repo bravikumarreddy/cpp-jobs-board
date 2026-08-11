@@ -3257,29 +3257,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-objective-partners-c-engineer-2026-w31",
-          "company": "Objective Partners",
-          "title": "C++ Engineer",
-          "location": "Chicago, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Job Title C++ Area Location Chicago, IL area (Hybrid) About The Opportunity Join a market-leading digital media technology firm driving high-concurrency backend performance\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-at-objective-partners-4443643519",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "6 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4443643519",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-07-28T23:26:46.301851+00:00"
-        },
-        {
           "id": "li-wand-senior-c-reverse-engineer-2026-w31",
           "company": "Wand",
           "title": "Senior C++ Reverse Engineer",
@@ -5475,51 +5452,6 @@
           "regionRank": 3
         },
         {
-          "id": "li-ecs-software-engineer-c-python-and-javascrip-2026-w32",
-          "company": "ECS",
-          "title": "Software Engineer (C++, Python, and JavaScript)",
-          "location": "Springfield, VA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Job Description Everforth ECS is seeking a Software Engineer to work in an onsite capacity at our Springfield, VA customer site. Everforth ECS is seeking an innovative and\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-python-and-javascript-at-ecs-4432479796",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4432479796",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-05T14:26:07.303857+00:00"
-        },
-        {
-          "id": "li-devhub-software-engineer-platform-core-c-c-2026-w32",
-          "company": "DevHub",
-          "title": "Software Engineer - Platform Core (C++, C)",
-          "location": "Seattle, WA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Job Description SpaceXAI\u2019s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge. Our team is small, highly\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-platform-core-c%2B%2B-c-at-devhub-4449113984",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "52 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4449113984",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
           "id": "dv-trading-c-software-engineer-dv-commodities-chicago-2026-w32",
           "company": "DV Trading",
           "title": "C++ Software Engineer (DV Commodities - Chicago)",
@@ -6078,29 +6010,6 @@
           "postedAtUtc": "2026-08-06T09:19:09.055859+00:00"
         },
         {
-          "id": "li-shee-atik-government-services-eikon-radar-software-engineer-c-develope-2026-w32",
-          "company": "Shee Atik\u00e1 Government Services",
-          "title": "Eikon - Radar Software Engineer/C++ Developer (Huntsville, AL/Hybrid)",
-          "location": "Huntsville, AL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Description The Eikon Research team is expanding and we are currently seeking a Radar Software Engineer to join our team in Huntsville, Alabama or remote and coming on site\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/eikon-radar-software-engineer-c%2B%2B-developer-huntsville-al-hybrid-at-shee-atik%C3%A1-government-services-4449991981",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "14 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4449991981",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-06T08:52:04.115979+00:00"
-        },
-        {
           "id": "li-zoox-senior-staff-software-engineer-c-simulat-2026-w32",
           "company": "Zoox",
           "title": "Senior/Staff Software Engineer - C++ Simulation Platform",
@@ -6243,11 +6152,11 @@
           "id": "li-headlands-technologies-llc-c-software-developer-2026-w32",
           "company": "Headlands Technologies LLC",
           "title": "C++ Software Developer",
-          "location": "Amsterdam, NY",
+          "location": "New York / Chicago (multi-office: also Amsterdam, London)",
           "remote": "Onsite",
           "industry": "\u2014",
           "salary": null,
-          "summary": "LinkedIn scrape: posted 28 minutes ago. Verify role details on opening.",
+          "summary": "Multi-office posting (LinkedIn geo mislabeled as Amsterdam, NY). JD lists Amsterdam; Chicago; London; New York. Prop trading firm \u2014 C++ trading software.",
           "skills": [
             "C++"
           ],
@@ -6397,29 +6306,6 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-07T04:18:19.246615+00:00"
-        },
-        {
-          "id": "li-h1bconnect-sr-software-engineer-c-ai-ml-oop-linux-2026-w32",
-          "company": "H1BConnect",
-          "title": "Sr Software Engineer (C++, AI/ML, OOP, Linux)",
-          "location": "Milpitas, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-c%2B%2B-ai-ml-oop-linux-at-h1bconnect-4448768238",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "5 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4448768238",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-07T11:19:33.396551+00:00"
         },
         {
           "id": "li-cadence-sr-principal-c-software-engineer-2026-w32",
@@ -8035,6 +7921,29 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-11T02:23:29.334939+00:00"
+        },
+        {
+          "id": "li-susquehanna-international-group-software-developer-core-order-management-2026-w33",
+          "company": "Susquehanna International Group",
+          "title": "Software Developer | Core Order Management System | C++ | Experienced Hire",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 14 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-developer-core-order-management-system-c%2B%2B-experienced-hire-at-susquehanna-international-group-4451452496",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "14 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4451452496",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-10T23:20:41.661329+00:00"
         }
       ]
     }
