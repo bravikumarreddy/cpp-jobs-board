@@ -7988,6 +7988,30 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-10T01:18:18.033667+00:00"
+        },
+        {
+          "id": "tower-research-2-machine-leaning-performance-engineer-inference-2026-w33",
+          "company": "Tower Research 2",
+          "title": "Machine Leaning Performance Engineer (Inference)",
+          "location": "New York",
+          "remote": "Onsite/Hybrid",
+          "industry": "Core Management",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 100.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Python"
+          ],
+          "url": "https://www.tower-research.com/open-positions/?gh_jid=8095924",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (0h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 100.0,
+          "postedAtUtc": "2026-08-10T22:22:46-04:00",
+          "atsJobId": "8095924",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
