@@ -6756,6 +6756,28 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-12T14:39:21.790124+00:00"
+        },
+        {
+          "id": "li-beacon-hill-c-c-embedded-software-engineer-onsite-in-2026-w33",
+          "company": "Beacon Hill",
+          "title": "C/C++ Embedded Software Engineer-Onsite in Plano, TX",
+          "location": "Plano, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 58 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-embedded-software-engineer-onsite-in-plano-tx-at-beacon-hill-4452723464",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "58 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4452723464",
+          "region": "Central",
+          "regionRank": 3
         }
       ]
     }
