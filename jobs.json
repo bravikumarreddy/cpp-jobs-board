@@ -6831,6 +6831,51 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-12T17:18:18.106350+00:00"
+        },
+        {
+          "id": "li-largeton-group-c-developer-2026-w33",
+          "company": "Largeton Group",
+          "title": "C++ Developer",
+          "location": "Radnor, PA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 28 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-largeton-group-4453378468",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "28 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4453378468",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-covet-it-inc-senior-c-developer-2026-w33",
+          "company": "COVET IT INC",
+          "title": "Senior C++ Developer",
+          "location": "Whippany, NJ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-at-covet-it-inc-4452393654",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "8 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4452393654",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-12T14:24:01.964272+00:00"
         }
       ]
     }
