@@ -6783,6 +6783,31 @@
           "atsJobId": "8097701",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "apptronik-lead-software-engineer-dexterous-manipulation-2026-w33",
+          "company": "Apptronik",
+          "title": "Lead Software Engineer - Dexterous Manipulation",
+          "location": "Sunnyvale, CA",
+          "remote": "Onsite/Hybrid",
+          "industry": "Advanced Technologies",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 91.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Python"
+          ],
+          "url": "https://boards.greenhouse.io/apptronik/jobs/6142284004?gh_jid=6142284004",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 91.0,
+          "postedAtUtc": "2026-08-12T14:17:26-04:00",
+          "atsJobId": "6142284004",
+          "externalId": "greenhouse:6142284004",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
