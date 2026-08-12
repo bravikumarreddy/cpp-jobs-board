@@ -8074,6 +8074,29 @@
           "externalId": "linkedin:4453024795",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "li-agiliad-c-angular-2026-w33",
+          "company": "Agiliad",
+          "title": "C++ Angular",
+          "location": "Peoria, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-angular-at-agiliad-4449868874",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4449868874",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-11T18:20:35.489468+00:00"
         }
       ]
     }
