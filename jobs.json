@@ -2100,25 +2100,6 @@
           "regionRank": 1
         },
         {
-          "id": "torc-robotics-software-engineer-ii-mcu-applications-c-linux-ann-arbor-mi",
-          "company": "Torc Robotics",
-          "title": "Software Engineer II - MCU Applications (C++/Linux)",
-          "location": "Ann Arbor, MI",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-03-24.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8461442002",
-          "source": "Employer ATS (live)",
-          "postedApprox": "open since 2026-03-24",
-          "region": "East",
-          "externalId": "greenhouse:8461442002",
-          "regionRank": 1
-        },
-        {
           "id": "torc-robotics-software-engineer-ii-scaled-simulation-ann-arbor-mi-blacksburg-va",
           "company": "Torc Robotics",
           "title": "Software Engineer, II - Scaled Simulation",
@@ -6778,6 +6759,30 @@
           "externalId": "linkedin:4452723464",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "roblox-software-engineer-account-authentication-2026-w33",
+          "company": "Roblox",
+          "title": "Software Engineer, Account Authentication",
+          "location": "San Mateo, CA, United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "Early Career FT - Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 100.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Rust"
+          ],
+          "url": "https://careers.roblox.com/jobs/8097701?gh_jid=8097701",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 100.0,
+          "postedAtUtc": "2026-08-12T12:11:42-04:00",
+          "atsJobId": "8097701",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
