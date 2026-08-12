@@ -2,14 +2,14 @@
   "running": true,
   "pid": 8726,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-08-12T02:27:41.506007+00:00",
-  "nextCycleAt": "2026-08-12T02:57:41.506107+00:00",
-  "cycleCount": 705,
+  "lastCycleAt": "2026-08-12T14:03:52.359170+00:00",
+  "nextCycleAt": "2026-08-12T14:33:52.359188+00:00",
+  "cycleCount": 706,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-08-12T02:24:59.270123+00:00",
+      "lastRun": "2026-08-12T14:03:16.540075+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -17,7 +17,7 @@
     },
     {
       "name": "remotive",
-      "lastRun": "2026-08-12T02:25:00.301596+00:00",
+      "lastRun": "2026-08-12T14:03:17.827954+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -25,7 +25,7 @@
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-08-12T02:25:00.570599+00:00",
+      "lastRun": "2026-08-12T14:03:18.147343+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -33,7 +33,7 @@
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-08-12T02:25:00.937435+00:00",
+      "lastRun": "2026-08-12T14:03:19.076201+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -41,7 +41,7 @@
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-08-12T02:25:01.357013+00:00",
+      "lastRun": "2026-08-12T14:03:19.602954+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -49,7 +49,7 @@
     },
     {
       "name": "avature",
-      "lastRun": "2026-08-12T02:25:01.734792+00:00",
+      "lastRun": "2026-08-12T14:03:20.713202+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,7 +57,7 @@
     },
     {
       "name": "tradeweb",
-      "lastRun": "2026-08-12T02:25:09.045409+00:00",
+      "lastRun": "2026-08-12T14:03:29.761342+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -65,7 +65,7 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-08-12T02:25:09.875581+00:00",
+      "lastRun": "2026-08-12T14:03:30.606891+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -73,15 +73,15 @@
     },
     {
       "name": "builtin",
-      "lastRun": "2026-08-12T02:25:11.437426+00:00",
+      "lastRun": "2026-08-12T14:03:31.891590+00:00",
       "status": "ok",
       "found": 2,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
       "name": "goldman",
-      "lastRun": "2026-08-12T02:25:21.780677+00:00",
+      "lastRun": "2026-08-12T14:03:41.215932+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -89,7 +89,7 @@
     },
     {
       "name": "millennium",
-      "lastRun": "2026-08-12T02:25:22.098542+00:00",
+      "lastRun": "2026-08-12T14:03:41.680502+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -97,10 +97,10 @@
     },
     {
       "name": "linkedin",
-      "lastRun": "2026-08-12T02:25:22.816932+00:00",
+      "lastRun": "2026-08-12T14:03:42.469319+00:00",
       "status": "ok",
       "found": null,
-      "added": 0,
+      "added": 3,
       "error": null
     },
     {
@@ -113,14 +113,20 @@
     },
     {
       "name": "ats_apis",
-      "lastRun": "2026-08-12T02:25:32.200720+00:00",
-      "status": "ok",
+      "lastRun": null,
+      "status": "skipped",
       "found": null,
       "added": 0,
       "error": null
     }
   ],
   "recentFinds": [
+    {
+      "company": "Comcast",
+      "title": "Junior C++ Software Engineer",
+      "source": "Built In",
+      "at": "2026-08-12T14:03:31.891590+00:00"
+    },
     {
       "company": "NVIDIA",
       "title": "Senior Software Engineer, C++ and CUDA",
@@ -354,17 +360,11 @@
       "title": "C++ Market Data Engineer",
       "source": "Built In",
       "at": "2026-07-28T14:51:49.767940+00:00"
-    },
-    {
-      "company": "Citadel Securities",
-      "title": "C++ Market Data Engineer",
-      "source": "Built In",
-      "at": "2026-07-27T00:37:04.587784+00:00"
     }
   ],
   "totals": {
     "day": "2026-08-12",
-    "addedToday": 5,
-    "cyclesToday": 5
+    "addedToday": 9,
+    "cyclesToday": 6
   }
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11",
+  "lastUpdated": "2026-08-12",
   "lastChecked": "2026-08-11",
   "seedVersion": 2,
   "liveTrackers": [
@@ -3479,29 +3479,6 @@
           "postedAtUtc": "2026-07-29T15:04:16.637936+00:00"
         },
         {
-          "id": "li-balin-technologies-llc-senior-software-engineer-c-embedded-2026-w31",
-          "company": "BALIN TECHNOLOGIES LLC",
-          "title": "Senior Software Engineer (C++, Embedded)",
-          "location": "Dallas, NC",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Location: Dallas TX Experience: 5-10 years Skills: C, C++-Linux, Debugging, Embedded, Gdb Linux, ThreadX Description 6-8 years of Experience in embedded systems. Expert in C,\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-embedded-at-balin-technologies-llc-4446866777",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446866777",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-29T22:43:12.298801+00:00"
-        },
-        {
           "id": "aurora-software-engineer-ii-vehicle-platform-integrations-2026-w31",
           "company": "Aurora",
           "title": "Software Engineer II, Vehicle Platform Integrations",
@@ -5173,28 +5150,6 @@
           "postedAtUtc": "2026-08-04T20:29:01.500265+00:00"
         },
         {
-          "id": "li-partnerverse-sr-software-engineer-c-c-or-rust-2026-w32",
-          "company": "Partnerverse",
-          "title": "Sr. Software Engineer (C, C++, or Rust)",
-          "location": "Indiana, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "We are looking for a Senior Systems Engineer with 10+ years of experience in systems-level engineering (Rust/C/C++), including 5+ years of production Rust, to design and\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-c-c%2B%2B-or-rust-at-partnerverse-4446688763",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "34 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446688763",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-align-technology-sr-3d-c-software-engineer-2026-w32",
           "company": "Align Technology",
           "title": "Sr. 3D C++ Software Engineer",
@@ -6144,7 +6099,8 @@
           "yoeNote": "Auto-scraped \u2014 apply filters in your head",
           "externalId": "linkedin:4448707258",
           "region": "West",
-          "regionRank": 5
+          "regionRank": 5,
+          "possibleRepost": "Software Engineer (C++, OOD/OOP, Linux)"
         },
         {
           "id": "li-wolverine-trading-c-software-engineer-latency-critical-sys-2026-w32",
@@ -6353,106 +6309,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-fresh-open-systems-technologie-3952276517",
-          "company": "Open Systems Technologies",
-          "title": "C++ Developer (second opening)",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Second Open Systems Technologies C++ developer req for a NYC financial client.",
-          "skills": [
-            "C++",
-            "Finance"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/3952276517/",
-          "source": "LinkedIn (Aug 7 fresh sweep)",
-          "postedApprox": "3 days ago",
-          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:3952276517",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-05T10:16:09.215347+00:00",
-          "easyApply": false
-        },
-        {
-          "id": "li-fresh-netapp-4446209595",
-          "company": "NetApp",
-          "title": "Software Engineer \u2014 Cloud Engineering (C++)",
-          "location": "San Jose, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "NetApp cloud engineering: C++ for intelligent data infrastructure and unified storage.",
-          "skills": [
-            "C++",
-            "Cloud",
-            "Storage"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4446209595/",
-          "source": "LinkedIn (Aug 7 fresh sweep)",
-          "postedApprox": "4 hours ago",
-          "h1bFit": "Yes \u2014 NetApp is an established large-volume H1B sponsor; JD clean",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4446209595",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-07T21:16:09.215347+00:00",
-          "easyApply": false
-        },
-        {
-          "id": "li-fresh-figma-4239979662",
-          "company": "Figma",
-          "title": "Software Engineer, C++",
-          "location": "San Francisco, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Figma C++ engineering (SF twin of the NY posting) \u2014 design-platform performance and rendering work.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4239979662/",
-          "source": "LinkedIn (Aug 7 fresh sweep)",
-          "postedApprox": "4 days ago",
-          "h1bFit": "Yes \u2014 Figma is an established sponsor; JD clean",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4239979662",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-03T13:16:09.215347+00:00",
-          "easyApply": false
-        },
-        {
-          "id": "li-fresh-creative-circle-4436621847",
-          "company": "Creative Circle",
-          "title": "Software Engineer \u2014 ML Data Infrastructure (Contract)",
-          "location": "Foster City, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Contract ML data infrastructure / pipeline engineering, Foster City client.",
-          "skills": [
-            "C++",
-            "ML"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4436621847/",
-          "source": "LinkedIn (Aug 7 fresh sweep)",
-          "postedApprox": "7 days ago",
-          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client; contract",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4436621847",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-01T11:16:09.215347+00:00",
-          "easyApply": true
-        },
-        {
           "id": "li-fresh-aneka-talent-solutions-4450712165",
           "company": "Aneka Talent Solutions",
           "title": "Optimization Developer (C++ / IBM ILOG CPLEX)",
@@ -6500,28 +6356,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-etap-software-c-developer-2026-w32",
-          "company": "ETAP Software",
-          "title": "C++ Developer",
-          "location": "Irvine, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 16 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-etap-software-4424101718",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "16 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4424101718",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
           "id": "li-garmin-senior-software-engineer-c-c-2026-w32",
           "company": "Garmin",
           "title": "Senior Software Engineer - C++/C",
@@ -6543,50 +6377,6 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-07T00:06:43.695158+00:00"
-        },
-        {
-          "id": "li-varda-space-industries-firmware-engineer-c-2026-w32",
-          "company": "Varda Space Industries",
-          "title": "Firmware Engineer, C++",
-          "location": "El Segundo, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 39 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/firmware-engineer-c%2B%2B-at-varda-space-industries-4451374387",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "39 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4451374387",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
-          "id": "li-varda-space-industries-embedded-software-engineer-c-2026-w32",
-          "company": "Varda Space Industries",
-          "title": "Embedded Software Engineer, C++",
-          "location": "El Segundo, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 42 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-c%2B%2B-at-varda-space-industries-4451375394",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "42 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4451375394",
-          "region": "West",
-          "regionRank": 5
         }
       ],
       "removedNotes": [
@@ -6620,29 +6410,6 @@
       "weekId": "2026-W33",
       "label": "Week of August 10, 2026",
       "jobs": [
-        {
-          "id": "li-susquehanna-international-group-software-developer-c-etf-experienced-hir-2026-w33",
-          "company": "Susquehanna International Group",
-          "title": "Software Developer | C++ | ETF | Experienced Hire",
-          "location": "Bala-Cynwyd, PA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-developer-c%2B%2B-etf-experienced-hire-at-susquehanna-international-group-4421183751",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4421183751",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-10T09:34:52.184507+00:00"
-        },
         {
           "id": "li-presage-technologies-senior-software-engineer-c-2026-w33",
           "company": "Presage Technologies",
@@ -6690,142 +6457,6 @@
           "postedAtUtc": "2026-08-10T11:59:48.589893+00:00"
         },
         {
-          "id": "li-sundayy-software-engineer-ii-c-c-2026-w33",
-          "company": "Sundayy",
-          "title": "Software Engineer II (C, C++)",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-c-c%2B%2B-at-sundayy-4451560856",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4451560856",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-08-10T17:04:09.863140+00:00"
-        },
-        {
-          "id": "li-netrolynx-ai-c-software-engineer-2026-w33",
-          "company": "Netrolynx AI",
-          "title": "C++ Software Engineer",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 10 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-netrolynx-ai-4451857011",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "10 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4451857011",
-          "region": "Remote",
-          "regionRank": 2
-        },
-        {
-          "id": "li-full-spectrum-senior-embedded-c-rust-software-engineer-2026-w33",
-          "company": "Full Spectrum",
-          "title": "Senior Embedded C++/ Rust Software Engineer (Safety Critical)",
-          "location": "Westborough, MA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 39 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-embedded-c%2B%2B-rust-software-engineer-safety-critical-at-full-spectrum-4451856235",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "39 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4451856235",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
-          "id": "li-factset-sr-software-engineer-c-ci-cd-data-struct-2026-w33",
-          "company": "FactSet",
-          "title": "Sr. Software Engineer (C++, CI/CD, Data Structures, Algorithms, OOD) \u2013 Hybrid",
-          "location": "Chicago, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-c%2B%2B-ci-cd-data-structures-algorithms-ood-%E2%80%93-hybrid-at-factset-4449803221",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4449803221",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-10T18:38:06.094968+00:00"
-        },
-        {
-          "id": "li-triune-infomatics-inc-senior-c-developer-2026-w33",
-          "company": "Triune Infomatics Inc",
-          "title": "Senior C++ Developer",
-          "location": "Silver Spring, MD",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-at-triune-infomatics-inc-4449583414",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "4 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4449583414",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-10T16:38:06.094968+00:00"
-        },
-        {
-          "id": "li-ladders-displays-software-engineer-c-c-2026-w33",
-          "company": "Ladders",
-          "title": "Displays Software Engineer, C/C++",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/displays-software-engineer-c-c%2B%2B-at-ladders-4449553469",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "10 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4449553469",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-08-10T11:09:01.971275+00:00"
-        },
-        {
           "id": "li-swoon-c-embedded-software-engineer-3-100249-2026-w33",
           "company": "Swoon",
           "title": "C++ Embedded Software Engineer 3 #100249",
@@ -6848,144 +6479,6 @@
           "regionRank": 6
         },
         {
-          "id": "li-partnerverse-software-engineer-c-c-or-rust-2026-w33",
-          "company": "Partnerverse",
-          "title": "Software Engineer (C, C++, or Rust)",
-          "location": "Indiana, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 55 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c-c%2B%2B-or-rust-at-partnerverse-4449821916",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "55 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4449821916",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
-          "id": "li-haemonetics-principal-software-developer-bloodtrack--2026-w33",
-          "company": "Haemonetics",
-          "title": "Principal Software Developer \u2013 BloodTrack (C++ expert)",
-          "location": "Boston, MA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/principal-software-developer-%E2%80%93-bloodtrack-c%2B%2B-expert-at-haemonetics-4424913464",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "9 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4424913464",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-10T13:10:12.418411+00:00"
-        },
-        {
-          "id": "li-ladgov-corporation-senior-c-programmer-2026-w33",
-          "company": "Ladgov Corporation",
-          "title": "Senior C++ Programmer",
-          "location": "Seattle, WA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 day ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-programmer-at-ladgov-corporation-4451310671",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 day ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4451310671",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-10T01:18:18.033667+00:00"
-        },
-        {
-          "id": "tower-research-2-machine-leaning-performance-engineer-inference-2026-w33",
-          "company": "Tower Research 2",
-          "title": "Machine Leaning Performance Engineer (Inference)",
-          "location": "New York",
-          "remote": "Onsite/Hybrid",
-          "industry": "Core Management",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 100.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Python"
-          ],
-          "url": "https://www.tower-research.com/open-positions/?gh_jid=8095924",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (0h ago)",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 100.0,
-          "postedAtUtc": "2026-08-10T22:22:46-04:00",
-          "atsJobId": "8095924",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
-          "id": "li-intuitive-research-and-technology-corporation-c-c-embedded-software-engineer-analyst-2026-w33",
-          "company": "Intuitive Research and Technology Corporation",
-          "title": "C/C++ Embedded Software Engineer/Analyst",
-          "location": "Huntsville, AL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-embedded-software-engineer-analyst-at-intuitive-research-and-technology-corporation-4452176272",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4452176272",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-11T02:23:29.334939+00:00"
-        },
-        {
-          "id": "li-susquehanna-international-group-software-developer-core-order-management-2026-w33",
-          "company": "Susquehanna International Group",
-          "title": "Software Developer | Core Order Management System | C++ | Experienced Hire",
-          "location": "Chicago, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 14 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-developer-core-order-management-system-c%2B%2B-experienced-hire-at-susquehanna-international-group-4451452496",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "14 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4451452496",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-10T23:20:41.661329+00:00"
-        },
-        {
           "id": "li-advanced-energy-lead-firmware-engineer-c-embedded-2026-w33",
           "company": "Advanced Energy",
           "title": "Lead Firmware Engineer (C++ Embedded)",
@@ -7004,28 +6497,6 @@
           "yoeFit": "Verify",
           "yoeNote": "Auto-scraped \u2014 apply filters in your head",
           "externalId": "linkedin:4434189959",
-          "region": "Mountain",
-          "regionRank": 4
-        },
-        {
-          "id": "li-cyient-embedded-software-engineer-c-fms-2026-w33",
-          "company": "Cyient",
-          "title": "Embedded Software Engineer \u2013 C++(FMS)",
-          "location": "Phoenix, AZ",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 29 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-%E2%80%93-c%2B%2B-fms-at-cyient-4449867657",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "29 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4449867657",
           "region": "Mountain",
           "regionRank": 4
         },
@@ -7101,29 +6572,6 @@
           "postedAtUtc": "2026-08-11T07:35:01.785145+00:00"
         },
         {
-          "id": "li-reqroute-inc-c-software-research-engineer-5g-oran-2026-w33",
-          "company": "Reqroute, Inc",
-          "title": "C++ Software Research Engineer (5G ORAN)",
-          "location": "Warren, MI",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-research-engineer-5g-oran-at-reqroute-inc-4449875199",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4449875199",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-11T16:35:01.785145+00:00"
-        },
-        {
           "id": "nuro-senior-software-engineer-ml-infrastructure-platform-2026-w33",
           "company": "Nuro",
           "title": "Senior Software Engineer, ML Infrastructure Platform",
@@ -7148,51 +6596,6 @@
           "atsJobId": "8122477",
           "region": "West",
           "regionRank": 5
-        },
-        {
-          "id": "li-acnovate-corporation-c-developer-medical-device-industry-sant-2026-w33",
-          "company": "Acnovate Corporation",
-          "title": "C++ Developer -Medical Device Industry - Santa Clara, CA",
-          "location": "Santa Clara, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 46 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-medical-device-industry-santa-clara-ca-at-acnovate-corporation-4449884297",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "46 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4449884297",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
-          "id": "li-netapp-lead-software-engineer-cloud-software-de-2026-w33",
-          "company": "NetApp",
-          "title": "Lead Software Engineer - Cloud & Software Defined Storage Solutions (C++)",
-          "location": "Waltham, MA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/lead-software-engineer-cloud-software-defined-storage-solutions-c%2B%2B-at-netapp-4449851775",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "6 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4449851775",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-11T15:10:41.967758+00:00"
         },
         {
           "id": "li-cintal-inc-senior-embedded-c-engineer-robotics-auto-2026-w33",
@@ -7285,27 +6688,73 @@
           "regionRank": 3
         },
         {
-          "id": "li-agiliad-c-angular-2026-w33",
-          "company": "Agiliad",
-          "title": "C++ Angular",
-          "location": "Peoria, IL",
-          "remote": "Onsite",
+          "id": "built-comcast-junior-c-software-engineer-2026-w33",
+          "postedAtUtc": "2026-08-12T00:00:00.000732+00:00",
+          "company": "Comcast",
+          "title": "Junior C++ Software Engineer",
+          "location": "New York, New York",
+          "remote": "See posting",
           "industry": "\u2014",
           "salary": null,
-          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
+          "summary": "Live tracker (Built In): posted 14 hours ago. Verify details on opening.",
           "skills": [
             "C++"
           ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-angular-at-agiliad-4449868874",
+          "url": "https://www.builtinnyc.com/job/junior-c-software-engineer-new-york-hybrid-freewheel/10633177",
+          "source": "Built In",
+          "postedApprox": "14 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:10633177",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-rayvector-technologies-c-c-developer-2026-w33",
+          "company": "Rayvector Technologies",
+          "title": "C/C++ Developer",
+          "location": "Tualatin, OR",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-developer-at-rayvector-technologies-4450148167",
           "source": "LinkedIn (24h scrape)",
-          "postedApprox": "7 hours ago",
+          "postedApprox": "2 hours ago",
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
           "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4449868874",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-11T18:20:35.489468+00:00"
+          "externalId": "linkedin:4450148167",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-12T12:03:52.163476+00:00"
+        },
+        {
+          "id": "li-amazon-web-services-aws-embedded-software-development-engineer-i-2026-w33",
+          "company": "Amazon Web Services (AWS)",
+          "title": "Embedded Software Development Engineer II (C/C++), EC2 Nitro Instance Networking",
+          "location": "Seattle, WA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 23 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-software-development-engineer-ii-c-c%2B%2B-ec2-nitro-instance-networking-at-amazon-web-services-aws-4443028622",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "23 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4443028622",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-11T15:03:52.163476+00:00"
         }
       ]
     }
