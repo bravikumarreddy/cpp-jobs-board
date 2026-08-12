@@ -8006,6 +8006,29 @@
           "externalId": "linkedin:4453004078",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "built-nvidia-senior-software-engineer-c-and-cuda-2026-w33",
+          "postedAtUtc": "2026-08-12T00:00:00.002698+00:00",
+          "company": "NVIDIA",
+          "title": "Senior Software Engineer, C++ and CUDA",
+          "location": "New York, Texas",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted just now. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/senior-software-engineer-c-and-cuda-analytics-and-data-intelligence/10631946",
+          "source": "Built In",
+          "postedApprox": "just now",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:10631946",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
