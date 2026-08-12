@@ -6353,56 +6353,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-fresh-entec-partners-4446224363",
-          "company": "Entec Partners",
-          "title": "Software Engineer (C++) \u2014 High-Frequency Trading",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Recruiter posting: C++ engineer with extensive high-frequency trading systems experience for NYC trading client.",
-          "skills": [
-            "C++",
-            "HFT"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4446224363/",
-          "source": "LinkedIn (Aug 7 fresh sweep)",
-          "postedApprox": "4 days ago",
-          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4446224363",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-03T14:16:09.215347+00:00",
-          "easyApply": true
-        },
-        {
-          "id": "li-fresh-huxley-4450612633",
-          "company": "Huxley",
-          "title": "NYC Quantitative Trading Firm \u2014 C++ Team Lead / CTO-track",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Huxley recruiter: C++ team lead for NYC quantitative trading firm.",
-          "skills": [
-            "C++",
-            "Leadership"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4450612633/",
-          "source": "LinkedIn (Aug 7 fresh sweep)",
-          "postedApprox": "31 hours ago",
-          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4450612633",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-06T18:16:09.215347+00:00",
-          "easyApply": false
-        },
-        {
           "id": "li-fresh-open-systems-technologie-3952276517",
           "company": "Open Systems Technologies",
           "title": "C++ Developer (second opening)",
@@ -6426,57 +6376,6 @@
           "regionRank": 1,
           "postedAtUtc": "2026-08-05T10:16:09.215347+00:00",
           "easyApply": false
-        },
-        {
-          "id": "li-fresh-warwick-consulting-4448263567",
-          "company": "Warwick Consulting",
-          "title": "Senior Hardware Platform & Systems Integration Engineer",
-          "location": "Boston, MA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Specialized medical-device consultancy: hardware platform + systems integration engineering, Boston.",
-          "skills": [
-            "C++",
-            "Embedded",
-            "Medical"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4448263567/",
-          "source": "LinkedIn (Aug 7 fresh sweep)",
-          "postedApprox": "4 days ago",
-          "h1bFit": "Confirm \u2014 JD silent on sponsorship; filing history unchecked (medical devices)",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4448263567",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-04T01:16:09.215347+00:00",
-          "easyApply": true
-        },
-        {
-          "id": "li-fresh-skyeton-4448683384",
-          "company": "Skyeton",
-          "title": "Software Engineer",
-          "location": "Fayetteville, NC",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Skyeton (long-endurance UAS maker) \u2014 software engineer developing and integrating drone platform software.",
-          "skills": [
-            "C++",
-            "UAS"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4448683384/",
-          "source": "LinkedIn (Aug 7 fresh sweep)",
-          "postedApprox": "4 days ago",
-          "h1bFit": "Confirm \u2014 JD silent (EEO boilerplate only), but drone/defense domain \u2014 ask about work-auth constraints",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4448683384",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-04T12:16:09.215347+00:00",
-          "easyApply": true
         },
         {
           "id": "li-fresh-capgemini-engineering-4449174433",
@@ -6780,31 +6679,6 @@
           "easyApply": false
         },
         {
-          "id": "li-fresh-parkwood-llc-4448579441",
-          "company": "Parkwood LLC",
-          "title": "Software Developer / AI Engineer",
-          "location": "Cleveland, OH",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Parkwood (private financial services, Cleveland): software developer with AI engineering focus.",
-          "skills": [
-            "C++",
-            "AI"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4448579441/",
-          "source": "LinkedIn (Aug 7 fresh sweep)",
-          "postedApprox": "3 days ago",
-          "h1bFit": "Confirm \u2014 JD silent on sponsorship; filing history unchecked (private financial services firm)",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4448579441",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-04T20:16:09.215347+00:00",
-          "easyApply": true
-        },
-        {
           "id": "li-fresh-netapp-4446209595",
           "company": "NetApp",
           "title": "Software Engineer \u2014 Cloud Engineering (C++)",
@@ -7080,32 +6954,6 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-07T14:16:09.215347+00:00",
-          "easyApply": true
-        },
-        {
-          "id": "li-fresh-general-sleep-corporatio-4447652604",
-          "company": "General Sleep Corporation",
-          "title": "Backend Software Engineer",
-          "location": "Cleveland, OH (Euclid, hybrid)",
-          "remote": "Hybrid",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Healthcare SaaS backend engineering, Euclid OH hybrid.",
-          "skills": [
-            "C++",
-            "Python",
-            "AWS"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4447652604/",
-          "source": "LinkedIn (Aug 7 fresh sweep)",
-          "postedApprox": "5 days ago",
-          "h1bFit": "Confirm \u2014 JD silent on sponsorship; filing history unchecked (healthcare SaaS; stack is Python/AWS-leaning)",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4447652604",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-02T20:16:09.215347+00:00",
           "easyApply": true
         },
         {
