@@ -91,6 +91,15 @@
   }
   .job:hover { border-color: var(--accent); }
   .job.applied { opacity: 0.55; background: var(--applied); }
+  .agency-sep {
+    margin: 26px 0 12px; padding: 10px 14px; border-top: 2px dashed var(--border);
+    color: var(--muted); font-size: 12px; font-weight: 600; letter-spacing: .6px;
+    text-transform: uppercase;
+  }
+  .agency-chip {
+    background: #3a2b12; color: #e0a94e; border: 1px solid #6b4e1e;
+    padding: 1px 8px; border-radius: 10px; font-size: 11px;
+  }
   .job.applied .title { text-decoration: line-through; }
   .job-group { border: 1px solid var(--border); border-radius: 8px; background: var(--panel2); margin-bottom: 14px; overflow: hidden; }
   .job-group.open { border-color: var(--accent); }
@@ -763,6 +772,27 @@ function regionName(j) {
   return 'Other';
 }
 function regionRank(j) { return j.regionRank || REGION_RANKS[regionName(j)] || 6; }
+
+// Staffing/recruiting agencies always sort to the bottom — last resort.
+// Heuristic catches the tagged names; the set catches known firms without tags.
+const AGENCY_COMPANIES = new Set([
+  'actalent', 'akkodis', 'apex systems', 'bcforward', 'beacon hill', 'creative circle',
+  'cypress hcm', 'swoon', 'xoriant', 'infovision inc.', 'nlb services', 'aptask',
+  'kyyba inc', 'kpg99 inc', 'baanyan software services, inc.', 'accord technologies inc',
+  'minisoft technologies llc', 'anvik technologies', 'cintal, inc.', 'covet it inc',
+  'largeton group', 'srm digital llc', 'rayvector technologies',
+  'jeevan technologies (a nobl q company)', 'josh pros', 'warwick consulting',
+  'cps, inc.', 'parkwood llc', 'balin technologies', 'agilegrid solutions',
+  'goliath partners', 'durlston partners', 'thurn partners', 'entec partners',
+  'njf global holdings ltd', 'techfellow limited', 'umatr', 'strativ group', 'x4 alpha',
+  'hackajob x mercor', 'huxley', 'pentangle tech services', 'turing', 'crossing hurdles',
+  'the aes group (consulting)', 'tailored management',
+]);
+function isAgency(j) {
+  const c = (j.company || '').toLowerCase().replace(/[®™]/g, '').trim();
+  if (AGENCY_COMPANIES.has(c)) return true;
+  return /\(agency\)|\(contract\)|staffing|recruit|resourcing|talent|careers|associates|on behalf of|\(via |\bsearch\b/.test(c);
+}
 function regionEmoji(j) {
   return { East: '🌅', Remote: '🏠', Central: '🌾', Mountain: '⛰️', West: '🌉', Other: '📌' }[j.region || regionName(j)] || '📌';
 }
@@ -795,15 +825,28 @@ function render() {
   container.innerHTML = '';
 
   // Flat list — no company grouping, no pinned "Today's Pick" cards.
-  // East -> west region priority leads, freshest first within each region tier.
+  // Direct employers first (east -> west, freshest first within each region
+  // tier); staffing/recruiting agencies always at the very bottom.
   const flat = [...shown].sort((a, b) => {
+    const ga = isAgency(a) ? 1 : 0, gb = isAgency(b) ? 1 : 0;
+    if (ga !== gb) return ga - gb;
     const ra = regionRank(a), rb = regionRank(b);
     if (ra !== rb) return ra - rb;
     const ta = a.postedAtUtc ? Date.parse(a.postedAtUtc) : 0;
     const tb = b.postedAtUtc ? Date.parse(b.postedAtUtc) : 0;
     return tb - ta;
   });
-  flat.forEach(job => container.appendChild(buildJobCard(job)));
+  let agencySepAdded = false;
+  flat.forEach(job => {
+    if (!agencySepAdded && isAgency(job)) {
+      agencySepAdded = true;
+      const sep = document.createElement('div');
+      sep.className = 'agency-sep';
+      sep.textContent = '⬇ Staffing / recruiting agencies — last resort';
+      container.appendChild(sep);
+    }
+    container.appendChild(buildJobCard(job));
+  });
 
   // Original per-card builder — refactored from the inline forEach loop.
   function buildJobCard(job) {
@@ -839,6 +882,7 @@ function render() {
       <div class="meta">
         <span>📍 ${job.location}</span>
         <span class="region-chip region-${(job.region || regionName(job)).toLowerCase()}">${regionEmoji(job)} ${job.region || regionName(job)}</span>
+        ${isAgency(job) ? '<span class="agency-chip">🏷 agency</span>' : ''}
         <span>🏢 ${job.industry}</span>
         ${job.salary ? `<span>💰 ${job.salary}</span>` : ''}
         <span>🌐 ${job.remote}</span>
@@ -1247,6 +1291,7 @@ function renderApplied() {
       <div class="meta">
         <span>📍 ${job.location}</span>
         <span class="region-chip region-${(job.region || regionName(job)).toLowerCase()}">${regionEmoji(job)} ${job.region || regionName(job)}</span>
+        ${isAgency(job) ? '<span class="agency-chip">🏷 agency</span>' : ''}
         <span>🏢 ${job.industry}</span>
         ${job.salary ? `<span>💰 ${job.salary}</span>` : ''}
         <span>🌐 ${job.remote}</span>
@@ -1417,6 +1462,7 @@ function topOpenJobs() {
     if (j.salary) s += 1;
     const src = (j.source || '').toLowerCase();
     if (src.includes('api (live)')) s += 4;
+    if (isAgency(j)) s -= 30;  // last resort: never outrank a direct employer
     return s;
   }
   return open.map(j => ({...j, _score: score(j)}))
