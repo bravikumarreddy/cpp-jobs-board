@@ -1484,7 +1484,8 @@
           "postedApprox": "open since 2026-06-15",
           "region": "Central",
           "externalId": "greenhouse:7997877",
-          "regionRank": 3
+          "regionRank": 3,
+          "possibleRepost": "Senior Software Engineer, Trading Platform, C++"
         },
         {
           "id": "akuna-capital-software-engineer-c-chicago-il",
@@ -6326,32 +6327,6 @@
       "label": "Week of August 10, 2026",
       "jobs": [
         {
-          "id": "li-fresh-ripple-4318373256",
-          "company": "Ripple",
-          "title": "Senior Software Engineer, C++",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "C++ engineering on RippleNet / XRP Ledger crypto payment infrastructure at Ripple NYC.",
-          "skills": [
-            "C++",
-            "Distributed Systems",
-            "Crypto"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4318373256/",
-          "source": "LinkedIn (Aug 12 fresh sweep)",
-          "postedApprox": "38 hours ago",
-          "h1bFit": "Yes \u2014 Ripple: 212 LCAs, 34 in 2025, 28 in NY; JD clean",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4318373256",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-11T13:11:34.640973+00:00",
-          "easyApply": false
-        },
-        {
           "id": "li-fresh-huxley-4452620464",
           "company": "Huxley (agency)",
           "title": "C++ Low Latency Trading Systems Developer",
@@ -6426,32 +6401,6 @@
           "regionRank": 1,
           "postedAtUtc": "2026-08-11T15:11:34.640973+00:00",
           "easyApply": true
-        },
-        {
-          "id": "li-fresh-garmin-4443529805",
-          "company": "Garmin",
-          "title": "C/C++ Software Engineer 2 - Communication Protocols",
-          "location": "Cary, NC",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Wireless-protocol embedded C/C++ on the Networking Technology team: dashcams, fishfinders, chartplotters, bike computers.",
-          "skills": [
-            "C++",
-            "Embedded",
-            "Networking"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4443529805/",
-          "source": "LinkedIn (Aug 12 fresh sweep)",
-          "postedApprox": "15 hours ago",
-          "h1bFit": "Yes \u2014 Garmin files H-1Bs regularly; JD has only EEO boilerplate",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4443529805",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-12T12:11:34.640973+00:00",
-          "easyApply": false
         },
         {
           "id": "li-fresh-netapp-4450159022",
@@ -6579,32 +6528,6 @@
           "easyApply": true
         },
         {
-          "id": "li-fresh-gts-4421997397",
-          "company": "GTS",
-          "title": "Senior Software Engineer C++",
-          "location": "Chicago, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Trading Systems Development team expanding the GTS market-making platform into new capabilities, markets and asset types.",
-          "skills": [
-            "C++",
-            "Low Latency",
-            "Trading"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4421997397/",
-          "source": "LinkedIn (Aug 12 fresh sweep)",
-          "postedApprox": "10 hours ago",
-          "h1bFit": "Confirm \u2014 GTS files H1B only for quant titles; zero SWE LCAs in 33 filings",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4421997397",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-12T17:11:34.640973+00:00",
-          "easyApply": false
-        },
-        {
           "id": "li-fresh-fintal-partners-4451406251",
           "company": "Fintal Partners (agency)",
           "title": "C++ Software Engineer",
@@ -6656,31 +6579,6 @@
           "easyApply": true
         },
         {
-          "id": "li-fresh-goliath-partners-4452723251",
-          "company": "Goliath Partners (agency)",
-          "title": "Senior C++ Software Engineer",
-          "location": "Chicago, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Infrastructure spanning large-scale compute, distributed systems, real-time processing and internal platforms at an elite quant firm.",
-          "skills": [
-            "C++",
-            "Distributed Systems"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4452723251/",
-          "source": "LinkedIn (Aug 12 fresh sweep)",
-          "postedApprox": "12 hours ago",
-          "h1bFit": "Confirm \u2014 agency for an elite quantitative technology firm; sponsorship depends on end client",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4452723251",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-12T15:11:34.640973+00:00",
-          "easyApply": true
-        },
-        {
           "id": "li-fresh-phaxis-4452047288",
           "company": "Phaxis (agency)",
           "title": "Senior C++ Software Engineer",
@@ -6705,32 +6603,6 @@
           "regionRank": 3,
           "postedAtUtc": "2026-08-10T22:11:34.640973+00:00",
           "easyApply": true
-        },
-        {
-          "id": "li-fresh-huxley-4452608759",
-          "company": "Huxley (agency)",
-          "title": "C++ Low Latency Trading Systems Developer",
-          "location": "Chicago, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "$150K\u2013$300K base + bonus",
-          "summary": "Low-latency C++ trading systems for a Chicago trading firm; $150\u2013300K base plus bonus; finance background not required.",
-          "skills": [
-            "C++",
-            "Low Latency",
-            "Trading"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4452608759/",
-          "source": "LinkedIn (Aug 12 fresh sweep)",
-          "postedApprox": "32 hours ago",
-          "h1bFit": "Confirm \u2014 recruiting agency for a Chicago trading firm; sponsorship depends on end client",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4452608759",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-11T19:11:34.640973+00:00",
-          "easyApply": false
         },
         {
           "id": "li-fresh-the-aes-group-4449875409",
@@ -6803,8 +6675,8 @@
           "yoeFit": "Fits",
           "yoeNote": "",
           "externalId": "linkedin:4451428862",
-          "region": "Central",
-          "regionRank": 3,
+          "region": "East",
+          "regionRank": 1,
           "postedAtUtc": "2026-08-10T20:11:34.640973+00:00",
           "easyApply": true
         },
@@ -6829,8 +6701,8 @@
           "yoeFit": "Fits",
           "yoeNote": "",
           "externalId": "linkedin:4453129063",
-          "region": "Central",
-          "regionRank": 3,
+          "region": "East",
+          "regionRank": 1,
           "postedAtUtc": "2026-08-11T00:11:34.640973+00:00",
           "easyApply": false
         },
@@ -6855,8 +6727,8 @@
           "yoeFit": "Fits",
           "yoeNote": "",
           "externalId": "linkedin:4453626616",
-          "region": "Central",
-          "regionRank": 3,
+          "region": "East",
+          "regionRank": 1,
           "postedAtUtc": "2026-08-13T02:11:34.640973+00:00",
           "easyApply": false
         },
@@ -6911,32 +6783,6 @@
           "easyApply": true
         },
         {
-          "id": "li-fresh-amazon-web-services-4443046395",
-          "company": "Amazon Web Services (AWS)",
-          "title": "C/C++ Hardware / Software Co-Design SDE, Annapurna Labs",
-          "location": "Austin, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "HW/SW co-design for AWS machine-learning silicon (Annapurna Labs \u2014 Trainium/Inferentia class products).",
-          "skills": [
-            "C++",
-            "C",
-            "Hardware/Software Co-Design"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4443046395/",
-          "source": "LinkedIn (Aug 12 fresh sweep)",
-          "postedApprox": "39 hours ago",
-          "h1bFit": "Yes \u2014 Amazon is a top H-1B sponsor; JD has no citizenship/clearance requirement",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4443046395",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-11T12:11:34.640973+00:00",
-          "easyApply": false
-        },
-        {
           "id": "li-fresh-partnerverse-4449821916",
           "company": "Partnerverse",
           "title": "Software Engineer (C, C++, or Rust)",
@@ -6957,8 +6803,8 @@
           "yoeFit": "Fits",
           "yoeNote": "",
           "externalId": "linkedin:4449821916",
-          "region": "Central",
-          "regionRank": 3,
+          "region": "East",
+          "regionRank": 1,
           "postedAtUtc": "2026-08-10T21:11:34.640973+00:00",
           "easyApply": false
         },
@@ -7064,32 +6910,6 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-11T14:11:34.640973+00:00",
-          "easyApply": false
-        },
-        {
-          "id": "li-fresh-netapp-4450141956",
-          "company": "NetApp",
-          "title": "Sr. Software Engineer (Systems Engineering)",
-          "location": "San Jose, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Systems engineering on NetApp intelligent data infrastructure / ONTAP storage stack (San Jose sibling req).",
-          "skills": [
-            "C++",
-            "Linux",
-            "Storage"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4450141956/",
-          "source": "LinkedIn (Aug 12 fresh sweep)",
-          "postedApprox": "12 hours ago",
-          "h1bFit": "Yes \u2014 NetApp is a heavy H-1B sponsor; no restrictions in JD",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4450141956",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-12T15:11:34.640973+00:00",
           "easyApply": false
         },
         {
