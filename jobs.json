@@ -6887,32 +6887,6 @@
           "easyApply": false
         },
         {
-          "id": "li-fresh-uber-4453625301",
-          "company": "Uber",
-          "title": "Software Engineer I",
-          "location": "Sunnyvale, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Platform/services engineering powering Uber\u2019s marketplace in 10,000+ cities; complex, massive-scale backend systems.",
-          "skills": [
-            "C++",
-            "Backend",
-            "Distributed Systems"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4453625301/",
-          "source": "LinkedIn (Aug 12 fresh sweep)",
-          "postedApprox": "1 hours ago",
-          "h1bFit": "Yes \u2014 Uber sponsors H-1Bs broadly; JD clean",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4453625301",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-13T02:11:34.640973+00:00",
-          "easyApply": false
-        },
-        {
           "id": "li-fresh-plusai-4373142821",
           "company": "PlusAI",
           "title": "Senior Software Engineer, Mapping & Localization",
@@ -7142,6 +7116,29 @@
           "regionRank": 5,
           "postedAtUtc": "2026-08-12T17:11:34.640973+00:00",
           "easyApply": false
+        },
+        {
+          "id": "li-werfen-senior-embedded-software-engineer-c-c-2026-w33",
+          "company": "Werfen",
+          "title": "Senior Embedded Software Engineer (C/C++)",
+          "location": "Bedford, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-embedded-software-engineer-c-c%2B%2B-at-werfen-4426359684",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4426359684",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-13T10:18:04.008487+00:00"
         }
       ],
       "removedNotes": [
