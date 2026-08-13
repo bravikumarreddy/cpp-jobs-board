@@ -7165,6 +7165,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-13T14:59:23.817381+00:00"
+        },
+        {
+          "id": "li-acceler8-talent-principal-physics-programmer-c-modeling--2026-w33",
+          "company": "Acceler8 Talent",
+          "title": "Principal Physics Programmer, C++ (Modeling & Simulation)",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/principal-physics-programmer-c%2B%2B-modeling-simulation-at-acceler8-talent-4450490419",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "9 hours ago",
+          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4450490419",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-08-13T12:14:32.593403+00:00"
         }
       ],
       "removedNotes": [
