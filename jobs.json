@@ -7185,6 +7185,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-13T12:45:08.613686+00:00"
+        },
+        {
+          "id": "li-catapult-senior-c-software-engineer-2026-w33",
+          "company": "Catapult",
+          "title": "Senior C++ Software Engineer",
+          "location": "Boston, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 13 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-catapult-4452912482",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "13 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4452912482",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-13T09:15:44.593005+00:00"
         }
       ],
       "removedNotes": [
