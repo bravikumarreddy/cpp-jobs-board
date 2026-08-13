@@ -100,6 +100,14 @@
     background: #3a2b12; color: #e0a94e; border: 1px solid #6b4e1e;
     padding: 1px 8px; border-radius: 10px; font-size: 11px;
   }
+  /* Agency cards: amber tint so they read as a different tier at a glance. */
+  .job.agency {
+    background: linear-gradient(180deg, #1d1810, #171310);
+    border-color: #6b4e1e;
+    border-left: 4px solid #b07d2a;
+  }
+  .job.agency .company { color: #e0a94e; }
+  .job.agency.applied { opacity: 0.55; }
   .job.applied .title { text-decoration: line-through; }
   .job-group { border: 1px solid var(--border); border-radius: 8px; background: var(--panel2); margin-bottom: 14px; overflow: hidden; }
   .job-group.open { border-color: var(--accent); }
@@ -856,7 +864,7 @@ function render() {
     const autoStale = state.autoStale.has(job.id);
     const cdMonths = cooldownMonthsLeft(job.company);
     const inCooldown = cdMonths > 0;
-    card.className = 'job' + (isApplied ? ' applied' : '') + (stale ? ' unavailable' : '') + (inCooldown ? ' cooldown' : '');
+    card.className = 'job' + (isApplied ? ' applied' : '') + (stale ? ' unavailable' : '') + (inCooldown ? ' cooldown' : '') + (isAgency(job) ? ' agency' : '');
     // Hot UI — same freshness badge + callback chip the action cards use.
     let freshBadge = '';
     let hp = job.postedAtUtc ? Date.parse(job.postedAtUtc) : NaN;
@@ -1284,7 +1292,7 @@ function renderApplied() {
   appliedJobs.forEach(job => {
     const stale = isStale(job.id);
     const card = document.createElement('div');
-    card.className = 'job applied' + (stale ? ' unavailable' : '');
+    card.className = 'job applied' + (stale ? ' unavailable' : '') + (isAgency(job) ? ' agency' : '');
     card.innerHTML = `
       <div class="company">${job.company}</div>
       <div class="title">${job.title}</div>
