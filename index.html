@@ -512,8 +512,8 @@
 </section>
 
 <footer>
-  Local-only tracker. Applied state is stored in your browser (localStorage key <code>raviCppJobsApplied</code>).
-  Data file: <code>jobs.json</code>. Update that file weekly to add new postings.
+  Synced tracker. Applied state loads from the shared cloud DB on every device; saving changes
+  needs the board key once per browser (click the ☁ chip). localStorage is the offline cache.
 </footer>
 
 <script>
@@ -1684,10 +1684,10 @@ function switchTab(name) {
 // offline cache; the cloud is the source of truth once connected.
 //
 // Config comes from supabase_config.json (url + anonKey; the private Mac copy
-// also carries boardKey so the local board connects automatically). On other
-// devices the board key is asked for once via the ☁ chip and kept in
-// localStorage. All requests carry the x-board-key header; Supabase RLS
-// rejects anything without it. No config file → everything below is inert.
+// also carries boardKey so the local board connects automatically). Reads are
+// public (RLS allows select for everyone), so ANY device shows the shared
+// state immediately. Writes require the x-board-key header — entered once per
+// device via the ☁ chip. No config file → everything below is inert.
 // ============================================================================
 const CLOUD_KEY_LS = 'raviCppJobsBoardKey';
 const cloud = { cfg: null, key: '', on: false, applying: false, timers: {} };
@@ -1731,7 +1731,7 @@ async function cloudInit() {
 }
 
 async function cloudHydrate() {
-  if (!cloud.cfg || !cloud.key) return;
+  if (!cloud.cfg) return;
   let rows;
   try {
     const r = await fetch(cloud.cfg.url.replace(/\/$/, '') + '/rest/v1/board_state?select=key,value', { headers: cloudHeaders() });
@@ -1742,6 +1742,25 @@ async function cloudHydrate() {
 
   cloud.on = true;
   const byKey = Object.fromEntries(rows.map(x => [x.key, x.value]));
+
+  // No board key: read-only device. Board state is publicly readable, so show
+  // the shared cloud state as-is; edits stay local-only until a key is entered.
+  if (!cloud.key) {
+    if (rows.length) {
+      cloud.applying = true;
+      try {
+        for (const [slice, s] of Object.entries(CLOUD_SLICES)) {
+          if (slice in byKey) { s.put(byKey[slice]); window[s.save](); }
+        }
+      } finally { cloud.applying = false; }
+      cloudChip('☁ read-only — click to enable saving',
+        'Showing the shared cloud state. Enter the board key (☁ click) to save changes from this device.');
+    } else {
+      cloudChip('☁ sync: click to connect', 'Click and enter your board key to sync across devices');
+    }
+    return;
+  }
+
   let pushAll = false;
   cloud.applying = true;
   try {
@@ -1773,11 +1792,13 @@ function cloudPushSlice(slice, delay = 400) {
   clearTimeout(cloud.timers[slice]);
   cloud.timers[slice] = setTimeout(async () => {
     try {
-      await fetch(cloud.cfg.url.replace(/\/$/, '') + '/rest/v1/board_state?on_conflict=key', {
+      const r = await fetch(cloud.cfg.url.replace(/\/$/, '') + '/rest/v1/board_state?on_conflict=key', {
         method: 'POST',
         headers: { ...cloudHeaders(), 'Prefer': 'resolution=merge-duplicates,return=minimal' },
         body: JSON.stringify([{ key: slice, value: CLOUD_SLICES[slice].get() }]),
       });
+      if (r.status === 401 || r.status === 403) cloudChip('☁ sync: bad key — click to fix', 'This device could not save to the cloud. Click and re-enter the board key.');
+      else if (!r.ok) cloudChip('☁ sync: save failed (HTTP ' + r.status + ')');
     } catch (e) { cloudChip('☁ sync: offline (retries on next change)'); }
   }, delay);
 }
