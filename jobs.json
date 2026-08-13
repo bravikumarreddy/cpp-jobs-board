@@ -6658,32 +6658,6 @@
           "easyApply": true
         },
         {
-          "id": "li-fresh-swanktek-4453129063",
-          "company": "SwankTek (agency)",
-          "title": "Software Research Engineer \u2013 C++",
-          "location": "Warren, MI",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "C++ development of O-RAN networking infrastructure for a private 5G network deployment; onsite Warren, MI.",
-          "skills": [
-            "C++",
-            "5G",
-            "Networking"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4453129063/",
-          "source": "LinkedIn (Aug 12 fresh sweep)",
-          "postedApprox": "51 hours ago",
-          "h1bFit": "Confirm \u2014 staffing agency; sponsorship depends on end client",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4453129063",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-11T00:11:34.640973+00:00",
-          "easyApply": false
-        },
-        {
           "id": "li-fresh-optimize-search-group-4452707708",
           "company": "Optimize Search Group (agency)",
           "title": "Senior C++ Software Developer",
@@ -7188,6 +7162,29 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-08-13T12:14:32.593403+00:00"
+        },
+        {
+          "id": "li-general-motors-ml-ai-software-engineer-c-metrics-framew-2026-w33",
+          "company": "General Motors",
+          "title": "ML / AI Software Engineer - C++ Metrics Frameworks",
+          "location": "San Francisco, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/ml-ai-software-engineer-c%2B%2B-metrics-frameworks-at-general-motors-4305256153",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "9 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4305256153",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-13T12:45:08.613686+00:00"
         }
       ],
       "removedNotes": [
