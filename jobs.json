@@ -1859,29 +1859,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-netrolynx-ai-c-developer-2026-w30",
-          "company": "Netrolynx AI",
-          "title": "C++ Developer",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "About The Company ETAP Software is a leading provider of innovative electrical engineering and digital twin solutions that empower customers to make informed decisions\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-netrolynx-ai-4443369354",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4443369354",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-07-21T13:09:20.680325+00:00"
-        },
-        {
           "id": "li-njf-global-holdings-ltd-software-engineer-c-2026-w30",
           "company": "NJF Global Holdings Ltd",
           "title": "Software Engineer (C++)",
@@ -7139,6 +7116,32 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-13T10:18:04.008487+00:00"
+        },
+        {
+          "id": "worldquant-quantitative-developer-2026-w33",
+          "company": "WorldQuant",
+          "title": "Quantitative Developer",
+          "location": "Connecticut OR New York",
+          "remote": "Onsite/Hybrid",
+          "industry": "Portfolio Management Division",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (3h ago). Callback score 100.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "Python"
+          ],
+          "url": "https://job-boards.greenhouse.io/worldquant/jobs/4700347006",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (3h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 100.0,
+          "postedAtUtc": "2026-08-13T09:46:50-04:00",
+          "atsJobId": "4700347006",
+          "externalId": "greenhouse:4700347006",
+          "region": "East",
+          "regionRank": 1
         }
       ],
       "removedNotes": [
