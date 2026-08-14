@@ -7040,31 +7040,6 @@
           "easyApply": false
         },
         {
-          "id": "li-fresh-isoftech-inc-4452716970",
-          "company": "ISoftech Inc",
-          "title": "Senior C++ Software Engineer \u2014 Embedded Systems",
-          "location": "United States (Remote)",
-          "remote": "Remote",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Senior embedded C++ role, US, via ISoftech.",
-          "skills": [
-            "C++",
-            "Embedded"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4452716970/",
-          "source": "LinkedIn (Aug 13 fresh sweep)",
-          "postedApprox": "30 hours ago",
-          "h1bFit": "Confirm \u2014 staffing firm; JD clean \u2014 confirm end client + sponsorship",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4452716970",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-08-12T14:30:00Z",
-          "easyApply": false
-        },
-        {
           "id": "li-fresh-agiliad-4449868874",
           "company": "Agiliad",
           "title": "C++ / Angular Engineer",
@@ -7115,53 +7090,6 @@
           "regionRank": 3,
           "postedAtUtc": "2026-08-11T18:30:00Z",
           "easyApply": false
-        },
-        {
-          "id": "li-fresh-acnovate-corporation-4454024511",
-          "company": "Acnovate Corporation",
-          "title": "C++ Developer \u2014 Medical Devices",
-          "location": "Santa Clara, CA (Los Gatos)",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "C++ development for a medical-device client in Los Gatos via Acnovate.",
-          "skills": [
-            "C++",
-            "Medical Devices"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4454024511/",
-          "source": "LinkedIn (Aug 13 fresh sweep)",
-          "postedApprox": "71 hours ago",
-          "h1bFit": "Confirm \u2014 IT consulting firm placing at a medical-device client; JD clean \u2014 confirm",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4454024511",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-10T21:30:00Z",
-          "easyApply": false
-        },
-        {
-          "id": "li-arthrex-sr-software-engineer-c-remote-2026-w33",
-          "company": "Arthrex",
-          "title": "Sr. Software Engineer- C++ (REMOTE)",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 52 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-c%2B%2B-remote-at-arthrex-4454341458",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "52 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4454341458",
-          "region": "Remote",
-          "regionRank": 2
         }
       ],
       "removedNotes": [
