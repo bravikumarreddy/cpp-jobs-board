@@ -1386,29 +1386,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-applied-intuition-c-software-engineer-autonomous-systems-2026-w30",
-          "company": "Applied Intuition",
-          "title": "C++ Software Engineer \u2013 Autonomous Systems",
-          "location": "Ann Arbor, MI",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "About Applied Intuition Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-%E2%80%93-autonomous-systems-at-applied-intuition-4423962795",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "5 days ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4423962795",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-16T14:09:20.680325+00:00"
-        },
-        {
           "id": "flow-traders-senior-software-engineer-c-market-data-new-york",
           "company": "Flow Traders",
           "title": "Senior Software Engineer, C++ (Market Data)",
@@ -7136,6 +7113,52 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-14T07:47:46.813116+00:00"
+        },
+        {
+          "id": "li-swift-senior-software-developer-c-hybrid-2026-w33",
+          "company": "Swift",
+          "title": "Senior Software Developer - C++ (Hybrid)",
+          "location": "Manassas, VA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 18 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-developer-c%2B%2B-hybrid-at-swift-4454321415",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "18 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4454321415",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-13T23:18:24.315517+00:00"
+        },
+        {
+          "id": "li-applied-intuition-c-software-engineer-autonomous-systems-2026-w33",
+          "company": "Applied Intuition",
+          "title": "C++ Software Engineer (Autonomous Systems)",
+          "location": "Ann Arbor, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-autonomous-systems-at-applied-intuition-4423961740",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4423961740",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-14T13:18:24.315517+00:00"
         }
       ],
       "removedNotes": [
