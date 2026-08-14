@@ -8480,6 +8480,29 @@
           "regionRank": 5,
           "postedAtUtc": "2026-08-14T20:41:22Z",
           "easyApply": false
+        },
+        {
+          "id": "li-ari-sr-embedded-software-engineer-c-matlab-2026-w33",
+          "company": "ARi",
+          "title": "Sr. Embedded Software Engineer (C++ & MATLAB)",
+          "location": "Peoria Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-embedded-software-engineer-c%2B%2B-matlab-at-ari-4453709919",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4453709919",
+          "region": "Other",
+          "regionRank": 6,
+          "postedAtUtc": "2026-08-14T20:32:38.263572+00:00"
         }
       ],
       "removedNotes": [
