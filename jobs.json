@@ -7992,33 +7992,6 @@
           "easyApply": false
         },
         {
-          "id": "r7-google-140996649957630662",
-          "company": "Google",
-          "title": "Technical Lead, Media CDN",
-          "location": "Cambridge, MA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Tech lead for Google's Media CDN edge delivery platform; C++ is a minimum qualification - East Coast (Cambridge, MA).",
-          "skills": [
-            "C++",
-            "CDN/edge",
-            "Networking",
-            "Tech leadership"
-          ],
-          "url": "https://www.google.com/about/careers/applications/jobs/results/140996649957630662",
-          "source": "Careers API (Aug 14 agent sweep)",
-          "postedApprox": "3 weeks ago",
-          "h1bFit": "Yes \u2014 Google: top H-1B sponsor; JD clean",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "goog:140996649957630662",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-14T20:27:03Z",
-          "easyApply": false
-        },
-        {
           "id": "r7-google-111629944215216838",
           "company": "Google",
           "title": "Senior Software Engineer, Infrastructure, YouTube",
@@ -8560,34 +8533,6 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-14T20:41:22Z",
-          "easyApply": false
-        },
-        {
-          "id": "r7-tower-research-capital-8095924",
-          "company": "Tower Research Capital",
-          "title": "Machine Leaning Performance Engineer (Inference)",
-          "location": "New York",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "$200,000-$300,000,",
-          "summary": "Tower Research Capital is a leading quantitative trading firm founded in 1998.",
-          "skills": [
-            "C++",
-            "Low-latency systems",
-            "Python",
-            "Performance optimization",
-            "CUDA/GPU"
-          ],
-          "url": "https://www.tower-research.com/open-positions/?gh_jid=8095924",
-          "source": "Greenhouse API (Aug 14 agent sweep)",
-          "postedApprox": "2 days ago",
-          "h1bFit": "Yes \u2014 Tower Research Capital: known strong H-1B sponsor; JD clean",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "gh:towerresearchcapital:8095924",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-14T20:52:53Z",
           "easyApply": false
         }
       ],
