@@ -7857,33 +7857,6 @@
           "easyApply": false
         },
         {
-          "id": "r7-microsoft-200023147",
-          "company": "Microsoft",
-          "title": "Senior Software Engineer, Ads SDKs",
-          "location": "Redmond, WA / New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "$119,800 - $234,700/yr",
-          "summary": "Build high-performance advertising SDKs and platform capabilities (C++ core, cross-platform reliability/perf/observability) on Microsoft's Ads SDKs team; NY option for East Coast.",
-          "skills": [
-            "C++",
-            "SDK design",
-            "Performance",
-            "Observability"
-          ],
-          "url": "https://apply.careers.microsoft.com/careers/job/1970393556746669",
-          "source": "Careers API (Aug 14 agent sweep)",
-          "postedApprox": "6 weeks ago",
-          "h1bFit": "Yes \u2014 Microsoft: top H-1B sponsor; JD clean",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "ms:200023147",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-14T20:27:03Z",
-          "easyApply": false
-        },
-        {
           "id": "r7-microsoft-200047456",
           "company": "Microsoft",
           "title": "Senior Software Engineer (Azure GPU Fleet Operator Layer)",
@@ -8093,33 +8066,6 @@
           "externalId": "apple:200677328",
           "region": "West",
           "regionRank": 5,
-          "postedAtUtc": "2026-08-14T20:41:22Z",
-          "easyApply": false
-        },
-        {
-          "id": "r7-apple-200677494",
-          "company": "Apple",
-          "title": "Graphics (GPU) Performance Modeling Engineer",
-          "location": "Austin, TX / Santa Clara, CA / Orlando, FL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "$129,300 - $194,700/yr",
-          "summary": "Build C++ performance models and simulators for Apple GPU architecture (JD mentions C++ five times); Austin/Santa Clara/Orlando options.",
-          "skills": [
-            "C++",
-            "GPU architecture",
-            "Performance modeling",
-            "Simulation"
-          ],
-          "url": "https://jobs.apple.com/en-us/details/200677494/graphics-gpu-performance-modeling-engineer",
-          "source": "Careers API (Aug 14 agent sweep)",
-          "postedApprox": "2 days ago",
-          "h1bFit": "Yes \u2014 Apple: top H-1B sponsor; JD clean",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "apple:200677494",
-          "region": "East",
-          "regionRank": 1,
           "postedAtUtc": "2026-08-14T20:41:22Z",
           "easyApply": false
         },
