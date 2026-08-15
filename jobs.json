@@ -2632,28 +2632,6 @@
           "postedAtUtc": "2026-07-25T09:46:52.970031+00:00"
         },
         {
-          "id": "li-devhouse-unreal-ui-developer-c-blueprint-2026-w30",
-          "company": "Devhouse",
-          "title": "Unreal UI Developer (C++/Blueprint)",
-          "location": "Dallas, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "About DevhouseDevhouse is a game development studio based in Dallas, Texas. We work across a wide range of game projects, platforms, and genres, bringing together design,\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/unreal-ui-developer-c%2B%2B-blueprint-at-devhouse-4444692703",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4444692703",
-          "region": "Central",
-          "regionRank": 3
-        },
-        {
           "id": "li-susquehanna-international-group-c-developer-options-market-making-experi-2026-w30",
           "company": "Susquehanna International Group",
           "title": "C++ Developer | Options Market Making | Experienced Hire",
@@ -8524,6 +8502,50 @@
           "yoeFit": "Verify",
           "yoeNote": "Auto-tracked \u2014 apply filters in your head",
           "externalId": "builtin:10261715",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-wolverine-trading-c-software-engineer-trading-platform-2026-w33",
+          "company": "Wolverine Trading",
+          "title": "C++ Software Engineer, Trading Platform",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 49 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-trading-platform-at-wolverine-trading-4453734725",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "49 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4453734725",
+          "region": "Central",
+          "regionRank": 3
+        },
+        {
+          "id": "li-seacrest-behavioral-health-software-engineer-c-2026-w33",
+          "company": "Seacrest Behavioral Health",
+          "title": "Software Engineer (C++)",
+          "location": "Baldwinsville, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 34 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-seacrest-behavioral-health-4453745602",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "34 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4453745602",
           "region": "East",
           "regionRank": 1
         }
