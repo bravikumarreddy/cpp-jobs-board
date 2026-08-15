@@ -7519,6 +7519,52 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-15T13:16:19.045622+00:00"
+        },
+        {
+          "id": "li-esri-principal-c-software-engineer-arcgis-geo-2026-w33",
+          "company": "Esri",
+          "title": "Principal C++ Software Engineer - ArcGIS Geocoding Algorithms",
+          "location": "Redlands, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/principal-c%2B%2B-software-engineer-arcgis-geocoding-algorithms-at-esri-4417028515",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4417028515",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-15T17:17:51.683266+00:00"
+        },
+        {
+          "id": "li-prestige-development-group-senior-c-programmer-compass-ecological-m-2026-w33",
+          "company": "Prestige Development Group",
+          "title": "Senior C++ Programmer \u2013 COMPASS Ecological Model",
+          "location": "Washington, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-programmer-%E2%80%93-compass-ecological-model-at-prestige-development-group-4455135080",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4455135080",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-15T20:17:51.683266+00:00"
         }
       ],
       "removedNotes": [
