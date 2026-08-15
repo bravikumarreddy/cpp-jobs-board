@@ -7053,34 +7053,6 @@
           "easyApply": false
         },
         {
-          "id": "r7-snap-inc-r0046458",
-          "company": "Snap Inc.",
-          "title": "Software Engineer, Specs, Level 5",
-          "location": "Los Angeles, CA / Bellevue, WA / Palo Alto, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "$209,000 - $313,000/yr",
-          "summary": "Build SnapOS components and SDKs for Spectacles AR glasses - C++ operating-system and frameworks work, posted yesterday.",
-          "skills": [
-            "C++",
-            "AR/Spectacles",
-            "OS development",
-            "SDKs",
-            "3D graphics"
-          ],
-          "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Software-Engineer--Specs--Level-5_R0046458-1",
-          "source": "Careers API (Aug 14 agent sweep)",
-          "postedApprox": "1 day ago",
-          "h1bFit": "Yes \u2014 Snap: H-1B sponsor; JD clean",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "snap:R0046458",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-14T20:27:03Z",
-          "easyApply": false
-        },
-        {
           "id": "r7-google-114640795209736902",
           "company": "Google",
           "title": "Senior Software Engineer, Distributed Systems Infrastructure, Google Ads",
@@ -7501,6 +7473,52 @@
           "externalId": "linkedin:4453745602",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-garmin-technical-lead-c-engineer-maps-platform-2026-w33",
+          "company": "Garmin",
+          "title": "Technical Lead C++ Engineer - Maps Platform",
+          "location": "Cary, NC",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/technical-lead-c%2B%2B-engineer-maps-platform-at-garmin-4445204876",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4445204876",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-15T11:48:06.664196+00:00"
+        },
+        {
+          "id": "li-ge-healthcare-senior-qt-c-software-engineer-medical-de-2026-w33",
+          "company": "GE HealthCare",
+          "title": "Senior Qt/C++ Software Engineer \u2013 Medical Devices",
+          "location": "Waukesha, WI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-qt-c%2B%2B-software-engineer-%E2%80%93-medical-devices-at-ge-healthcare-4445279494",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4445279494",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-15T11:48:06.664196+00:00"
         }
       ],
       "removedNotes": [
@@ -7600,7 +7618,8 @@
         "AWS HW/SW Co-Design Austin 4443043848 \u2014 near-dup of board's Austin req 4443046395",
         "Alignerr Principal Systems \u00d72 (4453041032 Denver, 4452121929 Seattle) + Full-Stack 4452132085 \u2014 platform shells, kept HPC NYC only",
         "NetApp Cloud Engineering SJ 4450143973 \u2014 San Jose twin already on board (Aug-7)",
-        "Alignerr \u2014 C++ Engineer \u2014 High Performance Computing \u2014 Alignerr \u2014 no sponsorship for 1099 contract role (JD/policy verified 2026-08-06)"
+        "Alignerr \u2014 C++ Engineer \u2014 High Performance Computing \u2014 Alignerr \u2014 no sponsorship for 1099 contract role (JD/policy verified 2026-08-06)",
+        "Omnissa \u2014 Software Engineer, C/C++ \u2014 Omnissa \u2014 JD: 'not eligible for employment-based immigration sponsorship' (JD/policy verified 2026-08-06)"
       ]
     }
   ]
