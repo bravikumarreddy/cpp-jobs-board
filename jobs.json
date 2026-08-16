@@ -7589,6 +7589,29 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-08-15T22:20:50.820637+00:00"
+        },
+        {
+          "id": "li-hunter-bond-c-developer-up-to-1-million-1st-year-tc--2026-w33",
+          "company": "Hunter Bond",
+          "title": "C++ Developer - Up to $1 Million 1st Year TC - Elite Buy Side Trading Firm",
+          "location": "New York City Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-up-to-%241-million-1st-year-tc-elite-buy-side-trading-firm-at-hunter-bond-4452206091",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4452206091",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-16T19:26:36.503907+00:00"
         }
       ],
       "removedNotes": [
