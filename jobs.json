@@ -7565,6 +7565,30 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-15T20:17:51.683266+00:00"
+        },
+        {
+          "id": "li-sundayy-software-engineer-c-api-2026-w33",
+          "company": "Sundayy",
+          "title": "Software Engineer (C++, API)",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-api-at-sundayy-4455100513",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4455100513",
+          "possibleRepost": "Software Engineer (Java, C++)",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-08-15T22:20:50.820637+00:00"
         }
       ],
       "removedNotes": [
