@@ -7612,6 +7612,30 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-16T19:26:36.503907+00:00"
+        },
+        {
+          "id": "li-varda-space-industries-senior-spacecraft-firmware-engineer-c-2026-w33",
+          "company": "Varda Space Industries",
+          "title": "Senior Spacecraft Firmware Engineer, C++",
+          "location": "El Segundo, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 15 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-spacecraft-firmware-engineer-c%2B%2B-at-varda-space-industries-4455162616",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "15 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4455162616",
+          "possibleRepost": "Firmware Engineer, C++",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-16T06:57:11.011159+00:00"
         }
       ],
       "removedNotes": [
