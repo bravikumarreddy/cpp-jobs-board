@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-15",
-  "lastChecked": "2026-08-15",
+  "lastUpdated": "2026-08-16",
+  "lastChecked": "2026-08-16",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -7636,6 +7636,31 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-16T06:57:11.011159+00:00"
+        },
+        {
+          "id": "sambanova-principal-ai-systems-performance-engineer-2026-w33",
+          "company": "SambaNova",
+          "title": "Principal AI Systems Performance Engineer",
+          "location": "San Jose, California, United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "Software",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (7h ago). Callback score 96.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Distributed systems",
+            "Python"
+          ],
+          "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6007952004",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (7h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 96.0,
+          "postedAtUtc": "2026-08-16T12:46:39-04:00",
+          "atsJobId": "6007952004",
+          "region": "West",
+          "regionRank": 5
         }
       ],
       "removedNotes": [
