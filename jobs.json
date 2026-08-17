@@ -5653,29 +5653,6 @@
           "postedAtUtc": "2026-08-06T14:19:09.055859+00:00"
         },
         {
-          "id": "li-io-associates-c-engineer-low-latency-2026-w32",
-          "company": "iO Associates",
-          "title": "C++ Engineer - Low latency",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "C++ Engineers | Direct PnL Impact | NYC / Miami or Chicago | $400k-$900k+ T/C - Mid Level up to Lead Level A high-performing, renowned fund is looking for excpetional C++\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-low-latency-at-io-associates-4450272855",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "6 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4450272855",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-06T16:19:09.055859+00:00"
-        },
-        {
           "id": "li-kyyba-inc-systems-engineer-c-magicdraw-2026-w32",
           "company": "KYYBA Inc",
           "title": "Systems Engineer - C++, MagicDraw",
@@ -7767,6 +7744,101 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-12T12:00:00+00:00"
+        },
+        {
+          "id": "li-io-associates-c-engineer-low-latency-2026-w34",
+          "company": "iO Associates",
+          "title": "C++ Engineer (Low Latency)",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 57 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-low-latency-at-io-associates-4455317485",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "57 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4455317485",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-dell-technologies-senior-software-engineer-data-protection-2026-w34",
+          "company": "Dell Technologies",
+          "title": "Senior Software Engineer - Data Protection Software Engineering (C, C++)",
+          "location": "Santa Clara, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 22 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-data-protection-software-engineering-c-c%2B%2B-at-dell-technologies-4453994399",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "22 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4453994399",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-16T18:52:51.939034+00:00"
+        },
+        {
+          "id": "li-anvik-technologies-senior-c-developer-qt-c-17-boost-ecologi-2026-w34",
+          "company": "Anvik Technologies",
+          "title": "Senior C++ Developer \u2013 Qt/C++17/Boost, Ecological Simulation Modeling",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-%E2%80%93-qt-c%2B%2B17-boost-ecological-simulation-modeling-at-anvik-technologies-4454262884",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4454262884",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-08-17T14:52:51.939034+00:00"
+        },
+        {
+          "id": "torc-robotics-senior-software-engineer-autonomy-core-frameworks-2026-w34",
+          "company": "Torc Robotics",
+          "title": "Senior Software Engineer - Autonomy Core Frameworks",
+          "location": "Ann Arbor, MI",
+          "remote": "Onsite/Hybrid",
+          "industry": "Autonomy",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 95.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "C++17",
+            "Distributed systems",
+            "Python"
+          ],
+          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8703219002",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 95.0,
+          "postedAtUtc": "2026-08-17T10:55:55-04:00",
+          "atsJobId": "8703219002",
+          "externalId": "greenhouse:8703219002",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
