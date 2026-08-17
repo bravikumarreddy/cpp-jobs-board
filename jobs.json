@@ -7545,29 +7545,6 @@
           "postedAtUtc": "2026-08-15T22:20:50.820637+00:00"
         },
         {
-          "id": "li-hunter-bond-c-developer-up-to-1-million-1st-year-tc--2026-w33",
-          "company": "Hunter Bond",
-          "title": "C++ Developer - Up to $1 Million 1st Year TC - Elite Buy Side Trading Firm",
-          "location": "New York City Metropolitan Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-up-to-%241-million-1st-year-tc-elite-buy-side-trading-firm-at-hunter-bond-4452206091",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4452206091",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-16T19:26:36.503907+00:00"
-        },
-        {
           "id": "li-varda-space-industries-senior-spacecraft-firmware-engineer-c-2026-w33",
           "company": "Varda Space Industries",
           "title": "Senior Spacecraft Firmware Engineer, C++",
@@ -7814,31 +7791,50 @@
           "postedAtUtc": "2026-08-17T14:52:51.939034+00:00"
         },
         {
-          "id": "torc-robotics-senior-software-engineer-autonomy-core-frameworks-2026-w34",
-          "company": "Torc Robotics",
-          "title": "Senior Software Engineer - Autonomy Core Frameworks",
-          "location": "Ann Arbor, MI",
-          "remote": "Onsite/Hybrid",
-          "industry": "Autonomy",
+          "id": "li-torentify-c-c-software-engineer-ii-2026-w34",
+          "company": "Torentify",
+          "title": "C, C++ Software Engineer II",
+          "location": "Santa Clara County, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
           "salary": null,
-          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 95.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
           "skills": [
-            "C++17",
-            "Distributed systems",
-            "Python"
+            "C++"
           ],
-          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8703219002",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (1h ago)",
-          "h1bFit": "Uncertain",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 95.0,
-          "postedAtUtc": "2026-08-17T10:55:55-04:00",
-          "atsJobId": "8703219002",
-          "externalId": "greenhouse:8703219002",
-          "region": "East",
-          "regionRank": 1
+          "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-software-engineer-ii-at-torentify-4455395054",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4455395054",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-17T21:35:14.877135+00:00"
+        },
+        {
+          "id": "li-chainsage-senior-c-engineer-2026-w34",
+          "company": "Chainsage",
+          "title": "Senior C++ Engineer",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-engineer-at-chainsage-4455389209",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4455389209",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-08-17T21:35:14.877135+00:00"
         }
       ]
     }
