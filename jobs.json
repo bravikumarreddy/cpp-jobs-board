@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16",
+  "lastUpdated": "2026-08-17T13:39:48+00:00",
   "lastChecked": "2026-08-16",
   "seedVersion": 2,
   "liveTrackers": [
@@ -2308,29 +2308,6 @@
           "externalId": "linkedin:4444225563",
           "region": "Central",
           "regionRank": 3
-        },
-        {
-          "id": "li-actalent-c-software-engineer-2026-w30",
-          "company": "Actalent",
-          "title": "C++ Software Engineer",
-          "location": "Manassas, VA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Job Description We are seeking a C++ Software Engineer to support a mission-critical internal R&D effort focused on modernizing software build, integration, and dependency\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-actalent-4442919911",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "22 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4442919911",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-22T02:02:30.561814+00:00"
         },
         {
           "id": "built-lg-ad-solutions-backend-software-engineer-c-go-2026-w30",
@@ -7767,7 +7744,31 @@
     {
       "weekId": "2026-W34",
       "label": "Week of August 17, 2026",
-      "jobs": []
+      "jobs": [
+        {
+          "id": "li-summit-securities-group-c-software-engineer-options-tradin-2026-w34",
+          "company": "Summit Securities Group",
+          "title": "C++ Software Engineer - Options Trading Systems",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2026-08-12. Re-added by nightly recall audit 08-17 \u2014 guest API served unstable result sets and the daemon's pages never included this card. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-options-trading-systems-at-summit-securities-group-4452709732",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4452709732",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-12T12:00:00+00:00"
+        }
+      ]
     }
   ]
 }
