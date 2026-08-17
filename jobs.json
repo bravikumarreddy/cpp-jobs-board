@@ -2468,7 +2468,8 @@
           "externalId": "linkedin:4417032574",
           "region": "West",
           "regionRank": 5,
-          "postedAtUtc": "2026-07-23T18:31:42.814751+00:00"
+          "postedAtUtc": "2026-07-23T18:31:42.814751+00:00",
+          "possibleRepost": "Principal C++ Software Engineer - ArcGIS Geocoding Algorithms"
         },
         {
           "id": "li-comcast-software-engineer-c-python-golang-or-jav-2026-w30",
@@ -3371,7 +3372,8 @@
           "yoeNote": "Auto-scraped \u2014 apply filters in your head",
           "externalId": "linkedin:4446885838",
           "region": "West",
-          "regionRank": 5
+          "regionRank": 5,
+          "possibleRepost": "Senior Spacecraft Firmware Engineer, C++"
         },
         {
           "id": "li-thurn-partners-low-level-c-engineer-hft-build-2026-w31",
