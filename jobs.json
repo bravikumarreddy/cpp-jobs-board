@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-17",
-  "lastChecked": "2026-08-17",
+  "lastUpdated": "2026-08-18",
+  "lastChecked": "2026-08-18",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -7314,6 +7314,54 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-17T22:09:21.479105+00:00"
+        },
+        {
+          "id": "built-morgan-stanley-c-developer-2026-w34",
+          "postedAtUtc": "2026-08-18T00:00:00.000930+00:00",
+          "company": "Morgan Stanley",
+          "title": "C++ Developer",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 13 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/c-developer/9059081",
+          "source": "Built In",
+          "postedApprox": "13 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:9059081",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "elastic-principal-software-engineer-performance-tuning-elasticsearch-2026-w34",
+          "company": "Elastic",
+          "title": "Principal Software Engineer - Performance Tuning - Elasticsearch",
+          "location": "United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "Platform - Elasticsearch",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (3h ago). Callback score 100.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Distributed systems",
+            "Rust"
+          ],
+          "url": "https://jobs.elastic.co/jobs?gh_jid=8119454&gh_jid=8119454",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (3h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 100.0,
+          "postedAtUtc": "2026-08-18T06:19:44-04:00",
+          "atsJobId": "8119454",
+          "region": "Remote",
+          "regionRank": 2
         }
       ]
     }

@@ -2,14 +2,14 @@
   "running": true,
   "pid": 816,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-08-18T04:10:38.244578+00:00",
-  "nextCycleAt": "2026-08-18T04:40:38.244598+00:00",
-  "cycleCount": 820,
+  "lastCycleAt": "2026-08-18T14:01:50.017648+00:00",
+  "nextCycleAt": "2026-08-18T14:31:50.017734+00:00",
+  "cycleCount": 821,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-08-18T04:10:00.899480+00:00",
+      "lastRun": "2026-08-18T13:58:14.852657+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -17,7 +17,7 @@
     },
     {
       "name": "remotive",
-      "lastRun": "2026-08-18T04:10:01.680733+00:00",
+      "lastRun": "2026-08-18T13:58:15.521433+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -25,7 +25,7 @@
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-08-18T04:10:01.918627+00:00",
+      "lastRun": "2026-08-18T13:58:15.779785+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -33,7 +33,7 @@
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-08-18T04:10:03.061607+00:00",
+      "lastRun": "2026-08-18T13:58:16.818105+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -41,7 +41,7 @@
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-08-18T04:10:03.523112+00:00",
+      "lastRun": "2026-08-18T13:58:17.136136+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -49,7 +49,7 @@
     },
     {
       "name": "avature",
-      "lastRun": "2026-08-18T04:10:07.532461+00:00",
+      "lastRun": "2026-08-18T13:58:17.951465+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,7 +57,7 @@
     },
     {
       "name": "tradeweb",
-      "lastRun": "2026-08-18T04:10:15.234495+00:00",
+      "lastRun": "2026-08-18T13:58:26.779145+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -65,7 +65,7 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-08-18T04:10:15.839971+00:00",
+      "lastRun": "2026-08-18T13:58:27.549680+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -73,15 +73,15 @@
     },
     {
       "name": "builtin",
-      "lastRun": "2026-08-18T04:10:17.664684+00:00",
+      "lastRun": "2026-08-18T13:58:28.629975+00:00",
       "status": "ok",
-      "found": 1,
-      "added": 0,
+      "found": 2,
+      "added": 1,
       "error": null
     },
     {
       "name": "goldman",
-      "lastRun": "2026-08-18T04:10:26.870731+00:00",
+      "lastRun": "2026-08-18T13:58:38.195462+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -89,7 +89,7 @@
     },
     {
       "name": "millennium",
-      "lastRun": "2026-08-18T04:10:27.155343+00:00",
+      "lastRun": "2026-08-18T13:58:38.533090+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -97,7 +97,7 @@
     },
     {
       "name": "sig",
-      "lastRun": "2026-08-18T04:10:27.937464+00:00",
+      "lastRun": "2026-08-18T13:58:39.160765+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -105,7 +105,7 @@
     },
     {
       "name": "linkedin",
-      "lastRun": "2026-08-18T04:10:28.449885+00:00",
+      "lastRun": "2026-08-18T13:58:39.853709+00:00",
       "status": "ok",
       "found": null,
       "added": 1,
@@ -121,14 +121,20 @@
     },
     {
       "name": "ats_apis",
-      "lastRun": null,
-      "status": "skipped",
+      "lastRun": "2026-08-18T13:58:49.661655+00:00",
+      "status": "ok",
       "found": null,
-      "added": 0,
+      "added": 2,
       "error": null
     }
   ],
   "recentFinds": [
+    {
+      "company": "Morgan Stanley",
+      "title": "C++ Developer",
+      "source": "Built In",
+      "at": "2026-08-18T13:58:28.629975+00:00"
+    },
     {
       "company": "Databento",
       "title": "Software Engineer (C++/Java)",
@@ -362,17 +368,11 @@
       "title": "Embedded UI / Graphics Engineer",
       "source": "HN Who-is-Hiring",
       "at": "2026-08-04T06:45:09.383238+00:00"
-    },
-    {
-      "company": "IMC Trading",
-      "title": "C++ Software Engineer",
-      "source": "Built In",
-      "at": "2026-07-29T00:47:00.277751+00:00"
     }
   ],
   "totals": {
     "day": "2026-08-18",
-    "addedToday": 10,
-    "cyclesToday": 8
+    "addedToday": 14,
+    "cyclesToday": 9
   }
 }
