@@ -7408,6 +7408,28 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-17T19:08:46.874065+00:00"
+        },
+        {
+          "id": "li-vbeyond-corporation-software-engineer-c-c-unix-linux-2026-w34",
+          "company": "VBeyond Corporation",
+          "title": "Software Engineer \u2013 C/C++ | Unix/Linux",
+          "location": "Redmond, WA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 36 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-c-c%2B%2B-unix-linux-at-vbeyond-corporation-4455789385",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "36 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4455789385",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
