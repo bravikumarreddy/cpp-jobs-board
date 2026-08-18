@@ -7454,6 +7454,29 @@
           "externalId": "linkedin:4454912590",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-reliable-robotics-corporation-displays-software-engineer-c-c-2026-w34",
+          "company": "Reliable Robotics Corporation",
+          "title": "Displays Software Engineer, C/C++",
+          "location": "San Diego, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/displays-software-engineer-c-c%2B%2B-at-reliable-robotics-corporation-4455945676",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4455945676",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-18T20:24:44.350801+00:00"
         }
       ]
     }
