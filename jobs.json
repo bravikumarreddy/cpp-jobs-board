@@ -7432,6 +7432,28 @@
           "atsJobId": "7905709",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-intellectt-inc-c-developer-2026-w34",
+          "company": "Intellectt Inc",
+          "title": "C++ Developer",
+          "location": "Foster City, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-intellectt-inc-4454912590",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4454912590",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
