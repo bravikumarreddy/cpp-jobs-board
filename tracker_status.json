@@ -2,30 +2,30 @@
   "running": true,
   "pid": 816,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-08-18T00:33:26.301334+00:00",
-  "nextCycleAt": "2026-08-18T01:03:26.301441+00:00",
-  "cycleCount": 813,
+  "lastCycleAt": "2026-08-18T01:04:00.998768+00:00",
+  "nextCycleAt": "2026-08-18T01:34:00.998791+00:00",
+  "cycleCount": 814,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-08-18T00:06:58.549354+00:00",
-      "status": "error",
+      "lastRun": "2026-08-18T01:03:26.645298+00:00",
+      "status": "ok",
       "found": 0,
       "added": 0,
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "error": null
     },
     {
       "name": "remotive",
-      "lastRun": "2026-08-18T00:07:28.567966+00:00",
-      "status": "error",
+      "lastRun": "2026-08-18T01:03:27.154847+00:00",
+      "status": "ok",
       "found": 0,
       "added": 0,
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "error": null
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-08-18T00:07:58.625792+00:00",
+      "lastRun": "2026-08-18T01:03:27.544501+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -33,7 +33,7 @@
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-08-18T00:08:17.518753+00:00",
+      "lastRun": "2026-08-18T01:03:28.095064+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -41,15 +41,15 @@
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-08-18T00:08:17.817066+00:00",
-      "status": "error",
+      "lastRun": "2026-08-18T01:03:28.367363+00:00",
+      "status": "ok",
       "found": 0,
       "added": 0,
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "error": null
     },
     {
       "name": "avature",
-      "lastRun": "2026-08-18T00:08:47.838818+00:00",
+      "lastRun": "2026-08-18T01:03:29.256684+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,7 +57,7 @@
     },
     {
       "name": "tradeweb",
-      "lastRun": "2026-08-18T00:10:51.998249+00:00",
+      "lastRun": "2026-08-18T01:03:36.503396+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -65,7 +65,7 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-08-18T00:11:36.588516+00:00",
+      "lastRun": "2026-08-18T01:03:37.440396+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -73,23 +73,23 @@
     },
     {
       "name": "builtin",
-      "lastRun": "2026-08-18T00:12:06.601257+00:00",
+      "lastRun": "2026-08-18T01:03:38.812110+00:00",
+      "status": "ok",
+      "found": 1,
+      "added": 0,
+      "error": null
+    },
+    {
+      "name": "goldman",
+      "lastRun": "2026-08-18T01:03:49.097595+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
       "error": null
     },
     {
-      "name": "goldman",
-      "lastRun": "2026-08-18T00:20:03.287424+00:00",
-      "status": "error",
-      "found": 0,
-      "added": 0,
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
       "name": "millennium",
-      "lastRun": "2026-08-18T00:20:33.300149+00:00",
+      "lastRun": "2026-08-18T01:03:49.370171+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -97,7 +97,7 @@
     },
     {
       "name": "sig",
-      "lastRun": "2026-08-18T00:20:33.893297+00:00",
+      "lastRun": "2026-08-18T01:03:50.141210+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -105,10 +105,10 @@
     },
     {
       "name": "linkedin",
-      "lastRun": "2026-08-18T00:21:35.580309+00:00",
+      "lastRun": "2026-08-18T01:03:50.686936+00:00",
       "status": "ok",
       "found": null,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
@@ -121,11 +121,11 @@
     },
     {
       "name": "ats_apis",
-      "lastRun": "2026-08-18T00:24:17.714165+00:00",
-      "status": "error",
+      "lastRun": null,
+      "status": "skipped",
       "found": null,
       "added": 0,
-      "error": "Command '['/Applications/Xcode.app/Contents/Developer/usr/bin/python3', 'scrape_ats_apis.py', '--hours', '24', '--min-score', '55', '--merge']' timed out after 360 seconds"
+      "error": null
     }
   ],
   "recentFinds": [
@@ -372,7 +372,7 @@
   ],
   "totals": {
     "day": "2026-08-18",
-    "addedToday": 0,
-    "cyclesToday": 1
+    "addedToday": 2,
+    "cyclesToday": 2
   }
 }
