@@ -7362,6 +7362,52 @@
           "atsJobId": "8119454",
           "region": "Remote",
           "regionRank": 2
+        },
+        {
+          "id": "li-objective-partners-software-engineer-c-2026-w34",
+          "company": "Objective Partners",
+          "title": "Software Engineer - C++",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 18 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-objective-partners-4452540256",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "18 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4452540256",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-17T23:08:46.874065+00:00"
+        },
+        {
+          "id": "li-h-e-b-sr-software-engineer-c-c-backend-austin--2026-w34",
+          "company": "H-E-B",
+          "title": "Sr Software Engineer (C/C++) Backend-Austin & San Antonio, Texas",
+          "location": "San Antonio, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 22 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-c-c%2B%2B-backend-austin-san-antonio-texas-at-h-e-b-4455341679",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "22 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4455341679",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-17T19:08:46.874065+00:00"
         }
       ]
     }
