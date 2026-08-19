@@ -1272,29 +1272,6 @@
           "possibleRepost": "Software Engineer (C++/Java)"
         },
         {
-          "id": "li-geocue-software-developer-c-lp360-desktop-2026-w30",
-          "company": "GeoCue",
-          "title": "Software Developer C++ \u2013 LP360 Desktop",
-          "location": "Madison, AL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Software Developer C++ \u2013 LP360 DesktopLocation: Huntsville, AL (On-site)About the RoleWe are looking for a Software Developer (C++ \u2013 Desktop GIS) to join a small, high-impact\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-developer-c%2B%2B-%E2%80%93-lp360-desktop-at-geocue-4442219330",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "6 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4442219330",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-07-20T19:07:26.624993+00:00"
-        },
-        {
           "id": "li-mastercard-lead-software-engineer-c-c-2026-w30",
           "company": "Mastercard",
           "title": "Lead Software Engineer (C/C++)",
@@ -2699,28 +2676,6 @@
           "externalId": "linkedin:4414393623",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-agilegrid-solutions-c-developer-2026-w30",
-          "company": "AgileGrid Solutions",
-          "title": "C++ Developer",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "About The Company DataAnnotation is a leading technology firm specializing in data labeling and annotation services that empower organizations to harness the full potential\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-agilegrid-solutions-4445649208",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "41 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445649208",
-          "region": "Remote",
-          "regionRank": 2
         },
         {
           "id": "built-citadel-securities-c-market-data-engineer-2026-w30",
@@ -7808,34 +7763,6 @@
           "yoeFit": "Fits",
           "yoeNote": "unstated",
           "externalId": "greenhouse:7506262",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-19T14:25:02Z",
-          "easyApply": false
-        },
-        {
-          "id": "r8b-roku-7680250",
-          "company": "Roku",
-          "title": "Software Engineer, Embedded Systems",
-          "location": "San Jose, California",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "$197,900 - $270,000",
-          "summary": "Build embedded C++ software for Roku's TV streaming platform devices, working close to the hardware on performance-constrained consumer systems.",
-          "skills": [
-            "C++",
-            "Embedded systems",
-            "Linux",
-            "Performance",
-            "Consumer devices"
-          ],
-          "url": "https://www.weareroku.com/jobs/7680250?gh_jid=7680250",
-          "source": "Greenhouse API (Aug 18 agent sweep)",
-          "postedApprox": "today",
-          "h1bFit": "Yes \u2014 Roku: known H-1B sponsor; JD clean",
-          "yoeFit": "Fits",
-          "yoeNote": "5+",
-          "externalId": "gh:roku:7680250",
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-19T14:25:02Z",
