@@ -8290,6 +8290,121 @@
           "region": "Mountain",
           "regionRank": 4,
           "postedAtUtc": "2026-08-19T09:49:08.323059+00:00"
+        },
+        {
+          "id": "li-bmo-capital-markets-c-quant-developer-2026-w34",
+          "company": "BMO Capital Markets",
+          "title": "C++ Quant Developer",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-quant-developer-at-bmo-capital-markets-4362462554",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4362462554",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-19T15:24:24.777619+00:00"
+        },
+        {
+          "id": "li-latitude-ai-senior-embedded-software-engineer-c-hard-2026-w34",
+          "company": "Latitude AI",
+          "title": "Senior Embedded Software Engineer (C++) - Hardware Safety",
+          "location": "Pittsburgh, PA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-embedded-software-engineer-c%2B%2B-hardware-safety-at-latitude-ai-4456339535",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4456339535",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-global-liquidity-partners-c-software-engineer-electronic-trading-s-2026-w34",
+          "company": "Global Liquidity Partners",
+          "title": "C++ Software Engineer \u2013 Electronic Trading Systems",
+          "location": "New York City Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-%E2%80%93-electronic-trading-systems-at-global-liquidity-partners-4455434209",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4455434209",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-19T16:24:24.777619+00:00"
+        },
+        {
+          "id": "li-rockwell-automation-windows-software-engineer-c-c-2026-w34",
+          "company": "Rockwell Automation",
+          "title": "Windows Software Engineer C# - C++",
+          "location": "Phoenix, AZ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/windows-software-engineer-c%23-c%2B%2B-at-rockwell-automation-4446502481",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4446502481",
+          "region": "Mountain",
+          "regionRank": 4,
+          "postedAtUtc": "2026-08-19T13:24:24.777619+00:00"
+        },
+        {
+          "id": "li-amazon-web-services-aws-embedded-software-development-engineer-i-2026-w34",
+          "company": "Amazon Web Services (AWS)",
+          "title": "Embedded Software Development Engineer II (C/C++), AWS EC2 VPC NX",
+          "location": "Seattle, WA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-software-development-engineer-ii-c-c%2B%2B-aws-ec2-vpc-nx-at-amazon-web-services-aws-4455902881",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4455902881",
+          "possibleRepost": "Embedded Software Development Engineer II (C/C++)",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-19T07:24:24.777619+00:00"
         }
       ],
       "removedNotes": [
