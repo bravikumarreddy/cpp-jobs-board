@@ -7156,29 +7156,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-dell-technologies-senior-software-engineer-data-protection-2026-w34",
-          "company": "Dell Technologies",
-          "title": "Senior Software Engineer - Data Protection Software Engineering (C, C++)",
-          "location": "Santa Clara, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 22 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-data-protection-software-engineering-c-c%2B%2B-at-dell-technologies-4453994399",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "22 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4453994399",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-16T18:52:51.939034+00:00"
-        },
-        {
           "id": "li-anvik-technologies-senior-c-developer-qt-c-17-boost-ecologi-2026-w34",
           "company": "Anvik Technologies",
           "title": "Senior C++ Developer \u2013 Qt/C++17/Boost, Ecological Simulation Modeling",
@@ -7601,8 +7578,8 @@
           "yoeFit": "Fits",
           "yoeNote": "",
           "externalId": "linkedin:4409498750",
-          "region": "Central",
-          "regionRank": 3,
+          "region": "East",
+          "regionRank": 1,
           "postedAtUtc": "2026-08-17T00:00:00Z",
           "easyApply": false
         },
@@ -7630,32 +7607,6 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-16T22:00:00Z",
-          "easyApply": false
-        },
-        {
-          "id": "li-fresh-copley-controls-4455540887",
-          "company": "Copley Controls",
-          "title": "Principal / Senior Software Engineer (C++)",
-          "location": "Salem, NH",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Servo-drive / motion-control C++ firmware and tools at Copley Controls.",
-          "skills": [
-            "C++",
-            "Motion Control",
-            "Embedded"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4455540887/",
-          "source": "LinkedIn (Aug 18 fresh sweep)",
-          "postedApprox": "27 hours ago",
-          "h1bFit": "Confirm \u2014 motion-control manufacturer; JD clean \u2014 verify filing history",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4455540887",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-17T14:00:00Z",
           "easyApply": false
         },
         {
@@ -7757,8 +7708,8 @@
           "yoeFit": "Fits",
           "yoeNote": "",
           "externalId": "linkedin:4455558976",
-          "region": "Remote",
-          "regionRank": 2,
+          "region": "East",
+          "regionRank": 1,
           "postedAtUtc": "2026-08-17T17:00:00Z",
           "easyApply": false
         }
