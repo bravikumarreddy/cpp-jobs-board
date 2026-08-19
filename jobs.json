@@ -7477,6 +7477,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-18T20:24:44.350801+00:00"
+        },
+        {
+          "id": "li-garmin-senior-c-software-engineer-map-navigatio-2026-w34",
+          "company": "Garmin",
+          "title": "Senior C++ Software Engineer - Map Navigation",
+          "location": "Cary, NC",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted Just now. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-map-navigation-at-garmin-4456109086",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "Just now",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4456109086",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-18T23:30:20.152045+00:00"
         }
       ],
       "removedNotes": [
