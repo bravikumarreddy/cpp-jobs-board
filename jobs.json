@@ -7173,52 +7173,6 @@
           "postedAtUtc": "2026-08-17T21:35:14.877135+00:00"
         },
         {
-          "id": "li-humcap-software-engineer-c-mfc-2026-w34",
-          "company": "HumCap",
-          "title": "Software Engineer \u2013 C++ / MFC",
-          "location": "Richardson, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-c%2B%2B-mfc-at-humcap-4455398377",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "5 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4455398377",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-17T22:09:21.479105+00:00"
-        },
-        {
-          "id": "li-objective-partners-software-engineer-c-2026-w34",
-          "company": "Objective Partners",
-          "title": "Software Engineer - C++",
-          "location": "Chicago, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "LinkedIn scrape: posted 18 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-objective-partners-4452540256",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "18 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4452540256",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-17T23:08:46.874065+00:00"
-        },
-        {
           "id": "li-h-e-b-sr-software-engineer-c-c-backend-austin--2026-w34",
           "company": "H-E-B",
           "title": "Sr Software Engineer (C/C++) Backend-Austin & San Antonio, Texas",
@@ -7470,35 +7424,6 @@
           "externalId": "gh:riotgames:8001087",
           "region": "West",
           "regionRank": 5,
-          "postedAtUtc": "2026-08-19T14:25:02Z",
-          "easyApply": false
-        },
-        {
-          "id": "r8b-amd-87024",
-          "company": "AMD",
-          "title": "Virtual Software Modeling Engineer",
-          "location": "Austin, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Build Fast Platform Models: high-performance C++ functional models simulating AMD next-gen CPUs, MI-series GPUs, Data Fabric and high-speed IO so software teams boot/debug months before silicon. Wants strong C/C++ for high-performance systems software on Linux/Windows; AI-native workflow.",
-          "skills": [
-            "C/C++",
-            "systems software",
-            "hardware/software interfaces",
-            "SystemC/TLM-2.0",
-            "QEMU",
-            "multithreading"
-          ],
-          "url": "https://careers.amd.com/careers-home/jobs/87024",
-          "source": "Careers API (Aug 18 agent sweep)",
-          "postedApprox": "posted Jul 23, 2026 (~4 weeks ago)",
-          "h1bFit": "Yes - AMD sponsors H-1B; no restrictive language in JD",
-          "yoeFit": "Fits",
-          "yoeNote": "not stated",
-          "externalId": "amd:87024",
-          "region": "Central",
-          "regionRank": 3,
           "postedAtUtc": "2026-08-19T14:25:02Z",
           "easyApply": false
         },
@@ -7887,37 +7812,6 @@
           "easyApply": false
         },
         {
-          "id": "r8b-mastercard-r-275650",
-          "company": "Mastercard",
-          "title": "Senior Software Engineer",
-          "location": "O'Fallon, MO",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "$115,000-$184,000",
-          "summary": "Backend C/C++ development on Linux for Mastercard's high-throughput payment platform: performance engineering (throughput, latency, memory/CPU), automation scripting (shell/TCL/Perl/Python), observability via Dynatrace/Splunk. No explicit YOE floor \u2014 senior-level.",
-          "skills": [
-            "C",
-            "C++",
-            "Linux",
-            "performance engineering",
-            "shell/TCL/Perl/Python scripting",
-            "automation",
-            "Agile",
-            "Git"
-          ],
-          "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Senior-Software-Engineer_R-275650",
-          "source": "Workday API (Aug 19 agent sweep)",
-          "postedApprox": "1 day ago (Aug 18)",
-          "h1bFit": "Yes \u2014 Mastercard: heavy H-1B sponsor; JD clean",
-          "yoeFit": "Fits",
-          "yoeNote": "Not stated (senior level; ~6 YOE fits)",
-          "externalId": "workday:R-275650",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-19T14:35:49Z",
-          "easyApply": false
-        },
-        {
           "id": "r8b-micron-technology-jr105209",
           "company": "Micron Technology",
           "title": "Senior Embedded Firmware Engineer (Systems Integration Group)",
@@ -8144,27 +8038,27 @@
           "regionRank": 5
         },
         {
-          "id": "li-siemens-eda-siemens-digital-industries-software-senior-software-engineer-c-ds-algorithm-2026-w34",
+          "id": "li-siemens-eda-siemens-digital-industries-software-senior-principal-software-engineer-c-ds--2026-w34",
           "company": "Siemens EDA (Siemens Digital Industries Software)",
-          "title": "Senior Software Engineer (C++/DS/Algorithm)",
+          "title": "Senior/Principal Software Engineer (C++/DS/Algorithm)",
           "location": "Santa Clara, CA",
           "remote": "Onsite",
           "industry": "\u2014",
-          "salary": "",
-          "summary": "LinkedIn scrape: posted 11 hours ago. Verify role details on opening.",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
           "skills": [
             "C++"
           ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-ds-algorithm-at-siemens-eda-siemens-digital-industries-software-4445726957",
+          "url": "https://www.linkedin.com/jobs/view/senior-principal-software-engineer-c%2B%2B-ds-algorithm-at-siemens-eda-siemens-digital-industries-software-4443117953",
           "source": "LinkedIn (24h scrape)",
-          "postedApprox": "11 hours ago",
+          "postedApprox": "1 hour ago",
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
           "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445726957",
+          "externalId": "linkedin:4443117953",
           "region": "West",
           "regionRank": 5,
-          "postedAtUtc": "2026-08-19T14:05:54.434556+00:00"
+          "postedAtUtc": "2026-08-20T06:21:25.102831+00:00"
         }
       ],
       "removedNotes": [
