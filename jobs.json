@@ -7339,6 +7339,51 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-20T14:42:03.535211+00:00"
+        },
+        {
+          "id": "li-bloomberg-senior-software-engineer-c-customer-dist-2026-w34",
+          "company": "Bloomberg",
+          "title": "Senior Software Engineer (C++) - Customer Distribution Infrastructure",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 47 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-customer-distribution-infrastructure-at-bloomberg-4454107424",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "47 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4454107424",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-ocho-contract-c-developer-2026-w34",
+          "company": "Ocho",
+          "title": "Contract C++ Developer",
+          "location": "Illinois, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/contract-c%2B%2B-developer-at-ocho-4455678944",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4455678944",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-20T15:13:24.756857+00:00"
         }
       ],
       "removedNotes": [
