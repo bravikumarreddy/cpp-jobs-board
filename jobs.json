@@ -7247,6 +7247,29 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-08-20T08:57:02.447453+00:00"
+        },
+        {
+          "id": "li-kla-sr-electrical-design-engineer-linux-firm-2026-w34",
+          "company": "KLA",
+          "title": "Sr. Electrical Design Engineer (Linux, Firmware, Embedded, C++)",
+          "location": "Milpitas, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-electrical-design-engineer-linux-firmware-embedded-c%2B%2B-at-kla-4435605065",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4435605065",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-20T12:35:57.071435+00:00"
         }
       ],
       "removedNotes": [
