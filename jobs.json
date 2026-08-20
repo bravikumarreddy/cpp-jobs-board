@@ -7384,6 +7384,29 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-20T15:13:24.756857+00:00"
+        },
+        {
+          "id": "li-latitude-ai-senior-software-engineer-vehicle-communi-2026-w34",
+          "company": "Latitude AI",
+          "title": "Senior Software Engineer - Vehicle Communication (C++)",
+          "location": "Detroit, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-vehicle-communication-c%2B%2B-at-latitude-ai-4419541659",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4419541659",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-20T12:14:47.474975+00:00"
         }
       ],
       "removedNotes": [
