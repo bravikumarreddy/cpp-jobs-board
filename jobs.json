@@ -9405,6 +9405,33 @@
           "regionRank": 1,
           "postedAtUtc": "2026-08-20T23:07:19Z",
           "easyApply": false
+        },
+        {
+          "id": "r9-neurospark-ai-linkedin-4454436598",
+          "company": "NeuroSpark AI",
+          "title": "Member of Technical Staff \u2014 AI Infra Algorithms",
+          "location": "California, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": "",
+          "summary": "AI infrastructure algorithms and C++/CUDA kernel work at an AI-infra startup that explicitly sponsors H-1B.",
+          "skills": [
+            "C++",
+            "CUDA",
+            "AI Infrastructure",
+            "Performance"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/4454436598/",
+          "source": "LinkedIn targeted (Aug 20)",
+          "postedApprox": "2 days ago",
+          "h1bFit": "Yes \u2014 JD states verbatim: \"We are able to sponsor H-1B and other work visas for qualified candidates\"",
+          "yoeFit": "Fits",
+          "yoeNote": "3+",
+          "externalId": "linkedin:4454436598",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-20T23:09:56Z",
+          "easyApply": false
         }
       ],
       "removedNotes": [
