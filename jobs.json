@@ -8476,6 +8476,52 @@
           "externalId": "linkedin:4455476208",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-oteemo-inc-software-engineer-c-2026-w34",
+          "company": "Oteemo Inc.",
+          "title": "Software Engineer (C++)",
+          "location": "Manassas, VA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer%C2%A0-c%2B%2B-at-oteemo-inc-4456395724",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4456395724",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-19T23:05:54.434556+00:00"
+        },
+        {
+          "id": "li-siemens-eda-siemens-digital-industries-software-senior-software-engineer-c-ds-algorithm-2026-w34",
+          "company": "Siemens EDA (Siemens Digital Industries Software)",
+          "title": "Senior Software Engineer (C++/DS/Algorithm)",
+          "location": "Santa Clara, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 11 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-ds-algorithm-at-siemens-eda-siemens-digital-industries-software-4445726957",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "11 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4445726957",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-19T14:05:54.434556+00:00"
         }
       ],
       "removedNotes": [
