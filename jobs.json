@@ -4010,29 +4010,6 @@
           "postedAtUtc": "2026-07-31T13:07:35.469562+00:00"
         },
         {
-          "id": "li-garmin-senior-c-software-engineer-map-rendering-2026-w31",
-          "company": "Garmin",
-          "title": "Senior C++ Software Engineer -Map Rendering",
-          "location": "Cary, NC",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Overview We are seeking a highly skilled Senior C++ Software Engineer to join our Cary, North Carolina location in our Map Rendering group. This team focuses on developing\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-map-rendering-at-garmin-4438858633",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4438858633",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-31T12:38:33.335378+00:00"
-        },
-        {
           "id": "li-latitude-ai-software-engineer-ii-vehicle-communicati-2026-w31",
           "company": "Latitude AI",
           "title": "Software Engineer II - Vehicle Communication (C++)",
@@ -6175,7 +6152,8 @@
           "externalId": "linkedin:4441407046",
           "region": "East",
           "regionRank": 1,
-          "postedAtUtc": "2026-08-07T00:06:43.695158+00:00"
+          "postedAtUtc": "2026-08-07T00:06:43.695158+00:00",
+          "possibleRepost": "Senior C++ Software Engineer - Map Navigation"
         }
       ],
       "removedNotes": [
@@ -7287,29 +7265,6 @@
           "postedAtUtc": "2026-08-17T22:09:21.479105+00:00"
         },
         {
-          "id": "built-morgan-stanley-c-developer-2026-w34",
-          "postedAtUtc": "2026-08-18T00:00:00.000930+00:00",
-          "company": "Morgan Stanley",
-          "title": "C++ Developer",
-          "location": "New York, New York",
-          "remote": "See posting",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Live tracker (Built In): posted 13 hours ago. Verify details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.builtinnyc.com/job/c-developer/9059081",
-          "source": "Built In",
-          "postedApprox": "13 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
-          "externalId": "builtin:9059081",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "elastic-principal-software-engineer-performance-tuning-elasticsearch-2026-w34",
           "company": "Elastic",
           "title": "Principal Software Engineer - Performance Tuning - Elasticsearch",
@@ -7559,31 +7514,6 @@
           "easyApply": false
         },
         {
-          "id": "li-fresh-capgemini-4455307964",
-          "company": "Capgemini",
-          "title": "C++ Developer",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "C++ development via Capgemini for a NYC client (likely financial services).",
-          "skills": [
-            "C++",
-            "Finance"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4455307964/",
-          "source": "LinkedIn (Aug 18 fresh sweep)",
-          "postedApprox": "35 hours ago",
-          "h1bFit": "Confirm \u2014 consulting firm (does sponsor); confirm end client + role",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4455307964",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-17T06:00:00Z",
-          "easyApply": false
-        },
-        {
           "id": "li-fresh-harvey-nash-agency-4454205402",
           "company": "Harvey Nash (agency)",
           "title": "Senior Embedded Software Engineer \u2014 ADAS",
@@ -7633,33 +7563,6 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-16T23:00:00Z",
-          "easyApply": false
-        },
-        {
-          "id": "li-fresh-fairwaves-4455558976",
-          "company": "Fairwaves",
-          "title": "Senior C/C++ Developer \u2014 2G/4G/5G Protocol Stacks",
-          "location": "Indiana, United States (Remote)",
-          "remote": "Remote",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Protocol-stack C/C++ development (osmocom-style 2G\u20135G) at Fairwaves, US remote.",
-          "skills": [
-            "C",
-            "C++",
-            "Telecom",
-            "5G"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4455558976/",
-          "source": "LinkedIn (Aug 18 fresh sweep)",
-          "postedApprox": "24 hours ago",
-          "h1bFit": "Uncertain \u2014 small open-source telecom vendor; JD clean \u2014 verify ability to sponsor",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4455558976",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-17T17:00:00Z",
           "easyApply": false
         },
         {
