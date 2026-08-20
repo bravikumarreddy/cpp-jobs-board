@@ -7224,6 +7224,29 @@
           "externalId": "linkedin:4456339535",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-hydrolix-senior-software-engineer-c-developer-2026-w34",
+          "company": "Hydrolix",
+          "title": "Senior Software Engineer: C++ Developer",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-developer-at-hydrolix-4453864540",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4453864540",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-08-20T08:57:02.447453+00:00"
         }
       ],
       "removedNotes": [
