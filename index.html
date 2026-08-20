@@ -853,11 +853,15 @@ function render() {
       sep.textContent = '⬇ Staffing / recruiting agencies — last resort';
       container.appendChild(sep);
     }
-    container.appendChild(buildJobCard(job));
+    try { container.appendChild(buildJobCard(job)); }
+    catch (e) { console.error('bad job card skipped:', job && job.id, e); }
   });
 
   // Original per-card builder — refactored from the inline forEach loop.
   function buildJobCard(job) {
+    // Data from multi-source sweeps can be malformed — never let one row
+    // kill the whole render (skills as string, null fields, …).
+    if (!Array.isArray(job.skills)) job.skills = job.skills ? String(job.skills).split(',').map(s => s.trim()).filter(Boolean) : [];
     const card = document.createElement('div');
     const isApplied = state.applied.has(job.id);
     const stale = isStale(job.id);
