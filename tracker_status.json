@@ -2,14 +2,14 @@
   "running": true,
   "pid": 816,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-08-20T14:37:38.747565+00:00",
-  "nextCycleAt": "2026-08-20T15:07:38.747588+00:00",
-  "cycleCount": 887,
+  "lastCycleAt": "2026-08-20T15:08:39.764361+00:00",
+  "nextCycleAt": "2026-08-20T15:38:39.764384+00:00",
+  "cycleCount": 888,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-08-20T14:37:03.368947+00:00",
+      "lastRun": "2026-08-20T15:07:45.113135+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -17,7 +17,7 @@
     },
     {
       "name": "remotive",
-      "lastRun": "2026-08-20T14:37:04.532856+00:00",
+      "lastRun": "2026-08-20T15:07:46.376593+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -25,7 +25,7 @@
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-08-20T14:37:04.813223+00:00",
+      "lastRun": "2026-08-20T15:07:46.651046+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -33,7 +33,7 @@
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-08-20T14:37:05.896142+00:00",
+      "lastRun": "2026-08-20T15:07:47.032487+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -41,7 +41,7 @@
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-08-20T14:37:06.184730+00:00",
+      "lastRun": "2026-08-20T15:07:47.476623+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -49,7 +49,7 @@
     },
     {
       "name": "avature",
-      "lastRun": "2026-08-20T14:37:07.061086+00:00",
+      "lastRun": "2026-08-20T15:07:47.837424+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,7 +57,7 @@
     },
     {
       "name": "tradeweb",
-      "lastRun": "2026-08-20T14:37:14.589544+00:00",
+      "lastRun": "2026-08-20T15:07:55.465441+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -65,7 +65,7 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-08-20T14:37:15.202015+00:00",
+      "lastRun": "2026-08-20T15:07:56.310668+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -73,7 +73,7 @@
     },
     {
       "name": "builtin",
-      "lastRun": "2026-08-20T14:37:16.474143+00:00",
+      "lastRun": "2026-08-20T15:07:57.586437+00:00",
       "status": "ok",
       "found": 1,
       "added": 0,
@@ -81,23 +81,23 @@
     },
     {
       "name": "goldman",
-      "lastRun": "2026-08-20T14:37:26.298743+00:00",
+      "lastRun": "2026-08-20T15:08:07.467130+00:00",
       "status": "ok",
-      "found": 0,
-      "added": 0,
+      "found": 1,
+      "added": 1,
       "error": null
     },
     {
       "name": "millennium",
-      "lastRun": "2026-08-20T14:37:26.674677+00:00",
-      "status": "ok",
+      "lastRun": "2026-08-20T15:08:07.928278+00:00",
+      "status": "error",
       "found": 0,
       "added": 0,
-      "error": null
+      "error": "The read operation timed out"
     },
     {
       "name": "sig",
-      "lastRun": "2026-08-20T14:37:27.298057+00:00",
+      "lastRun": "2026-08-20T15:08:28.091894+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -105,7 +105,7 @@
     },
     {
       "name": "linkedin",
-      "lastRun": "2026-08-20T14:37:28.168977+00:00",
+      "lastRun": "2026-08-20T15:08:28.943411+00:00",
       "status": "ok",
       "found": null,
       "added": 2,
@@ -129,6 +129,12 @@
     }
   ],
   "recentFinds": [
+    {
+      "company": "Goldman Sachs",
+      "title": "Global Banking & Markets, Equity Electronic Market Making C++ Developer, Associate/ Vice President, Hong Kong",
+      "source": "Goldman (higher.gs)",
+      "at": "2026-08-20T15:08:07.467130+00:00"
+    },
     {
       "company": "Morgan Stanley",
       "title": "C++ Developer",
@@ -362,17 +368,11 @@
       "title": "Embedded UI / Graphics Engineer",
       "source": "HN Who-is-Hiring",
       "at": "2026-08-05T14:05:46.584535+00:00"
-    },
-    {
-      "company": "Lopaka",
-      "title": "Embedded UI / Graphics Engineer",
-      "source": "HN Who-is-Hiring",
-      "at": "2026-08-04T06:45:09.383238+00:00"
     }
   ],
   "totals": {
     "day": "2026-08-20",
-    "addedToday": 47,
-    "cyclesToday": 29
+    "addedToday": 50,
+    "cyclesToday": 30
   }
 }
