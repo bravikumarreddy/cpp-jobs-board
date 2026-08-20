@@ -7453,6 +7453,28 @@
           "externalId": "linkedin:4456036195",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-confidential-hedge-fund-c-low-latency-developer-2026-w34",
+          "company": "Confidential Hedge Fund",
+          "title": "C++ low latency developer",
+          "location": "New York City Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 14 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-low-latency-developer-4456796972",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "14 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4456796972",
+          "region": "East",
+          "regionRank": 1
         }
       ],
       "removedNotes": [
