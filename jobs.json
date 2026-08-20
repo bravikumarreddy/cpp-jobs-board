@@ -8431,6 +8431,51 @@
           "atsJobId": "8097810",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-hcltech-cabin-systems-engineer-c-python-linux-2026-w34",
+          "company": "HCLTech",
+          "title": "Cabin Systems Engineer C++ Python Linux",
+          "location": "Greater Seattle Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/cabin-systems-engineer-c%2B%2B-python-linux-at-hcltech-4453463870",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4453463870",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-19T20:01:46.001410+00:00"
+        },
+        {
+          "id": "li-philips-senior-staff-software-engineer-with-c-dr-2026-w34",
+          "company": "Philips",
+          "title": "Senior/Staff Software Engineer with C++ - Drivers, Diagnostic, & Embedded Software (San Diego, CA)",
+          "location": "San Diego, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 9 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-staff-software-engineer-with-c%2B%2B-drivers-diagnostic-embedded-software-san-diego-ca-at-philips-4455476208",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "9 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4455476208",
+          "region": "West",
+          "regionRank": 5
         }
       ],
       "removedNotes": [
