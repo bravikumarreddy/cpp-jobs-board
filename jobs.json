@@ -7433,28 +7433,6 @@
           "regionRank": 5
         },
         {
-          "id": "li-relevance-lab-c-developer-2026-w34",
-          "company": "Relevance Lab",
-          "title": "C++ Developer",
-          "location": "Boston, MA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 6 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-relevance-lab-4456036195",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "6 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4456036195",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-confidential-hedge-fund-c-low-latency-developer-2026-w34",
           "company": "Confidential Hedge Fund",
           "title": "C++ low latency developer",
