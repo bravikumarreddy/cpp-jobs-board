@@ -5971,29 +5971,6 @@
           "postedAtUtc": "2026-08-06T15:13:16.518711+00:00"
         },
         {
-          "id": "li-fairwaves-senior-c-c-developer-for-2g-4g-5g-protoc-2026-w32",
-          "company": "Fairwaves",
-          "title": "Senior C/C++ developer for 2G/4G/5G protocol stacks - Fairwaves",
-          "location": "Indiana, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "LinkedIn scrape: posted 11 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c-c%2B%2B-developer-for-2g-4g-5g-protocol-stacks-fairwaves-at-fairwaves-4450054251",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "11 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4450054251",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-07T04:18:19.246615+00:00"
-        },
-        {
           "id": "li-cadence-sr-principal-c-software-engineer-2026-w32",
           "company": "Cadence",
           "title": "Sr Principal C++ Software Engineer",
@@ -7128,29 +7105,6 @@
       "label": "Week of August 17, 2026",
       "jobs": [
         {
-          "id": "li-summit-securities-group-c-software-engineer-options-tradin-2026-w34",
-          "company": "Summit Securities Group",
-          "title": "C++ Software Engineer - Options Trading Systems",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "LinkedIn scrape: posted 2026-08-12. Re-added by nightly recall audit 08-17 \u2014 guest API served unstable result sets and the daemon's pages never included this card. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-options-trading-systems-at-summit-securities-group-4452709732",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "5 days ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4452709732",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-12T12:00:00+00:00"
-        },
-        {
           "id": "li-io-associates-c-engineer-low-latency-2026-w34",
           "company": "iO Associates",
           "title": "C++ Engineer (Low Latency)",
@@ -7219,29 +7173,6 @@
           "postedAtUtc": "2026-08-17T21:35:14.877135+00:00"
         },
         {
-          "id": "li-chainsage-senior-c-engineer-2026-w34",
-          "company": "Chainsage",
-          "title": "Senior C++ Engineer",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-engineer-at-chainsage-4455389209",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4455389209",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-08-17T21:35:14.877135+00:00"
-        },
-        {
           "id": "li-humcap-software-engineer-c-mfc-2026-w34",
           "company": "HumCap",
           "title": "Software Engineer \u2013 C++ / MFC",
@@ -7263,31 +7194,6 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-17T22:09:21.479105+00:00"
-        },
-        {
-          "id": "elastic-principal-software-engineer-performance-tuning-elasticsearch-2026-w34",
-          "company": "Elastic",
-          "title": "Principal Software Engineer - Performance Tuning - Elasticsearch",
-          "location": "United States",
-          "remote": "Onsite/Hybrid",
-          "industry": "Platform - Elasticsearch",
-          "salary": "",
-          "summary": "FRESH \u2014 posted Today (3h ago). Callback score 100.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Distributed systems",
-            "Rust"
-          ],
-          "url": "https://jobs.elastic.co/jobs?gh_jid=8119454&gh_jid=8119454",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (3h ago)",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 100.0,
-          "postedAtUtc": "2026-08-18T06:19:44-04:00",
-          "atsJobId": "8119454",
-          "region": "Remote",
-          "regionRank": 2
         },
         {
           "id": "li-objective-partners-software-engineer-c-2026-w34",
@@ -7459,32 +7365,6 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-17T01:00:00Z",
-          "easyApply": false
-        },
-        {
-          "id": "li-fresh-general-motors-4409498750",
-          "company": "General Motors",
-          "title": "Senior Software Engineer \u2014 C++/UI \u2014 Warren, MI",
-          "location": "Warren, MI",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Same C++ UI/HMI role family at GM's Warren Tech Center.",
-          "skills": [
-            "C++",
-            "UI",
-            "Embedded"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4409498750/",
-          "source": "LinkedIn (Aug 18 fresh sweep)",
-          "postedApprox": "41 hours ago",
-          "h1bFit": "Yes \u2014 GM: verified sponsor; JD clean",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4409498750",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-17T00:00:00Z",
           "easyApply": false
         },
         {
@@ -8285,28 +8165,6 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-19T14:05:54.434556+00:00"
-        },
-        {
-          "id": "li-anson-mccade-senior-software-engineer-c-2026-w34",
-          "company": "Anson McCade",
-          "title": "Senior Software Engineer (C++)",
-          "location": "New York, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 6 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-at-anson-mccade-4453802951",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "6 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4453802951",
-          "region": "East",
-          "regionRank": 1
         }
       ],
       "removedNotes": [
