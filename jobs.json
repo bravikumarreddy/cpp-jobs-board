@@ -7173,29 +7173,6 @@
           "postedAtUtc": "2026-08-17T21:35:14.877135+00:00"
         },
         {
-          "id": "li-h-e-b-sr-software-engineer-c-c-backend-austin--2026-w34",
-          "company": "H-E-B",
-          "title": "Sr Software Engineer (C/C++) Backend-Austin & San Antonio, Texas",
-          "location": "San Antonio, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "LinkedIn scrape: posted 22 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-c-c%2B%2B-backend-austin-san-antonio-texas-at-h-e-b-4455341679",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "22 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4455341679",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-17T19:08:46.874065+00:00"
-        },
-        {
           "id": "waymo-software-engineer-marketplace-logistic-2026-w34",
           "company": "Waymo",
           "title": "Software Engineer, Marketplace Logistic",
@@ -7293,32 +7270,6 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-18T16:00:00Z",
-          "easyApply": false
-        },
-        {
-          "id": "li-fresh-general-motors-4409511102",
-          "company": "General Motors",
-          "title": "Senior Software Engineer \u2014 C++/UI \u2014 Austin, TX",
-          "location": "Austin, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "C++ UI/HMI software for GM vehicle platforms, Austin campus.",
-          "skills": [
-            "C++",
-            "UI",
-            "Embedded"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4409511102/",
-          "source": "LinkedIn (Aug 18 fresh sweep)",
-          "postedApprox": "40 hours ago",
-          "h1bFit": "Yes \u2014 GM: verified sponsor; JD clean (EEO boilerplate only)",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4409511102",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-17T01:00:00Z",
           "easyApply": false
         },
         {
@@ -7812,37 +7763,6 @@
           "easyApply": false
         },
         {
-          "id": "r8b-micron-technology-jr105209",
-          "company": "Micron Technology",
-          "title": "Senior Embedded Firmware Engineer (Systems Integration Group)",
-          "location": "Boise, ID",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Equipment Software Design team building custom in-house semiconductor manufacturing equipment: embedded firmware from bare-metal to embedded Linux in C/C++, plus higher-level interface software; hardware-adjacent debugging with lab instruments (SPI/I2C, scopes).",
-          "skills": [
-            "C",
-            "C++",
-            "bare-metal firmware",
-            "embedded Linux",
-            "SPI/I2C",
-            "hardware bring-up",
-            "Python",
-            "lab debugging"
-          ],
-          "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---SIG-Building/Senior-Embedded-Firmware-Engineer_JR105209",
-          "source": "Workday API (Aug 19 agent sweep)",
-          "postedApprox": "30+ days ago (Jul 6)",
-          "h1bFit": "Yes \u2014 Micron: heavy H-1B sponsor; JD clean",
-          "yoeFit": "Fits",
-          "yoeNote": "4+ embedded (BS EE/CE); 5+ preferred",
-          "externalId": "workday:JR105209",
-          "region": "Mountain",
-          "regionRank": 4,
-          "postedAtUtc": "2026-08-19T14:35:49Z",
-          "easyApply": false
-        },
-        {
           "id": "r8b-abbott-31158740",
           "company": "Abbott",
           "title": "Sr. Embedded Software Engineer",
@@ -7873,29 +7793,6 @@
           "regionRank": 5,
           "postedAtUtc": "2026-08-19T14:35:49Z",
           "easyApply": false
-        },
-        {
-          "id": "li-peoplepilot-embedded-software-engineer-c-2026-w34",
-          "company": "PeoplePilot",
-          "title": "Embedded Software Engineer \u2013 C++",
-          "location": "Phoenix, AZ",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-%E2%80%93-c%2B%2B-at-peoplepilot-4454989441",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "6 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4454989441",
-          "region": "Mountain",
-          "regionRank": 4,
-          "postedAtUtc": "2026-08-19T09:49:08.323059+00:00"
         },
         {
           "id": "li-latitude-ai-senior-embedded-software-engineer-c-hard-2026-w34",
@@ -7967,55 +7864,6 @@
           "postedAtUtc": "2026-08-19T07:24:24.777619+00:00"
         },
         {
-          "id": "roblox-senior-software-engineer-runtime-2026-w34",
-          "company": "Roblox",
-          "title": "Senior Software Engineer, Runtime",
-          "location": "San Mateo, CA, United States",
-          "remote": "Onsite/Hybrid",
-          "industry": "Software Engineering",
-          "salary": "",
-          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 100.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "C++17",
-            "Multithreading",
-            "Go"
-          ],
-          "url": "https://careers.roblox.com/jobs/8097810?gh_jid=8097810",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (1h ago)",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 100.0,
-          "postedAtUtc": "2026-08-19T13:19:28-04:00",
-          "atsJobId": "8097810",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
-          "id": "li-hcltech-cabin-systems-engineer-c-python-linux-2026-w34",
-          "company": "HCLTech",
-          "title": "Cabin Systems Engineer C++ Python Linux",
-          "location": "Greater Seattle Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/cabin-systems-engineer-c%2B%2B-python-linux-at-hcltech-4453463870",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "4 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4453463870",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-19T20:01:46.001410+00:00"
-        },
-        {
           "id": "li-philips-senior-staff-software-engineer-with-c-dr-2026-w34",
           "company": "Philips",
           "title": "Senior/Staff Software Engineer with C++ - Drivers, Diagnostic, & Embedded Software (San Diego, CA)",
@@ -8036,29 +7884,6 @@
           "externalId": "linkedin:4455476208",
           "region": "West",
           "regionRank": 5
-        },
-        {
-          "id": "li-siemens-eda-siemens-digital-industries-software-senior-principal-software-engineer-c-ds--2026-w34",
-          "company": "Siemens EDA (Siemens Digital Industries Software)",
-          "title": "Senior/Principal Software Engineer (C++/DS/Algorithm)",
-          "location": "Santa Clara, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-principal-software-engineer-c%2B%2B-ds-algorithm-at-siemens-eda-siemens-digital-industries-software-4443117953",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4443117953",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-20T06:21:25.102831+00:00"
         }
       ],
       "removedNotes": [
