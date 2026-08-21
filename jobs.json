@@ -9366,37 +9366,6 @@
           "easyApply": false
         },
         {
-          "id": "r9-adobe-wd-adobe-r169819",
-          "company": "Adobe",
-          "title": "Software Quality Engineer",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "$153,200 - $221,750",
-          "summary": "Quality engineering across Adobe's native rendering stack: writing C++ unit and integration tests with GoogleTest/Catch2, validating C++ modules behind React/WebGL/WebGPU canvas surfaces in GPU-enabled CI.",
-          "skills": [
-            "C++",
-            "GoogleTest",
-            "Catch2",
-            "Test automation",
-            "WebGL",
-            "WebGPU",
-            "CI/CD",
-            "React"
-          ],
-          "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Software-Quality-Engineer_R169819",
-          "source": "Workday API (Aug 20 sweep)",
-          "postedApprox": "Posted 30+ Days Ago",
-          "h1bFit": "Likely \u2014 Adobe is a top-tier H-1B sponsor; no sponsorship restriction in JD",
-          "yoeFit": "Fits",
-          "yoeNote": "Not stated",
-          "externalId": "workday:R169819",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-20T23:15:38Z",
-          "easyApply": false
-        },
-        {
           "id": "r9-globus-medical-wd-globusmedical-jr106386",
           "company": "Globus Medical",
           "title": "Software Engineer-Backend",
