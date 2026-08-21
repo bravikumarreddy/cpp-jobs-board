@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-20",
-  "lastChecked": "2026-08-20",
+  "lastUpdated": "2026-08-21",
+  "lastChecked": "2026-08-21",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -6885,28 +6885,6 @@
           "easyApply": false
         },
         {
-          "id": "li-seacrest-behavioral-health-software-engineer-c-2026-w33",
-          "company": "Seacrest Behavioral Health",
-          "title": "Software Engineer (C++)",
-          "location": "Baldwinsville, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "LinkedIn scrape: posted 34 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-seacrest-behavioral-health-4453745602",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "34 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4453745602",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-sundayy-software-engineer-c-api-2026-w33",
           "company": "Sundayy",
           "title": "Software Engineer (C++, API)",
@@ -9972,6 +9950,30 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-20T22:31:38.740682+00:00"
+        },
+        {
+          "id": "li-venture-search-c-developer-hft-2026-w34",
+          "company": "Venture Search",
+          "title": "C++ Developer (HFT)",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-hft-at-venture-search-4454634338",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4454634338",
+          "possibleRepost": "Core C++ Developer (HFT Crypto)",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-21T13:05:46.911642+00:00"
         }
       ],
       "removedNotes": [
