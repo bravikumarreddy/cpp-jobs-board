@@ -9920,6 +9920,28 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-08-21T16:15:11.273707+00:00"
+        },
+        {
+          "id": "the-uber-staff-software-engineer-av-labs-2026-w34",
+          "postedAtUtc": "2026-08-21T06:22:30.000572+00:00",
+          "company": "Uber",
+          "title": "Staff Software Engineer - AV Labs",
+          "location": "Sunnyvale, CA",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (The Muse): posted 13 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.themuse.com/jobs/uber/staff-software-engineer-av-labs-d5f36c",
+          "source": "The Muse",
+          "postedApprox": "13 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5
         }
       ],
       "removedNotes": [
