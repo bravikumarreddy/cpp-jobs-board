@@ -2371,29 +2371,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-stealth-ai-startup-senior-software-engineer-embedded-system-2026-w30",
-          "company": "Stealth AI Startup",
-          "title": "Senior Software Engineer, Embedded Systems (C++)",
-          "location": "San Francisco Bay Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Hybrid | Irvine, California | Full-time About the Opportunity Join an established edge-AI semiconductor company developing technology that enables artificial intelligence to\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-embedded-systems-c%2B%2B-at-stealth-ai-startup-4443771384",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "16 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4443771384",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-07-22T08:33:04.935260+00:00"
-        },
-        {
           "id": "li-jpmorganchase-senior-lead-software-engineering-c-low-l-2026-w30",
           "company": "JPMorganChase",
           "title": "Senior Lead Software Engineering - C++ low latency",
@@ -2883,29 +2860,6 @@
           "region": "Other",
           "regionRank": 6,
           "postedAtUtc": "2026-07-28T11:52:11.516970+00:00"
-        },
-        {
-          "id": "li-axon-senior-c-software-engineer-2026-w31",
-          "company": "Axon",
-          "title": "Senior C++ Software Engineer",
-          "location": "Sterling, VA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Join Axon and be a Force for Good.At Axon, we\u2019re on a mission to Protect Life. We\u2019re explorers, pursuing society\u2019s most critical safety and justice issues with our ecosystem\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-axon-4418926648",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "20 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4418926648",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-27T18:52:11.516970+00:00"
         },
         {
           "id": "li-zimmer-biomet-senior-software-developer-c-qt-mitk-vtk-2026-w31",
@@ -9943,28 +9897,6 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-21T13:05:46.911642+00:00"
-        },
-        {
-          "id": "the-uber-staff-software-engineer-av-labs-2026-w34",
-          "postedAtUtc": "2026-08-21T06:22:30.000614+00:00",
-          "company": "Uber",
-          "title": "Staff Software Engineer - AV Labs",
-          "location": "Sunnyvale, CA",
-          "remote": "See posting",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Live tracker (The Muse): posted 9 hours ago. Verify details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.themuse.com/jobs/uber/staff-software-engineer-av-labs-d5f36c",
-          "source": "The Muse",
-          "postedApprox": "9 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
-          "region": "West",
-          "regionRank": 5
         }
       ],
       "removedNotes": [
