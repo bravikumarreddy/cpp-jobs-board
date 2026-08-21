@@ -2,14 +2,14 @@
   "running": true,
   "pid": 816,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-08-21T15:06:31.619526+00:00",
-  "nextCycleAt": "2026-08-21T15:36:31.619561+00:00",
-  "cycleCount": 913,
+  "lastCycleAt": "2026-08-21T15:37:18.420949+00:00",
+  "nextCycleAt": "2026-08-21T16:07:18.420978+00:00",
+  "cycleCount": 914,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-08-21T15:02:27.455740+00:00",
+      "lastRun": "2026-08-21T15:36:34.516681+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -17,7 +17,7 @@
     },
     {
       "name": "remotive",
-      "lastRun": "2026-08-21T15:02:28.477895+00:00",
+      "lastRun": "2026-08-21T15:36:35.449907+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -25,7 +25,7 @@
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-08-21T15:02:28.844802+00:00",
+      "lastRun": "2026-08-21T15:36:35.699824+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -33,7 +33,7 @@
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-08-21T15:02:29.857059+00:00",
+      "lastRun": "2026-08-21T15:36:36.067822+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -41,7 +41,7 @@
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-08-21T15:02:30.247919+00:00",
+      "lastRun": "2026-08-21T15:36:36.383305+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -49,7 +49,7 @@
     },
     {
       "name": "avature",
-      "lastRun": "2026-08-21T15:02:31.160670+00:00",
+      "lastRun": "2026-08-21T15:36:36.717588+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,7 +57,7 @@
     },
     {
       "name": "tradeweb",
-      "lastRun": "2026-08-21T15:02:39.289676+00:00",
+      "lastRun": "2026-08-21T15:36:44.556284+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -65,7 +65,7 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-08-21T15:02:40.050193+00:00",
+      "lastRun": "2026-08-21T15:36:45.053876+00:00",
       "status": "ok",
       "found": 1,
       "added": 1,
@@ -73,7 +73,7 @@
     },
     {
       "name": "builtin",
-      "lastRun": "2026-08-21T15:02:41.419097+00:00",
+      "lastRun": "2026-08-21T15:36:46.668667+00:00",
       "status": "ok",
       "found": 1,
       "added": 0,
@@ -81,7 +81,7 @@
     },
     {
       "name": "goldman",
-      "lastRun": "2026-08-21T15:02:51.201139+00:00",
+      "lastRun": "2026-08-21T15:36:56.385632+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -89,7 +89,7 @@
     },
     {
       "name": "millennium",
-      "lastRun": "2026-08-21T15:02:51.556320+00:00",
+      "lastRun": "2026-08-21T15:36:56.643416+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -97,7 +97,7 @@
     },
     {
       "name": "sig",
-      "lastRun": "2026-08-21T15:02:52.428943+00:00",
+      "lastRun": "2026-08-21T15:36:57.377829+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -105,7 +105,7 @@
     },
     {
       "name": "linkedin",
-      "lastRun": "2026-08-21T15:02:53.221557+00:00",
+      "lastRun": "2026-08-21T15:36:57.880083+00:00",
       "status": "ok",
       "found": null,
       "added": 1,
@@ -113,22 +113,28 @@
     },
     {
       "name": "linkedin_wide",
-      "lastRun": null,
-      "status": "skipped",
+      "lastRun": "2026-08-21T15:37:07.812387+00:00",
+      "status": "ok",
       "found": null,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
       "name": "ats_apis",
-      "lastRun": "2026-08-21T15:03:03.407724+00:00",
-      "status": "ok",
+      "lastRun": null,
+      "status": "skipped",
       "found": null,
       "added": 0,
       "error": null
     }
   ],
   "recentFinds": [
+    {
+      "company": "Uber",
+      "title": "Staff Software Engineer - AV Labs",
+      "source": "The Muse",
+      "at": "2026-08-21T15:36:45.053876+00:00"
+    },
     {
       "company": "Uber",
       "title": "Staff Software Engineer - AV Labs",
@@ -362,17 +368,11 @@
       "title": "C++ Trading & Simulator Engineer (USA)",
       "source": "Built In",
       "at": "2026-08-08T00:39:23.384309+00:00"
-    },
-    {
-      "company": "Comcast",
-      "title": "C++ Software Engineer 3",
-      "source": "Built In",
-      "at": "2026-08-07T00:23:50.632987+00:00"
     }
   ],
   "totals": {
     "day": "2026-08-21",
-    "addedToday": 20,
-    "cyclesToday": 10
+    "addedToday": 24,
+    "cyclesToday": 11
   }
 }
