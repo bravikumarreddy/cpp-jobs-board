@@ -9899,6 +9899,73 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-08-21T16:15:11.273707+00:00"
+        },
+        {
+          "id": "the-uber-staff-software-engineer-av-labs-2026-w34",
+          "postedAtUtc": "2026-08-21T06:22:30.000548+00:00",
+          "company": "Uber",
+          "title": "Staff Software Engineer - AV Labs",
+          "location": "Sunnyvale, CA",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (The Muse): posted 15 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.themuse.com/jobs/uber/staff-software-engineer-av-labs-d5f36c",
+          "source": "The Muse",
+          "postedApprox": "15 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "li-ace-technologies-embedded-c-engineer-robotics-lidar-peori-2026-w34",
+          "company": "Ace Technologies",
+          "title": "Embedded C++ Engineer | Robotics/LIDAR | Peoria, IL | Onsite | W2 Only",
+          "location": "Peoria, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-c%2B%2B-engineer-robotics-lidar-peoria-il-onsite-w2-only-at-ace-technologies-4456266707",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4456266707",
+          "region": "Central",
+          "regionRank": 3
+        },
+        {
+          "id": "li-vistara-solutions-inc-embedded-architect-c-c-2026-w34",
+          "company": "Vistara Solutions Inc.",
+          "title": "Embedded Architect (C, C++)",
+          "location": "Portland, Oregon Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-architect-c-c%2B%2B-at-vistara-solutions-inc-4454647957",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4454647957",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-21T16:56:34.711375+00:00"
         }
       ],
       "removedNotes": [
