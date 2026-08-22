@@ -2282,29 +2282,6 @@
           "h1bFit": ""
         },
         {
-          "id": "li-stealth-ai-startup-senior-software-engineer-c-2026-w30",
-          "company": "Stealth AI Startup",
-          "title": "Senior Software Engineer, C++",
-          "location": "Los Angeles Metropolitan Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Hybrid | Irvine, California | Full-time About the Opportunity Join an established edge-AI semiconductor company building the software platform behind its next generation of\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-at-stealth-ai-startup-4443777216",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "14 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4443777216",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-07-22T08:28:21.390799+00:00"
-        },
-        {
           "id": "li-josh-pros-embedded-software-engineer-c-c-rtos-2026-w30",
           "company": "Josh Pros",
           "title": "Embedded Software Engineer (C, C++, RTOS)",
@@ -9946,28 +9923,6 @@
           "postedAtUtc": "2026-08-21T16:56:34.711375+00:00"
         },
         {
-          "id": "the-uber-staff-software-engineer-av-labs-2026-w34",
-          "postedAtUtc": "2026-08-21T06:22:30.000557+00:00",
-          "company": "Uber",
-          "title": "Staff Software Engineer - AV Labs",
-          "location": "Sunnyvale, CA",
-          "remote": "See posting",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Live tracker (The Muse): posted 17 hours ago. Verify details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.themuse.com/jobs/uber/staff-software-engineer-av-labs-d5f36c",
-          "source": "The Muse",
-          "postedApprox": "17 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
           "id": "li-lseg-senior-c-software-engineer-2026-w34",
           "company": "LSEG",
           "title": "Senior C++ Software Engineer",
@@ -10009,6 +9964,29 @@
           "yoeFit": "Verify",
           "yoeNote": "Auto-tracked \u2014 apply filters in your head",
           "externalId": "builtin:8816431",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "built-summit-securities-group-c-software-engineer-2026-w34",
+          "postedAtUtc": "2026-08-22T00:00:00.000410+00:00",
+          "company": "Summit Securities Group",
+          "title": "C++ Software Engineer",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 1 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/software-engineer-options-trading-systems/9257178",
+          "source": "Built In",
+          "postedApprox": "1 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:9257178",
           "region": "East",
           "regionRank": 1
         }
