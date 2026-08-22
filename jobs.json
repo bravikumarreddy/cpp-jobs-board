@@ -6927,29 +6927,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-hydrolix-senior-software-engineer-c-developer-2026-w34",
-          "company": "Hydrolix",
-          "title": "Senior Software Engineer: C++ Developer",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-developer-at-hydrolix-4453864540",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4453864540",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-08-20T08:57:02.447453+00:00"
-        },
-        {
           "id": "li-kla-sr-electrical-design-engineer-linux-firm-2026-w34",
           "company": "KLA",
           "title": "Sr. Electrical Design Engineer (Linux, Firmware, Embedded, C++)",
@@ -7615,37 +7592,6 @@
           "easyApply": false
         },
         {
-          "id": "r9-canonical-jby-150360",
-          "company": "Canonical",
-          "title": "Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU",
-          "location": "Remote \u2014 Americas (US-eligible)",
-          "remote": "Remote",
-          "industry": "\u2014",
-          "salary": "Not disclosed",
-          "summary": "Build Canonical's open-source data-center networking stack (SoNIC/DENT, FRR/Bird, OVN/OVS, DPDK, eBPF) and optimize Ubuntu for networking silicon; the SmartNIC/DPU track is staffed in Americas time zones. JD lists fluency in C/C++ as a required core skill.",
-          "skills": [
-            "C++",
-            "C",
-            "Linux kernel networking",
-            "eBPF",
-            "DPDK",
-            "SoNIC/DENT",
-            "Routing protocols",
-            "Rust or Go or Python"
-          ],
-          "url": "https://jobicy.com/jobs/150360-open-source-networking-software-engineer-tor-switch-smartnic-dpu",
-          "source": "Jobicy API (Aug 20)",
-          "postedApprox": "11 days ago",
-          "h1bFit": "Confirm \u2014 JD clean; verify Canonical filing history",
-          "yoeFit": "Fits",
-          "yoeNote": "Not stated",
-          "externalId": "jby:150360",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-08-20T22:59:49Z",
-          "easyApply": false
-        },
-        {
           "id": "r9-deepsight-technology-hn-49157959",
           "company": "DeepSight Technology",
           "title": "C++ Software Engineer",
@@ -7887,36 +7833,6 @@
           "easyApply": false
         },
         {
-          "id": "r9-crowdstrike-bi-9672413",
-          "company": "CrowdStrike",
-          "title": "Sr. Software Engineer II, Sensor - Sensor Event Runtime (Hybrid)",
-          "location": "Austin, TX (hybrid; also Sunnyvale CA / Redmond WA)",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "$160,000 - $250,000",
-          "summary": "Build the Falcon sensor's event runtime: low-latency storage, correlation, filtering, rate limiting and dedup for endpoint telemetry across Windows, macOS and Linux. JD requires advanced C/C++ proficiency plus kernel-mode development and concurrency primitives.",
-          "skills": [
-            "C++",
-            "C",
-            "Kernel-mode development",
-            "Cross-platform (Windows/macOS/Linux)",
-            "Concurrency",
-            "Low-latency systems",
-            "Endpoint security"
-          ],
-          "url": "https://builtin.com/job/sr-software-engineer-ii-sensor-sensor-event-runtime-hybrid/9672413",
-          "source": "Built In (Aug 20)",
-          "postedApprox": "Posted Aug 20",
-          "h1bFit": "Confirm \u2014 JD clean; verify CrowdStrike filing history",
-          "yoeFit": "Fits",
-          "yoeNote": "Not stated",
-          "externalId": "builtin:9672413",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-20T23:04:08Z",
-          "easyApply": false
-        },
-        {
           "id": "r9-rubrik-bi-10760495",
           "company": "Rubrik",
           "title": "Software Engineer, Atlas Distributed Systems",
@@ -7943,34 +7859,6 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-20T23:04:08Z",
-          "easyApply": false
-        },
-        {
-          "id": "r9-tenstorrent-gh-tenstorrent-5023673007",
-          "company": "Tenstorrent",
-          "title": "Software Engineer, Metal Runtime (Core Systems)",
-          "location": "Austin, TX / Santa Clara, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "Not disclosed",
-          "summary": "Works close to hardware in C/C++ on the TT-Metal runtime core systems powering Tenstorrent AI accelerators.",
-          "skills": [
-            "C++",
-            "Runtime systems",
-            "Low-level programming",
-            "AI accelerators",
-            "Linux"
-          ],
-          "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5023673007",
-          "source": "Curated ATS sweep (Aug 20)",
-          "postedApprox": "1 day ago",
-          "h1bFit": "Yes \u2014 Tenstorrent: known H-1B sponsor; JD clean",
-          "yoeFit": "Fits",
-          "yoeNote": "Not stated (mid-level)",
-          "externalId": "greenhouse:5023673007",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-20T23:05:23Z",
           "easyApply": false
         },
         {
@@ -8551,35 +8439,6 @@
           "easyApply": false
         },
         {
-          "id": "r9-lightspeed-build-technologies--733c-46d5-8853-5985d3b21a44",
-          "company": "LightSpeed Build Technologies",
-          "title": "Senior Robotics Engineer",
-          "location": "Northbrook, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "Not disclosed",
-          "summary": "Build the core robotic control systems behind BRUTE (automated wall-panel manufacturing) and DEX (on-site construction robots) \u2014 motion planning, real-time control, and sensor integration in Python and C++.",
-          "skills": [
-            "C++",
-            "Python",
-            "Real-Time Control",
-            "Motion Planning",
-            "Industrial Robots",
-            "MuJoCo/Isaac Sim"
-          ],
-          "url": "https://jobs.ashbyhq.com/lightspeed/df28ffc8-733c-46d5-8853-5985d3b21a44",
-          "source": "ATS sweep (Aug 20)",
-          "postedApprox": "~3 months ago",
-          "h1bFit": "Construction-robotics startup; JD has no citizenship, clearance, or sponsorship exclusion",
-          "yoeFit": "Fits",
-          "yoeNote": "5+ yrs",
-          "externalId": "ashby:df28ffc8-733c-46d5-8853-5985d3b21a44",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-20T23:15:38Z",
-          "easyApply": false
-        },
-        {
           "id": "r9-xai-gh-xai-4533894007",
           "company": "xAI",
           "title": "Software Engineer - Training/Inference (C++)",
@@ -8754,29 +8613,6 @@
           "externalId": "linkedin:4456286858",
           "region": "Central",
           "regionRank": 3
-        },
-        {
-          "id": "li-entrust-software-engineer-ii-c-c-java-hsm-firmwa-2026-w34",
-          "company": "Entrust",
-          "title": "Software Engineer II \u2013 C/C++, Java & HSM Firmware",
-          "location": "Shakopee, MN",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-%E2%80%93-c-c%2B%2B-java-hsm-firmware-at-entrust-4421236077",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4421236077",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-22T09:27:46.625149+00:00"
         },
         {
           "id": "the-uber-staff-software-engineer-av-labs-2026-w34",
