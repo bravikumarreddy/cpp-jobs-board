@@ -9944,6 +9944,50 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-21T16:56:34.711375+00:00"
+        },
+        {
+          "id": "the-uber-staff-software-engineer-av-labs-2026-w34",
+          "postedAtUtc": "2026-08-21T06:22:30.000557+00:00",
+          "company": "Uber",
+          "title": "Staff Software Engineer - AV Labs",
+          "location": "Sunnyvale, CA",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (The Muse): posted 17 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.themuse.com/jobs/uber/staff-software-engineer-av-labs-d5f36c",
+          "source": "The Muse",
+          "postedApprox": "17 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "li-lseg-senior-c-software-engineer-2026-w34",
+          "company": "LSEG",
+          "title": "Senior C++ Software Engineer",
+          "location": "St Louis, MO",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 22 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-lseg-4456286858",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "22 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4456286858",
+          "region": "Central",
+          "regionRank": 3
         }
       ],
       "removedNotes": [

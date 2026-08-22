@@ -2,14 +2,14 @@
   "running": true,
   "pid": 816,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-08-21T23:30:52.351681+00:00",
-  "nextCycleAt": "2026-08-22T00:00:52.351763+00:00",
-  "cycleCount": 929,
+  "lastCycleAt": "2026-08-22T00:01:32.192334+00:00",
+  "nextCycleAt": "2026-08-22T00:31:32.192379+00:00",
+  "cycleCount": 930,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-08-21T23:27:48.863215+00:00",
+      "lastRun": "2026-08-22T00:00:55.618639+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -17,7 +17,7 @@
     },
     {
       "name": "remotive",
-      "lastRun": "2026-08-21T23:27:49.530791+00:00",
+      "lastRun": "2026-08-22T00:00:58.667554+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -25,7 +25,7 @@
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-08-21T23:27:49.900922+00:00",
+      "lastRun": "2026-08-22T00:00:59.001485+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -33,7 +33,7 @@
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-08-21T23:27:50.184390+00:00",
+      "lastRun": "2026-08-22T00:00:59.773453+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -41,7 +41,7 @@
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-08-21T23:27:50.453170+00:00",
+      "lastRun": "2026-08-22T00:01:00.145160+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -49,7 +49,7 @@
     },
     {
       "name": "avature",
-      "lastRun": "2026-08-21T23:27:51.456951+00:00",
+      "lastRun": "2026-08-22T00:01:00.613176+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,7 +57,7 @@
     },
     {
       "name": "tradeweb",
-      "lastRun": "2026-08-21T23:27:58.512744+00:00",
+      "lastRun": "2026-08-22T00:01:07.902088+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -65,23 +65,23 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-08-21T23:27:59.186532+00:00",
+      "lastRun": "2026-08-22T00:01:09.435961+00:00",
       "status": "ok",
       "found": 1,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
       "name": "builtin",
-      "lastRun": "2026-08-21T23:28:00.649563+00:00",
+      "lastRun": "2026-08-22T00:01:10.659190+00:00",
       "status": "ok",
-      "found": 1,
+      "found": 0,
       "added": 0,
       "error": null
     },
     {
       "name": "goldman",
-      "lastRun": "2026-08-21T23:28:09.370864+00:00",
+      "lastRun": "2026-08-22T00:01:20.576887+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -89,7 +89,7 @@
     },
     {
       "name": "millennium",
-      "lastRun": "2026-08-21T23:28:09.677676+00:00",
+      "lastRun": "2026-08-22T00:01:20.817615+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -97,7 +97,7 @@
     },
     {
       "name": "sig",
-      "lastRun": "2026-08-21T23:28:10.208623+00:00",
+      "lastRun": "2026-08-22T00:01:21.474813+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -105,7 +105,7 @@
     },
     {
       "name": "linkedin",
-      "lastRun": "2026-08-21T23:28:10.730183+00:00",
+      "lastRun": "2026-08-22T00:01:21.996245+00:00",
       "status": "ok",
       "found": null,
       "added": 1,
@@ -121,14 +121,20 @@
     },
     {
       "name": "ats_apis",
-      "lastRun": "2026-08-21T23:28:20.247039+00:00",
-      "status": "ok",
+      "lastRun": null,
+      "status": "skipped",
       "found": null,
       "added": 0,
       "error": null
     }
   ],
   "recentFinds": [
+    {
+      "company": "Uber",
+      "title": "Staff Software Engineer - AV Labs",
+      "source": "The Muse",
+      "at": "2026-08-22T00:01:09.435961+00:00"
+    },
     {
       "company": "Uber",
       "title": "Staff Software Engineer - AV Labs",
@@ -362,17 +368,11 @@
       "title": "Rates & Credit C++ Engineer",
       "source": "Built In",
       "at": "2026-08-08T16:18:06.846861+00:00"
-    },
-    {
-      "company": "Trexquant Investment",
-      "title": "C++ Trading & Simulator Engineer (USA)",
-      "source": "Built In",
-      "at": "2026-08-08T01:42:51.300273+00:00"
     }
   ],
   "totals": {
-    "day": "2026-08-21",
-    "addedToday": 34,
-    "cyclesToday": 26
+    "day": "2026-08-22",
+    "addedToday": 2,
+    "cyclesToday": 1
   }
 }
