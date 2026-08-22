@@ -6996,29 +6996,6 @@
           "regionRank": 6
         },
         {
-          "id": "li-odyssey-information-services-c-application-developer-2026-w34",
-          "company": "Odyssey Information Services",
-          "title": "C++ Application Developer",
-          "location": "Dallas-Fort Worth Metroplex",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-application-developer-at-odyssey-information-services-4455676917",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4455676917",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-20T14:42:03.535211+00:00"
-        },
-        {
           "id": "li-bloomberg-senior-software-engineer-c-customer-dist-2026-w34",
           "company": "Bloomberg",
           "title": "Senior Software Engineer (C++) - Customer Distribution Infrastructure",
@@ -7039,29 +7016,6 @@
           "externalId": "linkedin:4454107424",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-ocho-contract-c-developer-2026-w34",
-          "company": "Ocho",
-          "title": "Contract C++ Developer",
-          "location": "Illinois, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/contract-c%2B%2B-developer-at-ocho-4455678944",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4455678944",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-20T15:13:24.756857+00:00"
         },
         {
           "id": "li-latitude-ai-senior-software-engineer-vehicle-communi-2026-w34",
@@ -7445,36 +7399,6 @@
           "easyApply": false
         },
         {
-          "id": "r9-apptronik-gh-apptronik-5813642004",
-          "company": "Apptronik",
-          "title": "Robot Platform Software Engineer",
-          "location": "Austin, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "Not disclosed",
-          "summary": "Build system-level platform software in C++ on Linux for Apptronik's Apollo humanoid robot, covering hardware integration, low-level drivers and communication protocols (CAN, EtherCAT) and performance-sensitive runtime code.",
-          "skills": [
-            "C++",
-            "Linux",
-            "System-level programming",
-            "Hardware integration",
-            "CAN",
-            "EtherCAT",
-            "Sensor data"
-          ],
-          "url": "https://boards.greenhouse.io/apptronik/jobs/5813642004?gh_jid=5813642004",
-          "source": "Greenhouse API (Aug 20 sweep)",
-          "postedApprox": "Updated ~3 weeks ago",
-          "h1bFit": "Likely sponsor - commercial humanoid robotics company; JD has no citizenship, export-control, or clearance requirements",
-          "yoeFit": "Fits",
-          "yoeNote": "4+ years",
-          "externalId": "greenhouse:5813642004",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-20T22:59:49Z",
-          "easyApply": false
-        },
-        {
           "id": "r9-glydways-gh-glydways-5192917007",
           "company": "Glydways",
           "title": "Software Engineer, Onboard Integration",
@@ -7501,36 +7425,6 @@
           "externalId": "greenhouse:5192917007",
           "region": "West",
           "regionRank": 5,
-          "postedAtUtc": "2026-08-20T22:59:49Z",
-          "easyApply": false
-        },
-        {
-          "id": "r9-diligent-robotics--diligentrobotics-7667780003",
-          "company": "Diligent Robotics",
-          "title": "Sr. Software Engineer - Simulation / Support",
-          "location": "Austin, Texas, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "Not listed",
-          "summary": "Hospital service-robot company running a production fleet of mobile manipulators. Build simulation infrastructure and developer tooling for the robotics stack: scenario/synthetic-data generation, CI-integrated test harnesses, regression and release validation across autonomy, navigation, perception and manipulation. Strong C++ (and/or Python) with ROS and Gazebo/Isaac Sim/MuJoCo.",
-          "skills": [
-            "C++",
-            "Python",
-            "ROS",
-            "Simulation (Gazebo/Isaac Sim/MuJoCo)",
-            "CI/CD",
-            "Distributed systems debugging",
-            "Robotics"
-          ],
-          "url": "https://job-boards.greenhouse.io/diligentrobotics/jobs/7667780003",
-          "source": "Greenhouse API (Aug 20 sweep)",
-          "postedApprox": "5mo ago",
-          "h1bFit": "Confirm \u2014 JD clean; verify filings",
-          "yoeFit": "Fits",
-          "yoeNote": "5+ yrs min",
-          "externalId": "greenhouse:7667780003",
-          "region": "Central",
-          "regionRank": 3,
           "postedAtUtc": "2026-08-20T22:59:49Z",
           "easyApply": false
         },
@@ -8002,34 +7896,6 @@
           "possibleRepost": "Senior Software Engineer, Riot Client - Publishing Platform"
         },
         {
-          "id": "r9-outrider-eenhouse-outrider-5288090008",
-          "company": "Outrider",
-          "title": "Engineer II, Embedded, Sensors, and Safety Software",
-          "location": "Henderson, CO",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "$120,000 - $135,000",
-          "summary": "Engineer II (mid-level) writing C and C++ for embedded sensor and safety software on autonomous yard trucks.",
-          "skills": [
-            "C++",
-            "C",
-            "embedded",
-            "sensors",
-            "functional safety"
-          ],
-          "url": "https://job-boards.greenhouse.io/outrider/jobs/5288090008",
-          "source": "Curated ATS sweep (Aug 20)",
-          "postedApprox": "7 days ago",
-          "h1bFit": "Verified H-1B sponsor (pre-vetted list)",
-          "yoeFit": "Fits",
-          "yoeNote": "Not stated",
-          "externalId": "greenhouse:5288090008",
-          "region": "Mountain",
-          "regionRank": 4,
-          "postedAtUtc": "2026-08-20T23:05:23Z",
-          "easyApply": false
-        },
-        {
           "id": "r9-lucid-motors-house-lucidmotors-5194180007",
           "company": "Lucid Motors",
           "title": "Senior Behavior Planning Software Engineer - ADAS",
@@ -8491,28 +8357,6 @@
           "postedAtUtc": "2026-08-21T16:15:11.273707+00:00"
         },
         {
-          "id": "li-ace-technologies-embedded-c-engineer-robotics-lidar-peori-2026-w34",
-          "company": "Ace Technologies",
-          "title": "Embedded C++ Engineer | Robotics/LIDAR | Peoria, IL | Onsite | W2 Only",
-          "location": "Peoria, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 4 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/embedded-c%2B%2B-engineer-robotics-lidar-peoria-il-onsite-w2-only-at-ace-technologies-4456266707",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "4 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4456266707",
-          "region": "Central",
-          "regionRank": 3
-        },
-        {
           "id": "li-vistara-solutions-inc-embedded-architect-c-c-2026-w34",
           "company": "Vistara Solutions Inc.",
           "title": "Embedded Architect (C, C++)",
@@ -8534,28 +8378,6 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-21T16:56:34.711375+00:00"
-        },
-        {
-          "id": "li-lseg-senior-c-software-engineer-2026-w34",
-          "company": "LSEG",
-          "title": "Senior C++ Software Engineer",
-          "location": "St Louis, MO",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 22 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-lseg-4456286858",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "22 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4456286858",
-          "region": "Central",
-          "regionRank": 3
         },
         {
           "id": "the-uber-staff-software-engineer-av-labs-2026-w34",
