@@ -8656,34 +8656,6 @@
           "easyApply": false
         },
         {
-          "id": "r9-mongodb-gh-mongodb-8107198",
-          "company": "MongoDB",
-          "title": "Software Engineer 3",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "$106,000 - $209,000",
-          "summary": "Works primarily in C++ on the core database replication system, owning correctness, availability and performance.",
-          "skills": [
-            "C++",
-            "Distributed systems",
-            "Replication",
-            "Databases",
-            "Testing"
-          ],
-          "url": "https://www.mongodb.com/careers/job/?gh_jid=8107198",
-          "source": "Curated ATS sweep (Aug 20)",
-          "postedApprox": "3 days ago",
-          "h1bFit": "Yes \u2014 MongoDB: known H-1B sponsor; JD clean",
-          "yoeFit": "Fits",
-          "yoeNote": "Not stated (mid-level)",
-          "externalId": "gh:mongodb:8107198",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-20T23:05:23Z",
-          "easyApply": false
-        },
-        {
           "id": "r9-wayve-gh-wayve-8697184002",
           "company": "Wayve",
           "title": "Senior Software Engineer - Sensor Systems, Robot Software",
@@ -8736,34 +8708,6 @@
           "externalId": "gh:nuro:8021289",
           "region": "West",
           "regionRank": 5,
-          "postedAtUtc": "2026-08-20T23:05:23Z",
-          "easyApply": false
-        },
-        {
-          "id": "r9-epic-games-gh-epicgames-5990685004",
-          "company": "Epic Games",
-          "title": "Senior Software Engineer, Audio Engine",
-          "location": "Cary, NC",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "Not disclosed",
-          "summary": "Owns performance-critical C++ audio engine systems in Unreal Engine, working at a low level on real-time audio.",
-          "skills": [
-            "C++",
-            "Performance optimization",
-            "Audio DSP",
-            "Unreal Engine",
-            "Real-time systems"
-          ],
-          "url": "https://epicgames.com/careers/jobs/5990685004?gh_jid=5990685004",
-          "source": "Curated ATS sweep (Aug 20)",
-          "postedApprox": "Today",
-          "h1bFit": "Yes \u2014 Epic Games: known H-1B sponsor; JD clean",
-          "yoeFit": "Fits",
-          "yoeNote": "Not stated (senior IC)",
-          "externalId": "gh:epicgames:5990685004",
-          "region": "East",
-          "regionRank": 1,
           "postedAtUtc": "2026-08-20T23:05:23Z",
           "easyApply": false
         },
@@ -8965,34 +8909,6 @@
           "easyApply": false
         },
         {
-          "id": "r9-iex-greenhouse-iex-6531542",
-          "company": "IEX",
-          "title": "Senior Software Engineer",
-          "location": "New York",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "$200,000 - $250,000",
-          "summary": "Exchange-side C++ application frameworks, messaging APIs and data structures for a low-latency matching platform.",
-          "skills": [
-            "C++",
-            "low-latency",
-            "messaging",
-            "exchange systems",
-            "Linux"
-          ],
-          "url": "https://iex.io/careers/apply?gh_jid=6531542",
-          "source": "Curated ATS sweep (Aug 20)",
-          "postedApprox": "2 months ago",
-          "h1bFit": "Verified H-1B sponsor (pre-vetted list)",
-          "yoeFit": "Fits",
-          "yoeNote": "Not stated",
-          "externalId": "greenhouse:iex:6531542",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-20T23:05:23Z",
-          "easyApply": false
-        },
-        {
           "id": "r9-pickle-robot--de3b-47fa-a661-e9492c71de63",
           "company": "Pickle Robot",
           "title": "Robotics Software Engineer",
@@ -9102,60 +9018,6 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-20T23:05:23Z",
-          "easyApply": false
-        },
-        {
-          "id": "r9-arista-networks-linkedin-4436811678",
-          "company": "Arista Networks",
-          "title": "Software Engineer, Network Systems",
-          "location": "Nashua, NH",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "C++ network systems software (EOS switch operating system) at Arista's Nashua engineering site.",
-          "skills": [
-            "C++",
-            "Networking",
-            "Linux",
-            "Distributed Systems"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4436811678/",
-          "source": "LinkedIn targeted (Aug 20)",
-          "postedApprox": "1 week ago",
-          "h1bFit": "Yes \u2014 Arista: heavy H-1B sponsor; JD clean",
-          "yoeFit": "Fits",
-          "yoeNote": "3+",
-          "externalId": "linkedin:4436811678",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-20T23:07:19Z",
-          "easyApply": false
-        },
-        {
-          "id": "r9-two-sigma-linkedin-4427872861",
-          "company": "Two Sigma",
-          "title": "Two Sigma Securities, Software Engineer",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Software engineering on Two Sigma Securities' electronic market-making systems (C++/low latency).",
-          "skills": [
-            "C++",
-            "Low Latency",
-            "Trading Systems",
-            "Linux"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4427872861/",
-          "source": "LinkedIn targeted (Aug 20)",
-          "postedApprox": "2 weeks ago",
-          "h1bFit": "Yes \u2014 Two Sigma: major quant H-1B sponsor; JD clean (only 'training sponsorship' wording)",
-          "yoeFit": "Fits",
-          "yoeNote": "5",
-          "externalId": "linkedin:4427872861",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-20T23:07:19Z",
           "easyApply": false
         },
         {
@@ -9603,36 +9465,6 @@
           "easyApply": false
         },
         {
-          "id": "r9-cognex-wd-cognex-r0012190",
-          "company": "Cognex",
-          "title": "Senior Software Engineer (Full Stack)",
-          "location": "Natick, MA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Full-stack senior engineer on Cognex machine-vision products, working across a C++ core with C#/Java services and modernizing legacy code and architecture.",
-          "skills": [
-            "C++",
-            "C#",
-            "Java",
-            "Python",
-            "JavaScript",
-            "Full stack",
-            "Machine vision"
-          ],
-          "url": "https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Natick-Massachusetts/Senior-Software-Engineer_R0012190",
-          "source": "Workday API (Aug 20 sweep)",
-          "postedApprox": "Posted 27 Days Ago",
-          "h1bFit": "Possible \u2014 Cognex has sponsored H-1B engineers; JD states no restriction",
-          "yoeFit": "Fits",
-          "yoeNote": "5 years",
-          "externalId": "workday:R0012190",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-20T23:15:38Z",
-          "easyApply": false
-        },
-        {
           "id": "li-atrium-c-software-engineer-405468-2026-w34",
           "company": "Atrium",
           "title": "C++ Software Engineer - 405468",
@@ -9768,28 +9600,6 @@
           "externalId": "linkedin:4456286858",
           "region": "Central",
           "regionRank": 3
-        },
-        {
-          "id": "the-uber-staff-software-engineer-av-labs-2026-w34",
-          "postedAtUtc": "2026-08-21T06:22:30.001178+00:00",
-          "company": "Uber",
-          "title": "Staff Software Engineer - AV Labs",
-          "location": "Sunnyvale, CA",
-          "remote": "See posting",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Live tracker (The Muse): posted 21 hours ago. Verify details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.themuse.com/jobs/uber/staff-software-engineer-av-labs-d5f36c",
-          "source": "The Muse",
-          "postedApprox": "21 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
-          "region": "West",
-          "regionRank": 5
         }
       ],
       "removedNotes": [
