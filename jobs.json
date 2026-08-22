@@ -2328,29 +2328,6 @@
           "postedAtUtc": "2026-07-22T09:36:14.359183+00:00"
         },
         {
-          "id": "li-simbe-robotics-software-engineer-c-python-2026-w30",
-          "company": "Simbe",
-          "title": "Robotics Software Engineer (C++ & Python)",
-          "location": "San Francisco Bay Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Simbe Robotics is a leading retail robotics company providing in-store intelligence solutions that help retailers optimize operations, improve shelf execution, and deliver\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/robotics-software-engineer-c%2B%2B-python-at-simbe-4444265729",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "7 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4444265729",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-07-23T04:11:32.031898+00:00"
-        },
-        {
           "id": "li-citadel-securities-rates-credit-c-engineer-2026-w30",
           "company": "Citadel Securities",
           "title": "Rates & Credit C++ Engineer",
@@ -3280,29 +3257,6 @@
           "postedAtUtc": "2026-07-30T14:05:01.615108+00:00"
         },
         {
-          "id": "li-comcast-lead-c-software-engineer-new-york-hybrid-2026-w31",
-          "company": "Comcast",
-          "title": "Lead C++ Software Engineer - New York - Hybrid - FreeWheel",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "FreeWheel, a Comcast company, provides comprehensive ad platforms for publishers, advertisers, and media buyers. Powered by premium video content, robust data, and advanced\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/lead-c%2B%2B-software-engineer-new-york-hybrid-freewheel-at-comcast-4446723242",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "7 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446723242",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-30T08:05:01.615108+00:00"
-        },
-        {
           "id": "li-kla-senior-systems-software-engineer-c-2026-w31",
           "company": "KLA",
           "title": "Senior Systems Software Engineer (C++)",
@@ -3510,29 +3464,6 @@
           "postedAtUtc": "2026-07-30T18:50:03.785690+00:00"
         },
         {
-          "id": "li-venture-up-c-software-engineer-2026-w31",
-          "company": "Venture Up",
-          "title": "C++ Software Engineer",
-          "location": "San Francisco, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "\ud83d\ude80 C++ Software Engineer (Systems) | San Francisco Want to build software that pushes GPU performance to its limits? We're hiring a C++ Software Engineer to work on the core\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-venture-up-4447022872",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "4 hours ago",
-          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4447022872",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-07-30T17:04:49.381074+00:00"
-        },
-        {
           "id": "li-tesla-software-engineer-c-generalist-ai-system-2026-w31",
           "company": "Tesla",
           "title": "Software Engineer, C++ Generalist, AI Systems & Infrastructure",
@@ -3577,29 +3508,6 @@
           "regionRank": 5,
           "postedAtUtc": "2026-07-30T01:16:33.808353+00:00",
           "possibleRepost": "Embedded Software Engineer, C++"
-        },
-        {
-          "id": "li-bcforward-software-engineer-c-distributed-systems-2026-w31",
-          "company": "BCforward",
-          "title": "Software Engineer- (C++ / Distributed Systems)",
-          "location": "Redmond, WA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "BCforward is currently seeking a highly motivated Software Engineer V (C++ / Distributed Systems) for an Onsite Opportunity at Redmond, WA and Burlingame, CA and New York\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-distributed-systems-at-bcforward-4447209897",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4447209897",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-07-30T22:26:26.836220+00:00"
         },
         {
           "id": "li-varda-space-industries-senior-space-flight-software-engineer-c-2026-w31",
@@ -9017,28 +8925,6 @@
           "yoeNote": "Auto-tracked \u2014 apply filters in your head",
           "region": "Remote",
           "regionRank": 2
-        },
-        {
-          "id": "the-uber-staff-software-engineer-av-labs-2026-w34",
-          "postedAtUtc": "2026-08-21T06:22:30.000426+00:00",
-          "company": "Uber",
-          "title": "Staff Software Engineer - AV Labs",
-          "location": "Sunnyvale, CA",
-          "remote": "See posting",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Live tracker (The Muse): posted 1 days ago. Verify details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.themuse.com/jobs/uber/staff-software-engineer-av-labs-d5f36c",
-          "source": "The Muse",
-          "postedApprox": "1 days ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
-          "region": "West",
-          "regionRank": 5
         },
         {
           "id": "li-entrust-software-engineer-ii-c-c-java-hsm-firmwa-2026-w34",
