@@ -5793,28 +5793,6 @@
           "easyApply": true
         },
         {
-          "id": "li-gener8-the-rnd-group-senior-software-engineer-qt-c-2026-w32",
-          "company": "Gener8 | The RND Group",
-          "title": "Senior Software Engineer (Qt, C++)",
-          "location": "Indiana, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "LinkedIn scrape: posted 29 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-qt-c%2B%2B-at-gener8-the-rnd-group-4450527361",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "29 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4450527361",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-garmin-senior-software-engineer-c-c-2026-w32",
           "company": "Garmin",
           "title": "Senior Software Engineer - C++/C",
@@ -8356,28 +8334,6 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-21T16:56:34.711375+00:00"
-        },
-        {
-          "id": "the-uber-staff-software-engineer-av-labs-2026-w34",
-          "postedAtUtc": "2026-08-21T06:22:30.000445+00:00",
-          "company": "Uber",
-          "title": "Staff Software Engineer - AV Labs",
-          "location": "Sunnyvale, CA",
-          "remote": "See posting",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Live tracker (The Muse): posted 1 days ago. Verify details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.themuse.com/jobs/uber/staff-software-engineer-av-labs-d5f36c",
-          "source": "The Muse",
-          "postedApprox": "1 days ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
-          "region": "West",
-          "regionRank": 5
         },
         {
           "id": "li-simbe-robotics-software-engineer-c-python-2026-w34",
