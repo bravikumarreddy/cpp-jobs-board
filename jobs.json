@@ -7907,36 +7907,6 @@
           "easyApply": false
         },
         {
-          "id": "r9-semtech-wd-semtech-req3491",
-          "company": "Semtech",
-          "title": "\u200b\u200bHardware Verification Engineer\u200b",
-          "location": "San Diego, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Hardware verification engineer bringing up and validating Semtech silicon, writing C/C++ and Python test software against embedded platforms and lab instrumentation.",
-          "skills": [
-            "C++",
-            "C",
-            "Python",
-            "Embedded systems",
-            "Lab instrumentation",
-            "Hardware protocols",
-            "Verification"
-          ],
-          "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/USA---San-Diego-CA/XMLNAME---Hardware-Verification-Engineer-_REQ3491",
-          "source": "Workday API (Aug 20 sweep)",
-          "postedApprox": "Posted 2 Days Ago",
-          "h1bFit": "Possible \u2014 Semtech sponsors selectively; no restriction language in JD",
-          "yoeFit": "Fits",
-          "yoeNote": "Not stated",
-          "externalId": "wd:semtech:REQ3491",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-20T23:15:38Z",
-          "easyApply": false
-        },
-        {
           "id": "r9-aptiv-wd-aptiv-j000702028",
           "company": "Aptiv",
           "title": "Software Engineer",
