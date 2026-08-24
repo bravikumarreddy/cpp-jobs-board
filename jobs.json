@@ -3760,28 +3760,6 @@
           "postedAtUtc": "2026-07-30T23:38:33.335378+00:00"
         },
         {
-          "id": "li-fionics-senior-c-engineer-core-engineering-lead-2026-w31",
-          "company": "Fionics",
-          "title": "Senior C++ Engineer, Core Engineering Lead",
-          "location": "New York, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Senior C++ Engineer, Core Engineering LeadNew York (on-site) A crypto-native prop firm hiring a senior C++ engineer to lead its core engineering group. Hands-on and\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-engineer-core-engineering-lead-at-fionics-4447136795",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "50 minutes ago",
-          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4447136795",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-intuitive-senior-software-engineer-embedded-ui-qt--2026-w31",
           "company": "Intuitive",
           "title": "Senior Software Engineer - Embedded UI (Qt / C++)",
@@ -8395,6 +8373,29 @@
           "externalId": "linkedin:4458299032",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "li-akkodis-unreal-engine-developers-c-gaming-simula-2026-w35",
+          "company": "Akkodis",
+          "title": "Unreal Engine Developers (C++ Gaming/Simulation)",
+          "location": "Winter Park, FL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/unreal-engine-developers-c%2B%2B-gaming-simulation-at-akkodis-4457114711",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4457114711",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-24T16:55:14.774023+00:00"
         }
       ]
     }
