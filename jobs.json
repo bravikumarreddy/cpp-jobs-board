@@ -8396,6 +8396,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-24T16:55:14.774023+00:00"
+        },
+        {
+          "id": "li-sni-companies-software-engineer-c-unreal-engine-2026-w35",
+          "company": "SNI Companies",
+          "title": "Software Engineer \u2013 C++ / Unreal Engine",
+          "location": "Orlando, FL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-c%2B%2B-unreal-engine-at-sni-companies-4456896695",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4456896695",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-24T16:27:02.725431+00:00"
         }
       ]
     }
