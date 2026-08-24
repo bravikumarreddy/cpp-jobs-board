@@ -8350,6 +8350,29 @@
           "externalId": "linkedin:4456510518",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-telestream-software-engineer-c-beaverton-or-hybrid-2026-w35",
+          "company": "Telestream",
+          "title": "Software Engineer (C++), Beaverton, OR (Hybrid)",
+          "location": "Beaverton, OR",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-beaverton-or-hybrid-at-telestream-4458270668",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4458270668",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-24T18:51:35.923682+00:00"
         }
       ]
     }
