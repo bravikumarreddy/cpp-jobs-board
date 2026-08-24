@@ -8373,6 +8373,28 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-24T18:51:35.923682+00:00"
+        },
+        {
+          "id": "li-the-university-of-texas-at-austin-r-d-c-software-developer-2026-w35",
+          "company": "The University of Texas at Austin",
+          "title": "R&D C++ Software Developer",
+          "location": "Austin, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 36 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/r-d-c%2B%2B-software-developer-at-the-university-of-texas-at-austin-4458299032",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "36 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4458299032",
+          "region": "Central",
+          "regionRank": 3
         }
       ]
     }
