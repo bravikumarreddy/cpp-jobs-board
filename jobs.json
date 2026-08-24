@@ -8261,6 +8261,28 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-23T23:43:38.154116+00:00"
+        },
+        {
+          "id": "li-torentify-software-engineer-ii-c-c-remote-2026-w35",
+          "company": "Torentify",
+          "title": "Software Engineer II (C, C++) - Remote",
+          "location": "Santa Clara, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-c-c%2B%2B-remote-at-torentify-4458188917",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4458188917",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
