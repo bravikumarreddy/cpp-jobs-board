@@ -8328,6 +8328,28 @@
           "externalId": "linkedin:4458231927",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-high-frequency-trading-firm-senior-c-developer-2026-w35",
+          "company": "High-Frequency Trading Firm",
+          "title": "Senior C++ Developer",
+          "location": "New York City Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 20 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-at-high-frequency-trading-firm-4456510518",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "20 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4456510518",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
