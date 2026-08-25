@@ -7886,6 +7886,29 @@
           "externalId": "linkedin:4457642525",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-maven-securities-c-developer-options-market-making-chi-2026-w35",
+          "company": "Maven Securities",
+          "title": "C++ Developer - Options Market Making (CHI)",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 21 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-options-market-making-chi-at-maven-securities-4457493895",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "21 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4457493895",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-25T00:30:38.198270+00:00"
         }
       ],
       "removedNotes": [
