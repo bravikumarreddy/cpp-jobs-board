@@ -7842,6 +7842,50 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-25T18:29:19.838455+00:00"
+        },
+        {
+          "id": "li-ebusiness-technologies-corp-sr-c-linux-developer-2026-w35",
+          "company": "eBusiness Technologies Corp.",
+          "title": "Sr. C++/Linux Developer",
+          "location": "Dallas-Fort Worth Metroplex",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 48 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-c%2B%2B-linux-developer-at-ebusiness-technologies-corp-4459023634",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "48 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4459023634",
+          "region": "Central",
+          "regionRank": 3
+        },
+        {
+          "id": "li-globallogic-senior-c-developer-irc302860-2026-w35",
+          "company": "GlobalLogic",
+          "title": "Senior C++ Developer IRC302860",
+          "location": "Waltham, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-irc302860-at-globallogic-4457642525",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4457642525",
+          "region": "East",
+          "regionRank": 1
         }
       ],
       "removedNotes": [
