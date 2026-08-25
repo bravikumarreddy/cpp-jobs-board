@@ -7909,6 +7909,29 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-25T00:30:38.198270+00:00"
+        },
+        {
+          "id": "li-spacexai-software-engineer-platform-core-c-c-2026-w35",
+          "company": "SpaceXAI",
+          "title": "Software Engineer - Platform Core (C++, C)",
+          "location": "Seattle, WA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 11 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-platform-core-c%2B%2B-c-at-spacexai-4448615436",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "11 hours ago",
+          "h1bFit": "Confirm \u2014 posted by 'SpaceXAI', NOT SpaceX \u2014 verify legitimacy before applying",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4448615436",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-25T11:03:33.130618+00:00"
         }
       ],
       "removedNotes": [
