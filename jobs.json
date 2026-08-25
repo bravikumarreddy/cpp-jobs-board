@@ -7370,33 +7370,6 @@
           "easyApply": false
         },
         {
-          "id": "r9-axon-linkedin-4437886425",
-          "company": "Axon",
-          "title": "Senior Software Embedded Engineer",
-          "location": "Seattle, WA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Embedded C++ firmware for Axon body cameras and connected device platform.",
-          "skills": [
-            "C++",
-            "Embedded",
-            "Linux",
-            "Firmware"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4437886425/",
-          "source": "LinkedIn targeted (Aug 20)",
-          "postedApprox": "1 week ago",
-          "h1bFit": "Yes \u2014 Axon: regular H-1B filer; JD clean (EEO boilerplate only)",
-          "yoeFit": "Fits",
-          "yoeNote": "5+",
-          "externalId": "linkedin:4437886425",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-20T23:04:08Z",
-          "easyApply": false
-        },
-        {
           "id": "r9-rivian-and-volkswagen-group-techno-linkedin-4415964465",
           "company": "Rivian and Volkswagen Group Technologies",
           "title": "Sr. Software Engineer, Infotainment",
