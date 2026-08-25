@@ -7750,6 +7750,30 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-25T08:59:34.368206+00:00"
+        },
+        {
+          "id": "li-xai-rust-c-backend-engineer-enterprise-agent-2026-w35",
+          "company": "xAI",
+          "title": "Rust/C++ Backend Engineer - Enterprise Agent",
+          "location": "Palo Alto, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": "",
+          "summary": "Re-added 2026-08-25 by the false-positive audit: the LinkedIn gate rejected it as \u201cdefense-company\u201d because DEFENSE_COMPANY_RE\u2019s spacex\\w* matched \u201cSpaceXAI\u201d. xAI is not a defense contractor and its Greenhouse board is an active tracker source.",
+          "skills": [
+            "C++",
+            "Rust"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/rust-c%2B%2B-backend-engineer-enterprise-agent-at-spacexai-4262573291",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "Aug 24, 2026",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Re-added by false-positive audit \u2014 verify on posting",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-24T08:42:01+00:00",
+          "externalId": "linkedin:4262573291"
         }
       ]
     }
