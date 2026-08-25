@@ -7370,60 +7370,6 @@
           "easyApply": false
         },
         {
-          "id": "r9-linkedin-linkedin-4457022414",
-          "company": "LinkedIn",
-          "title": "Senior Software Engineer \u2014 Systems and Infrastructure",
-          "location": "Mountain View, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Core systems/infrastructure engineering in C++ for LinkedIn's serving stack.",
-          "skills": [
-            "C++",
-            "Distributed Systems",
-            "Infrastructure",
-            "Linux"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4457022414/",
-          "source": "LinkedIn targeted (Aug 20)",
-          "postedApprox": "1 day ago",
-          "h1bFit": "Yes \u2014 LinkedIn (Microsoft): top H-1B sponsor; JD clean",
-          "yoeFit": "Fits",
-          "yoeNote": "2+",
-          "externalId": "linkedin:4457022414",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-20T23:04:08Z",
-          "easyApply": false
-        },
-        {
-          "id": "r9-johnson-johnson-medtech-linkedin-4450281669",
-          "company": "Johnson & Johnson MedTech",
-          "title": "Software Engineer, Real-time Software",
-          "location": "Santa Clara, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Real-time C++ software for J&J MedTech surgical robotics (Ottava/Monarch platforms).",
-          "skills": [
-            "C++",
-            "Real-Time",
-            "Robotics",
-            "Embedded"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4450281669/",
-          "source": "LinkedIn targeted (Aug 20)",
-          "postedApprox": "1 week ago",
-          "h1bFit": "Yes \u2014 J&J: heavy H-1B sponsor; JD clean",
-          "yoeFit": "Fits",
-          "yoeNote": "2+",
-          "externalId": "linkedin:4450281669",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-20T23:04:08Z",
-          "easyApply": false
-        },
-        {
           "id": "r9-axon-linkedin-4437886425",
           "company": "Axon",
           "title": "Senior Software Embedded Engineer",
@@ -7608,34 +7554,6 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-20T23:04:08Z",
-          "easyApply": false
-        },
-        {
-          "id": "r9-lucid-motors-house-lucidmotors-5194180007",
-          "company": "Lucid Motors",
-          "title": "Senior Behavior Planning Software Engineer - ADAS",
-          "location": "Newark, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "$158,400 - $217,800",
-          "summary": "ADAS behavior planning in C++/Python with only 3+ yrs required; production autonomy stack.",
-          "skills": [
-            "C++",
-            "Python",
-            "motion planning",
-            "ADAS",
-            "autonomy"
-          ],
-          "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194180007",
-          "source": "Curated ATS sweep (Aug 20)",
-          "postedApprox": "14 days ago",
-          "h1bFit": "Verified H-1B sponsor (pre-vetted list)",
-          "yoeFit": "Fits",
-          "yoeNote": "3",
-          "externalId": "greenhouse:5194180007",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-20T23:05:23Z",
           "easyApply": false
         },
         {
@@ -7836,28 +7754,6 @@
           "externalId": "linkedin:4458299032",
           "region": "Central",
           "regionRank": 3
-        },
-        {
-          "id": "li-telestream-llc-software-engineer-c-beaverton-or-hybrid-2026-w35",
-          "company": "Telestream, LLC",
-          "title": "Software Engineer (C++), Beaverton, OR (Hybrid)",
-          "location": "Beaverton, OR",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 46 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-beaverton-or-hybrid-at-telestream-llc-4456530730",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "46 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4456530730",
-          "region": "West",
-          "regionRank": 5
         }
       ]
     }
