@@ -7914,35 +7914,6 @@
           "easyApply": false
         },
         {
-          "id": "r9-aeva--dcc0-4119-9c4d-46400803860f",
-          "company": "Aeva",
-          "title": "LiDAR Characterization & Perception Data Engineer",
-          "location": "Mountain View, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "Not disclosed",
-          "summary": "Characterize FMCW 4D lidar sensor performance in the field and build the production Python and C++ pipelines that ingest, validate, and label that data for perception model training.",
-          "skills": [
-            "C++",
-            "Python",
-            "LiDAR",
-            "Perception",
-            "Data Pipelines",
-            "Sensor Characterization"
-          ],
-          "url": "https://jobs.lever.co/aeva/7207fe0e-dcc0-4119-9c4d-46400803860f",
-          "source": "ATS sweep (Aug 20)",
-          "postedApprox": "Recently posted",
-          "h1bFit": "Has sponsored H-1B for engineering roles; commercial FMCW lidar (no clearance/ITAR language in JD)",
-          "yoeFit": "Fits",
-          "yoeNote": "3+ yrs",
-          "externalId": "lever:7207fe0e-dcc0-4119-9c4d-46400803860f",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-20T23:15:38Z",
-          "easyApply": false
-        },
-        {
           "id": "r9-velo3d--42cc-4b09-876c-cea5958f7fa4",
           "company": "Velo3D",
           "title": "Software Engineer (Python / C++) \u2014 ML Platform & Production Integration",
@@ -8218,29 +8189,6 @@
       "label": "Week of August 24, 2026",
       "jobs": [
         {
-          "id": "li-chyron-c-developer-vsar-2026-w35",
-          "company": "Chyron",
-          "title": "C++ Developer VSAR",
-          "location": "Kings County, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-vsar-at-chyron-4458157029",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "7 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4458157029",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-23T23:43:38.154116+00:00"
-        },
-        {
           "id": "li-torentify-software-engineer-ii-c-c-remote-2026-w35",
           "company": "Torentify",
           "title": "Software Engineer II (C, C++) - Remote",
@@ -8304,28 +8252,6 @@
           "yoeFit": "Verify",
           "yoeNote": "Auto-scraped \u2014 apply filters in your head",
           "externalId": "linkedin:4458231927",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
-          "id": "li-high-frequency-trading-firm-senior-c-developer-2026-w35",
-          "company": "High-Frequency Trading Firm",
-          "title": "Senior C++ Developer",
-          "location": "New York City Metropolitan Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 20 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-at-high-frequency-trading-firm-4456510518",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "20 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4456510518",
           "region": "East",
           "regionRank": 1
         },
@@ -8396,75 +8322,6 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-24T16:55:14.774023+00:00"
-        },
-        {
-          "id": "li-sni-companies-software-engineer-c-unreal-engine-2026-w35",
-          "company": "SNI Companies",
-          "title": "Software Engineer \u2013 C++ / Unreal Engine",
-          "location": "Orlando, FL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-c%2B%2B-unreal-engine-at-sni-companies-4456896695",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "5 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4456896695",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-24T16:27:02.725431+00:00"
-        },
-        {
-          "id": "li-atrium-c-software-engineer-nyc-405660-2026-w35",
-          "company": "Atrium",
-          "title": "C++ Software Engineer (NYC) - 405660",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-nyc-405660-at-atrium-4458501756",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:405660",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-24T21:27:49.395570+00:00"
-        },
-        {
-          "id": "li-akuna-capital-software-engineer-c-trading-strategies-2026-w35",
-          "company": "Akuna Capital",
-          "title": "Software Engineer - C++, Trading Strategies",
-          "location": "Chicago, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-trading-strategies-at-akuna-capital-4458287335",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4458287335",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-24T20:32:13.319757+00:00"
         }
       ]
     }
