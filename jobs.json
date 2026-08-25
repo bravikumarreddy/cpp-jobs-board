@@ -7611,35 +7611,6 @@
           "easyApply": false
         },
         {
-          "id": "r9-riot-games-greenhouse-riotgames-7940406",
-          "company": "Riot Games",
-          "title": "Senior Software Engineer, SDK Foundations - Publishing Platform",
-          "location": "Los Angeles, USA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "$161,500 - $227,000",
-          "summary": "4+ yrs with C++14 or newer building the SDK foundations behind Riot game clients.",
-          "skills": [
-            "C++",
-            "C++14",
-            "SDK",
-            "Unreal Engine",
-            "game platform"
-          ],
-          "url": "https://www.riotgames.com/en/work-with-us/job/7940406?gh_jid=7940406",
-          "source": "Curated ATS sweep (Aug 20)",
-          "postedApprox": "6 days ago",
-          "h1bFit": "Verified H-1B sponsor (pre-vetted list)",
-          "yoeFit": "Fits",
-          "yoeNote": "4",
-          "externalId": "greenhouse:riotgames:7940406",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-20T23:05:23Z",
-          "easyApply": false,
-          "possibleRepost": "Senior Software Engineer, Riot Client - Publishing Platform"
-        },
-        {
           "id": "r9-lucid-motors-house-lucidmotors-5194180007",
           "company": "Lucid Motors",
           "title": "Senior Behavior Planning Software Engineer - ADAS",
