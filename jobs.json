@@ -1443,7 +1443,8 @@
           "region": "Central",
           "regionRank": 3,
           "yoeNote": "",
-          "h1bFit": ""
+          "h1bFit": "",
+          "possibleRepost": "Software Engineer - C++, Trading Strategies"
         },
         {
           "id": "point72-machine-learning-infrastructure-engineer-genai-technology-new-york-ny",
@@ -6790,29 +6791,6 @@
           "postedAtUtc": "2026-08-17T14:52:51.939034+00:00"
         },
         {
-          "id": "li-torentify-c-c-software-engineer-ii-2026-w34",
-          "company": "Torentify",
-          "title": "C, C++ Software Engineer II",
-          "location": "Santa Clara County, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-software-engineer-ii-at-torentify-4455395054",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4455395054",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-17T21:35:14.877135+00:00"
-        },
-        {
           "id": "li-fresh-harvey-nash-agency-4454205402",
           "company": "Harvey Nash (agency)",
           "title": "Senior Embedded Software Engineer \u2014 ADAS",
@@ -7914,35 +7892,6 @@
           "easyApply": false
         },
         {
-          "id": "r9-velo3d--42cc-4b09-876c-cea5958f7fa4",
-          "company": "Velo3D",
-          "title": "Software Engineer (Python / C++) \u2014 ML Platform & Production Integration",
-          "location": "Fremont, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "Not disclosed",
-          "summary": "Translate validated Python ML prototypes into high-performance C++ modules inside the metal 3D printer software stack, with numerical-parity regression testing between reference and production code.",
-          "skills": [
-            "C++",
-            "Python",
-            "ML Infrastructure",
-            "Numerical Computing",
-            "Additive Manufacturing",
-            "Testing"
-          ],
-          "url": "https://jobs.lever.co/velo3d/3e863477-42cc-4b09-876c-cea5958f7fa4",
-          "source": "ATS sweep (Aug 20)",
-          "postedApprox": "Recently posted",
-          "h1bFit": "Prior H-1B filings; JD carries no citizenship, clearance, or export-control requirement",
-          "yoeFit": "Fits",
-          "yoeNote": "3+ yrs",
-          "externalId": "lever:3e863477-42cc-4b09-876c-cea5958f7fa4",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-20T23:15:38Z",
-          "easyApply": false
-        },
-        {
           "id": "r9-naughty-dog-5790604004",
           "company": "Naughty Dog",
           "title": "SDET Programmer",
@@ -8189,51 +8138,6 @@
       "label": "Week of August 24, 2026",
       "jobs": [
         {
-          "id": "li-torentify-software-engineer-ii-c-c-remote-2026-w35",
-          "company": "Torentify",
-          "title": "Software Engineer II (C, C++) - Remote",
-          "location": "Santa Clara, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 2 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-c-c%2B%2B-remote-at-torentify-4458188917",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4458188917",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
-          "id": "li-hcltech-cabin-systems-engineer-aircraft-cabin-c--2026-w35",
-          "company": "HCLTech",
-          "title": "Cabin Systems Engineer - Aircraft Cabin - C++, C, Python & Linux",
-          "location": "Everett, WA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/cabin-systems-engineer-aircraft-cabin-c%2B%2B-c-python-linux-at-hcltech-4455860543",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "4 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4455860543",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-24T10:02:03.681036+00:00"
-        },
-        {
           "id": "li-latitude-ai-staff-software-engineer-c-radar-sensors-2026-w35",
           "company": "Latitude AI",
           "title": "Staff Software Engineer (C++) - Radar Sensors",
@@ -8254,29 +8158,6 @@
           "externalId": "linkedin:4458231927",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-telestream-software-engineer-c-beaverton-or-hybrid-2026-w35",
-          "company": "Telestream",
-          "title": "Software Engineer (C++), Beaverton, OR (Hybrid)",
-          "location": "Beaverton, OR",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-beaverton-or-hybrid-at-telestream-4458270668",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4458270668",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-24T18:51:35.923682+00:00"
         },
         {
           "id": "li-the-university-of-texas-at-austin-r-d-c-software-developer-2026-w35",
@@ -8301,27 +8182,26 @@
           "regionRank": 3
         },
         {
-          "id": "li-akkodis-unreal-engine-developers-c-gaming-simula-2026-w35",
-          "company": "Akkodis",
-          "title": "Unreal Engine Developers (C++ Gaming/Simulation)",
-          "location": "Winter Park, FL",
+          "id": "li-telestream-llc-software-engineer-c-beaverton-or-hybrid-2026-w35",
+          "company": "Telestream, LLC",
+          "title": "Software Engineer (C++), Beaverton, OR (Hybrid)",
+          "location": "Beaverton, OR",
           "remote": "Onsite",
           "industry": "\u2014",
           "salary": null,
-          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "summary": "LinkedIn scrape: posted 46 minutes ago. Verify role details on opening.",
           "skills": [
             "C++"
           ],
-          "url": "https://www.linkedin.com/jobs/view/unreal-engine-developers-c%2B%2B-gaming-simulation-at-akkodis-4457114711",
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-beaverton-or-hybrid-at-telestream-llc-4456530730",
           "source": "LinkedIn (24h scrape)",
-          "postedApprox": "4 hours ago",
+          "postedApprox": "46 minutes ago",
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
           "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4457114711",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-24T16:55:14.774023+00:00"
+          "externalId": "linkedin:4456530730",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
