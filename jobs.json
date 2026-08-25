@@ -7622,29 +7622,6 @@
           "externalId": "linkedin:4262573291"
         },
         {
-          "id": "li-sentinelone-staff-software-engineer-endpoint-escalat-2026-w35",
-          "company": "SentinelOne",
-          "title": "Staff Software Engineer, Endpoint Escalations (C++, Windows/OS Internals)",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-endpoint-escalations-c%2B%2B-windows-os-internals-at-sentinelone-4448825839",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "4 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4448825839",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-08-25T10:11:55.232904+00:00"
-        },
-        {
           "id": "li-torentify-software-engineer-c-c-2026-w35",
           "company": "Torentify",
           "title": "Software Engineer, (C/C++)",
@@ -7690,29 +7667,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-solopulse-senior-software-engineer-c-r-d-2026-w35",
-          "company": "SoloPulse",
-          "title": "Senior Software Engineer C++ - R&D",
-          "location": "Peachtree Corners, GA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-r-d-at-solopulse-4459017126",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4459017126",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-25T18:29:19.838455+00:00"
-        },
-        {
           "id": "li-ebusiness-technologies-corp-sr-c-linux-developer-2026-w35",
           "company": "eBusiness Technologies Corp.",
           "title": "Sr. C++/Linux Developer",
@@ -7733,28 +7687,6 @@
           "externalId": "linkedin:4459023634",
           "region": "Central",
           "regionRank": 3
-        },
-        {
-          "id": "li-globallogic-senior-c-developer-irc302860-2026-w35",
-          "company": "GlobalLogic",
-          "title": "Senior C++ Developer IRC302860",
-          "location": "Waltham, MA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 7 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-irc302860-at-globallogic-4457642525",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "7 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4457642525",
-          "region": "East",
-          "regionRank": 1
         },
         {
           "id": "li-maven-securities-c-developer-options-market-making-chi-2026-w35",
@@ -7801,6 +7733,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-25T11:03:33.130618+00:00"
+        },
+        {
+          "id": "li-sunrise-systems-inc-software-development-engineer-c-c-linux--2026-w35",
+          "company": "Sunrise Systems, Inc.",
+          "title": "Software Development Engineer ( C/C++,Linux GPU kernel driver )",
+          "location": "Austin, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-development-engineer-c-c%2B%2B-linux-gpu-kernel-driver-at-sunrise-systems-inc-4457609389",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4457609389",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-25T17:05:20.856834+00:00"
         }
       ],
       "removedNotes": [
