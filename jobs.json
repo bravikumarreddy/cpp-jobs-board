@@ -7664,6 +7664,52 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-26T06:25:51.822049+00:00"
+        },
+        {
+          "id": "li-cargill-principal-trading-engineer-c-2026-w35",
+          "company": "Cargill",
+          "title": "Principal Trading Engineer - C++",
+          "location": "Atlanta, GA",
+          "remote": "Onsite",
+          "industry": "Commodities trading",
+          "salary": null,
+          "summary": "Re-added by the 2026-08-26 false-positive audit: CONSULTANCY_RE wrongly listed 'cargill' as a staffing agency and rejected this direct Cargill posting 21 times. Cargill's trading arm hires C++ directly.",
+          "skills": [
+            "C++",
+            "Trading systems"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/principal-trading-engineer-c%2B%2B-at-cargill-4456953210",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "Posted 2026-08-25",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Re-added by nightly false-positive audit \u2014 verify role details on the opening",
+          "externalId": "linkedin:4456953210",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-eschat-senior-linux-c-software-engineer-2026-w35",
+          "company": "ESChat",
+          "title": "Senior Linux C++ Software Engineer",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 11 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-linux-c%2B%2B-software-engineer-at-eschat-4457663757",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "11 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4457663757",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-08-26T02:10:33.880885+00:00"
         }
       ],
       "removedNotes": [
