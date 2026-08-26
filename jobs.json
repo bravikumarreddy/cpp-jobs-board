@@ -7733,6 +7733,32 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-26T00:11:47.180662+00:00"
+        },
+        {
+          "id": "lucid-motors-senior-software-engineer-adas-feature-integration-2026-w35",
+          "company": "Lucid Motors",
+          "title": "Senior Software Engineer, ADAS Feature Integration",
+          "location": "Southfield, MI",
+          "remote": "Onsite/Hybrid",
+          "industry": "ADAS - HDW & SW Eng, ADAS & Autonomous Vehicles",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 89.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "CMake"
+          ],
+          "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5216837007",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (0h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 89.0,
+          "postedAtUtc": "2026-08-26T12:22:53-04:00",
+          "atsJobId": "5216837007",
+          "externalId": "greenhouse:5216837007",
+          "region": "East",
+          "regionRank": 1
         }
       ],
       "removedNotes": [
