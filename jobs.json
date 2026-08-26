@@ -7710,6 +7710,29 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-08-26T02:10:33.880885+00:00"
+        },
+        {
+          "id": "li-talent-software-services-fmri-c-developer-2026-w35",
+          "company": "TALENT Software Services",
+          "title": "FMRI C++ Developer",
+          "location": "Waukesha, WI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 14 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/fmri-c%2B%2B-developer-at-talent-software-services-4457259757",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "14 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4457259757",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-26T00:11:47.180662+00:00"
         }
       ],
       "removedNotes": [
