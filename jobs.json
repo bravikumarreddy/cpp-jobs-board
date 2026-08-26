@@ -5773,8 +5773,7 @@
         "Stealth Co (SF), Parsec (Fresno), Technovative (Brea CA), NVTS follow-up \u2014 citizenship / no-sponsor language (fresh sweep 2026-08-07)",
         "Skipped non-matches: 3Red Graduate C++ (new-grad), Torc Robotics SWE II (level), CyberForce Sr C++ Boca (repost of role already applied to), Acquire Me x2 (already applied), SpaceXAI (impostor repost), Tiger Resourcing SSET (test role) (fresh sweep 2026-08-07)",
         "media21 Onlinedienste e.K. \"Praktikum Softwareentwicklung C/C++\" \u2014 German internship mistagged as Indiana US; junk-title filter extended (praktikum/werkstudent).",
-        "Cloud Peritus \"Quantitative Developer (C++ & Python)\" \u2014 Salesforce consultancy posting an unnamed client req (staffing spam); company added to consultancy filter.",
-        "NinjaOne \u2014 Senior Software Engineer, C++ (Endpoint State & Control) \u2014 NinjaOne \u2014 JD: 'This position is NOT eligible for Visa sponsorship' (JD/policy verified 2026-08-06)"
+        "Cloud Peritus \"Quantitative Developer (C++ & Python)\" \u2014 Salesforce consultancy posting an unnamed client req (staffing spam); company added to consultancy filter."
       ]
     },
     {
@@ -7498,9 +7497,7 @@
         "Huxley \u00d76, Fintal, Goliath, OP Recruiting, USA Tech Recruit, Pentangle P5, InfoVision \u00d72, Actalent Manassas, Aditi Cary, Selby Jennings, Intellectt, Holistic Partners, SriSync, Cliff Services, Jobgether, Detroit Engineered Products, ADN \u00d72, Sundayy, Request Technology repost, Capgemini dup 4455329556 \u2014 agency shells/reposts/wrong-fit",
         "Respawn note: Garmin Olathe + Respawn Kirkland were the only <4h-old direct finds this sweep",
         "VBeyond Corporation \u2014 staffing-agency junk (nightly audit 2026-08-19); CONSULTANCY_RE tightened.",
-        "Intellectt Inc \u2014 staffing-agency junk (nightly audit 2026-08-19); CONSULTANCY_RE tightened.",
-        "NinjaOne \u2014 Senior Software Engineer, C++ | Patching \u2014 NinjaOne \u2014 JD: 'This position is NOT eligible for Visa sponsorship' (JD/policy verified 2026-08-06)",
-        "NinjaOne \u2014 C++ Staff Software Engineer \u2014 NinjaOne \u2014 JD: 'This position is NOT eligible for Visa sponsorship' (JD/policy verified 2026-08-06)"
+        "Intellectt Inc \u2014 staffing-agency junk (nightly audit 2026-08-19); CONSULTANCY_RE tightened."
       ]
     },
     {
@@ -7670,7 +7667,7 @@
         }
       ],
       "removedNotes": [
-        "NinjaOne \u2014 Senior Software Engineer, C++ | Endpoint State & Control \u2014 NinjaOne \u2014 JD: 'This position is NOT eligible for Visa sponsorship' (JD/policy verified 2026-08-06)"
+        "NinjaOne x4 per-state shells (W32/W34/W35) \u2014 JD: \"NOT eligible for Visa sponsorship\"; hand-removed 3x before, now gated by NO_SPONSORSHIP_COMPANY_RE (nightly audit 2026-08-26)."
       ]
     }
   ]
