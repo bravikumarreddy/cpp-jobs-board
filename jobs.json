@@ -2659,29 +2659,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-cultural-resource-management-c-developer-2026-w31",
-          "company": "Cultural Resource Management",
-          "title": "C++ Developer",
-          "location": "Florida, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-cultural-resource-management-4445668962",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "15 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445668962",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-27T06:43:40.579021+00:00"
-        },
-        {
           "id": "li-omnissa-software-engineer-c-c-cloud-networking-2026-w31",
           "company": "Omnissa",
           "title": "Software Engineer, C/C++ (Cloud/Networking)",
@@ -7598,30 +7575,6 @@
           "postedAtUtc": "2026-08-25T08:59:34.368206+00:00"
         },
         {
-          "id": "li-xai-rust-c-backend-engineer-enterprise-agent-2026-w35",
-          "company": "xAI",
-          "title": "Rust/C++ Backend Engineer - Enterprise Agent",
-          "location": "Palo Alto, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Re-added 2026-08-25 by the false-positive audit: the LinkedIn gate rejected it as \u201cdefense-company\u201d because DEFENSE_COMPANY_RE\u2019s spacex\\w* matched \u201cSpaceXAI\u201d. xAI is not a defense contractor and its Greenhouse board is an active tracker source.",
-          "skills": [
-            "C++",
-            "Rust"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/rust-c%2B%2B-backend-engineer-enterprise-agent-at-spacexai-4262573291",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "Aug 24, 2026",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Re-added by false-positive audit \u2014 verify on posting",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-24T08:42:01+00:00",
-          "externalId": "linkedin:4262573291"
-        },
-        {
           "id": "li-torentify-software-engineer-c-c-2026-w35",
           "company": "Torentify",
           "title": "Software Engineer, (C/C++)",
@@ -7665,29 +7618,6 @@
           "externalId": "linkedin:4457604512",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-spacexai-software-engineer-platform-core-c-c-2026-w35",
-          "company": "SpaceXAI",
-          "title": "Software Engineer - Platform Core (C++, C)",
-          "location": "Seattle, WA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 11 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-platform-core-c%2B%2B-c-at-spacexai-4448615436",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "11 hours ago",
-          "h1bFit": "Confirm \u2014 posted by 'SpaceXAI', NOT SpaceX \u2014 verify legitimacy before applying",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4448615436",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-25T11:03:33.130618+00:00"
         }
       ],
       "removedNotes": [
