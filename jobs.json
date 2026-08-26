@@ -6838,29 +6838,6 @@
           "postedAtUtc": "2026-08-19T21:07:00.162500+00:00"
         },
         {
-          "id": "goldman-goldman-sachs-global-banking-markets-equity-electronic-market-making-c-dev-2026-w34",
-          "postedAtUtc": "2026-08-19T15:01:28.591158+00:00",
-          "company": "Goldman Sachs",
-          "title": "Global Banking & Markets, Equity Electronic Market Making C++ Developer, Associate/ Vice President, Hong Kong",
-          "location": "Hong Kong",
-          "remote": "See posting",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Live tracker (Goldman (higher.gs)): posted 1 days ago. Verify details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://higher.gs.com/roles/179049",
-          "source": "Goldman (higher.gs)",
-          "postedApprox": "1 days ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
-          "externalId": "gs:179049",
-          "region": "Other",
-          "regionRank": 6
-        },
-        {
           "id": "li-bloomberg-senior-software-engineer-c-customer-dist-2026-w34",
           "company": "Bloomberg",
           "title": "Senior Software Engineer (C++) - Customer Distribution Infrastructure",
