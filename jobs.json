@@ -7783,28 +7783,6 @@
           "postedAtUtc": "2026-08-26T13:24:00.170647+00:00"
         },
         {
-          "id": "li-capgemini-gpu-software-engineer-c-2026-w35",
-          "company": "Capgemini",
-          "title": "GPU Software Engineer (C++)",
-          "location": "Greater Minneapolis-St. Paul Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 51 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/gpu-software-engineer-c%2B%2B-at-capgemini-4459338331",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "51 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4459338331",
-          "region": "Central",
-          "regionRank": 3
-        },
-        {
           "id": "li-engradar-software-engineer-c-core-data-2026-w35",
           "company": "EngRadar",
           "title": "Software Engineer - C++ Core Data",
@@ -7826,6 +7804,52 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-26T16:58:17.890703+00:00"
+        },
+        {
+          "id": "li-capgemini-engineering-gpu-software-engineer-c-2026-w35",
+          "company": "Capgemini Engineering",
+          "title": "GPU Software Engineer (C++)",
+          "location": "Greater Minneapolis-St. Paul Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/gpu-software-engineer-c%2B%2B-at-capgemini-engineering-4459316941",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4459316941",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-26T17:29:25.189642+00:00"
+        },
+        {
+          "id": "li-roblox-principal-software-engineer-network-tran-2026-w35",
+          "company": "Roblox",
+          "title": "Principal Software Engineer - Network Transport (C++)",
+          "location": "San Mateo, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-network-transport-c%2B%2B-at-roblox-4321352469",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "No \u2014 Roblox C++ JDs: 'may not be able to... support future H-1B sponsorship at this time'",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4321352469",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-26T14:29:25.189642+00:00"
         }
       ],
       "removedNotes": [
