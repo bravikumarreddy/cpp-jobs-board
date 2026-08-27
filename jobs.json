@@ -6907,33 +6907,6 @@
           "regionRank": 5
         },
         {
-          "id": "r9-intuitive-linkedin-4456423655",
-          "company": "Intuitive",
-          "title": "Senior Software Engineer \u2014 Embedded UI (C++)",
-          "location": "Sunnyvale, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Embedded UI software in C++ for da Vinci surgical robotic systems.",
-          "skills": [
-            "C++",
-            "Embedded",
-            "Qt",
-            "UI"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4456423655/",
-          "source": "LinkedIn (Aug 20 sweep)",
-          "postedApprox": "22 hours ago",
-          "h1bFit": "Yes \u2014 Intuitive Surgical: heavy H-1B sponsor; JD's export note applies only to embargoed-country nationals (not India)",
-          "yoeFit": "Fits",
-          "yoeNote": "5+",
-          "externalId": "linkedin:4456423655",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-20T22:59:49Z",
-          "easyApply": false
-        },
-        {
           "id": "r9-hewlett-packard-enterprise-juniper-wd-hpe-1193121",
           "company": "Hewlett Packard Enterprise (Juniper Networks)",
           "title": "Software Engineer, Networking & C/C++",
@@ -7683,32 +7656,6 @@
           "postedAtUtc": "2026-08-26T00:11:47.180662+00:00"
         },
         {
-          "id": "lucid-motors-senior-software-engineer-adas-feature-integration-2026-w35",
-          "company": "Lucid Motors",
-          "title": "Senior Software Engineer, ADAS Feature Integration",
-          "location": "Southfield, MI",
-          "remote": "Onsite/Hybrid",
-          "industry": "ADAS - HDW & SW Eng, ADAS & Autonomous Vehicles",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 89.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Linux",
-            "CMake"
-          ],
-          "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5216837007",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (0h ago)",
-          "h1bFit": "Uncertain",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 89.0,
-          "postedAtUtc": "2026-08-26T12:22:53-04:00",
-          "atsJobId": "5216837007",
-          "externalId": "greenhouse:5216837007",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-swift-senior-developer-systems-engineer-c-2026-w35",
           "company": "Swift",
           "title": "Senior Developer/Systems Engineer -- C++",
@@ -7872,27 +7819,27 @@
           "regionRank": 5
         },
         {
-          "id": "li-capgemini-gpu-software-engineer-c-2026-w35",
-          "company": "Capgemini",
+          "id": "li-capgemini-engineering-gpu-software-engineer-c-2026-w35",
+          "company": "Capgemini Engineering",
           "title": "GPU Software Engineer (C++)",
           "location": "Greater Minneapolis-St. Paul Area",
           "remote": "Onsite",
           "industry": "\u2014",
           "salary": null,
-          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
+          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
           "skills": [
             "C++"
           ],
-          "url": "https://www.linkedin.com/jobs/view/gpu-software-engineer-c%2B%2B-at-capgemini-4459338331",
+          "url": "https://www.linkedin.com/jobs/view/gpu-software-engineer-c%2B%2B-at-capgemini-engineering-4459316941",
           "source": "LinkedIn (24h scrape)",
-          "postedApprox": "8 hours ago",
+          "postedApprox": "9 hours ago",
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
           "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4459338331",
+          "externalId": "linkedin:4459316941",
           "region": "Central",
           "regionRank": 3,
-          "postedAtUtc": "2026-08-26T17:47:31.651307+00:00"
+          "postedAtUtc": "2026-08-26T17:48:46.385310+00:00"
         }
       ],
       "removedNotes": [
