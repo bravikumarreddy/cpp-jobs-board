@@ -3900,29 +3900,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-simbe-senior-robotics-software-engineer-c-pyth-2026-w31",
-          "company": "Simbe",
-          "title": "Senior Robotics Software Engineer (C++ & Python)",
-          "location": "San Francisco Bay Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Simbe Robotics is a leading retail robotics company providing in-store intelligence solutions that help retailers optimize operations, improve shelf execution, and deliver\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-robotics-software-engineer-c%2B%2B-python-at-simbe-4447746838",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "10 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4447746838",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-01T04:17:42.384444+00:00"
-        },
-        {
           "id": "li-intel-image-processing-engineer-c-linux-2026-w31",
           "company": "Intel",
           "title": "Image Processing Engineer (C++/Linux)",
@@ -6781,6 +6758,30 @@
           "yoeFit": "Verify",
           "yoeNote": "Auto-scraped \u2014 apply filters in your head",
           "externalId": "linkedin:4459327714",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "built-comcast-c-sr-software-engineer-2026-w35",
+          "postedAtUtc": "2026-08-27T00:00:00.000409+00:00",
+          "company": "Comcast",
+          "title": "C++ Sr. Software Engineer",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 7 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/sr-software-engineer-freewheel/10472054",
+          "source": "Built In",
+          "postedApprox": "7 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:10472054",
+          "possibleRepost": "Junior C++ Software Engineer",
           "region": "East",
           "regionRank": 1
         }

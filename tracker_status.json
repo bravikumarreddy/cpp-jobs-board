@@ -2,14 +2,14 @@
   "running": true,
   "pid": 816,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-08-27T06:46:31.206454+00:00",
-  "nextCycleAt": "2026-08-27T07:16:31.206548+00:00",
-  "cycleCount": 1138,
+  "lastCycleAt": "2026-08-27T07:20:51.007552+00:00",
+  "nextCycleAt": "2026-08-27T07:50:51.007580+00:00",
+  "cycleCount": 1139,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-08-27T06:29:53.586033+00:00",
+      "lastRun": "2026-08-27T07:20:16.817871+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -17,7 +17,7 @@
     },
     {
       "name": "remotive",
-      "lastRun": "2026-08-27T06:29:54.232618+00:00",
+      "lastRun": "2026-08-27T07:20:17.620638+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -25,7 +25,7 @@
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-08-27T06:29:54.529074+00:00",
+      "lastRun": "2026-08-27T07:20:17.929179+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -33,7 +33,7 @@
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-08-27T06:29:55.570690+00:00",
+      "lastRun": "2026-08-27T07:20:18.322508+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -41,7 +41,7 @@
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-08-27T06:29:55.946487+00:00",
+      "lastRun": "2026-08-27T07:20:18.700029+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -49,7 +49,7 @@
     },
     {
       "name": "avature",
-      "lastRun": "2026-08-27T06:29:57.336507+00:00",
+      "lastRun": "2026-08-27T07:20:19.196871+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,7 +57,7 @@
     },
     {
       "name": "tradeweb",
-      "lastRun": "2026-08-27T06:46:06.520461+00:00",
+      "lastRun": "2026-08-27T07:20:25.932275+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -65,7 +65,7 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-08-27T06:46:06.969235+00:00",
+      "lastRun": "2026-08-27T07:20:26.571687+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -73,15 +73,15 @@
     },
     {
       "name": "builtin",
-      "lastRun": "2026-08-27T06:46:07.996940+00:00",
+      "lastRun": "2026-08-27T07:20:27.799448+00:00",
       "status": "ok",
-      "found": 1,
-      "added": 0,
+      "found": 2,
+      "added": 1,
       "error": null
     },
     {
       "name": "goldman",
-      "lastRun": "2026-08-27T06:46:18.781111+00:00",
+      "lastRun": "2026-08-27T07:20:38.900468+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -89,7 +89,7 @@
     },
     {
       "name": "millennium",
-      "lastRun": "2026-08-27T06:46:19.336912+00:00",
+      "lastRun": "2026-08-27T07:20:39.166781+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -97,7 +97,7 @@
     },
     {
       "name": "sig",
-      "lastRun": "2026-08-27T06:46:19.956902+00:00",
+      "lastRun": "2026-08-27T07:20:39.921350+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -105,7 +105,7 @@
     },
     {
       "name": "linkedin",
-      "lastRun": "2026-08-27T06:46:20.555953+00:00",
+      "lastRun": "2026-08-27T07:20:40.367429+00:00",
       "status": "ok",
       "found": null,
       "added": 0,
@@ -129,6 +129,12 @@
     }
   ],
   "recentFinds": [
+    {
+      "company": "Comcast",
+      "title": "C++ Sr. Software Engineer",
+      "source": "Built In",
+      "at": "2026-08-27T07:20:27.799448+00:00"
+    },
     {
       "company": "Uber",
       "title": "Staff Software Engineer - AV Labs",
@@ -362,17 +368,11 @@
       "title": "Rates & Credit C++ Engineer",
       "source": "Built In",
       "at": "2026-08-09T00:36:59.103444+00:00"
-    },
-    {
-      "company": "Citadel Securities",
-      "title": "Rates & Credit C++ Engineer",
-      "source": "Built In",
-      "at": "2026-08-09T00:06:16.211717+00:00"
     }
   ],
   "totals": {
     "day": "2026-08-27",
-    "addedToday": 9,
-    "cyclesToday": 12
+    "addedToday": 10,
+    "cyclesToday": 13
   }
 }
