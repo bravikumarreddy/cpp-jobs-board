@@ -7846,29 +7846,6 @@
           "postedAtUtc": "2026-08-26T23:42:47.099162+00:00"
         },
         {
-          "id": "li-capgemini-engineering-gpu-software-engineer-c-2026-w35",
-          "company": "Capgemini Engineering",
-          "title": "GPU Software Engineer (C++)",
-          "location": "Greater Minneapolis-St. Paul Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/gpu-software-engineer-c%2B%2B-at-capgemini-engineering-4459316941",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "8 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4459316941",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-26T17:16:09.334388+00:00"
-        },
-        {
           "id": "roblox-senior-software-engineer-core-engine-2026-w35",
           "company": "Roblox",
           "title": "Senior Software Engineer, Core Engine",
@@ -7893,6 +7870,29 @@
           "atsJobId": "8160843",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-capgemini-gpu-software-engineer-c-2026-w35",
+          "company": "Capgemini",
+          "title": "GPU Software Engineer (C++)",
+          "location": "Greater Minneapolis-St. Paul Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/gpu-software-engineer-c%2B%2B-at-capgemini-4459338331",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "8 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4459338331",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-26T17:47:31.651307+00:00"
         }
       ],
       "removedNotes": [
