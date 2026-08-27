@@ -6647,76 +6647,6 @@
           "regionRank": 1
         },
         {
-          "id": "built-comcast-c-sr-software-engineer-2026-w35",
-          "postedAtUtc": "2026-08-27T00:00:00.000409+00:00",
-          "company": "Comcast",
-          "title": "C++ Sr. Software Engineer",
-          "location": "New York, New York",
-          "remote": "See posting",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Live tracker (Built In): posted 7 hours ago. Verify details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.builtinnyc.com/job/sr-software-engineer-freewheel/10472054",
-          "source": "Built In",
-          "postedApprox": "7 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
-          "externalId": "builtin:10472054",
-          "possibleRepost": "Junior C++ Software Engineer",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
-          "id": "li-globalstar-software-engineer-c-2026-w35",
-          "company": "Globalstar",
-          "title": "Software Engineer - C++",
-          "location": "San Diego, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-globalstar-4458374056",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4458374056",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-27T08:39:14.751405+00:00"
-        },
-        {
-          "id": "li-general-matter-software-engineer-c-python-2026-w35",
-          "company": "General Matter",
-          "title": "Software Engineer \u2013 C++/Python",
-          "location": "Los Angeles, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-c%2B%2B-python-at-general-matter-4459849373",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4459849373",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-27T15:25:24.310554+00:00"
-        },
-        {
           "id": "li-huxley-c-low-latency-trading-systems-dev-chicag-2026-w35",
           "company": "Huxley",
           "title": "C++ Low Latency Trading Systems Dev-Chicago-150-300K Base+Bonus",
@@ -6740,26 +6670,27 @@
           "postedAtUtc": "2026-08-27T17:33:00.335278+00:00"
         },
         {
-          "id": "li-sni-companies-robotics-software-engineer-c-ros-2026-w35",
-          "company": "SNI Companies",
-          "title": "Robotics Software Engineer (C++ / ROS)",
-          "location": "Riviera Beach, FL",
+          "id": "li-allwyn-corporation-senior-c-software-engineer-embedded-syst-2026-w35",
+          "company": "Allwyn Corporation",
+          "title": "Senior C++ Software Engineer \u2013 Embedded Systems",
+          "location": "United States",
           "remote": "Onsite",
           "industry": "\u2014",
           "salary": null,
-          "summary": "LinkedIn scrape: posted 16 minutes ago. Verify role details on opening.",
+          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
           "skills": [
             "C++"
           ],
-          "url": "https://www.linkedin.com/jobs/view/robotics-software-engineer-c%2B%2B-ros-at-sni-companies-4458695256",
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-%E2%80%93-embedded-systems-at-allwyn-corporation-4448560540",
           "source": "LinkedIn (24h scrape)",
-          "postedApprox": "16 minutes ago",
+          "postedApprox": "6 hours ago",
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
           "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4458695256",
-          "region": "East",
-          "regionRank": 1
+          "externalId": "linkedin:4448560540",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-08-27T17:28:35.008243+00:00"
         }
       ],
       "removedNotes": [
