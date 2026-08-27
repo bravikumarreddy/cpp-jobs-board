@@ -6738,6 +6738,28 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-27T17:33:00.335278+00:00"
+        },
+        {
+          "id": "li-sni-companies-robotics-software-engineer-c-ros-2026-w35",
+          "company": "SNI Companies",
+          "title": "Robotics Software Engineer (C++ / ROS)",
+          "location": "Riviera Beach, FL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 16 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/robotics-software-engineer-c%2B%2B-ros-at-sni-companies-4458695256",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "16 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4458695256",
+          "region": "East",
+          "regionRank": 1
         }
       ],
       "removedNotes": [
