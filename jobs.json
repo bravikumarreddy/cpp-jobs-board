@@ -7850,6 +7850,52 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-26T18:09:58.876049+00:00"
+        },
+        {
+          "id": "li-zoox-software-engineer-c-core-data-2026-w35",
+          "company": "Zoox",
+          "title": "Software Engineer - C++ Core Data",
+          "location": "Foster City, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 22 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-core-data-at-zoox-4457662990",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "22 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4457662990",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-08-26T02:42:47.099162+00:00"
+        },
+        {
+          "id": "li-zapnix-llc-avionics-software-engineers-c-fms-2026-w35",
+          "company": "Zapnix LLC",
+          "title": "Avionics Software Engineers (C++ & FMS)",
+          "location": "Phoenix, AZ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/avionics-software-engineers-c%2B%2B-fms-at-zapnix-llc-4459397955",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4459397955",
+          "region": "Mountain",
+          "regionRank": 4,
+          "postedAtUtc": "2026-08-26T23:42:47.099162+00:00"
         }
       ],
       "removedNotes": [
