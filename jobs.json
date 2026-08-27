@@ -6645,52 +6645,6 @@
           "externalId": "linkedin:4459327714",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-huxley-c-low-latency-trading-systems-dev-chicag-2026-w35",
-          "company": "Huxley",
-          "title": "C++ Low Latency Trading Systems Dev-Chicago-150-300K Base+Bonus",
-          "location": "Chicago, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-low-latency-trading-systems-dev-chicago-150-300k-base%2Bbonus-at-huxley-4459811647",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 hours ago",
-          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4459811647",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-27T17:33:00.335278+00:00"
-        },
-        {
-          "id": "li-allwyn-corporation-senior-c-software-engineer-embedded-syst-2026-w35",
-          "company": "Allwyn Corporation",
-          "title": "Senior C++ Software Engineer \u2013 Embedded Systems",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-%E2%80%93-embedded-systems-at-allwyn-corporation-4448560540",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "6 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4448560540",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-08-27T17:28:35.008243+00:00"
         }
       ],
       "removedNotes": [
