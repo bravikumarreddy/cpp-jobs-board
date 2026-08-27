@@ -3738,29 +3738,6 @@
           "postedAtUtc": "2026-07-30T23:38:33.335378+00:00"
         },
         {
-          "id": "li-intuitive-senior-software-engineer-embedded-ui-qt--2026-w31",
-          "company": "Intuitive",
-          "title": "Senior Software Engineer - Embedded UI (Qt / C++)",
-          "location": "Sunnyvale, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Company Description It started with a simple idea: what if surgery could be less invasive and recovery less painful? Nearly 30 years later, that question still fuels\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-embedded-ui-qt-c%2B%2B-at-intuitive-4447229643",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "15 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4447229643",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-07-31T00:39:47.308355+00:00"
-        },
-        {
           "id": "li-tradeweb-c-developer-2026-w31",
           "company": "Tradeweb",
           "title": "C++ Developer",
@@ -7538,78 +7515,6 @@
           "regionRank": 1
         },
         {
-          "id": "kitware-software-engineer-2026-w35",
-          "company": "Kitware",
-          "title": "Software Engineer",
-          "location": "Clifton Park, New York",
-          "remote": "Onsite/Hybrid",
-          "industry": "Computer Vision",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 99.0/100. Direct Lever ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Linux",
-            "Python"
-          ],
-          "url": "https://jobs.lever.co/kitware/2037d8ac-2c76-4b33-a72c-acb0500cf09e",
-          "source": "Lever API (live)",
-          "postedApprox": "Today (0h ago)",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 99.0,
-          "postedAtUtc": "2026-08-26T02:02:31.100000+00:00",
-          "atsJobId": "2037d8ac-2c76-4b33-a72c-acb0500cf09e",
-          "externalId": "lever:2037d8ac-2c76-4b33-a72c-acb0500cf09e",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
-          "id": "li-philips-senior-software-engineer-image-reconstru-2026-w35",
-          "company": "Philips",
-          "title": "Senior Software Engineer - Image Reconstruction (C++/CUDA)",
-          "location": "Orange, OH",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-image-reconstruction-c%2B%2B-cuda-at-philips-4407087444",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4407087444",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-26T06:25:51.822049+00:00"
-        },
-        {
-          "id": "li-cargill-principal-trading-engineer-c-2026-w35",
-          "company": "Cargill",
-          "title": "Principal Trading Engineer - C++",
-          "location": "Atlanta, GA",
-          "remote": "Onsite",
-          "industry": "Commodities trading",
-          "salary": null,
-          "summary": "Re-added by the 2026-08-26 false-positive audit: CONSULTANCY_RE wrongly listed 'cargill' as a staffing agency and rejected this direct Cargill posting 21 times. Cargill's trading arm hires C++ directly.",
-          "skills": [
-            "C++",
-            "Trading systems"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/principal-trading-engineer-c%2B%2B-at-cargill-4456953210",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "Posted 2026-08-25",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Re-added by nightly false-positive audit \u2014 verify role details on the opening",
-          "externalId": "linkedin:4456953210",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-eschat-senior-linux-c-software-engineer-2026-w35",
           "company": "ESChat",
           "title": "Senior Linux C++ Software Engineer",
@@ -7819,8 +7724,8 @@
           "regionRank": 5
         },
         {
-          "id": "li-capgemini-engineering-gpu-software-engineer-c-2026-w35",
-          "company": "Capgemini Engineering",
+          "id": "li-capgemini-gpu-software-engineer-c-2026-w35",
+          "company": "Capgemini",
           "title": "GPU Software Engineer (C++)",
           "location": "Greater Minneapolis-St. Paul Area",
           "remote": "Onsite",
@@ -7830,16 +7735,16 @@
           "skills": [
             "C++"
           ],
-          "url": "https://www.linkedin.com/jobs/view/gpu-software-engineer-c%2B%2B-at-capgemini-engineering-4459316941",
+          "url": "https://www.linkedin.com/jobs/view/gpu-software-engineer-c%2B%2B-at-capgemini-4459338331",
           "source": "LinkedIn (24h scrape)",
           "postedApprox": "9 hours ago",
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
           "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4459316941",
+          "externalId": "linkedin:4459338331",
           "region": "Central",
           "regionRank": 3,
-          "postedAtUtc": "2026-08-26T17:48:46.385310+00:00"
+          "postedAtUtc": "2026-08-26T18:21:41.354684+00:00"
         }
       ],
       "removedNotes": [
