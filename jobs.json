@@ -5758,32 +5758,6 @@
       "label": "Week of August 10, 2026",
       "jobs": [
         {
-          "id": "li-fresh-huxley-4452620464",
-          "company": "Huxley (agency)",
-          "title": "C++ Low Latency Trading Systems Developer",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "$150K\u2013$300K base + bonus",
-          "summary": "Low-latency C++ trading systems for an NYC trading firm; open to strong low-latency engineers from outside finance. $150\u2013300K base plus bonus.",
-          "skills": [
-            "C++",
-            "Low Latency",
-            "Trading"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4452620464/",
-          "source": "LinkedIn (Aug 12 fresh sweep)",
-          "postedApprox": "32 hours ago",
-          "h1bFit": "Confirm \u2014 recruiting agency for a Manhattan trading firm; sponsorship depends on end client \u2014 confirm with recruiter",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4452620464",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-11T19:11:34.640973+00:00",
-          "easyApply": false
-        },
-        {
           "id": "li-fresh-new-york-technology-partners-4452616733",
           "company": "New York Technology Partners (agency)",
           "title": "C++ Developer",
@@ -5810,30 +5784,6 @@
           "easyApply": true
         },
         {
-          "id": "li-fresh-solomon-page-4443621891",
-          "company": "Solomon Page (agency)",
-          "title": "Software Developer - C++",
-          "location": "Greenwich, CT",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "C++ application development for a Greenwich client; detail-oriented work within an application-programming team.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4443621891/",
-          "source": "LinkedIn (Aug 12 fresh sweep)",
-          "postedApprox": "36 hours ago",
-          "h1bFit": "Confirm \u2014 agency posting for a Greenwich, CT client (likely fund); sponsorship depends on end client",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4443621891",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-11T15:11:34.640973+00:00",
-          "easyApply": true
-        },
-        {
           "id": "li-fresh-haystack-4443677834",
           "company": "Haystack (on behalf of partner)",
           "title": "Software Developer",
@@ -5856,31 +5806,6 @@
           "regionRank": 1,
           "postedAtUtc": "2026-08-13T02:11:34.640973+00:00",
           "easyApply": false
-        },
-        {
-          "id": "li-fresh-charter-global-4441830323",
-          "company": "Charter Global (agency)",
-          "title": "C++ Developer with Windows",
-          "location": "Atlanta, GA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "SW Engineer III building enterprise-grade C++ on Windows; onsite 5 days in Atlanta; long-term contract or perm.",
-          "skills": [
-            "C++",
-            "Windows"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4441830323/",
-          "source": "LinkedIn (Aug 12 fresh sweep)",
-          "postedApprox": "29 hours ago",
-          "h1bFit": "Confirm \u2014 staffing agency; sponsorship depends on end client",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4441830323",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-11T22:11:34.640973+00:00",
-          "easyApply": true
         },
         {
           "id": "li-fresh-crossing-hurdles-4452374967",
@@ -5933,83 +5858,6 @@
           "easyApply": true
         },
         {
-          "id": "li-fresh-fintal-partners-4451406251",
-          "company": "Fintal Partners (agency)",
-          "title": "C++ Software Engineer",
-          "location": "Chicago, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Production C++ on a proprietary quant trading platform where software performance directly impacts trading.",
-          "skills": [
-            "C++",
-            "Trading"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4451406251/",
-          "source": "LinkedIn (Aug 12 fresh sweep)",
-          "postedApprox": "60 hours ago",
-          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4451406251",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-10T15:11:34.640973+00:00",
-          "easyApply": true
-        },
-        {
-          "id": "li-fresh-fintal-partners-4452718058",
-          "company": "Fintal Partners (agency)",
-          "title": "Senior C++ Software Engineer",
-          "location": "Chicago, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Senior C++ on mission-critical real-time trading systems; performance, reliability and latency paramount.",
-          "skills": [
-            "C++",
-            "Low Latency",
-            "Trading"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4452718058/",
-          "source": "LinkedIn (Aug 12 fresh sweep)",
-          "postedApprox": "12 hours ago",
-          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4452718058",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-12T15:11:34.640973+00:00",
-          "easyApply": true
-        },
-        {
-          "id": "li-fresh-phaxis-4452047288",
-          "company": "Phaxis (agency)",
-          "title": "Senior C++ Software Engineer",
-          "location": "Chicago, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "C++ for automated, scalable electronic options market-making systems at a quantitative prop trading firm.",
-          "skills": [
-            "C++",
-            "Options",
-            "Trading"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4452047288/",
-          "source": "LinkedIn (Aug 12 fresh sweep)",
-          "postedApprox": "53 hours ago",
-          "h1bFit": "Confirm \u2014 agency for an electronic options market maker; sponsorship depends on end client",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4452047288",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-10T22:11:34.640973+00:00",
-          "easyApply": true
-        },
-        {
           "id": "li-fresh-the-aes-group-4449875409",
           "company": "The AES Group (consulting)",
           "title": "Embedded Software Engineer",
@@ -6057,32 +5905,6 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-11T21:11:34.640973+00:00",
-          "easyApply": true
-        },
-        {
-          "id": "li-fresh-pentangle-tech-services-4451428862",
-          "company": "Pentangle Tech Services (agency)",
-          "title": "Software Lead (C++/VB.NET)",
-          "location": "Dearborn, MI",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Lead architecture combining high-performance C++ components with VB.NET business layers; drive legacy \u2192 C++/cloud modernization.",
-          "skills": [
-            "C++",
-            ".NET",
-            "Architecture"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4451428862/",
-          "source": "LinkedIn (Aug 12 fresh sweep)",
-          "postedApprox": "55 hours ago",
-          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4451428862",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-10T20:11:34.640973+00:00",
           "easyApply": true
         },
         {
@@ -6213,58 +6035,6 @@
           "easyApply": true
         },
         {
-          "id": "li-fresh-tiger-resourcing-group-4440424430",
-          "company": "Tiger Resourcing Group (agency)",
-          "title": "Senior Software Engineer in Test (C++)",
-          "location": "California, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "SDET: C++ test software, automation frameworks, regression/integration environments and embedded validation.",
-          "skills": [
-            "C++",
-            "SDET",
-            "Automation"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4440424430/",
-          "source": "LinkedIn (Aug 12 fresh sweep)",
-          "postedApprox": "6 hours ago",
-          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4440424430",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-12T21:11:34.640973+00:00",
-          "easyApply": true
-        },
-        {
-          "id": "li-fresh-rhoda-ai-4452788180",
-          "company": "Rhoda AI (via MVP Ventures)",
-          "title": "Senior Fleet Software Engineer",
-          "location": "Mountain View, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Fleet software for generalist intelligent robots \u2014 full robotics stack from hardware to foundation models at Rhoda AI.",
-          "skills": [
-            "C++",
-            "Robotics",
-            "Infrastructure"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4452788180/",
-          "source": "LinkedIn (Aug 12 fresh sweep)",
-          "postedApprox": "1 hours ago",
-          "h1bFit": "Uncertain \u2014 robotics startup (posted via two recruiting shells); sponsorship unknown \u2014 confirm",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4452788180",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-13T02:11:34.640973+00:00",
-          "easyApply": false
-        },
-        {
           "id": "li-anvik-technologies-c-developer-2026-w33",
           "company": "Anvik Technologies",
           "title": "C++ Developer",
@@ -6286,29 +6056,6 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-13T14:59:23.817381+00:00"
-        },
-        {
-          "id": "li-acceler8-talent-principal-physics-programmer-c-modeling--2026-w33",
-          "company": "Acceler8 Talent",
-          "title": "Principal Physics Programmer, C++ (Modeling & Simulation)",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/principal-physics-programmer-c%2B%2B-modeling-simulation-at-acceler8-talent-4450490419",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "9 hours ago",
-          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4450490419",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-08-13T12:14:32.593403+00:00"
         },
         {
           "id": "li-fresh-talent-software-services-4450825179",
@@ -6469,31 +6216,6 @@
           "easyApply": false
         },
         {
-          "id": "li-fresh-solas-it-recruitment-4453123331",
-          "company": "Solas IT Recruitment",
-          "title": "Principal C++ Engineer",
-          "location": "United States (Remote)",
-          "remote": "Remote",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Principal-level C++ engineering, US remote, via Solas IT Recruitment.",
-          "skills": [
-            "C++",
-            "Architecture"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4453123331/",
-          "source": "LinkedIn (Aug 13 fresh sweep)",
-          "postedApprox": "33 hours ago",
-          "h1bFit": "Confirm \u2014 Irish IT recruiter placing for a US client; JD clean \u2014 confirm end client",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4453123331",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-08-12T11:30:00Z",
-          "easyApply": false
-        },
-        {
           "id": "li-fresh-agiliad-4449868874",
           "company": "Agiliad",
           "title": "C++ / Angular Engineer",
@@ -6516,33 +6238,6 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-11T15:30:00Z",
-          "easyApply": false
-        },
-        {
-          "id": "li-fresh-the-aes-group-consulting-4449881546",
-          "company": "The AES Group (consulting)",
-          "title": "Embedded Firmware Engineer",
-          "location": "Dallas, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Embedded firmware (C/C++) engagement via The AES Group, Dallas TX.",
-          "skills": [
-            "C",
-            "C++",
-            "Firmware",
-            "Embedded"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4449881546/",
-          "source": "LinkedIn (Aug 13 fresh sweep)",
-          "postedApprox": "50 hours ago",
-          "h1bFit": "Confirm \u2014 consulting firm; JD clean \u2014 confirm end client",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4449881546",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-11T18:30:00Z",
           "easyApply": false
         },
         {
@@ -6676,28 +6371,6 @@
       "label": "Week of August 17, 2026",
       "jobs": [
         {
-          "id": "li-io-associates-c-engineer-low-latency-2026-w34",
-          "company": "iO Associates",
-          "title": "C++ Engineer (Low Latency)",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "LinkedIn scrape: posted 57 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-low-latency-at-io-associates-4455317485",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "57 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4455317485",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-anvik-technologies-senior-c-developer-qt-c-17-boost-ecologi-2026-w34",
           "company": "Anvik Technologies",
           "title": "Senior C++ Developer \u2013 Qt/C++17/Boost, Ecological Simulation Modeling",
@@ -6767,29 +6440,6 @@
           "externalId": "linkedin:4456339535",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-kla-sr-electrical-design-engineer-linux-firm-2026-w34",
-          "company": "KLA",
-          "title": "Sr. Electrical Design Engineer (Linux, Firmware, Embedded, C++)",
-          "location": "Milpitas, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/sr-electrical-design-engineer-linux-firmware-embedded-c%2B%2B-at-kla-4435605065",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4435605065",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-20T12:35:57.071435+00:00"
         },
         {
           "id": "li-trebecon-llc-embedded-software-engineer-c-fulltime-po-2026-w34",
@@ -6946,30 +6596,6 @@
           "easyApply": false
         },
         {
-          "id": "li-venture-search-c-developer-hft-2026-w34",
-          "company": "Venture Search",
-          "title": "C++ Developer (HFT)",
-          "location": "New York, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-hft-at-venture-search-4454634338",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4454634338",
-          "possibleRepost": "Core C++ Developer (HFT Crypto)",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-21T13:05:46.911642+00:00"
-        },
-        {
           "id": "li-sundayy-software-engineer-c-real-time-2026-w34",
           "company": "Sundayy",
           "title": "Software Engineer (C++, Real-Time)",
@@ -6991,51 +6617,6 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-08-21T16:15:11.273707+00:00"
-        },
-        {
-          "id": "li-simbe-robotics-software-engineer-c-python-2026-w34",
-          "company": "Simbe",
-          "title": "Robotics Software Engineer (C++ & Python)",
-          "location": "San Francisco Bay Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 31 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/robotics-software-engineer-c%2B%2B-python-at-simbe-4457874332",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "31 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4457874332",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
-          "id": "li-durlston-partners-senior-c-engineer-low-latency-trading-sy-2026-w34",
-          "company": "Durlston Partners",
-          "title": "Senior C++ Engineer Low-Latency Trading Systems",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-engineer-low-latency-trading-systems-at-durlston-partners-4455091984",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4455091984",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-23T13:58:53.211312+00:00"
         }
       ],
       "removedNotes": [
@@ -7202,29 +6783,6 @@
           "externalId": "linkedin:4459327714",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-capgemini-gpu-software-engineer-c-2026-w35",
-          "company": "Capgemini",
-          "title": "GPU Software Engineer (C++)",
-          "location": "Greater Minneapolis-St. Paul Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 11 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/gpu-software-engineer-c%2B%2B-at-capgemini-4459338331",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "11 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4459338331",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-26T17:43:00.202894+00:00"
         }
       ],
       "removedNotes": [
