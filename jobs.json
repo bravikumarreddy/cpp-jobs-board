@@ -7300,35 +7300,6 @@
           "easyApply": false
         },
         {
-          "id": "r9-rubrik-bi-10760495",
-          "company": "Rubrik",
-          "title": "Software Engineer, Atlas Distributed Systems",
-          "location": "Palo Alto, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "$158,000 - $237,000",
-          "summary": "Build and scale Atlas, Rubrik's distributed file system underpinning its data-security platform \u2014 distributed systems design, backend development, and public-cloud storage/compute integration. JD requires hands-on C++ coding skills.",
-          "skills": [
-            "C++",
-            "Distributed systems",
-            "Distributed file systems",
-            "Backend development",
-            "Public cloud (AWS/Azure/GCP)",
-            "Storage"
-          ],
-          "url": "https://builtin.com/job/software-engineer-atlas-distributed-systems/10760495",
-          "source": "Built In (Aug 20)",
-          "postedApprox": "Posted Aug 20",
-          "h1bFit": "Confirm \u2014 JD clean; verify Rubrik filing history",
-          "yoeFit": "Fits",
-          "yoeNote": "3+ years",
-          "externalId": "builtin:10760495",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-20T23:04:08Z",
-          "easyApply": false
-        },
-        {
           "id": "r9-aveva-etap-wd-aveva-r013424",
           "company": "AVEVA (ETAP)",
           "title": "Senior Software Engineer",
@@ -7829,29 +7800,6 @@
           "postedAtUtc": "2026-08-26T14:29:25.189642+00:00"
         },
         {
-          "id": "li-capgemini-gpu-software-engineer-c-2026-w35",
-          "company": "Capgemini",
-          "title": "GPU Software Engineer (C++)",
-          "location": "Greater Minneapolis-St. Paul Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/gpu-software-engineer-c%2B%2B-at-capgemini-4459338331",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "5 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4459338331",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-26T18:09:58.876049+00:00"
-        },
-        {
           "id": "li-zoox-software-engineer-c-core-data-2026-w35",
           "company": "Zoox",
           "title": "Software Engineer - C++ Core Data",
@@ -7896,6 +7844,55 @@
           "region": "Mountain",
           "regionRank": 4,
           "postedAtUtc": "2026-08-26T23:42:47.099162+00:00"
+        },
+        {
+          "id": "li-capgemini-engineering-gpu-software-engineer-c-2026-w35",
+          "company": "Capgemini Engineering",
+          "title": "GPU Software Engineer (C++)",
+          "location": "Greater Minneapolis-St. Paul Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/gpu-software-engineer-c%2B%2B-at-capgemini-engineering-4459316941",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "8 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4459316941",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-26T17:16:09.334388+00:00"
+        },
+        {
+          "id": "roblox-senior-software-engineer-core-engine-2026-w35",
+          "company": "Roblox",
+          "title": "Senior Software Engineer, Core Engine",
+          "location": "San Mateo, CA, United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "Software Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 99.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "C++17",
+            "Multithreading",
+            "Go"
+          ],
+          "url": "https://careers.roblox.com/jobs/8160843?gh_jid=8160843",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 99.0,
+          "postedAtUtc": "2026-08-26T20:05:46-04:00",
+          "atsJobId": "8160843",
+          "region": "West",
+          "regionRank": 5
         }
       ],
       "removedNotes": [
