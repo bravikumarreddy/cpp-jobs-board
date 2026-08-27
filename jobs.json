@@ -7724,27 +7724,27 @@
           "regionRank": 5
         },
         {
-          "id": "li-capgemini-gpu-software-engineer-c-2026-w35",
-          "company": "Capgemini",
+          "id": "li-capgemini-engineering-gpu-software-engineer-c-2026-w35",
+          "company": "Capgemini Engineering",
           "title": "GPU Software Engineer (C++)",
           "location": "Greater Minneapolis-St. Paul Area",
           "remote": "Onsite",
           "industry": "\u2014",
           "salary": null,
-          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
+          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
           "skills": [
             "C++"
           ],
-          "url": "https://www.linkedin.com/jobs/view/gpu-software-engineer-c%2B%2B-at-capgemini-4459338331",
+          "url": "https://www.linkedin.com/jobs/view/gpu-software-engineer-c%2B%2B-at-capgemini-engineering-4459316941",
           "source": "LinkedIn (24h scrape)",
-          "postedApprox": "9 hours ago",
+          "postedApprox": "10 hours ago",
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
           "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4459338331",
+          "externalId": "linkedin:4459316941",
           "region": "Central",
           "regionRank": 3,
-          "postedAtUtc": "2026-08-26T18:21:41.354684+00:00"
+          "postedAtUtc": "2026-08-26T17:53:53.397140+00:00"
         }
       ],
       "removedNotes": [
