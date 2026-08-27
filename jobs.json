@@ -3028,28 +3028,6 @@
           "regionRank": 5
         },
         {
-          "id": "li-cyngn-senior-c-engineer-2026-w31",
-          "company": "Cyngn",
-          "title": "Senior C++ Engineer",
-          "location": "San Francisco Bay Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "About Cyngn Based in Mountain View, CA, Cyngn is a publicly-traded autonomous technology company. We deploy self-driving industrial vehicles - specifically autonomous tuggers\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-engineer-at-cyngn-4429181743",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "10 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4429181743",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
           "id": "li-roblox-senior-software-engineer-client-systems--2026-w31",
           "company": "Roblox",
           "title": "Senior Software Engineer, Client Systems (C++)",
@@ -3092,29 +3070,6 @@
           "externalId": "linkedin:4387988222",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-actalent-embedded-c-dev-power-systems-2026-w31",
-          "company": "Actalent",
-          "title": "Embedded C++ Dev/Power Systems",
-          "location": "Durham, NC",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Job Title: Embedded Software Engineer Job Description Join our innovative team as an Embedded Software Engineer and play a pivotal role in developing software that integrates\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/embedded-c%2B%2B-dev-power-systems-at-actalent-4446576011",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "11 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446576011",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-29T08:33:20.380255+00:00"
         },
         {
           "id": "li-motorola-solutions-sr-embedded-software-engineer-c-c-2026-w31",
@@ -6193,30 +6148,6 @@
           "regionRank": 3,
           "postedAtUtc": "2026-08-11T15:30:00Z",
           "easyApply": false
-        },
-        {
-          "id": "li-sundayy-software-engineer-c-api-2026-w33",
-          "company": "Sundayy",
-          "title": "Software Engineer (C++, API)",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-api-at-sundayy-4455100513",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4455100513",
-          "possibleRepost": "Software Engineer (Java, C++)",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-08-15T22:20:50.820637+00:00"
         }
       ],
       "removedNotes": [
@@ -6324,29 +6255,6 @@
       "weekId": "2026-W34",
       "label": "Week of August 17, 2026",
       "jobs": [
-        {
-          "id": "li-anvik-technologies-senior-c-developer-qt-c-17-boost-ecologi-2026-w34",
-          "company": "Anvik Technologies",
-          "title": "Senior C++ Developer \u2013 Qt/C++17/Boost, Ecological Simulation Modeling",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-%E2%80%93-qt-c%2B%2B17-boost-ecological-simulation-modeling-at-anvik-technologies-4454262884",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4454262884",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-08-17T14:52:51.939034+00:00"
-        },
         {
           "id": "li-fresh-harvey-nash-agency-4454205402",
           "company": "Harvey Nash (agency)",
@@ -6807,6 +6715,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-27T15:25:24.310554+00:00"
+        },
+        {
+          "id": "li-huxley-c-low-latency-trading-systems-dev-chicag-2026-w35",
+          "company": "Huxley",
+          "title": "C++ Low Latency Trading Systems Dev-Chicago-150-300K Base+Bonus",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-low-latency-trading-systems-dev-chicago-150-300k-base%2Bbonus-at-huxley-4459811647",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4459811647",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-27T17:33:00.335278+00:00"
         }
       ],
       "removedNotes": [
