@@ -6806,6 +6806,29 @@
           "externalId": "greenhouse:8164468",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-teamware-solutions-c-developer-2026-w35",
+          "company": "Teamware Solutions",
+          "title": "C++ Developer",
+          "location": "Wilmington, DE",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-teamware-solutions-4460356294",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4460356294",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-28T14:12:01.788230+00:00"
         }
       ],
       "removedNotes": [
