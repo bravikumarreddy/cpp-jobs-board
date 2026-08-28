@@ -6645,6 +6645,75 @@
           "externalId": "linkedin:4459327714",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-kalpa-group-c-engineer-2026-w35",
+          "company": "Kalpa Group",
+          "title": "C++ Engineer",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 53 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-at-kalpa-group-4458075770",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "53 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4458075770",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-jpmorganchase-software-engineer-ii-linux-c-c-systems-p-2026-w35",
+          "company": "JPMorganChase",
+          "title": "Software Engineer II- Linux C/C++ systems programming",
+          "location": "Jersey City, NJ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-linux-c-c%2B%2B-systems-programming-at-jpmorganchase-4460303618",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4460303618",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-28T09:39:31.914622+00:00"
+        },
+        {
+          "id": "li-garmin-senior-c-software-engineer-2026-w35",
+          "company": "Garmin",
+          "title": "Senior C++ Software Engineer",
+          "location": "Olathe, KS",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-garmin-4460131776",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4460131776",
+          "possibleRepost": "C++ Software Engineer 2",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-08-28T00:39:31.914622+00:00"
         }
       ],
       "removedNotes": [
