@@ -6781,6 +6781,31 @@
           "externalId": "linkedin:4458413475",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "schonfeld-principal-software-engineer-2026-w35",
+          "company": "Schonfeld",
+          "title": "Principal Software Engineer",
+          "location": "New York, New York, United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "Global Trading & Execution",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 99.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux"
+          ],
+          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8164468",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 99.0,
+          "postedAtUtc": "2026-08-28T14:25:08-04:00",
+          "atsJobId": "8164468",
+          "externalId": "greenhouse:8164468",
+          "region": "East",
+          "regionRank": 1
         }
       ],
       "removedNotes": [
