@@ -6759,6 +6759,28 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-28T11:07:59.091571+00:00"
+        },
+        {
+          "id": "li-goldman-lloyds-c-automated-trading-engineer-2026-w35",
+          "company": "Goldman Lloyds",
+          "title": "C++ Automated Trading Engineer",
+          "location": "New York City Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 57 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-automated-trading-engineer-at-goldman-lloyds-4458413475",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "57 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4458413475",
+          "region": "East",
+          "regionRank": 1
         }
       ],
       "removedNotes": [
