@@ -6829,6 +6829,30 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-28T14:12:01.788230+00:00"
+        },
+        {
+          "id": "riot-games-staff-software-engineer-build-services-teamfight-tactics-2026-w35",
+          "company": "Riot Games",
+          "title": "Staff Software Engineer, Build Services - Teamfight Tactics",
+          "location": "Los Angeles, USA; Mercer Island, USA",
+          "remote": "Onsite/Hybrid",
+          "industry": "League Studio",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 99.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.riotgames.com/en/work-with-us/job/8163299?gh_jid=8163299",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (0h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 99.0,
+          "postedAtUtc": "2026-08-28T17:06:56-04:00",
+          "atsJobId": "8163299",
+          "region": "West",
+          "regionRank": 5
         }
       ],
       "removedNotes": [
