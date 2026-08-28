@@ -6714,6 +6714,51 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-28T00:39:31.914622+00:00"
+        },
+        {
+          "id": "li-cyngn-c-platform-integration-engineer-2026-w35",
+          "company": "Cyngn",
+          "title": "C++ Platform Integration Engineer",
+          "location": "Mountain View, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 17 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-platform-integration-engineer-at-cyngn-4433022204",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "17 minutes ago",
+          "h1bFit": "Confirm \u2014 JD silent; small AV company (Cyngn)",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4433022204",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "li-fionics-senior-c-engineer-core-engineering-lead-2026-w35",
+          "company": "Fionics",
+          "title": "Senior C++ Engineer, Core Engineering Lead",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-engineer-core-engineering-lead-at-fionics-4458963178",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4458963178",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-28T11:07:59.091571+00:00"
         }
       ],
       "removedNotes": [
