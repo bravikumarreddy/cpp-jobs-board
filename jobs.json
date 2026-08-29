@@ -6853,6 +6853,28 @@
           "atsJobId": "8163299",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-zodiac-solutions-inc-c-developer-onsite-o-fallon-mo-2026-w35",
+          "company": "Zodiac Solutions, Inc",
+          "title": "C++ Developer onsite ( O'Fallon, MO)",
+          "location": "O'Fallon, MO",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 53 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-onsite-o-fallon-mo-at-zodiac-solutions-inc-4458469124",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "53 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4458469124",
+          "region": "Central",
+          "regionRank": 3
         }
       ],
       "removedNotes": [
