@@ -6372,34 +6372,6 @@
           "postedAtUtc": "2026-08-20T12:14:47.474975+00:00"
         },
         {
-          "id": "r9-nxp-semiconductors-wd-nxp-r-10066122",
-          "company": "NXP Semiconductors",
-          "title": "Systems Engineering",
-          "location": "San Jose, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "$166,200 to $228,500",
-          "summary": "Job Description: Duties: Design and integrate systems and applications into microcontroller components into a complete product for the electronic communications industry. Responsible for electronics engineering duties in furtherance of Edge Processing business unit. Develop customer applications support of NXP ARM-based microcontrollers. Create software examples for peripherals and develop C/C++ c",
-          "skills": [
-            "C++",
-            "C",
-            "Embedded",
-            "Debugging",
-            "ARM"
-          ],
-          "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/Systems-Engineering_R-10066122",
-          "source": "Workday API (Aug 20 sweep)",
-          "postedApprox": "Posted 13 Days Ago",
-          "h1bFit": "Yes \u2014 NXP Semiconductors: known sponsor; JD clean",
-          "yoeFit": "Fits",
-          "yoeNote": "<=6 yrs",
-          "externalId": "workday:R-10066122",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-20T22:59:49Z",
-          "easyApply": false
-        },
-        {
           "id": "r9-deepsight-technology-hn-49157959",
           "company": "DeepSight Technology",
           "title": "C++ Software Engineer",
