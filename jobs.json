@@ -6780,6 +6780,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-29T02:35:04.910325+00:00"
+        },
+        {
+          "id": "li-arizona-small-business-association-asba-windows-software-engineer-c-c-2026-w35",
+          "company": "Arizona Small Business Association - ASBA",
+          "title": "Windows Software Engineer C# - C++",
+          "location": "Phoenix, AZ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 15 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/windows-software-engineer-c%23-c%2B%2B-at-arizona-small-business-association-asba-4459737324",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "15 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4459737324",
+          "region": "Mountain",
+          "regionRank": 4,
+          "postedAtUtc": "2026-08-30T00:48:55.020130+00:00"
         }
       ],
       "removedNotes": [
