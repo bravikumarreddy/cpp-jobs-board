@@ -6804,29 +6804,6 @@
           "regionRank": 3
         },
         {
-          "id": "li-vsolvit-software-developer-c-2026-w35",
-          "company": "VSolvit",
-          "title": "SOFTWARE DEVELOPER (C++)",
-          "location": "Norco, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 19 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-developer-c%2B%2B-at-vsolvit-4428894939",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "19 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4428894939",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-28T14:48:30.667988+00:00"
-        },
-        {
           "id": "li-rushdown-studios-senior-backend-engineer-c-2026-w35",
           "company": "Rushdown Studios",
           "title": "Senior Backend Engineer (C++)",
