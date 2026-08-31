@@ -6808,6 +6808,11 @@
       "removedNotes": [
         "NinjaOne x4 per-state shells (W32/W34/W35) \u2014 JD: \"NOT eligible for Visa sponsorship\"; hand-removed 3x before, now gated by NO_SPONSORSHIP_COMPANY_RE (nightly audit 2026-08-26)."
       ]
+    },
+    {
+      "weekId": "2026-W36",
+      "label": "Week of August 31, 2026",
+      "jobs": []
     }
   ]
 }
