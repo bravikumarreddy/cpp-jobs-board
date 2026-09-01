@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29",
+  "lastUpdated": "2026-09-01",
   "lastChecked": "2026-08-29",
   "seedVersion": 2,
   "liveTrackers": [
@@ -6812,7 +6812,123 @@
     {
       "weekId": "2026-W36",
       "label": "Week of August 31, 2026",
-      "jobs": []
+      "jobs": [
+        {
+          "id": "hn-category-labs-c-role-see-posting-2026-w36",
+          "postedAtUtc": "2026-09-01T17:21:43.000090+00:00",
+          "company": "Category Labs",
+          "title": "C++ role (see posting)",
+          "location": "NYC",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "HN hiring thread (1 hours ago): Category Labs |  https://www.category.xyz/  | Remote and NYC | Full Time | $200K USD+ Category Labs (formerly known as Monad Labs) is a team",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://news.ycombinator.com/item?id=49524978",
+          "source": "HN Who-is-Hiring",
+          "postedApprox": "1 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "built-summit-securities-group-software-engineer-2026-w36",
+          "postedAtUtc": "2026-09-01T00:00:00.000359+00:00",
+          "company": "Summit Securities Group",
+          "title": "Software Engineer",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 19 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/software-engineer-c/10953245",
+          "source": "Built In",
+          "postedApprox": "19 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:10953245",
+          "possibleRepost": "C++ Software Engineer",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-chicago-trading-company-c-engineering-lead-delta-force-2026-w36",
+          "company": "Chicago Trading Company",
+          "title": "C++ Engineering Lead \u2013 Delta Force",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 19 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineering-lead-%E2%80%93-delta-force-at-chicago-trading-company-4460084523",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "19 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4460084523",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-01T00:51:13.628230+00:00"
+        },
+        {
+          "id": "li-xoriant-senior-software-engineer-c-2026-w36",
+          "company": "Xoriant",
+          "title": "Senior Software Engineer (C++)",
+          "location": "San Jose, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-at-xoriant-4461787792",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4461787792",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-01T18:51:13.628230+00:00"
+        },
+        {
+          "id": "li-ntop-software-engineer-l4-build-team-c-c-2026-w36",
+          "company": "nTop",
+          "title": "Software Engineer (L4), Build Team (C/C++)",
+          "location": "Kings County, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 21 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-l4-build-team-c-c%2B%2B-at-ntop-4438972413",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "21 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4438972413",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-08-31T22:51:13.628230+00:00"
+        }
+      ]
     }
   ]
 }
