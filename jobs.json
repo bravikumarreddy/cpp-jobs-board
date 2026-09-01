@@ -6843,6 +6843,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-31T22:51:13.628230+00:00"
+        },
+        {
+          "id": "li-prosum-senior-c-linux-software-engineer-2026-w36",
+          "company": "Prosum",
+          "title": "Senior C++ / Linux Software Engineer",
+          "location": "Fort Myers, FL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-linux-software-engineer-at-prosum-4462024621",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4462024621",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-01T19:48:19.033446+00:00"
         }
       ]
     }
