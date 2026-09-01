@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-09-01",
-  "lastChecked": "2026-08-29",
+  "lastChecked": "2026-09-01",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -1383,27 +1383,6 @@
           "yoeNote": ""
         },
         {
-          "id": "clickhouse-core-software-engineer-c-remote-united-states-remote",
-          "company": "ClickHouse",
-          "title": "Core Software Engineer (C++) - Remote",
-          "location": "United States (remote)",
-          "remote": "Remote",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-01-16.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5755093004",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2026-01-16",
-          "region": "Remote",
-          "externalId": "greenhouse:5755093004",
-          "regionRank": 2,
-          "yoeNote": "",
-          "h1bFit": ""
-        },
-        {
           "id": "drw-senior-software-engineer-c-algo-chicago",
           "company": "DRW",
           "title": "Senior Software Engineer, C++ (Algo)",
@@ -1530,48 +1509,6 @@
           "h1bFit": ""
         },
         {
-          "id": "clickhouse-senior-software-engineer-cloud-infrastructure-united-states-remote",
-          "company": "ClickHouse",
-          "title": "Senior Software Engineer - Cloud Infrastructure",
-          "location": "United States(Remote)",
-          "remote": "Remote",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-03-05.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819674004",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2026-03-05",
-          "region": "Remote",
-          "externalId": "greenhouse:5819674004",
-          "regionRank": 2,
-          "yoeNote": "",
-          "h1bFit": ""
-        },
-        {
-          "id": "clickhouse-senior-software-engineer-identity-authorization-platform-united-state",
-          "company": "ClickHouse",
-          "title": "Senior Software Engineer - Identity & Authorization Platform",
-          "location": "United States (remote)",
-          "remote": "Remote",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-06-22.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6018899004",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2026-06-22",
-          "region": "Remote",
-          "externalId": "greenhouse:6018899004",
-          "regionRank": 2,
-          "yoeNote": "",
-          "h1bFit": ""
-        },
-        {
           "id": "drw-senior-software-engineer-c-ficco-data-new-york-city",
           "company": "DRW",
           "title": "Senior Software Engineer, C/FICCO Data",
@@ -1629,27 +1566,6 @@
           "postedApprox": "open since 2026-06-17",
           "region": "East",
           "regionRank": 1,
-          "yoeNote": "",
-          "h1bFit": ""
-        },
-        {
-          "id": "clickhouse-cloud-database-infrastructure-engineer-united-states-remote",
-          "company": "ClickHouse",
-          "title": "Cloud Database Infrastructure Engineer",
-          "location": "United States (Remote)",
-          "remote": "Remote",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-02-02.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5778617004",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2026-02-02",
-          "region": "Remote",
-          "externalId": "greenhouse:5778617004",
-          "regionRank": 2,
           "yoeNote": "",
           "h1bFit": ""
         },
