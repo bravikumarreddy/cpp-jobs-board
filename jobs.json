@@ -6866,6 +6866,31 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-09-01T19:48:19.033446+00:00"
+        },
+        {
+          "id": "roblox-senior-software-engineer-desktop-2026-w36",
+          "company": "Roblox",
+          "title": "Senior Software Engineer - Desktop",
+          "location": "San Mateo, CA, United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "Software Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 99.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://careers.roblox.com/jobs/8127056?gh_jid=8127056",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 99.0,
+          "postedAtUtc": "2026-09-01T18:22:18-04:00",
+          "atsJobId": "8127056",
+          "possibleRepost": "Senior Software Engineer, Runtime",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
