@@ -6524,6 +6524,29 @@
           "externalId": "linkedin:4462446499",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-roblox-senior-software-engineer-ads-experience--2026-w36",
+          "company": "Roblox",
+          "title": "Senior Software Engineer, Ads Experience (C++)",
+          "location": "San Mateo, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-ads-experience-c%2B%2B-at-roblox-4379471207",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "No \u2014 Roblox C++ JDs: 'may not be able to... support future H-1B sponsorship at this time'",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4379471207",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-02T15:09:30.396993+00:00"
         }
       ]
     }
