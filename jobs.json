@@ -6547,6 +6547,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-09-02T15:09:30.396993+00:00"
+        },
+        {
+          "id": "li-torentify-software-engineer-c-2026-w36",
+          "company": "Torentify",
+          "title": "Software Engineer (C++)",
+          "location": "Waltham, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-torentify-4462453284",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4462453284",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-02T19:27:57.467841+00:00"
         }
       ]
     }
