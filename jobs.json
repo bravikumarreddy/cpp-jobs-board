@@ -6502,6 +6502,28 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-09-02T02:50:24.102519+00:00"
+        },
+        {
+          "id": "li-torentify-back-end-developer-go-c-c-2026-w36",
+          "company": "Torentify",
+          "title": "Back End Developer (Go, C++, C#)",
+          "location": "San Jose, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 57 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/back-end-developer-go-c%2B%2B-c%23-at-torentify-4462446499",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "57 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4462446499",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
