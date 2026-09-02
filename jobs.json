@@ -3426,52 +3426,6 @@
           "regionRank": 4
         },
         {
-          "id": "li-aurora-staff-software-engineer-logging-c-2026-w31",
-          "company": "Aurora",
-          "title": "Staff Software Engineer, Logging (C++)",
-          "location": "Mountain View, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Who We Are Aurora\u2019s mission is to deliver the benefits of self-driving technology safely, quickly, and broadly. The Aurora Driver will create a new era in mobility and\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-logging-c%2B%2B-at-aurora-4418552166",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "15 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4418552166",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-07-30T12:05:35.740915+00:00"
-        },
-        {
-          "id": "li-srm-digital-llc-senior-software-engineer-c-c-linux-embed-2026-w31",
-          "company": "SRM Digital LLC",
-          "title": "Senior Software Engineer \u2013 C/C++ (Linux & Embedded Networking)",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "About the RoleWe are seeking a Senior Software Engineer with deep expertise in C/C++, Linux, and embedded systems to design and build high-performance networking solutions.\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-c-c%2B%2B-linux-embedded-networking-at-srm-digital-llc-4447258270",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "4 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4447258270",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-07-31T02:38:55.342978+00:00"
-        },
-        {
           "id": "li-old-mission-c-software-engineer-2026-w31",
           "company": "Old Mission",
           "title": "C++ Software Engineer",
@@ -3515,29 +3469,6 @@
           "externalId": "linkedin:4438851159",
           "region": "East",
           "regionRank": 1,
-          "postedAtUtc": "2026-07-31T13:07:35.469562+00:00"
-        },
-        {
-          "id": "li-acceler8-talent-senior-embedded-c-engineer-2026-w31",
-          "company": "Acceler8 Talent",
-          "title": "Senior Embedded C++ Engineer",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "\ud83d\ude80 Senior Embedded C++ Engineer \u2013 PCIe / RTOS / Platform Firmware We\u2019re looking for a Senior Embedded C++ Engineer to join a pioneering AI hardware company developing\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-embedded-c%2B%2B-engineer-at-acceler8-talent-4445095606",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445095606",
-          "region": "Remote",
-          "regionRank": 2,
           "postedAtUtc": "2026-07-31T13:07:35.469562+00:00"
         },
         {
@@ -3973,50 +3904,6 @@
           "regionRank": 5
         },
         {
-          "id": "li-covet-it-inc-senor-c-developer-2026-w32",
-          "company": "COVET IT INC",
-          "title": "Senor C++ Developer",
-          "location": "Whippany, NJ",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Role: Sr. C++ Developer with Cloud ComputingLocation:Whippany, NJ (Hybrid)Duration: Long-term contractInterview: In Person Job description:More than 8 years of hand on\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senor-c%2B%2B-developer-at-covet-it-inc-4447986807",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "53 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4447986807",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
-          "id": "li-grid-dynamics-senior-c-software-engineer-bazel-2026-w32",
-          "company": "Grid Dynamics",
-          "title": "Senior C++ Software Engineer (Bazel)",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "This position is part of a project for a world-renowned high-tech company focused on the foundational infrastructure behind large scale AI workloads. The team works with core\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-bazel-at-grid-dynamics-4446218667",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "58 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446218667",
-          "region": "Remote",
-          "regionRank": 2
-        },
-        {
           "id": "li-zoox-senior-software-engineer-c-gpu-performan-2026-w32",
           "company": "Zoox",
           "title": "Senior Software Engineer - C++ GPU Performance",
@@ -4091,28 +3978,6 @@
           "postedAtUtc": "2026-08-03T18:55:31.657027+00:00"
         },
         {
-          "id": "li-nlb-services-senior-c-developer-2026-w32",
-          "company": "NLB Services",
-          "title": "Senior C++ Developer",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Position: Senior C++ DeveloperLocation: Remote (US)Contract Key Skills: C++, Network programming in C++, strong codingLevel: Senior\u2013Lead About the role:The client is seeking\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-at-nlb-services-4448239487",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "27 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4448239487",
-          "region": "Remote",
-          "regionRank": 2
-        },
-        {
           "id": "li-swoon-c-developer-2026-w32",
           "company": "Swoon",
           "title": "C++ Developer",
@@ -4155,28 +4020,6 @@
           "externalId": "linkedin:4407898146",
           "region": "West",
           "regionRank": 5
-        },
-        {
-          "id": "li-openyield-senior-c-rust-developer-2026-w32",
-          "company": "OpenYield",
-          "title": "Senior C++/Rust Developer",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "About OpenYield OpenYield is building a modern automated marketplace for fixed income trading. Our mission is to evolve the standards of fixed income trading through\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-rust-developer-at-openyield-4446285681",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "15 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446285681",
-          "region": "East",
-          "regionRank": 1
         },
         {
           "id": "hn-lopaka-embedded-ui-graphics-engineer-2026-w32",
@@ -4319,52 +4162,6 @@
           "postedAtUtc": "2026-08-04T15:27:46.986342+00:00"
         },
         {
-          "id": "li-largeton-group-senior-c-software-engineer-2026-w32",
-          "company": "Largeton Group",
-          "title": "Senior C++ Software Engineer",
-          "location": "Dallas, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Job Summary for Senior C++ Software Engineer (Windows Environment): Dallas, Atlanta Develop and maintain complex, high-performance software applications using modern C++\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-largeton-group-4449036899",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4449036899",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-04T20:29:01.500265+00:00"
-        },
-        {
-          "id": "li-align-technology-sr-3d-c-software-engineer-2026-w32",
-          "company": "Align Technology",
-          "title": "Sr. 3D C++ Software Engineer",
-          "location": "Raleigh, NC",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Department: Research & Development Location: US-North Carolina-Raleigh Description As a Sr. 3D C++ Software Engineer, you will lead efforts to design and develop the core\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/sr-3d-c%2B%2B-software-engineer-at-align-technology-4448570414",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Confirm \u2014 JD silent; Align Technology filings unchecked",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4448570414",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-04T20:02:02.728624+00:00"
-        },
-        {
           "id": "perplexity-member-of-technical-staff-software-engineer-gpu-cluster-infrastructur-2026-w32",
           "company": "Perplexity",
           "title": "Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure)",
@@ -4392,29 +4189,6 @@
           "externalId": "ashby:886f4ab3-e691-45ed-b2db-069edf6f5413",
           "region": "West",
           "regionRank": 5
-        },
-        {
-          "id": "li-venture-search-c-quantitative-developer-systematic-equi-2026-w32",
-          "company": "Venture Search",
-          "title": "C++ Quantitative Developer - Systematic Equities POD",
-          "location": "New York, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Our client is a leading global hedge fund with a strong commitment to leveraging technological innovation and data-driven insights to deliver exceptional investment\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-quantitative-developer-systematic-equities-pod-at-venture-search-4448001218",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4448001218",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-05T13:05:45.099677+00:00"
         },
         {
           "id": "hn-category-labs-c-role-see-posting-2026-w32",
@@ -4531,28 +4305,6 @@
           "regionRank": 3
         },
         {
-          "id": "li-novatech-automation-staff-application-software-engineer-c-2026-w32",
-          "company": "NovaTech Automation",
-          "title": "Staff Application Software Engineer C++",
-          "location": "Lenexa, KS",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Position Overview Hybrid position - Tuesday-Thursday in office; Monday & Friday from home, if desired. The Staff Application Software Engineer is a senior individual\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/staff-application-software-engineer-c%2B%2B-at-novatech-automation-4449110758",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "37 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4449110758",
-          "region": "Central",
-          "regionRank": 3
-        },
-        {
           "id": "dv-trading-c-software-engineer-dv-commodities-chicago-2026-w32",
           "company": "DV Trading",
           "title": "C++ Software Engineer (DV Commodities - Chicago)",
@@ -4602,51 +4354,6 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-05T15:31:14.132861+00:00"
-        },
-        {
-          "id": "li-talent-software-services-wireless-systems-architect-mac-phy-c-emb-2026-w32",
-          "company": "TALENT Software Services",
-          "title": "Wireless Systems Architect (MAC, PHY, C++, embedded)",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Possible 3 Month CTH Role: Wireless Systems Architect (MAC, PHY, C++, embedded) Work location: Remote Background and Meet and Greet: MANDATORY Job Description:\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/wireless-systems-architect-mac-phy-c%2B%2B-embedded-at-talent-software-services-4448055377",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4448055377",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-08-05T15:02:18.617215+00:00"
-        },
-        {
-          "id": "li-re-build-manufacturing-senior-software-engineer-c-grpc-services-2026-w32",
-          "company": "Re:Build Manufacturing",
-          "title": "Senior Software Engineer \u2013 C++ gRPC Services",
-          "location": "Seattle, WA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "About Re:Build ManufacturingRe:Build Manufacturing is a growing family of industrial and engineering businesses combining enabling technologies, operational superiority, and\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-c%2B%2B-grpc-services-at-re-build-manufacturing-4440828832",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "5 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4440828832",
-          "region": "West",
-          "regionRank": 5
         },
         {
           "id": "li-citi-svp-senior-c-market-data-engineer-2026-w32",
@@ -4876,51 +4583,6 @@
           "externalId": "linkedin:4449939576",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-thomas-to-senior-c-software-engineer-infrastructur-2026-w32",
-          "company": "Thomas To",
-          "title": "Senior C++ Software Engineer - Infrastructure Tools",
-          "location": "Santa Clara, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "NVIDIA has continuously reinvented itself over two decades. Our invention of the GPU in 1999 fueled the growth of the PC gaming market, redefined modern computer graphics,\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-infrastructure-tools-at-thomas-to-4449956446",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4449956446",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
-          "id": "li-thomas-to-senior-software-engineer-cuda-c-core-lib-2026-w32",
-          "company": "Thomas To",
-          "title": "Senior Software Engineer, CUDA C++ Core Libraries",
-          "location": "Santa Clara, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "NVIDIA\u2019s accelerated computing platform is foundational to modern HPC and AI. At the center of this platform are CUDA Core Libraries that provide the algorithms,\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-cuda-c%2B%2B-core-libraries-at-thomas-to-4449946173",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4449946173",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-06T00:21:37.493294+00:00"
         },
         {
           "id": "xai-spacexai-software-engineer-search-infrastructure-2026-w32",
@@ -5160,29 +4822,6 @@
           "possibleRepost": "Senior C++ Software Engineer"
         },
         {
-          "id": "li-tekwissen-c-engineer-2026-w32",
-          "company": "TekWissen \u00ae",
-          "title": "C++ Engineer",
-          "location": "Austin, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Overview TekWissen is a global workforce management provider headquartered in Ann Arbor, Michigan that offers strategic talent solutions to our clients worldwide. This Client\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-at-tekwissen-%C2%AE-4450276094",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "9 hours ago",
-          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4450276094",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-06T14:23:00.665062+00:00"
-        },
-        {
           "id": "built-comcast-c-software-engineer-3-2026-w32",
           "postedAtUtc": "2026-08-07T00:00:00.002600+00:00",
           "company": "Comcast",
@@ -5389,29 +5028,6 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-07T09:24:32.551389+00:00"
-        },
-        {
-          "id": "li-engradar-c-software-engineer-2026-w32",
-          "company": "EngRadar",
-          "title": "C++ Software Engineer",
-          "location": "Cambridge, MA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-engradar-4450731663",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4450731663",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-07T17:28:30.186983+00:00"
         },
         {
           "id": "li-x-rite-embedded-systems-engineer-c-2026-w32",
@@ -5894,33 +5510,6 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-13T10:00:00Z",
-          "easyApply": false
-        },
-        {
-          "id": "li-fresh-objective-partners-agency-4443643519",
-          "company": "Objective Partners (agency)",
-          "title": "C++ Engineer \u2014 Streaming Media Backend",
-          "location": "Chicago, IL",
-          "remote": "Hybrid",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "High-concurrency C++ backend for real-time ad/inventory infrastructure at a streaming-media tech firm (hybrid Chicago).",
-          "skills": [
-            "C++",
-            "Concurrency",
-            "Backend",
-            "Low Latency"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/4443643519/",
-          "source": "LinkedIn (Aug 13 fresh sweep)",
-          "postedApprox": "3 hours ago",
-          "h1bFit": "Confirm \u2014 recruiter for a digital-media tech firm; JD clean \u2014 confirm end client",
-          "yoeFit": "Fits",
-          "yoeNote": "",
-          "externalId": "linkedin:4443643519",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-13T16:00:00Z",
           "easyApply": false
         },
         {
