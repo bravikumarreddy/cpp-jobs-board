@@ -6479,6 +6479,29 @@
           "externalId": "linkedin:4442795275",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-shain-associates-c-team-lead-2026-w36",
+          "company": "Shain Associates",
+          "title": "C++ Team Lead",
+          "location": "New York City Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 11 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-team-lead-at-shain-associates-4460902145",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "11 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4460902145",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-02T02:50:24.102519+00:00"
         }
       ]
     }
