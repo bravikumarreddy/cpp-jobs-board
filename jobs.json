@@ -6570,6 +6570,28 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-09-02T21:29:44.525951+00:00"
+        },
+        {
+          "id": "li-gac-solutions-technical-lead-senior-c-java-2026-w36",
+          "company": "GAC Solutions",
+          "title": "Technical Lead \u2013 Senior C++ / Java",
+          "location": "Irvine, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 34 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/technical-lead-%E2%80%93-senior-c%2B%2B-java-at-gac-solutions-4461335990",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "34 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4461335990",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
