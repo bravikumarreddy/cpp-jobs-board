@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-01",
-  "lastChecked": "2026-09-01",
+  "lastUpdated": "2026-09-02",
+  "lastChecked": "2026-09-02",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -2740,29 +2740,6 @@
           "atsJobId": "4700102006",
           "region": "West",
           "regionRank": 5
-        },
-        {
-          "id": "li-ea-sports-advanced-c-generalist-software-engineer--2026-w31",
-          "company": "EA SPORTS",
-          "title": "Advanced C++ Generalist Software Engineer - Tiburon Innovation and Engine",
-          "location": "Orlando, FL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Description & Requirements Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story.\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/advanced-c%2B%2B-generalist-software-engineer-tiburon-innovation-and-engine-at-ea-sports-4433994274",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4433994274",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-28T19:06:55.959975+00:00"
         },
         {
           "id": "built-3red-partners-c-developer-2026-w31",
