@@ -6592,6 +6592,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-09-03T00:57:10.265591+00:00"
+        },
+        {
+          "id": "li-zapnix-llc-middleware-engineer-with-c-and-qt-qml-2026-w36",
+          "company": "Zapnix LLC",
+          "title": "Middleware Engineer with C++ and Qt/Qml",
+          "location": "Milpitas, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/middleware-engineer-with-c%2B%2B-and-qt-qml-at-zapnix-llc-4462844220",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4462844220",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-03T13:57:51.609570+00:00"
         }
       ]
     }
