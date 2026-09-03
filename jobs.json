@@ -6592,6 +6592,29 @@
           "externalId": "linkedin:4461335990",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-umatr-software-engineer-rust-c-go-2026-w36",
+          "company": "UMATR",
+          "title": "Software Engineer - Rust / C++ / Go",
+          "location": "New York City Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-rust-c%2B%2B-go-at-umatr-4449833619",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4449833619",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-02T14:35:19.539539+00:00"
         }
       ]
     }
