@@ -3722,29 +3722,6 @@
           "postedAtUtc": "2026-08-02T16:15:10.411363+00:00"
         },
         {
-          "id": "li-umatr-backend-engineer-rust-c-distributed-syst-2026-w32",
-          "company": "UMATR",
-          "title": "Backend Engineer \u2013 Rust & C++ (Distributed Systems & Databases)",
-          "location": "San Francisco, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Backend Engineer \u2013 Rust & C++ (Distributed Systems & Databases) About the OpportunityWe\u2019re supporting a fast-moving startup that\u2019s building advanced data products with a\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/backend-engineer-%E2%80%93-rust-c%2B%2B-distributed-systems-databases-at-umatr-4420113476",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "6 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4420113476",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-03T08:15:10.411363+00:00"
-        },
-        {
           "id": "li-crowdstrike-sr-engineer-cloud-ai-runtime-c-ebpf-k8s--2026-w32",
           "company": "CrowdStrike",
           "title": "Sr. Engineer - Cloud & AI Runtime - C++/eBPF/K8s (Hybrid)",
