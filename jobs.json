@@ -6592,6 +6592,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-09-03T13:57:51.609570+00:00"
+        },
+        {
+          "id": "li-adobe-photoshop-software-development-engineer--2026-w36",
+          "company": "Adobe",
+          "title": "Photoshop Software Development Engineer - C++/GPU imaging",
+          "location": "San Jose, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 13 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/photoshop-software-development-engineer-c%2B%2B-gpu-imaging-at-adobe-4461387931",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "13 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4461387931",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-03T05:33:40.691011+00:00"
         }
       ]
     }
