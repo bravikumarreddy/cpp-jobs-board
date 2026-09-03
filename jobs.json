@@ -3014,29 +3014,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-varda-space-industries-senior-space-firmware-software-engineer--2026-w31",
-          "company": "Varda Space Industries",
-          "title": "Senior Space Firmware Software Engineer, C++",
-          "location": "El Segundo, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "About Varda Low Earth orbit is open for business. Varda is accelerating the development of commercial space infrastructure, from in-orbit pharmaceutical processing to\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-space-firmware-software-engineer-c%2B%2B-at-varda-space-industries-4446885838",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "14 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446885838",
-          "region": "West",
-          "regionRank": 5,
-          "possibleRepost": "Senior Spacecraft Firmware Engineer, C++"
-        },
-        {
           "id": "li-thurn-partners-low-level-c-engineer-hft-build-2026-w31",
           "company": "Thurn Partners",
           "title": "Low-level C++ Engineer - HFT build",
