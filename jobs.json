@@ -6660,6 +6660,28 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-09-03T19:40:25.253754+00:00"
+        },
+        {
+          "id": "li-ace-technologies-c-2026-w36",
+          "company": "Ace Technologies",
+          "title": "c++",
+          "location": "Mossville, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-at-ace-technologies-4460763553",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4460763553",
+          "region": "Central",
+          "regionRank": 3
         }
       ]
     }
