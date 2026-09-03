@@ -6614,6 +6614,29 @@
           "externalId": "linkedin:4462771601",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-haystack-senior-c-software-engineer-2026-w36",
+          "company": "Haystack",
+          "title": "Senior C++ Software Engineer",
+          "location": "Washington DC-Baltimore Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-haystack-4462717212",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "8 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4462717212",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-03T00:57:10.265591+00:00"
         }
       ]
     }
