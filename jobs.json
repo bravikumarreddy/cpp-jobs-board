@@ -6704,6 +6704,29 @@
           "yoeNote": "Auto-tracked \u2014 apply filters in your head",
           "region": "Remote",
           "regionRank": 2
+        },
+        {
+          "id": "li-delta-system-software-inc-tech-lead-c-2026-w36",
+          "company": "Delta System & Software, Inc.",
+          "title": "Tech Lead- C++",
+          "location": "O'Fallon, MO",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/tech-lead-c%2B%2B-at-delta-system-software-inc-4461915810",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4461915810",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-09-03T22:47:23.350073+00:00"
         }
       ]
     }
