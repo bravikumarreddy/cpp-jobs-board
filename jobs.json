@@ -2788,28 +2788,6 @@
           "postedAtUtc": "2026-07-28T08:00:54.343935+00:00"
         },
         {
-          "id": "li-fionics-core-c-engineer-2026-w31",
-          "company": "Fionics",
-          "title": "Core C++ Engineer",
-          "location": "Chicago, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Core C++ EngineerChicago (on-site) An options market maker in Chicago hiring a C++ engineer to work on its trading systems. Options-only firm that models itself on the Dutch\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/core-c%2B%2B-engineer-at-fionics-4446045614",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "28 minutes ago",
-          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446045614",
-          "region": "Central",
-          "regionRank": 3
-        },
-        {
           "id": "li-balyasny-asset-management-l-p-senior-low-latency-c-developer-2026-w31",
           "company": "Balyasny Asset Management L.P.",
           "title": "Senior Low Latency C++ Developer",
@@ -3586,29 +3564,6 @@
           "externalId": "linkedin:4438918125",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-intel-image-processing-engineer-c-linux-2026-w31",
-          "company": "Intel",
-          "title": "Image Processing Engineer (C++/Linux)",
-          "location": "Santa Clara, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Job Details Job Description: Embark with us on a journey of growth and transformation as we create exceptionally engineered technology and bring AI everywhere. As a valued\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/image-processing-engineer-c%2B%2B-linux-at-intel-4402784287",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "9 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4402784287",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-01T10:59:09.507897+00:00"
         },
         {
           "id": "li-nvidia-senior-c-software-engineer-infrastructur-2026-w31",
