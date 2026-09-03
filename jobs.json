@@ -6682,6 +6682,28 @@
           "externalId": "linkedin:4460763553",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "himalayas-sentinelone-senior-software-engineer-c-linux-cloud-workload-security-2026-w36",
+          "postedAtUtc": "2026-09-03T22:55:31.001598+00:00",
+          "company": "SentinelOne",
+          "title": "Senior Software Engineer - C++ Linux & Cloud Workload Security",
+          "location": "United States",
+          "remote": "Remote (US)",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Himalayas): posted just now. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://himalayas.app/companies/sentinelone/jobs/senior-software-engineer-c-linux-cloud-workload-security-3585395598",
+          "source": "Himalayas",
+          "postedApprox": "just now",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "region": "Remote",
+          "regionRank": 2
         }
       ]
     }
