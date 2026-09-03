@@ -6637,6 +6637,29 @@
           "externalId": "linkedin:4461294729",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "li-shrive-technologies-c-java-and-python-resource-2026-w36",
+          "company": "Shrive Technologies",
+          "title": "C++/ Java and Python Resource",
+          "location": "Texas, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-java-and-python-resource-at-shrive-technologies-4463105541",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4463105541",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-09-03T19:40:25.253754+00:00"
         }
       ]
     }
