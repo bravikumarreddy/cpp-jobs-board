@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-03",
-  "lastChecked": "2026-09-03",
+  "lastUpdated": "2026-09-04",
+  "lastChecked": "2026-09-04",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -2642,29 +2642,6 @@
           "externalId": "builtin:7705591",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-ari-embedded-software-engineer-perception-sy-2026-w31",
-          "company": "ARi",
-          "title": "Embedded Software Engineer \u2013 Perception Systems (C++/Linux)",
-          "location": "Peoria Metropolitan Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "ARi is a fast-growing global engineering firm headquartered in East Peoria, IL, USA. Our power of \u0093i\u0094 represents the innovation, intelligence, ingenuity, and insight that\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-%E2%80%93-perception-systems-c%2B%2B-linux-at-ari-4437713557",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4437713557",
-          "region": "Other",
-          "regionRank": 6,
-          "postedAtUtc": "2026-07-28T11:52:11.516970+00:00"
         },
         {
           "id": "li-zimmer-biomet-senior-software-developer-c-qt-mitk-vtk-2026-w31",
@@ -6727,6 +6704,54 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-09-03T22:47:23.350073+00:00"
+        },
+        {
+          "id": "li-ari-embedded-software-engineer-perception-sy-2026-w36",
+          "company": "ARi",
+          "title": "Embedded Software Engineer \u2013 Perception Systems (C++/Linux)",
+          "location": "Peoria, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 22 hours ago. Re-added by nightly recall audit 2026-09-04 (daemon's unstable 24h result sets missed it). Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-%E2%80%93-perception-systems-c%2B%2B-linux-at-ari-4460727655",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "22 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4460727655",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-09-03T17:24:06.176354+00:00"
+        },
+        {
+          "id": "tenstorrent-sr-staff-engineer-front-end-verification-2026-w36",
+          "company": "Tenstorrent",
+          "title": "Sr. Staff Engineer, Front-End Verification",
+          "location": "Austin, Texas, United States; Santa Clara, California, United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "RISC V: DV",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (2h ago). Callback score 89.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Networking"
+          ],
+          "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5229569007",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (2h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 89.0,
+          "postedAtUtc": "2026-09-04T08:40:39-04:00",
+          "atsJobId": "5229569007",
+          "externalId": "greenhouse:5229569007",
+          "region": "Central",
+          "regionRank": 3
         }
       ]
     }
