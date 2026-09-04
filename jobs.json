@@ -6775,6 +6775,29 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-09-04T14:55:38.273719+00:00"
+        },
+        {
+          "id": "li-futran-solutions-c-c-technical-lead-payments-iso-8583-2026-w36",
+          "company": "Futran Solutions",
+          "title": "C/C++ Technical Lead \u2013 Payments & ISO 8583",
+          "location": "St Louis, MO",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-technical-lead-%E2%80%93-payments-iso-8583-at-futran-solutions-4463384326",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4463384326",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-09-04T15:26:24.889706+00:00"
         }
       ]
     }
