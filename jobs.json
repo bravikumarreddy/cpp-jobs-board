@@ -6843,6 +6843,32 @@
           "externalId": "linkedin:4461401040",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "pure-storage-principal-software-engineer-hyperscale-build-platform-and-tools-2026-w36",
+          "company": "Pure Storage",
+          "title": "Principal Software Engineer, HyperScale Build Platform and Tools",
+          "location": "Santa Clara, California",
+          "remote": "Onsite/Hybrid",
+          "industry": "Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 99.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "CMake"
+          ],
+          "url": "https://job-boards.greenhouse.io/purestorage/jobs/8162645",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (0h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 99.0,
+          "postedAtUtc": "2026-09-04T15:21:26-04:00",
+          "atsJobId": "8162645",
+          "externalId": "greenhouse:8162645",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
