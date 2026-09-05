@@ -6892,6 +6892,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-09-04T22:55:10.474844+00:00"
+        },
+        {
+          "id": "built-citadel-global-quantitative-strategies-c-quantitative-research-engin-2026-w36",
+          "postedAtUtc": "2026-09-05T00:00:00.000897+00:00",
+          "company": "Citadel",
+          "title": "Global Quantitative Strategies | C++ Quantitative Research Engineer",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 10 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/global-quantitative-strategies-c-quantitative-research-engineer/11031720",
+          "source": "Built In",
+          "postedApprox": "10 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:11031720",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
