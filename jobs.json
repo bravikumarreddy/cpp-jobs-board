@@ -6915,6 +6915,29 @@
           "externalId": "builtin:11031720",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-snap-inc-software-engineer-specs-c-level-5-2026-w36",
+          "company": "Snap Inc.",
+          "title": "Software Engineer, Specs C++, Level 5",
+          "location": "Bellevue, WA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 23 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-specs-c%2B%2B-level-5-at-snap-inc-4454321891",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "23 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4454321891",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-04T19:20:53.183284+00:00"
         }
       ]
     }
