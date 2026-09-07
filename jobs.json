@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-05",
-  "lastChecked": "2026-09-05",
+  "lastUpdated": "2026-09-07",
+  "lastChecked": "2026-09-07",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -6991,7 +6991,36 @@
     {
       "weekId": "2026-W37",
       "label": "Week of September 07, 2026",
-      "jobs": []
+      "jobs": [
+        {
+          "id": "qube-research-technologies-c-software-engineer-core-trading-technology-2026-w37",
+          "company": "Qube Research & Technologies",
+          "title": "C++ Software Engineer - Core Trading Technology",
+          "location": "Chicago",
+          "remote": "Onsite/Hybrid",
+          "industry": "Core-Technology ",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 98.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "Multithreading",
+            "Distributed systems",
+            "Python"
+          ],
+          "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785351002",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 98.0,
+          "postedAtUtc": "2026-09-07T10:59:29-04:00",
+          "atsJobId": "8785351002",
+          "externalId": "greenhouse:8785351002",
+          "region": "Central",
+          "regionRank": 3
+        }
+      ]
     }
   ]
 }
