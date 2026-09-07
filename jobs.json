@@ -3291,28 +3291,6 @@
           "postedAtUtc": "2026-07-30T22:31:27.838658+00:00"
         },
         {
-          "id": "li-dash2-c-software-engineer-2026-w31",
-          "company": "DASH2",
-          "title": "C++ Software Engineer",
-          "location": "Cedar Rapids, IA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Required skills/experience, 5+ years with:DO-178C DAL A or B Requirements-Based Verification ExperienceLow-Level Software Integration and Verification Experience, including\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-dash2-4446953351",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "6 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446953351",
-          "region": "Central",
-          "regionRank": 3
-        },
-        {
           "id": "li-accord-technologies-inc-embedded-software-engineer-c-2026-w31",
           "company": "Accord Technologies Inc",
           "title": "Embedded Software Engineer C++",
