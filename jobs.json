@@ -6972,6 +6972,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-09-07T14:47:37.588098+00:00"
+        },
+        {
+          "id": "li-net2source-n2s-senior-c-developer-2026-w37",
+          "company": "Net2Source (N2S)",
+          "title": "Senior C++ Developer",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-at-net2source-n2s-4462886989",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4462886989",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-09-08T13:49:41.502309+00:00"
         }
       ]
     }
