@@ -6995,6 +6995,52 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-09-08T13:49:41.502309+00:00"
+        },
+        {
+          "id": "li-triveni-it-embedded-software-engineer-c-2026-w37",
+          "company": "Triveni IT",
+          "title": "Embedded Software Engineer (C++)",
+          "location": "Tualatin, OR",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-c%2B%2B-at-triveni-it-4464614212",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4464614212",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-08T15:24:16.784547+00:00"
+        },
+        {
+          "id": "li-thunderhawk-technology-partners-embedded-software-engineer-c-fms-2026-w37",
+          "company": "Thunderhawk Technology Partners",
+          "title": "Embedded Software Engineer \u2013 C++ FMS",
+          "location": "Phoenix, AZ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-%E2%80%93-c%2B%2B-fms-at-thunderhawk-technology-partners-4464613506",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4464613506",
+          "region": "Mountain",
+          "regionRank": 4,
+          "postedAtUtc": "2026-09-08T15:24:16.784547+00:00"
         }
       ]
     }
