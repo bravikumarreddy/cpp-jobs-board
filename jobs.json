@@ -6949,6 +6949,29 @@
           "externalId": "linkedin:4462276634",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-thurn-partners-first-engineers-on-a-new-trading-platfor-2026-w37",
+          "company": "Thurn Partners",
+          "title": "First Engineers on a New Trading Platform | C++ | New York | $500k-1m",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 day ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/first-engineers-on-a-new-trading-platform-c%2B%2B-new-york-%24500k-1m-at-thurn-partners-4461890552",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 day ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4461890552",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-07T14:47:37.588098+00:00"
         }
       ]
     }
