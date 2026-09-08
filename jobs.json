@@ -1650,26 +1650,6 @@
           "h1bFit": ""
         },
         {
-          "id": "optiver-fpga-engineer-new-york-new-york",
-          "company": "Optiver",
-          "title": "FPGA Engineer",
-          "location": "New York, New York",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-01-14.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.optiver.com/join-us/jobs/8375617002/?gh_jid=8375617002",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2026-01-14",
-          "region": "East",
-          "regionRank": 1,
-          "yoeNote": "",
-          "h1bFit": ""
-        },
-        {
           "id": "imc-trading-hardware-machine-learning-engineer-chicago-united-states",
           "company": "IMC Trading",
           "title": "Hardware Machine Learning Engineer",
