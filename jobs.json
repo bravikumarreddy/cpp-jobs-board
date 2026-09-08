@@ -7041,6 +7041,75 @@
           "region": "Mountain",
           "regionRank": 4,
           "postedAtUtc": "2026-09-08T15:24:16.784547+00:00"
+        },
+        {
+          "id": "li-8elements-technologies-senior-c-software-engineer-2026-w37",
+          "company": "8Elements Technologies",
+          "title": "Senior C++ Software Engineer",
+          "location": "Dallas, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 8 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-8elements-technologies-4462547323",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "8 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4462547323",
+          "region": "Central",
+          "regionRank": 3
+        },
+        {
+          "id": "li-atrium-senior-c-engineer-407146-2026-w37",
+          "company": "Atrium",
+          "title": "Senior C++ Engineer - 407146",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 11 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-engineer-407146-at-atrium-4464660280",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "11 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:407146",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "point72-quant-library-developer-macro-technology-2026-w37",
+          "company": "Point72",
+          "title": "Quant Library Developer, Macro Technology",
+          "location": "United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "Macro Management",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 99.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Python"
+          ],
+          "url": "https://boards.greenhouse.io/point72/jobs/8782787002?gh_jid=8782787002",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 99.0,
+          "postedAtUtc": "2026-09-08T12:53:25-04:00",
+          "atsJobId": "8782787002",
+          "externalId": "greenhouse:8782787002",
+          "region": "Remote",
+          "regionRank": 2
         }
       ]
     }
