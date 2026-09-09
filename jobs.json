@@ -7224,6 +7224,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-09-09T16:59:33.322614+00:00"
+        },
+        {
+          "id": "li-aptask-senior-c-developer-2026-w37",
+          "company": "ApTask",
+          "title": "Senior C++ Developer",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 23 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-at-aptask-4464676931",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "23 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4464676931",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-08T21:03:30.103008+00:00"
         }
       ]
     }
