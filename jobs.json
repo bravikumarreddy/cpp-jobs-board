@@ -7270,6 +7270,51 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-09-09T16:34:46.517943+00:00"
+        },
+        {
+          "id": "li-citi-senior-c-application-developer-vp-2026-w37",
+          "company": "Citi",
+          "title": "Senior C++ Application Developer VP",
+          "location": "Tampa, FL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 minute ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-application-developer-vp-at-citi-4464144091",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 minute ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4464144091",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-unify-technologies-c-software-engineer-2026-w37",
+          "company": "Unify Technologies",
+          "title": "C++ Software Engineer",
+          "location": "Foster City, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-unify-technologies-4464104638",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4464104638",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-09T19:09:37.367742+00:00"
         }
       ]
     }
