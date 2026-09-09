@@ -7155,6 +7155,75 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-09-09T14:23:28.425347+00:00"
+        },
+        {
+          "id": "li-glocomms-staff-c-engineer-2026-w37",
+          "company": "Glocomms",
+          "title": "Staff C++ Engineer",
+          "location": "San Francisco County, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/staff-c%2B%2B-engineer-at-glocomms-4465072153",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4465072153",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-09T13:59:33.322614+00:00"
+        },
+        {
+          "id": "li-comcast-sr-c-software-engineer-reston-va-hybrid--2026-w37",
+          "company": "Comcast",
+          "title": "Sr. C++ Software Engineer - (Reston, VA - Hybrid 2 Days)- FreeWheel",
+          "location": "Reston, VA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-c%2B%2B-software-engineer-reston-va-hybrid-2-days-freewheel-at-comcast-4463859528",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4463859528",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-09T13:59:33.322614+00:00"
+        },
+        {
+          "id": "li-gables-search-group-senior-embedded-c-linux-engineer-2026-w37",
+          "company": "Gables Search Group",
+          "title": "Senior Embedded C++/Linux Engineer",
+          "location": "Los Angeles, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-embedded-c%2B%2B-linux-engineer-at-gables-search-group-4463887537",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4463887537",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-09T16:59:33.322614+00:00"
         }
       ]
     }
