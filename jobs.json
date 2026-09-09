@@ -7090,6 +7090,28 @@
           "externalId": "greenhouse:8782787002",
           "region": "Remote",
           "regionRank": 2
+        },
+        {
+          "id": "li-sosv-hax-robotics-software-engineer-c-python-2026-w37",
+          "company": "SOSV HAX",
+          "title": "Robotics Software Engineer (C++ & Python)",
+          "location": "San Francisco Bay Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 29 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/robotics-software-engineer-c%2B%2B-python-at-sosv-hax-4463559848",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "29 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4463559848",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
