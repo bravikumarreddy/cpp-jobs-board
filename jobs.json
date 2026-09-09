@@ -7109,6 +7109,52 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-09-09T00:01:21.803971+00:00"
+        },
+        {
+          "id": "li-spacexai-software-engineer-training-inference-c-2026-w37",
+          "company": "SpaceXAI",
+          "title": "Software Engineer - Training/Inference (C++)",
+          "location": "Palo Alto, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-training-inference-c%2B%2B-at-spacexai-4437459957",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4437459957",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-09T11:23:28.425347+00:00"
+        },
+        {
+          "id": "li-tekfortune-inc-software-engineer-c-2026-w37",
+          "company": "TEKFORTUNE INC",
+          "title": "Software Engineer - C++",
+          "location": "California, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-tekfortune-inc-4463874627",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4463874627",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-09T14:23:28.425347+00:00"
         }
       ]
     }
