@@ -5854,29 +5854,6 @@
           "regionRank": 5
         },
         {
-          "id": "li-fionics-senior-c-engineer-core-engineering-lead-2026-w35",
-          "company": "Fionics",
-          "title": "Senior C++ Engineer, Core Engineering Lead",
-          "location": "New York, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-engineer-core-engineering-lead-at-fionics-4458963178",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "4 hours ago",
-          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4458963178",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-28T11:07:59.091571+00:00"
-        },
-        {
           "id": "li-goldman-lloyds-c-automated-trading-engineer-2026-w35",
           "company": "Goldman Lloyds",
           "title": "C++ Automated Trading Engineer",
@@ -5895,31 +5872,6 @@
           "yoeFit": "Verify",
           "yoeNote": "Auto-scraped \u2014 apply filters in your head",
           "externalId": "linkedin:4458413475",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
-          "id": "schonfeld-principal-software-engineer-2026-w35",
-          "company": "Schonfeld",
-          "title": "Principal Software Engineer",
-          "location": "New York, New York, United States",
-          "remote": "Onsite/Hybrid",
-          "industry": "Global Trading & Execution",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 99.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Linux"
-          ],
-          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8164468",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (1h ago)",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 99.0,
-          "postedAtUtc": "2026-08-28T14:25:08-04:00",
-          "atsJobId": "8164468",
-          "externalId": "greenhouse:8164468",
           "region": "East",
           "regionRank": 1
         },
@@ -5991,29 +5943,6 @@
           "externalId": "linkedin:4458469124",
           "region": "Central",
           "regionRank": 3
-        },
-        {
-          "id": "li-rushdown-studios-senior-backend-engineer-c-2026-w35",
-          "company": "Rushdown Studios",
-          "title": "Senior Backend Engineer (C++)",
-          "location": "Albany, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 14 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-c%2B%2B-at-rushdown-studios-4460586056",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "14 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4460586056",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-29T02:35:04.910325+00:00"
         },
         {
           "id": "li-arizona-small-business-association-asba-windows-software-engineer-c-c-2026-w35",
