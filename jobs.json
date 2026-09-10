@@ -7544,6 +7544,34 @@
           "externalId": "linkedin:4463496516",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "tailscale-gh-software-engineer-networking-dataplane-2026-w37",
+          "company": "Tailscale GH",
+          "title": "Software Engineer, Networking (Dataplane)",
+          "location": "Remote (United States)",
+          "remote": "Remote",
+          "industry": "Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 89.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Distributed systems",
+            "Networking",
+            "Rust",
+            "Go"
+          ],
+          "url": "https://job-boards.greenhouse.io/tailscale/jobs/4732897005",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 89.0,
+          "postedAtUtc": "2026-09-10T15:56:16-04:00",
+          "atsJobId": "4732897005",
+          "externalId": "greenhouse:4732897005",
+          "region": "Remote",
+          "regionRank": 2
         }
       ]
     }
