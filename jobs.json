@@ -7572,6 +7572,28 @@
           "externalId": "greenhouse:4732897005",
           "region": "Remote",
           "regionRank": 2
+        },
+        {
+          "id": "li-saraca-c-linux-software-developer-fmri-2026-w37",
+          "company": "SARACA",
+          "title": "C++ Linux Software Developer \u2013 FMRI",
+          "location": "Waukesha, WI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 41 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-linux-software-developer-%E2%80%93-fmri-at-saraca-4463931309",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "41 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4463931309",
+          "region": "Central",
+          "regionRank": 3
         }
       ]
     }
