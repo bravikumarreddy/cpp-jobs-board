@@ -7387,6 +7387,29 @@
           "externalId": "builtin:11068877",
           "region": "Remote",
           "regionRank": 2
+        },
+        {
+          "id": "li-jpmorganchase-sr-lead-software-engineer-python-java-c--2026-w37",
+          "company": "JPMorganChase",
+          "title": "Sr Lead Software Engineer - Python/Java/C++/C# - Trading/Front Office",
+          "location": "Houston, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-lead-software-engineer-python-java-c%2B%2B-c%23-trading-front-office-at-jpmorganchase-4456169587",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4456169587",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-09-10T10:08:57.657336+00:00"
         }
       ]
     }
