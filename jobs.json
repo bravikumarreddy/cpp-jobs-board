@@ -7410,6 +7410,74 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-09-10T14:42:36.218669+00:00"
+        },
+        {
+          "id": "li-pentangle-tech-services-p5-group-software-engineer-c-qt-qml-2026-w37",
+          "company": "Pentangle Tech Services | P5 Group",
+          "title": "Software Engineer \u2013 C++ / Qt / QML",
+          "location": "Illinois, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-c%2B%2B-qt-qml-at-pentangle-tech-services-p5-group-4465696887",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4465696887",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-09-10T15:14:01.905993+00:00"
+        },
+        {
+          "id": "li-siemens-eda-siemens-digital-industries-software-software-engineer-c-digital-logic-2026-w37",
+          "company": "Siemens EDA (Siemens Digital Industries Software)",
+          "title": "Software Engineer - C++ / Digital Logic",
+          "location": "Waltham, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-digital-logic-at-siemens-eda-siemens-digital-industries-software-4464556428",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4464556428",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-10T17:14:01.905993+00:00"
+        },
+        {
+          "id": "li-ace-technologies-software-engineer-c-qt-qml-location-oak--2026-w37",
+          "company": "Ace Technologies",
+          "title": "Software Engineer- (C++/qt/qml) | Location: Oak Brook, IL \u2013 Onsite Role | W2 Only",
+          "location": "Oak Brook, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 52 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-qt-qml-location-oak-brook-il-%E2%80%93-onsite-role-w2-only-at-ace-technologies-4463490920",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "52 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4463490920",
+          "region": "Central",
+          "regionRank": 3
         }
       ]
     }
