@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09",
+  "lastUpdated": "2026-09-10",
   "lastChecked": "2026-09-09",
   "seedVersion": 2,
   "liveTrackers": [
@@ -7364,6 +7364,29 @@
           "externalId": "linkedin:4464155276",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "built-progress-software-principal-software-engineer-c-and-marklogic-database-2026-w37",
+          "postedAtUtc": "2026-09-09T00:00:00.001545+00:00",
+          "company": "Progress Software",
+          "title": "Principal Software Engineer \u2013 C++ and MarkLogic Database",
+          "location": "United States (remote)",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 1 days ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinboston.com/job/principal-software-engineer-c-and-marklogic-database/11068877",
+          "source": "Built In",
+          "postedApprox": "1 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:11068877",
+          "region": "Remote",
+          "regionRank": 2
         }
       ]
     }
