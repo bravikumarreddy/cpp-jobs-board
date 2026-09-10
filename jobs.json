@@ -7478,6 +7478,72 @@
           "externalId": "linkedin:4463490920",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "li-cosm-software-engineer-c-2026-w37",
+          "company": "Cosm",
+          "title": "Software Engineer - C++",
+          "location": "Salt Lake City, UT",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 21 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-cosm-4463913550",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "21 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4463913550",
+          "region": "Mountain",
+          "regionRank": 4
+        },
+        {
+          "id": "li-ensono-expert-c-software-engineer-2026-w37",
+          "company": "Ensono",
+          "title": "Expert C++ Software Engineer",
+          "location": "Downers Grove, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 9 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/expert-c%2B%2B-software-engineer-at-ensono-4464572999",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "9 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4464572999",
+          "region": "Central",
+          "regionRank": 3
+        },
+        {
+          "id": "li-ler-techforce-senior-software-engineer-mbd-c-c-2026-w37",
+          "company": "LER TechForce",
+          "title": "Senior Software Engineer - MBD/C/C++",
+          "location": "Auburn Hills, MI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 52 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-mbd-c-c%2B%2B-at-ler-techforce-4463496516",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "52 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4463496516",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
