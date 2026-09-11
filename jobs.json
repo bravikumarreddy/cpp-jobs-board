@@ -7573,6 +7573,29 @@
           "externalId": "linkedin:4464205261",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-euronet-c-software-developer-2026-w37",
+          "company": "Euronet",
+          "title": "C++ Software Developer",
+          "location": "Las Vegas, NV",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-developer-at-euronet-4457027401",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4457027401",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-11T15:52:22.719587+00:00"
         }
       ]
     }
