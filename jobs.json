@@ -1610,26 +1610,6 @@
           "h1bFit": ""
         },
         {
-          "id": "optiver-software-engineer-trading-strategies-chicago-illinois-united-states",
-          "company": "Optiver",
-          "title": "Software Engineer - Trading Strategies",
-          "location": "Chicago, Illinois, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-06-26.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.optiver.com/join-us/jobs/8576683002/?gh_jid=8576683002",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2026-06-26",
-          "region": "Central",
-          "regionRank": 3,
-          "yoeNote": "",
-          "h1bFit": ""
-        },
-        {
           "id": "akuna-capital-performance-engineer-chicago-il",
           "company": "Akuna Capital",
           "title": "Performance Engineer",
@@ -5696,29 +5676,6 @@
           "postedAtUtc": "2026-08-25T08:59:34.368206+00:00"
         },
         {
-          "id": "li-torentify-software-engineer-c-c-2026-w35",
-          "company": "Torentify",
-          "title": "Software Engineer, (C/C++)",
-          "location": "Herndon, VA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c-c%2B%2B-at-torentify-4458737614",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "5 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4458737614",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-25T11:48:15.570012+00:00"
-        },
-        {
           "id": "li-anvik-technologies-c-technical-lead-market-data-2026-w35",
           "company": "Anvik Technologies",
           "title": "C++ Technical Lead \u2013 Market Data",
@@ -7594,6 +7551,28 @@
           "externalId": "linkedin:4463931309",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "li-lean-it-inc-senior-embedded-c-software-engineer-7-ye-2026-w37",
+          "company": "Lean IT Inc.",
+          "title": "Senior Embedded C++ Software Engineer(7+ Years)",
+          "location": "Danvers, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 33 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-embedded-c%2B%2B-software-engineer-7%2B-years-at-lean-it-inc-4464205261",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "33 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4464205261",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }

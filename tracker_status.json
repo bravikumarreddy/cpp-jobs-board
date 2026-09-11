@@ -2,14 +2,14 @@
   "running": true,
   "pid": 4913,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-09-11T14:27:05.371033+00:00",
-  "nextCycleAt": "2026-09-11T14:57:05.371105+00:00",
-  "cycleCount": 1556,
+  "lastCycleAt": "2026-09-11T16:58:26.305545+00:00",
+  "nextCycleAt": "2026-09-11T17:28:26.305641+00:00",
+  "cycleCount": 1557,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-09-11T14:23:11.372791+00:00",
+      "lastRun": "2026-09-11T15:27:32.417598+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -17,7 +17,7 @@
     },
     {
       "name": "remotive",
-      "lastRun": "2026-09-11T14:23:12.249914+00:00",
+      "lastRun": "2026-09-11T15:27:33.306345+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -25,7 +25,7 @@
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-09-11T14:23:12.512311+00:00",
+      "lastRun": "2026-09-11T15:27:33.556229+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -33,7 +33,7 @@
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-09-11T14:23:13.500235+00:00",
+      "lastRun": "2026-09-11T15:27:34.533587+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -41,7 +41,7 @@
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-09-11T14:23:13.708357+00:00",
+      "lastRun": "2026-09-11T15:27:34.940151+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -49,7 +49,7 @@
     },
     {
       "name": "avature",
-      "lastRun": "2026-09-11T14:23:14.420072+00:00",
+      "lastRun": "2026-09-11T15:27:35.609241+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,7 +57,7 @@
     },
     {
       "name": "tradeweb",
-      "lastRun": "2026-09-11T14:23:25.336814+00:00",
+      "lastRun": "2026-09-11T15:27:44.104238+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -65,7 +65,7 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-09-11T14:23:26.249696+00:00",
+      "lastRun": "2026-09-11T15:27:44.935701+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -73,7 +73,7 @@
     },
     {
       "name": "builtin",
-      "lastRun": "2026-09-11T14:23:28.259267+00:00",
+      "lastRun": "2026-09-11T15:27:47.554962+00:00",
       "status": "ok",
       "found": 1,
       "added": 1,
@@ -81,7 +81,7 @@
     },
     {
       "name": "goldman",
-      "lastRun": "2026-09-11T14:26:50.452537+00:00",
+      "lastRun": "2026-09-11T15:27:59.929170+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -89,7 +89,7 @@
     },
     {
       "name": "millennium",
-      "lastRun": "2026-09-11T14:26:50.902397+00:00",
+      "lastRun": "2026-09-11T15:28:00.235611+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -97,7 +97,7 @@
     },
     {
       "name": "sig",
-      "lastRun": "2026-09-11T14:26:51.751752+00:00",
+      "lastRun": "2026-09-11T15:28:00.957187+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -105,7 +105,7 @@
     },
     {
       "name": "janestreet",
-      "lastRun": "2026-09-11T14:26:52.661154+00:00",
+      "lastRun": "2026-09-11T15:28:01.632199+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -113,7 +113,7 @@
     },
     {
       "name": "linkedin",
-      "lastRun": "2026-09-11T14:26:53.815942+00:00",
+      "lastRun": "2026-09-11T15:28:02.019012+00:00",
       "status": "ok",
       "found": null,
       "added": 1,
@@ -129,14 +129,20 @@
     },
     {
       "name": "ats_apis",
-      "lastRun": null,
-      "status": "skipped",
+      "lastRun": "2026-09-11T15:29:15.271772+00:00",
+      "status": "ok",
       "found": null,
       "added": 0,
       "error": null
     }
   ],
   "recentFinds": [
+    {
+      "company": "NinjaOne",
+      "title": "Senior Software Engineer, C++ | Endpoint State & Control",
+      "source": "Built In",
+      "at": "2026-09-11T15:27:47.554962+00:00"
+    },
     {
       "company": "NinjaOne",
       "title": "Senior Software Engineer, C++ | Endpoint State & Control",
@@ -370,17 +376,11 @@
       "title": "Senior Software Engineer, C++ | Endpoint State & Control",
       "source": "Built In",
       "at": "2026-09-10T20:20:20.524514+00:00"
-    },
-    {
-      "company": "NinjaOne",
-      "title": "Senior Software Engineer, C++ | Patching",
-      "source": "Built In",
-      "at": "2026-09-10T19:45:49.059541+00:00"
     }
   ],
   "totals": {
     "day": "2026-09-11",
-    "addedToday": 14,
-    "cyclesToday": 7
+    "addedToday": 16,
+    "cyclesToday": 8
   }
 }
