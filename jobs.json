@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-11",
-  "lastChecked": "2026-09-11",
+  "lastUpdated": "2026-09-12",
+  "lastChecked": "2026-09-12",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -1544,26 +1544,6 @@
           "url": "https://www.mongodb.com/careers/job/?gh_jid=7815677",
           "source": "Greenhouse API (live)",
           "postedApprox": "open since 2026-04-17",
-          "region": "East",
-          "regionRank": 1,
-          "yoeNote": "",
-          "h1bFit": ""
-        },
-        {
-          "id": "mongodb-senior-software-engineer-storage-layer-services-new-york-city",
-          "company": "MongoDB",
-          "title": "Senior Software Engineer, Storage Layer Services",
-          "location": "New York City",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-06-17.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.mongodb.com/careers/job/?gh_jid=7947560",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2026-06-17",
           "region": "East",
           "regionRank": 1,
           "yoeNote": "",
