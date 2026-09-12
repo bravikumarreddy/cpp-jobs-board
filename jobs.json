@@ -7646,6 +7646,28 @@
           "externalId": "greenhouse:5419848008",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-northern-trust-senior-software-engineer-c-python-2026-w37",
+          "company": "Northern Trust",
+          "title": "Senior Software Engineer - C++/Python",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 50 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-python-at-northern-trust-4464253743",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "50 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4464253743",
+          "region": "Central",
+          "regionRank": 3
         }
       ]
     }
