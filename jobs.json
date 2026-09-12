@@ -7648,6 +7648,28 @@
           "externalId": "linkedin:4464253743",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "li-thomas-to-senior-c-software-engineer-infrastructur-2026-w37",
+          "company": "Thomas To",
+          "title": "Senior C++ Software Engineer - Infrastructure Tools",
+          "location": "Santa Clara, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 47 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-infrastructure-tools-at-thomas-to-4466498018",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "47 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4466498018",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
