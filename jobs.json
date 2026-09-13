@@ -5499,28 +5499,6 @@
           "postedAtUtc": "2026-08-25T08:59:34.368206+00:00"
         },
         {
-          "id": "li-anvik-technologies-c-technical-lead-market-data-2026-w35",
-          "company": "Anvik Technologies",
-          "title": "C++ Technical Lead \u2013 Market Data",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 9 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-technical-lead-%E2%80%93-market-data-at-anvik-technologies-4457604512",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "9 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4457604512",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-swift-senior-developer-systems-engineer-c-2026-w35",
           "company": "Swift",
           "title": "Senior Developer/Systems Engineer -- C++",
@@ -7513,29 +7491,6 @@
           "externalId": "linkedin:4466498018",
           "region": "West",
           "regionRank": 5
-        },
-        {
-          "id": "li-quevera-senior-software-engineer-java-c-cryptogr-2026-w37",
-          "company": "Quevera",
-          "title": "Senior Software Engineer - Java/C++ & Cryptography",
-          "location": "Annapolis Junction, MD",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 19 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-java-c%2B%2B-cryptography-at-quevera-4466410379",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "19 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4466410379",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-09-11T23:05:15.880223+00:00"
         },
         {
           "id": "li-microsoft-senior-software-engineer-c-2026-w37",
