@@ -2347,29 +2347,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-heico-senior-c-software-engineer-2026-w30",
-          "company": "HEICO",
-          "title": "Senior C++ Software Engineer",
-          "location": "Columbia, MD",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Transformational Security, LLC is seeking a Senior C++ Software Engineer to join our software team. You will contribute across multiple product codebases supporting in-place\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-heico-4445390817",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445390817",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-26T09:49:08.334288+00:00"
-        },
-        {
           "id": "li-esri-c-software-developer-ii-modelbuilder-arc-2026-w30",
           "company": "Esri",
           "title": "C++ Software Developer II - ModelBuilder, ArcGIS Pro",
@@ -3414,29 +3391,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-nvidia-senior-c-software-engineer-infrastructur-2026-w31",
-          "company": "NVIDIA",
-          "title": "Senior C++ Software Engineer - Infrastructure Tools",
-          "location": "Durham, NC",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "NVIDIA has continuously reinvented itself over two decades. Our invention of the GPU in 1999 fueled the growth of the PC gaming market, redefined modern computer graphics,\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-infrastructure-tools-at-nvidia-4422081175",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "13 hours ago",
-          "h1bFit": "Yes \u2014 NVIDIA: 413 SWE LCAs in 2025; JD clean",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4422081175",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-02T15:01:11.823313+00:00"
-        },
-        {
           "id": "li-fabri-software-engineer-generalist-c-python-2026-w31",
           "company": "Fabri",
           "title": "Software Engineer, Generalist (C++/Python)",
@@ -3593,28 +3547,6 @@
           "postedAtUtc": "2026-08-03T10:45:48.347948+00:00"
         },
         {
-          "id": "li-roblox-core-engine-developer-systems-c-2026-w32",
-          "company": "Roblox",
-          "title": "Core Engine Developer - Systems (C++)",
-          "location": "San Mateo, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences\u2013 all created by our global\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/core-engine-developer-systems-c%2B%2B-at-roblox-4363466380",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "40 minutes ago",
-          "h1bFit": "No \u2014 Roblox C++ JDs: 'may not be able to... support future H-1B sponsorship at this time'",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4363466380",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
           "id": "li-zoox-senior-software-engineer-c-gpu-performan-2026-w32",
           "company": "Zoox",
           "title": "Senior Software Engineer - C++ GPU Performance",
@@ -3689,50 +3621,6 @@
           "postedAtUtc": "2026-08-03T18:55:31.657027+00:00"
         },
         {
-          "id": "li-swoon-c-developer-2026-w32",
-          "company": "Swoon",
-          "title": "C++ Developer",
-          "location": "Dallas-Fort Worth Metroplex",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "PLEASE NOTE THIS ROLE 100% ONSITE IN IRVING, TX About the client:They are a global leader in consumer transaction technologies! About you:You desire to work in a team of\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-swoon-4448251342",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "26 minutes ago",
-          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4448251342",
-          "region": "Central",
-          "regionRank": 3
-        },
-        {
-          "id": "li-xoriant-navigation-software-engineer-embedded-c--2026-w32",
-          "company": "Xoriant",
-          "title": "Navigation Software Engineer (Embedded/C/C++, GNSS & Sensor)",
-          "location": "San Jose, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "[Only Xoriant W2, No Vendor Candidates] TITLE:- Navigation Software Engineer (Embedded/C/C++, GNSS & Sensor)LOCATION :- SanJose, CADURATION :- 12+ Months (May get extend)MODE\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/navigation-software-engineer-embedded-c-c%2B%2B-gnss-sensor-at-xoriant-4407898146",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "51 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4407898146",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
           "id": "hn-lopaka-embedded-ui-graphics-engineer-2026-w32",
           "postedAtUtc": "2026-08-04T06:38:21.001012+00:00",
           "company": "Lopaka",
@@ -3802,29 +3690,6 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-04T13:42:50.601901+00:00"
-        },
-        {
-          "id": "li-x4-alpha-senior-software-engineer-c-high-performa-2026-w32",
-          "company": "X4 Alpha",
-          "title": "Senior Software Engineer (C++) | High-Performance Distributed Systems",
-          "location": "Chicago, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "We're partnering with one of North America's leading quantitative trading firms to build a brand new engineering team responsible for the next generation of a\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-high-performance-distributed-systems-at-x4-alpha-4446626544",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "6 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446626544",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-04T09:42:50.601901+00:00"
         },
         {
           "id": "li-esri-sr-c-software-development-engineer-3d-da-2026-w32",
@@ -3924,28 +3789,6 @@
           "regionRank": 1,
           "notes": "ex-Monad team, C++ EVM client. 4 more C++ roles on same ashby board (Compiler, Formal Verification, Systems Research, Smart Contracts \u2014 all remote, same band).",
           "externalId": "ashby:a0af69a1-8a77-4bda-b573-48087d905ae2"
-        },
-        {
-          "id": "li-quantum-search-c-software-engineer-2026-w32",
-          "company": "Quantum Search",
-          "title": "C++ Software Engineer",
-          "location": "Greater Chicago Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "We are partnered with a world-class HFT firm looking to hire exceptional C++ Software Engineers to help build and refine ultra-low latency systems, with direct ownership over\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-quantum-search-4448011621",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "5 minutes ago",
-          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4448011621",
-          "region": "Central",
-          "regionRank": 3
         },
         {
           "id": "li-applied-intuition-senior-software-engineer-c-2026-w32",
