@@ -7362,6 +7362,74 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-09-14T15:02:15.665899+00:00"
+        },
+        {
+          "id": "li-mps-group-llc-senior-c-engineer-l1-2026-w38",
+          "company": "MPS Group LLC",
+          "title": "Senior C++ Engineer L1",
+          "location": "Atlanta, GA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-engineer-l1-at-mps-group-llc-4466110149",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4466110149",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-14T17:09:04.286782+00:00"
+        },
+        {
+          "id": "li-vetjobs-senior-red-hat-c-java-developer-ft-worth-2026-w38",
+          "company": "VetJobs",
+          "title": "Senior Red Hat C++/Java Developer - Ft. Worth, TX",
+          "location": "Fort Worth, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 48 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-red-hat-c%2B%2B-java-developer-ft-worth-tx-at-vetjobs-4466123032",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "48 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4466123032",
+          "region": "Central",
+          "regionRank": 3
+        },
+        {
+          "id": "li-beaconfire-inc-c-software-engineer-backend-2026-w38",
+          "company": "BeaconFire Inc.",
+          "title": "C++ Software Engineer \u2013 Backend",
+          "location": "East Windsor, NJ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-%E2%80%93-backend-at-beaconfire-inc-4465248087",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4465248087",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-14T19:09:04.286782+00:00"
         }
       ]
     }
