@@ -7292,7 +7292,78 @@
     {
       "weekId": "2026-W38",
       "label": "Week of September 14, 2026",
-      "jobs": []
+      "jobs": [
+        {
+          "id": "li-durlston-partners-c-software-engineer-2026-w38",
+          "company": "Durlston Partners",
+          "title": "C++ Software Engineer",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-durlston-partners-4464778589",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4464778589",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-14T08:02:15.665899+00:00"
+        },
+        {
+          "id": "li-kla-sr-software-engineer-c-ai-ml-oop-linux-2026-w38",
+          "company": "KLA",
+          "title": "Sr Software Engineer (C++, AI/ML, OOP, Linux)",
+          "location": "Milpitas, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-c%2B%2B-ai-ml-oop-linux-at-kla-4455853509",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4455853509",
+          "possibleRepost": "Software Engineer (C++, OOD/OOP, Linux)",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-14T12:02:15.665899+00:00"
+        },
+        {
+          "id": "li-entegee-senior-c-11-control-systems-software-eng-2026-w38",
+          "company": "Entegee",
+          "title": "Senior C++11 Control Systems Software Engineer (Multi-threading)",
+          "location": "Atkinson, NH",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B11-control-systems-software-engineer-multi-threading-at-entegee-4465209293",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4465209293",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-14T15:02:15.665899+00:00"
+        }
+      ]
     }
   ]
 }
