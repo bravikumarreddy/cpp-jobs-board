@@ -2704,28 +2704,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-turion-space-software-c-engineer-2026-w31",
-          "company": "Turion Space",
-          "title": "Software C++ Engineer",
-          "location": "California, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Overview At Turion Space, we live at the intersection of the tech, aerospace, and defense industries. Our company thrives on solving hard problems and delivering software\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-c%2B%2B-engineer-at-turion-space-4436846239",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "25 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4436846239",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
           "id": "li-sme-careers-c-engineer-2026-w31",
           "company": "SME Careers",
           "title": "C++ Engineer",
@@ -2769,28 +2747,6 @@
           "externalId": "linkedin:4446583945",
           "region": "Central",
           "regionRank": 3
-        },
-        {
-          "id": "li-siemens-eda-siemens-digital-industries-software-software-developer-c-linux-ilt-2026-w31",
-          "company": "Siemens EDA (Siemens Digital Industries Software)",
-          "title": "Software Developer: C++ / Linux / ILT",
-          "location": "Wilsonville, OR",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Company: Siemens EDA Job Title: Software Developer Job Reference #: 513121 Job Location: Santa Clara, CA Siemens EDA is a global technology leader in Electronic Design\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-developer-c%2B%2B-linux-ilt-at-siemens-eda-siemens-digital-industries-software-4436887913",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "4 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4436887913",
-          "region": "West",
-          "regionRank": 5
         },
         {
           "id": "li-roblox-senior-software-engineer-client-systems--2026-w31",
@@ -2884,29 +2840,6 @@
           "atsJobId": "8627496002",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-thurn-partners-low-level-c-engineer-hft-build-2026-w31",
-          "company": "Thurn Partners",
-          "title": "Low-level C++ Engineer - HFT build",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "OverviewOne of the most successful market making firms in the world is building a new US equities and ETF business from the ground up, and hiring the founding engineering\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/low-level-c%2B%2B-engineer-hft-build-at-thurn-partners-4444575252",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4444575252",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-30T10:23:06.460554+00:00"
         },
         {
           "id": "li-avride-senior-c-software-engineer-simulation-in-2026-w31",
@@ -3715,29 +3648,6 @@
           "postedAtUtc": "2026-08-04T18:07:52.898317+00:00"
         },
         {
-          "id": "li-roblox-senior-software-engineer-game-engine-net-2026-w32",
-          "company": "Roblox",
-          "title": "Senior Software Engineer - Game Engine Network (C++)",
-          "location": "San Mateo, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences\u2013 all created by our global\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-game-engine-network-c%2B%2B-at-roblox-4323574778",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "5 hours ago",
-          "h1bFit": "No \u2014 Roblox C++ JDs: 'may not be able to... support future H-1B sponsorship at this time'",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4323574778",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-04T15:27:46.986342+00:00"
-        },
-        {
           "id": "perplexity-member-of-technical-staff-software-engineer-gpu-cluster-infrastructur-2026-w32",
           "company": "Perplexity",
           "title": "Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure)",
@@ -4026,29 +3936,6 @@
           "regionRank": 3
         },
         {
-          "id": "li-baanyan-software-services-inc-c-software-engineer-2026-w32",
-          "company": "Baanyan Software Services, Inc.",
-          "title": "C++ Software Engineer",
-          "location": "Fort Washington, PA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Job Description:We are seeking a highly experienced Senior C++ Software Engineer to join our engineering team in Fort Washington, PA. The ideal candidate will have over 10\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-baanyan-software-services-inc-4449309208",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4449309208",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-05T21:13:27.963232+00:00"
-        },
-        {
           "id": "li-hp-c-engineer-computer-vision-embedded-syst-2026-w32",
           "company": "HP",
           "title": "C++ Engineer (Computer Vision/Embedded Systems)",
@@ -4092,29 +3979,6 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-05T04:44:03.508237+00:00"
-        },
-        {
-          "id": "li-agilegrid-solutions-c-engineer-2026-w32",
-          "company": "AgileGrid Solutions",
-          "title": "C++ Engineer",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "About The Company DataAnnotation is a leading provider of data annotation and labeling services, dedicated to helping organizations harness the power of artificial\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-at-agilegrid-solutions-4449640242",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "9 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4449640242",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-08-05T14:17:07.622867+00:00"
         },
         {
           "id": "xai-spacexai-software-engineer-search-infrastructure-2026-w32",
@@ -4168,30 +4032,6 @@
           "postedAtUtc": "2026-08-05T21:57:05.340625+00:00"
         },
         {
-          "id": "li-ormco-3d-c-software-engineer-2026-w32",
-          "company": "Ormco",
-          "title": "3D C++ Software Engineer",
-          "location": "Pomona, MO",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "About The Team The software team is part of the Global Manufacturing Engineering (GME). Alongside GME's Hardware Controls, Manufacturing Process, and Automated Quality\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/3d-c%2B%2B-software-engineer-at-ormco-4449355817",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "4 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4449355817",
-          "possibleRepost": "Sr. 3D C++ Software Engineer (On-site)",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-06T05:05:45.001465+00:00"
-        },
-        {
           "id": "li-aquatic-capital-management-software-engineer-c-2026-w32",
           "company": "Aquatic Capital Management",
           "title": "Software Engineer, C++",
@@ -4213,28 +4053,6 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-08-06T14:19:09.055859+00:00"
-        },
-        {
-          "id": "li-kyyba-inc-systems-engineer-c-magicdraw-2026-w32",
-          "company": "KYYBA Inc",
-          "title": "Systems Engineer - C++, MagicDraw",
-          "location": "Dearborn, MI",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Job Title: ( Systems Engineer - C++, MagicDraw ) About Kyyba:Founded in 1998 and headquartered in Farmington Hills, MI, Kyyba has a global presence delivering high-quality\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/systems-engineer-c%2B%2B-magicdraw-at-kyyba-inc-4448469502",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "56 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4448469502",
-          "region": "East",
-          "regionRank": 1
         },
         {
           "id": "li-adobe-principal-ai-systems-engineer-c-applied--2026-w32",
@@ -4400,29 +4218,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-kla-sr-software-engineer-c-ai-ml-oop-linux-2026-w32",
-          "company": "KLA",
-          "title": "Sr Software Engineer (C++, AI/ML, OOP, Linux)",
-          "location": "Milpitas, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "LinkedIn scrape: posted 12 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-c%2B%2B-ai-ml-oop-linux-at-kla-4448707258",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "12 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4448707258",
-          "region": "West",
-          "regionRank": 5,
-          "possibleRepost": "Software Engineer (C++, OOD/OOP, Linux)"
-        },
-        {
           "id": "li-wolverine-trading-c-software-engineer-latency-critical-sys-2026-w32",
           "company": "Wolverine Trading",
           "title": "C++ Software Engineer \u2013 Latency-Critical Systems",
@@ -4444,29 +4239,6 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-08-07T13:13:16.518711+00:00"
-        },
-        {
-          "id": "li-durlston-partners-c-software-engineer-2026-w32",
-          "company": "Durlston Partners",
-          "title": "C++ Software Engineer",
-          "location": "New York, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-durlston-partners-4448764506",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4448764506",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-07T11:13:16.518711+00:00"
         },
         {
           "id": "li-voltforce-senior-staff-software-engineer-c-2026-w32",
