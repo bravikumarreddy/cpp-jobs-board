@@ -6277,29 +6277,6 @@
           "postedAtUtc": "2026-09-07T14:47:37.588098+00:00"
         },
         {
-          "id": "li-net2source-n2s-senior-c-developer-2026-w37",
-          "company": "Net2Source (N2S)",
-          "title": "Senior C++ Developer",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-at-net2source-n2s-4462886989",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4462886989",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-09-08T13:49:41.502309+00:00"
-        },
-        {
           "id": "li-triveni-it-embedded-software-engineer-c-2026-w37",
           "company": "Triveni IT",
           "title": "Embedded Software Engineer (C++)",
@@ -7251,51 +7228,6 @@
           "postedAtUtc": "2026-09-14T17:09:04.286782+00:00"
         },
         {
-          "id": "li-vetjobs-senior-red-hat-c-java-developer-ft-worth-2026-w38",
-          "company": "VetJobs",
-          "title": "Senior Red Hat C++/Java Developer - Ft. Worth, TX",
-          "location": "Fort Worth, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 48 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-red-hat-c%2B%2B-java-developer-ft-worth-tx-at-vetjobs-4466123032",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "48 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4466123032",
-          "region": "Central",
-          "regionRank": 3
-        },
-        {
-          "id": "li-beaconfire-inc-c-software-engineer-backend-2026-w38",
-          "company": "BeaconFire Inc.",
-          "title": "C++ Software Engineer \u2013 Backend",
-          "location": "East Windsor, NJ",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-%E2%80%93-backend-at-beaconfire-inc-4465248087",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4465248087",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-09-14T19:09:04.286782+00:00"
-        },
-        {
           "id": "built-vola-dynamics-software-engineer-c-2026-w38",
           "postedAtUtc": "2026-09-14T00:00:00.000813+00:00",
           "company": "Vola Dynamics",
@@ -7364,29 +7296,6 @@
           "postedAtUtc": "2026-09-15T08:33:22.376115+00:00"
         },
         {
-          "id": "li-torentify-backend-engineer-hybrid-java-c-python-2026-w38",
-          "company": "Torentify",
-          "title": "Backend Engineer - HYBRID (Java, C++, Python)",
-          "location": "Annapolis, MD",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/backend-engineer-hybrid-java-c%2B%2B-python-at-torentify-4467290485",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "5 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4467290485",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-09-15T10:33:22.376115+00:00"
-        },
-        {
           "id": "roblox-senior-software-engineer-application-gateway-2026-w38",
           "company": "Roblox",
           "title": "Senior Software Engineer, Application Gateway",
@@ -7415,6 +7324,36 @@
           "regionRank": 5
         },
         {
+          "id": "verisign-software-engineer-c-2026-w38",
+          "company": "Verisign",
+          "title": "Software Engineer - C++",
+          "location": "Reston,Virginia,United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "Product Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted 4 days ago. Callback score 59.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag. Hand-added 2026-09-15 recall audit: LinkedIn repost was 6h old but GH first_published fell outside the 24h ATS window.",
+          "skills": [
+            "Linux",
+            "Distributed systems",
+            "Networking",
+            "Kubernetes",
+            "Python",
+            "Rust"
+          ],
+          "url": "https://job-boards.greenhouse.io/verisign/jobs/7983370003",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "4 days ago",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 59.0,
+          "postedAtUtc": "2026-09-11T13:00:42-04:00",
+          "atsJobId": "7983370003",
+          "externalId": "greenhouse:7983370003",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
           "id": "li-verisign-sr-software-engineer-c-2026-w38",
           "company": "VERISIGN",
           "title": "SR Software Engineer - C++",
@@ -7435,30 +7374,7 @@
           "externalId": "linkedin:4467743269",
           "region": "East",
           "regionRank": 1,
-          "postedAtUtc": "2026-09-15T13:53:34.143619+00:00"
-        },
-        {
-          "id": "li-code-metal-principal-physics-programmer-c-modeling--2026-w38",
-          "company": "Code Metal",
-          "title": "Principal Physics Programmer, C++ (Modeling & Simulation)",
-          "location": "Greater Boston",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 12 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/principal-physics-programmer-c%2B%2B-modeling-simulation-at-code-metal-4467477017",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "12 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4467477017",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-09-15T07:53:34.143619+00:00"
+          "postedAtUtc": "2026-09-15T14:24:18.643541+00:00"
         },
         {
           "id": "li-njf-global-holdings-ltd-c-engineer-trading-infrastructure-2026-w38",
@@ -7481,7 +7397,30 @@
           "externalId": "linkedin:4467734006",
           "region": "Central",
           "regionRank": 3,
-          "postedAtUtc": "2026-09-15T10:53:34.143619+00:00"
+          "postedAtUtc": "2026-09-15T11:24:18.643541+00:00"
+        },
+        {
+          "id": "li-net2source-n2s-c-software-engineer-2026-w38",
+          "company": "Net2Source (N2S)",
+          "title": "C++ Software Engineer",
+          "location": "Irving, TX",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-net2source-n2s-4466526942",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4466526942",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-09-15T17:24:18.643541+00:00"
         }
       ]
     }
