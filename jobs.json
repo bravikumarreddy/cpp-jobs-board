@@ -7413,6 +7413,75 @@
           "atsJobId": "8197260",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-verisign-sr-software-engineer-c-2026-w38",
+          "company": "VERISIGN",
+          "title": "SR Software Engineer - C++",
+          "location": "Reston, VA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 6 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-c%2B%2B-at-verisign-4467743269",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "6 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4467743269",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-15T13:53:34.143619+00:00"
+        },
+        {
+          "id": "li-code-metal-principal-physics-programmer-c-modeling--2026-w38",
+          "company": "Code Metal",
+          "title": "Principal Physics Programmer, C++ (Modeling & Simulation)",
+          "location": "Greater Boston",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 12 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/principal-physics-programmer-c%2B%2B-modeling-simulation-at-code-metal-4467477017",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "12 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4467477017",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-15T07:53:34.143619+00:00"
+        },
+        {
+          "id": "li-njf-global-holdings-ltd-c-engineer-trading-infrastructure-2026-w38",
+          "company": "NJF Global Holdings Ltd",
+          "title": "C++ Engineer - Trading Infrastructure",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-trading-infrastructure-at-njf-global-holdings-ltd-4467734006",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "9 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4467734006",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-09-15T10:53:34.143619+00:00"
         }
       ]
     }
