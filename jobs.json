@@ -1016,32 +1016,6 @@
       "label": "Week of June 22 - June 28, 2026",
       "jobs": [
         {
-          "id": "roblox-principal-software-engineer-ci-and-cd-foundation-w26",
-          "company": "Roblox",
-          "title": "Principal Software Engineer, CI and CD Foundation",
-          "location": "San Mateo, CA, United States",
-          "remote": "Onsite/Hybrid",
-          "industry": "Software Engineering",
-          "salary": "",
-          "summary": "FRESH \u2014 posted 5 days ago. Callback score 68.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Kubernetes",
-            "Python",
-            "Go"
-          ],
-          "url": "https://careers.roblox.com/jobs/8047821?gh_jid=8047821",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "5 days ago",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 68.0,
-          "postedAtUtc": "2026-07-15T14:38:53-04:00",
-          "atsJobId": "8047821",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
           "id": "perplexity-member-of-technical-staff-software-engineer-inference-training-platfo-w26",
           "company": "Perplexity",
           "title": "Member of Technical Staff (Software Engineer, Inference & Training Platform)",
