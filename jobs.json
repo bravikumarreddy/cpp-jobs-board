@@ -7421,6 +7421,28 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-09-15T17:24:18.643541+00:00"
+        },
+        {
+          "id": "li-applab-systems-inc-remote-role-rust-engineer-c-remote-locat-2026-w38",
+          "company": "AppLab Systems, Inc",
+          "title": "Remote role : Rust Engineer/C++ - Remote Location: United States",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 8 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/remote-role-rust-engineer-c%2B%2B-remote-location-united-states-at-applab-systems-inc-4465911846",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "8 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4465911846",
+          "region": "Remote",
+          "regionRank": 2
         }
       ]
     }
