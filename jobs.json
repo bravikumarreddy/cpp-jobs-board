@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-12",
-  "lastChecked": "2026-09-12",
+  "lastUpdated": "2026-09-15",
+  "lastChecked": "2026-09-15",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -3071,29 +3071,6 @@
           "regionRank": 5
         },
         {
-          "id": "li-aptask-c-developer-2026-w31",
-          "company": "ApTask",
-          "title": "C++ Developer",
-          "location": "New York, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "About Client: Client is a multinational technology and consulting company known for its expertise in providing IT services and solutions. With a global presence, it offers a\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-aptask-4446941236",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446941236",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-30T22:31:27.838658+00:00"
-        },
-        {
           "id": "li-accord-technologies-inc-embedded-software-engineer-c-2026-w31",
           "company": "Accord Technologies Inc",
           "title": "Embedded Software Engineer C++",
@@ -5248,29 +5225,6 @@
           "regionRank": 3
         },
         {
-          "id": "li-rayvector-technologies-c-c-software-engineer-2026-w35",
-          "company": "Rayvector Technologies",
-          "title": "C/ C++ Software Engineer",
-          "location": "Tualatin, OR",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-software-engineer-at-rayvector-technologies-4456583976",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4456583976",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-25T08:59:34.368206+00:00"
-        },
-        {
           "id": "li-swift-senior-developer-systems-engineer-c-2026-w35",
           "company": "Swift",
           "title": "Senior Developer/Systems Engineer -- C++",
@@ -5715,28 +5669,6 @@
           "postedAtUtc": "2026-09-02T02:50:24.102519+00:00"
         },
         {
-          "id": "li-torentify-back-end-developer-go-c-c-2026-w36",
-          "company": "Torentify",
-          "title": "Back End Developer (Go, C++, C#)",
-          "location": "San Jose, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 57 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/back-end-developer-go-c%2B%2B-c%23-at-torentify-4462446499",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "57 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4462446499",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
           "id": "li-roblox-senior-software-engineer-ads-experience--2026-w36",
           "company": "Roblox",
           "title": "Senior Software Engineer, Ads Experience (C++)",
@@ -5758,29 +5690,6 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-09-02T15:09:30.396993+00:00"
-        },
-        {
-          "id": "li-torentify-software-engineer-c-hybrid-2026-w36",
-          "company": "Torentify",
-          "title": "Software Engineer - C++ (Hybrid)",
-          "location": "San Jose, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-hybrid-at-torentify-4462472665",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4462472665",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-09-02T21:29:44.525951+00:00"
         },
         {
           "id": "li-gac-solutions-technical-lead-senior-c-java-2026-w36",
@@ -6148,28 +6057,6 @@
           "postedAtUtc": "2026-09-04T12:32:07.675049+00:00"
         },
         {
-          "id": "li-ace-technologies-software-engineer-embedded-c-2026-w36",
-          "company": "Ace Technologies",
-          "title": "Software Engineer (Embedded/C++)",
-          "location": "Mossville, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 57 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-embedded-c%2B%2B-at-ace-technologies-4461401040",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "57 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4461401040",
-          "region": "Central",
-          "regionRank": 3
-        },
-        {
           "id": "pure-storage-principal-software-engineer-hyperscale-build-platform-and-tools-2026-w36",
           "company": "Pure Storage",
           "title": "Principal Software Engineer, HyperScale Build Platform and Tools",
@@ -6263,29 +6150,6 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-09-04T19:20:53.183284+00:00"
-        },
-        {
-          "id": "li-torentify-software-engineer-c-wfh-in-us-2026-w36",
-          "company": "Torentify",
-          "title": "Software Engineer, C++ (WFH In US)",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-wfh-in-us-at-torentify-4463776526",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4463776526",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-09-05T19:35:04.260172+00:00"
         },
         {
           "id": "li-algoworks-senior-embedded-software-engineer-embedd-2026-w36",
@@ -7430,6 +7294,125 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-09-14T19:09:04.286782+00:00"
+        },
+        {
+          "id": "built-vola-dynamics-software-engineer-c-2026-w38",
+          "postedAtUtc": "2026-09-14T00:00:00.000813+00:00",
+          "company": "Vola Dynamics",
+          "title": "Software Engineer (C++)",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 1 days ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/software-engineer-c/11171734",
+          "source": "Built In",
+          "postedApprox": "1 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:11171734",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-spectra-logic-senior-software-engineer-c-2026-w38",
+          "company": "Spectra Logic",
+          "title": "Senior Software Engineer - C++",
+          "location": "Boulder, CO",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 23 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-at-spectra-logic-4465267197",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "23 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4465267197",
+          "region": "Mountain",
+          "regionRank": 4
+        },
+        {
+          "id": "li-e-solutions-c-developer-2026-w38",
+          "company": "E-Solutions",
+          "title": "C++ Developer",
+          "location": "Foster City, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-e-solutions-4467228721",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4467228721",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-15T08:33:22.376115+00:00"
+        },
+        {
+          "id": "li-torentify-backend-engineer-hybrid-java-c-python-2026-w38",
+          "company": "Torentify",
+          "title": "Backend Engineer - HYBRID (Java, C++, Python)",
+          "location": "Annapolis, MD",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/backend-engineer-hybrid-java-c%2B%2B-python-at-torentify-4467290485",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4467290485",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-15T10:33:22.376115+00:00"
+        },
+        {
+          "id": "roblox-senior-software-engineer-application-gateway-2026-w38",
+          "company": "Roblox",
+          "title": "Senior Software Engineer, Application Gateway",
+          "location": "San Mateo, CA, United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "Software Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (19h ago). Callback score 89.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Distributed systems",
+            "Networking",
+            "Kubernetes",
+            "Rust",
+            "Go"
+          ],
+          "url": "https://careers.roblox.com/jobs/8197260?gh_jid=8197260",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (19h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 89.0,
+          "postedAtUtc": "2026-09-14T16:05:07-04:00",
+          "atsJobId": "8197260",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
