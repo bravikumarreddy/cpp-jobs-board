@@ -7469,6 +7469,29 @@
           "externalId": "greenhouse:8811574002",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-cloud-security-web-c-developer-w2-only-2026-w38",
+          "company": "Cloud Security Web",
+          "title": "C++ Developer-W2 only",
+          "location": "Foster City, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-w2-only-at-cloud-security-web-4466570327",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4466570327",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-15T19:01:53.747964+00:00"
         }
       ]
     }
