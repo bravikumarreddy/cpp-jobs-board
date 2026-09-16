@@ -7544,6 +7544,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-09-16T18:57:55.654530+00:00"
+        },
+        {
+          "id": "li-clickhouse-core-software-engineer-c-remote-2026-w38",
+          "company": "ClickHouse",
+          "title": "Core Software Engineer (C++) - Remote",
+          "location": "San Francisco, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/core-software-engineer-c%2B%2B-remote-at-clickhouse-4466889908",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4466889908",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-16T20:34:06.272791+00:00"
         }
       ]
     }
