@@ -7520,6 +7520,29 @@
           "externalId": "greenhouse:8018603",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-roblox-senior-c-engineer-real-time-engine-2026-w38",
+          "company": "Roblox",
+          "title": "Senior C++ Engineer, Real-time Engine",
+          "location": "San Mateo, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 12 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-engineer-real-time-engine-at-roblox-4466800289",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "12 hours ago",
+          "h1bFit": "No \u2014 Roblox C++ JDs: 'may not be able to... support future H-1B sponsorship at this time'",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4466800289",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-16T05:51:14.797428+00:00"
         }
       ]
     }
