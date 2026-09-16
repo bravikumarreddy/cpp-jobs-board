@@ -2444,28 +2444,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-transformational-security-llc-senior-c-software-engineer-2026-w31",
-          "company": "Transformational Security, LLC",
-          "title": "Senior C++ Software Engineer",
-          "location": "Columbia, MD",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Senior C++ Software EngineerTransformational Security, LLC is seeking a Senior C++ Software Engineer to join our software team. You will contribute across multiple product\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-transformational-security-llc-4445983688",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "14 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4445983688",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-omnissa-software-engineer-c-c-cloud-networking-2026-w31",
           "company": "Omnissa",
           "title": "Software Engineer, C/C++ (Cloud/Networking)",
@@ -3251,28 +3229,6 @@
           "regionRank": 1,
           "postedAtUtc": "2026-08-01T09:45:07.702273+00:00",
           "possibleRepost": "Software Developer | C++ | ETF | Experienced Hire"
-        },
-        {
-          "id": "li-siemens-eda-siemens-digital-industries-software-software-engineer-c-compiler-2026-w31",
-          "company": "Siemens EDA (Siemens Digital Industries Software)",
-          "title": "Software Engineer - C++, Compiler",
-          "location": "Burlington, MA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Company: Siemens EDA Job Title: Software Engineer \u2013 C++ / Digital Logic Design Job Reference #: 509131 Job Location: Burlington, MA Siemens EDA is looking for a software\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-compiler-at-siemens-eda-siemens-digital-industries-software-4438918125",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "9 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4438918125",
-          "region": "East",
-          "regionRank": 1
         },
         {
           "id": "li-fabri-software-engineer-generalist-c-python-2026-w31",
@@ -7512,6 +7468,30 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-09-15T21:26:30.206966+00:00"
+        },
+        {
+          "id": "motional-senior-software-engineer-autonomy-actions-sustaining-2026-w38",
+          "company": "Motional",
+          "title": "Senior Software Engineer, Autonomy Actions Sustaining",
+          "location": "Boston, Massachusetts, United States; Las Vegas, Nevada, United States; Pittsburgh, Pennsylvania, United States; Remote U.S.",
+          "remote": "Remote",
+          "industry": "Autonomy",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 100.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Python"
+          ],
+          "url": "https://motional.com/open-positions/?gh_jid=7997108003#/7997108003",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (0h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 100.0,
+          "postedAtUtc": "2026-09-16T10:25:42-04:00",
+          "atsJobId": "7997108003",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
