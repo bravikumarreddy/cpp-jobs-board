@@ -7521,6 +7521,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-09-16T05:51:14.797428+00:00"
+        },
+        {
+          "id": "li-mars-solutions-group-embedded-software-engineer-c-c-2026-w38",
+          "company": "MARS Solutions Group",
+          "title": "Embedded Software Engineer - C/C++",
+          "location": "New Freedom, PA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-c-c%2B%2B-at-mars-solutions-group-4466897207",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4466897207",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-16T18:57:55.654530+00:00"
         }
       ]
     }
