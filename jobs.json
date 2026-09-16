@@ -7492,6 +7492,34 @@
           "atsJobId": "7997108003",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "pure-storage-software-engineer-forensics-2026-w38",
+          "company": "Pure Storage",
+          "title": "Software Engineer - Forensics",
+          "location": "Santa Clara, California",
+          "remote": "Onsite/Hybrid",
+          "industry": "Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (2h ago). Callback score 99.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "Distributed systems",
+            "Python",
+            "Go"
+          ],
+          "url": "https://job-boards.greenhouse.io/purestorage/jobs/8018603",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (2h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 99.0,
+          "postedAtUtc": "2026-09-16T10:47:28-04:00",
+          "atsJobId": "8018603",
+          "externalId": "greenhouse:8018603",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
