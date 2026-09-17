@@ -7635,6 +7635,99 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-09-16T21:15:16.926489+00:00"
+        },
+        {
+          "id": "li-wolverine-trading-senior-c-software-engineer-real-time-tra-2026-w38",
+          "company": "Wolverine Trading",
+          "title": "Senior C++ Software Engineer \u2013 Real Time Trading",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-%E2%80%93-real-time-trading-at-wolverine-trading-4467568143",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4467568143",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-09-17T16:29:19.294164+00:00"
+        },
+        {
+          "id": "li-wolverine-trading-senior-c-software-engineer-trading-platf-2026-w38",
+          "company": "Wolverine Trading",
+          "title": "Senior C++ Software Engineer \u2013 Trading Platforms",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-%E2%80%93-trading-platforms-at-wolverine-trading-4467575010",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4467575010",
+          "possibleRepost": "C++ Software Engineer, Trading Platform",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-09-17T16:29:19.294164+00:00"
+        },
+        {
+          "id": "li-venture-search-senior-c-developer-tier-1-trading-firm-2026-w38",
+          "company": "Venture Search",
+          "title": "Senior C++ Developer (Tier-1 Trading Firm)",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-tier-1-trading-firm-at-venture-search-4466253991",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4466253991",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-17T13:29:19.294164+00:00"
+        },
+        {
+          "id": "li-constellation-west-tess-sr-amdots-data-software-engineer-sq-2026-w38",
+          "company": "Constellation West",
+          "title": "TESS- Sr. AMDOTS Data/Software Engineer- SQL/C++",
+          "location": "Aurora, CO",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/tess-sr-amdots-data-software-engineer-sql-c%2B%2B-at-constellation-west-4468676995",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4468676995",
+          "region": "Mountain",
+          "regionRank": 4,
+          "postedAtUtc": "2026-09-17T19:29:19.294164+00:00"
         }
       ]
     }
