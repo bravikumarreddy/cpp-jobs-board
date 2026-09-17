@@ -7781,6 +7781,54 @@
           "externalId": "greenhouse:8162565",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-capgemini-engineering-sr-software-engineer-c-2026-w38",
+          "company": "Capgemini Engineering",
+          "title": "Sr. Software Engineer - C++",
+          "location": "Burlington, VT",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-c%2B%2B-at-capgemini-engineering-4468664055",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "8 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4468664055",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-17T15:42:06.177510+00:00"
+        },
+        {
+          "id": "chicago-trading-quant-developer-research-engineering-2026-w38",
+          "company": "Chicago Trading",
+          "title": "Quant Developer - Research Engineering",
+          "location": "Chicago, Illinois, United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "CTC Trading Group, LLC",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 89.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Python"
+          ],
+          "url": "https://job-boards.greenhouse.io/chicagotrading/jobs/4624603005",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 89.0,
+          "postedAtUtc": "2026-09-17T17:47:26-04:00",
+          "atsJobId": "4624603005",
+          "externalId": "greenhouse:4624603005",
+          "region": "Central",
+          "regionRank": 3
         }
       ]
     }
