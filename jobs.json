@@ -7589,6 +7589,52 @@
           "externalId": "linkedin:4468297965",
           "region": "Remote",
           "regionRank": 2
+        },
+        {
+          "id": "li-pave-talent-c-software-engineer-deployment-in-real-a-2026-w38",
+          "company": "Pave Talent",
+          "title": "C++ Software Engineer (Deployment in Real Autonomous Robots)",
+          "location": "Philadelphia, PA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 20 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-deployment-in-real-autonomous-robots-at-pave-talent-4466813745",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "20 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4466813745",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-16T05:15:16.926489+00:00"
+        },
+        {
+          "id": "li-covetus-c-developer-2026-w38",
+          "company": "Covetus",
+          "title": "C++ Developer",
+          "location": "Hillsboro, OR",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-covetus-4468298548",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4468298548",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-16T21:15:16.926489+00:00"
         }
       ]
     }
