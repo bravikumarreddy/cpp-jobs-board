@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-17",
-  "lastChecked": "2026-09-17",
+  "lastUpdated": "2026-09-18",
+  "lastChecked": "2026-09-18",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -7353,32 +7353,6 @@
           "regionRank": 2
         },
         {
-          "id": "discord-senior-full-stack-software-engineer-developer-success-2026-w38",
-          "company": "Discord",
-          "title": "Senior Full-Stack Software Engineer, Developer Success",
-          "location": "San Francisco Bay Area",
-          "remote": "Onsite/Hybrid",
-          "industry": "Developers",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 99.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Python",
-            "Rust"
-          ],
-          "url": "https://job-boards.greenhouse.io/discord/jobs/8811574002",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (1h ago)",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 99.0,
-          "postedAtUtc": "2026-09-15T15:57:32-04:00",
-          "atsJobId": "8811574002",
-          "externalId": "greenhouse:8811574002",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
           "id": "li-cloud-security-web-c-developer-w2-only-2026-w38",
           "company": "Cloud Security Web",
           "title": "C++ Developer-W2 only",
@@ -7470,34 +7444,6 @@
           "atsJobId": "7997108003",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "pure-storage-software-engineer-forensics-2026-w38",
-          "company": "Pure Storage",
-          "title": "Software Engineer - Forensics",
-          "location": "Santa Clara, California",
-          "remote": "Onsite/Hybrid",
-          "industry": "Engineering",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (2h ago). Callback score 99.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Linux",
-            "Distributed systems",
-            "Python",
-            "Go"
-          ],
-          "url": "https://job-boards.greenhouse.io/purestorage/jobs/8018603",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (2h ago)",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 99.0,
-          "postedAtUtc": "2026-09-16T10:47:28-04:00",
-          "atsJobId": "8018603",
-          "externalId": "greenhouse:8018603",
-          "region": "West",
-          "regionRank": 5
         },
         {
           "id": "li-roblox-senior-c-engineer-real-time-engine-2026-w38",
@@ -7707,29 +7653,6 @@
           "postedAtUtc": "2026-09-17T13:29:19.294164+00:00"
         },
         {
-          "id": "li-constellation-west-tess-sr-amdots-data-software-engineer-sq-2026-w38",
-          "company": "Constellation West",
-          "title": "TESS- Sr. AMDOTS Data/Software Engineer- SQL/C++",
-          "location": "Aurora, CO",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/tess-sr-amdots-data-software-engineer-sql-c%2B%2B-at-constellation-west-4468676995",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4468676995",
-          "region": "Mountain",
-          "regionRank": 4,
-          "postedAtUtc": "2026-09-17T19:29:19.294164+00:00"
-        },
-        {
           "id": "roblox-senior-software-engineer-roblox-database-2026-w38",
           "company": "Roblox",
           "title": "Senior Software Engineer - Roblox Database",
@@ -7852,6 +7775,52 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-09-17T22:53:01.302881+00:00"
+        },
+        {
+          "id": "li-j-k-barnes-lead-trading-systems-engineer-c-systemat-2026-w38",
+          "company": "J K Barnes",
+          "title": "Lead Trading Systems Engineer | C++ | Systematic Hedge Fund",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 23 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/lead-trading-systems-engineer-c%2B%2B-systematic-hedge-fund-at-j-k-barnes-4467538826",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "23 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4467538826",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-17T13:57:35.539948+00:00"
+        },
+        {
+          "id": "li-fabri-software-engineer-geometry-simulation-c-2026-w38",
+          "company": "Fabri",
+          "title": "Software Engineer, Geometry/Simulation (C++)",
+          "location": "Billerica, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-geometry-simulation-c%2B%2B-at-fabri-4466631655",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "10 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4466631655",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-18T02:57:35.539948+00:00"
         }
       ]
     }
