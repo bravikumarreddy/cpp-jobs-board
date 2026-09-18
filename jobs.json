@@ -7821,6 +7821,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-09-18T02:57:35.539948+00:00"
+        },
+        {
+          "id": "li-sentinelone-staff-appsec-engineer-c-c-rust-2026-w38",
+          "company": "SentinelOne",
+          "title": "Staff AppSec Engineer - C C++ Rust",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 day ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/staff-appsec-engineer-c-c%2B%2B-rust-at-sentinelone-4459378064",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 day ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4459378064",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-09-17T17:43:11.617852+00:00"
         }
       ]
     }
