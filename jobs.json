@@ -7867,6 +7867,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-09-18T14:20:47.780290+00:00"
+        },
+        {
+          "id": "built-stellar-development-foundation-staff-software-engineer-c-rust-2026-w38",
+          "postedAtUtc": "2026-09-18T00:00:00.000312+00:00",
+          "company": "Stellar Development Foundation",
+          "title": "Staff Software Engineer, C++/Rust",
+          "location": "New York, New York",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 21 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/staff-software-engineer-c-rust/11261568",
+          "source": "Built In",
+          "postedApprox": "21 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:11261568",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
