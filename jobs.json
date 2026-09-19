@@ -7890,6 +7890,52 @@
           "externalId": "builtin:11261568",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "built-sapsol-technologies-inc-c-developer-2026-w38",
+          "postedAtUtc": "2026-09-18T00:00:00.000963+00:00",
+          "company": "Sapsol Technologies Inc",
+          "title": "C ++ Developer",
+          "location": "United States (remote)",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 1 days ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinboston.com/job/c-developer/11253717",
+          "source": "Built In",
+          "postedApprox": "1 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:11253717",
+          "region": "Remote",
+          "regionRank": 2
+        },
+        {
+          "id": "li-trustthink-software-engineer-c-2026-w38",
+          "company": "TrustThink",
+          "title": "Software Engineer \u2013 C++",
+          "location": "San Diego, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-c%2B%2B-at-trustthink-4468412073",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4468412073",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-19T17:35:53.698914+00:00"
         }
       ]
     }
