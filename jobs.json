@@ -1668,28 +1668,6 @@
           "h1bFit": ""
         },
         {
-          "id": "li-njf-global-holdings-ltd-software-engineer-c-2026-w30",
-          "company": "NJF Global Holdings Ltd",
-          "title": "Software Engineer (C++)",
-          "location": "New York, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "I am looking for talented C++ Software Engineers to join a high-performance High-Frequency Trading team in New York City. You\u2019ll help design and build advanced trading\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-njf-global-holdings-ltd-4443378503",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "51 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4443378503",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-tradeweb-c-software-engineer-2026-w30",
           "company": "Tradeweb",
           "title": "C++ Software Engineer",
