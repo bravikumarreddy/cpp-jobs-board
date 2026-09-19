@@ -7936,6 +7936,52 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-09-19T17:35:53.698914+00:00"
+        },
+        {
+          "id": "li-old-mission-c-software-engineer-research-infrastruct-2026-w38",
+          "company": "Old Mission",
+          "title": "C++ Software Engineer - Research Infrastructure",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 17 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-research-infrastructure-at-old-mission-4469281804",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "17 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4469281804",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-09-19T02:07:10.016179+00:00"
+        },
+        {
+          "id": "li-cintal-inc-embedded-software-engineer-linux-c-2026-w38",
+          "company": "Cintal, Inc.",
+          "title": "Embedded Software Engineer \u2013 Linux/C++",
+          "location": "Chillicothe, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-%E2%80%93-linux-c%2B%2B-at-cintal-inc-4469517583",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "8 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4469517583",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-09-19T11:07:10.016179+00:00"
         }
       ]
     }
