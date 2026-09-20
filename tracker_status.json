@@ -2,14 +2,14 @@
   "running": true,
   "pid": 4913,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-09-20T05:25:01.184395+00:00",
-  "nextCycleAt": "2026-09-20T05:55:01.184493+00:00",
-  "cycleCount": 1784,
+  "lastCycleAt": "2026-09-20T11:54:49.161403+00:00",
+  "nextCycleAt": "2026-09-20T12:24:49.161417+00:00",
+  "cycleCount": 1785,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-09-20T05:17:59.283878+00:00",
+      "lastRun": "2026-09-20T08:07:25.658412+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -17,7 +17,7 @@
     },
     {
       "name": "remotive",
-      "lastRun": "2026-09-20T05:18:00.223637+00:00",
+      "lastRun": "2026-09-20T08:07:27.462373+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -25,7 +25,7 @@
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-09-20T05:18:00.474869+00:00",
+      "lastRun": "2026-09-20T08:07:28.089244+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -33,7 +33,7 @@
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-09-20T05:18:01.493732+00:00",
+      "lastRun": "2026-09-20T08:07:29.221885+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -41,7 +41,7 @@
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-09-20T05:18:01.796223+00:00",
+      "lastRun": "2026-09-20T08:07:29.430662+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -49,7 +49,7 @@
     },
     {
       "name": "avature",
-      "lastRun": "2026-09-20T05:18:02.469866+00:00",
+      "lastRun": "2026-09-20T08:07:30.145137+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,7 +57,7 @@
     },
     {
       "name": "tradeweb",
-      "lastRun": "2026-09-20T05:24:31.508953+00:00",
+      "lastRun": "2026-09-20T08:07:41.508548+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -65,7 +65,7 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-09-20T05:24:32.106067+00:00",
+      "lastRun": "2026-09-20T08:07:43.099840+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -73,7 +73,7 @@
     },
     {
       "name": "builtin",
-      "lastRun": "2026-09-20T05:24:33.298950+00:00",
+      "lastRun": "2026-09-20T08:07:45.262475+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -81,7 +81,7 @@
     },
     {
       "name": "goldman",
-      "lastRun": "2026-09-20T05:24:47.653158+00:00",
+      "lastRun": "2026-09-20T08:07:59.224263+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -89,7 +89,7 @@
     },
     {
       "name": "millennium",
-      "lastRun": "2026-09-20T05:24:48.084485+00:00",
+      "lastRun": "2026-09-20T08:07:59.514368+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -97,7 +97,7 @@
     },
     {
       "name": "sig",
-      "lastRun": "2026-09-20T05:24:48.656787+00:00",
+      "lastRun": "2026-09-20T08:08:00.075001+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -105,7 +105,7 @@
     },
     {
       "name": "janestreet",
-      "lastRun": "2026-09-20T05:24:49.149068+00:00",
+      "lastRun": "2026-09-20T08:08:01.018930+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -113,7 +113,7 @@
     },
     {
       "name": "mathworks",
-      "lastRun": "2026-09-20T05:24:49.681148+00:00",
+      "lastRun": "2026-09-20T08:08:01.528414+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -121,7 +121,7 @@
     },
     {
       "name": "linkedin",
-      "lastRun": "2026-09-20T05:24:50.484492+00:00",
+      "lastRun": "2026-09-20T08:08:01.932149+00:00",
       "status": "ok",
       "found": null,
       "added": 0,
@@ -137,8 +137,8 @@
     },
     {
       "name": "ats_apis",
-      "lastRun": null,
-      "status": "skipped",
+      "lastRun": "2026-09-20T08:58:22.335483+00:00",
+      "status": "ok",
       "found": null,
       "added": 0,
       "error": null
@@ -389,6 +389,6 @@
   "totals": {
     "day": "2026-09-20",
     "addedToday": 3,
-    "cyclesToday": 10
+    "cyclesToday": 11
   }
 }
