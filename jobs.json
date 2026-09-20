@@ -4909,29 +4909,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-trebecon-llc-embedded-software-engineer-c-fulltime-po-2026-w34",
-          "company": "Trebecon LLC",
-          "title": "Embedded Software Engineer (C++) :: Fulltime Position :: Hybrid",
-          "location": "Phoenix, AZ",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 17 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-c%2B%2B-fulltime-position-hybrid-at-trebecon-llc-4453800044",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "17 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4453800044",
-          "region": "Mountain",
-          "regionRank": 4,
-          "postedAtUtc": "2026-08-19T21:07:00.162500+00:00"
-        },
-        {
           "id": "li-bloomberg-senior-software-engineer-c-customer-dist-2026-w34",
           "company": "Bloomberg",
           "title": "Senior Software Engineer (C++) - Customer Distribution Infrastructure",
@@ -7912,6 +7889,28 @@
           "yoeNote": "Auto-scraped \u2014 apply filters in your head",
           "externalId": "linkedin:4468415322",
           "possibleRepost": "C++ Software Engineer",
+          "region": "Central",
+          "regionRank": 3
+        },
+        {
+          "id": "li-ari-embedded-c-engineer-10-yrs-2026-w38",
+          "company": "ARi",
+          "title": "Embedded C++ Engineer - 10+ yrs",
+          "location": "Peoria, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 26 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-c%2B%2B-engineer-10%2B-yrs-at-ari-4469802919",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "26 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4469802919",
           "region": "Central",
           "regionRank": 3
         }
