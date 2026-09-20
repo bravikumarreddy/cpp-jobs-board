@@ -7913,6 +7913,29 @@
           "externalId": "linkedin:4469802919",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "li-coram-ai-engineering-c-edge-2026-w38",
+          "company": "Coram AI",
+          "title": "Engineering - C++ (Edge)",
+          "location": "Sunnyvale, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/engineering-c%2B%2B-edge-at-coram-ai-4469814402",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4469814402",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-20T19:48:30.282919+00:00"
         }
       ]
     }
