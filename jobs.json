@@ -8085,6 +8085,32 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-09-21T18:20:56.030254+00:00"
+        },
+        {
+          "id": "latitude-ai-senior-software-engineer-c-sensor-pipelines-2026-w39",
+          "company": "Latitude AI",
+          "title": "Senior Software Engineer (C++) - Sensor Pipelines",
+          "location": "Pittsburgh, PA, Palo Alto, CA, Detroit, MI",
+          "remote": "Onsite/Hybrid",
+          "industry": "Intelligent Systems",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (3h ago). Callback score 94.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "Networking"
+          ],
+          "url": "https://job-boards.greenhouse.io/latitude/jobs/8209564",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (3h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 94.0,
+          "postedAtUtc": "2026-09-21T15:02:01-04:00",
+          "atsJobId": "8209564",
+          "externalId": "greenhouse:8209564",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
