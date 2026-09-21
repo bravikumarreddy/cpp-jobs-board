@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19",
+  "lastUpdated": "2026-09-21",
   "lastChecked": "2026-09-19",
   "seedVersion": 2,
   "liveTrackers": [
@@ -7942,7 +7942,30 @@
     {
       "weekId": "2026-W39",
       "label": "Week of September 21, 2026",
-      "jobs": []
+      "jobs": [
+        {
+          "id": "himalayas-alten-calsoft-labs-c-developer-automotive-remote-opportunity-2026-w39",
+          "postedAtUtc": "2026-09-21T05:16:47.000337+00:00",
+          "company": "Alten Calsoft Labs",
+          "title": "C++ Developer - Automotive - Remote Opportunity",
+          "location": "United States",
+          "remote": "Remote (US)",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Himalayas): posted just now. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://himalayas.app/companies/alten-calsoft-labs/jobs/c-developer-automotive-remote-opportunity",
+          "source": "Himalayas",
+          "postedApprox": "just now",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "region": "Remote",
+          "regionRank": 2
+        }
+      ]
     }
   ]
 }
