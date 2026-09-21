@@ -5622,29 +5622,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-haystack-senior-c-software-engineer-2026-w36",
-          "company": "Haystack",
-          "title": "Senior C++ Software Engineer",
-          "location": "Washington DC-Baltimore Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-haystack-4462717212",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "8 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4462717212",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-09-03T00:57:10.265591+00:00"
-        },
-        {
           "id": "li-zapnix-llc-middleware-engineer-with-c-and-qt-qml-2026-w36",
           "company": "Zapnix LLC",
           "title": "Middleware Engineer with C++ and Qt/Qml",
@@ -5736,28 +5713,6 @@
           "postedAtUtc": "2026-09-03T19:40:25.253754+00:00"
         },
         {
-          "id": "li-ace-technologies-c-2026-w36",
-          "company": "Ace Technologies",
-          "title": "c++",
-          "location": "Mossville, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 3 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-at-ace-technologies-4460763553",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4460763553",
-          "region": "Central",
-          "regionRank": 3
-        },
-        {
           "id": "himalayas-sentinelone-senior-software-engineer-c-linux-cloud-workload-security-2026-w36",
           "postedAtUtc": "2026-09-03T22:55:31.001598+00:00",
           "company": "SentinelOne",
@@ -5778,29 +5733,6 @@
           "yoeNote": "Auto-tracked \u2014 apply filters in your head",
           "region": "Remote",
           "regionRank": 2
-        },
-        {
-          "id": "li-delta-system-software-inc-tech-lead-c-2026-w36",
-          "company": "Delta System & Software, Inc.",
-          "title": "Tech Lead- C++",
-          "location": "O'Fallon, MO",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/tech-lead-c%2B%2B-at-delta-system-software-inc-4461915810",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4461915810",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-09-03T22:47:23.350073+00:00"
         },
         {
           "id": "li-ari-embedded-software-engineer-perception-sy-2026-w36",
@@ -7964,6 +7896,51 @@
           "yoeNote": "Auto-tracked \u2014 apply filters in your head",
           "region": "Remote",
           "regionRank": 2
+        },
+        {
+          "id": "li-firstpro-us-senior-software-engineer-windows-c-pytho-2026-w39",
+          "company": "firstPRO US",
+          "title": "Senior Software Engineer (Windows, C++, Python)",
+          "location": "Andover, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-windows-c%2B%2B-python-at-firstpro-us-4467396805",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4467396805",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-torentify-software-engineer-controls-c-2026-w39",
+          "company": "Torentify",
+          "title": "Software Engineer, Controls (C++)",
+          "location": "Mountain View, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-controls-c%2B%2B-at-torentify-4469849507",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4469849507",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-21T07:17:55.273033+00:00"
         }
       ]
     }
