@@ -7941,6 +7941,28 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-09-21T07:17:55.273033+00:00"
+        },
+        {
+          "id": "li-kla-senior-software-engineer-c-architecture--2026-w39",
+          "company": "KLA",
+          "title": "Senior Software Engineer - C++/Architecture & Design",
+          "location": "Milpitas, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 32 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-architecture-design-at-kla-4467621231",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "32 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4467621231",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
