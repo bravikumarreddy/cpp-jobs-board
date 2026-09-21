@@ -8035,6 +8035,33 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-09-21T14:43:44.144650+00:00"
+        },
+        {
+          "id": "path-robotics-software-engineer-ml-infrastructure-2026-w39",
+          "company": "Path Robotics",
+          "title": "Software Engineer \u2013 ML Infrastructure",
+          "location": "Columbus, Ohio",
+          "remote": "Onsite/Hybrid",
+          "industry": "Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (2h ago). Callback score 89.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "Python",
+            "Go"
+          ],
+          "url": "https://boards.greenhouse.io/pathrobotics/jobs/8827576002?gh_jid=8827576002",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (2h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 89.0,
+          "postedAtUtc": "2026-09-21T12:32:00-04:00",
+          "atsJobId": "8827576002",
+          "externalId": "greenhouse:8827576002",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
