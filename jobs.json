@@ -8062,6 +8062,29 @@
           "externalId": "greenhouse:8827576002",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-servsys-corporation-c-c-full-stack-developer-legacy-database-2026-w39",
+          "company": "Servsys Corporation",
+          "title": "C/C++ Full Stack Developer (Legacy Database and Systems Modernization) - REMOTE",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-full-stack-developer-legacy-database-and-systems-modernization-remote-at-servsys-corporation-4469951242",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4469951242",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-09-21T18:20:56.030254+00:00"
         }
       ]
     }
