@@ -8012,6 +8012,29 @@
           "externalId": "linkedin:4469918693",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "li-cis-technologies-inc-senior-c-and-qt-development-engineer-2026-w39",
+          "company": "CIS TECHNOLOGIES INC",
+          "title": "Senior C++ and Qt Development Engineer",
+          "location": "Waltham, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-and-qt-development-engineer-at-cis-technologies-inc-4467395969",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4467395969",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-21T14:43:44.144650+00:00"
         }
       ]
     }
