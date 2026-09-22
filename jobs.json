@@ -8160,6 +8160,88 @@
           "externalId": "linkedin:4460605130",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "pure-storage-senior-platform-software-engineer-2026-w39",
+          "company": "Pure Storage",
+          "title": "Senior Platform Software Engineer",
+          "location": "Santa Clara, California",
+          "remote": "Onsite/Hybrid",
+          "industry": "Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 99.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "Networking",
+            "Python",
+            "Rust"
+          ],
+          "url": "https://job-boards.greenhouse.io/purestorage/jobs/8220267",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (0h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 99.0,
+          "postedAtUtc": "2026-09-22T15:41:21-04:00",
+          "atsJobId": "8220267",
+          "externalId": "greenhouse:8220267",
+          "possibleRepost": "Senior Platform Networking Software Engineer, Systems Engineering",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "modal-labs-member-of-technical-staff-lead-machines-2026-w39",
+          "company": "Modal Labs",
+          "title": "Member of Technical Staff - Lead, Machines",
+          "location": "New York",
+          "remote": "Onsite/Hybrid",
+          "industry": "Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 89.0/100. Direct Ashby ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "Networking",
+            "Go"
+          ],
+          "url": "https://jobs.ashbyhq.com/modal/2013d870-f981-455e-bb34-56224edb58a8",
+          "source": "Ashby API (live)",
+          "postedApprox": "Today (0h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 89.0,
+          "postedAtUtc": "2026-09-22T19:44:53.571000+00:00",
+          "atsJobId": "2013d870-f981-455e-bb34-56224edb58a8",
+          "externalId": "ashby:2013d870-f981-455e-bb34-56224edb58a8",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "modal-labs-member-of-technical-staff-lead-storage-2026-w39",
+          "company": "Modal Labs",
+          "title": "Member of Technical Staff - Lead, Storage",
+          "location": "San Francisco",
+          "remote": "Onsite/Hybrid",
+          "industry": "Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 89.0/100. Direct Ashby ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "Rust"
+          ],
+          "url": "https://jobs.ashbyhq.com/modal/2334a8c8-ca14-4b56-bfa1-9de165e346b4",
+          "source": "Ashby API (live)",
+          "postedApprox": "Today (0h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 89.0,
+          "postedAtUtc": "2026-09-22T19:49:26.521000+00:00",
+          "atsJobId": "2334a8c8-ca14-4b56-bfa1-9de165e346b4",
+          "externalId": "ashby:2334a8c8-ca14-4b56-bfa1-9de165e346b4",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
