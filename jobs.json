@@ -8090,6 +8090,29 @@
           "atsJobId": "8154929",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-oracle-senior-software-engineer-core-infrastruc-2026-w39",
+          "company": "Oracle",
+          "title": "Senior Software Engineer, Core Infrastructure (C++)",
+          "location": "Seattle, WA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 17 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-core-infrastructure-c%2B%2B-at-oracle-4468179285",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "17 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4468179285",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-21T23:47:18.401898+00:00"
         }
       ]
     }
