@@ -1776,69 +1776,6 @@
           "h1bFit": ""
         },
         {
-          "id": "torc-robotics-senior-simulation-vehicle-modeling-engineer-ann-arbor-mi-remote-us",
-          "company": "Torc Robotics",
-          "title": "Senior Simulation Vehicle Modeling Engineer",
-          "location": "Ann Arbor, MI, Remote - US",
-          "remote": "Remote",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-07-14.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8624508002",
-          "source": "Employer ATS (live)",
-          "postedApprox": "open since 2026-07-14",
-          "region": "East",
-          "externalId": "greenhouse:8624508002",
-          "regionRank": 1,
-          "yoeNote": "",
-          "h1bFit": ""
-        },
-        {
-          "id": "torc-robotics-senior-software-engineer-calibration-remote-u-s-ann-arbor-mi",
-          "company": "Torc Robotics",
-          "title": "Senior Software Engineer, Calibration",
-          "location": "Remote - U.S, Ann Arbor, MI",
-          "remote": "Remote",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-04-28.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8526368002",
-          "source": "Employer ATS (live)",
-          "postedApprox": "open since 2026-04-28",
-          "region": "East",
-          "externalId": "greenhouse:8526368002",
-          "regionRank": 1,
-          "yoeNote": "",
-          "h1bFit": ""
-        },
-        {
-          "id": "torc-robotics-senior-software-engineer-scaled-simulation-ann-arbor-mi-blacksburg",
-          "company": "Torc Robotics",
-          "title": "Senior Software Engineer - Scaled Simulation",
-          "location": "Ann Arbor, MI, Blacksburg, VA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-03-04.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8445200002",
-          "source": "Employer ATS (live)",
-          "postedApprox": "open since 2026-03-04",
-          "region": "East",
-          "externalId": "greenhouse:8445200002",
-          "regionRank": 1,
-          "yoeNote": "",
-          "h1bFit": ""
-        },
-        {
           "id": "torc-robotics-software-engineer-ii-device-drivers-ann-arbor-mi",
           "company": "Torc Robotics",
           "title": "Software Engineer II - Device Drivers",
@@ -1855,27 +1792,6 @@
           "postedApprox": "open since 2026-07-21",
           "region": "East",
           "externalId": "greenhouse:8634991002",
-          "regionRank": 1,
-          "yoeNote": "",
-          "h1bFit": ""
-        },
-        {
-          "id": "torc-robotics-software-engineer-ii-scaled-simulation-ann-arbor-mi-blacksburg-va",
-          "company": "Torc Robotics",
-          "title": "Software Engineer, II - Scaled Simulation",
-          "location": "Ann Arbor, MI, Blacksburg, VA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-07-22.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8643228002",
-          "source": "Employer ATS (live)",
-          "postedApprox": "open since 2026-07-22",
-          "region": "East",
-          "externalId": "greenhouse:8643228002",
           "regionRank": 1,
           "yoeNote": "",
           "h1bFit": ""
@@ -8240,6 +8156,84 @@
           "postedAtUtc": "2026-09-22T19:49:26.521000+00:00",
           "atsJobId": "2334a8c8-ca14-4b56-bfa1-9de165e346b4",
           "externalId": "ashby:2334a8c8-ca14-4b56-bfa1-9de165e346b4",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "snowflake-software-engineer-openflow-2026-w39",
+          "company": "Snowflake",
+          "title": "Software Engineer- Openflow",
+          "location": "US-CA-Menlo Park",
+          "remote": "Onsite/Hybrid",
+          "industry": "Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 99.0/100. Direct Ashby ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Multithreading",
+            "Distributed systems",
+            "Networking",
+            "Go"
+          ],
+          "url": "https://jobs.ashbyhq.com/snowflake/ab0abd7e-7e3f-4f1e-bca0-297765ed6425",
+          "source": "Ashby API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 99.0,
+          "postedAtUtc": "2026-09-22T21:17:44.132000+00:00",
+          "atsJobId": "ab0abd7e-7e3f-4f1e-bca0-297765ed6425",
+          "externalId": "ashby:ab0abd7e-7e3f-4f1e-bca0-297765ed6425",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "lucid-motors-sr-staff-engineer-motion-planning-and-controls-autonomous-driving-2026-w39",
+          "company": "Lucid Motors",
+          "title": "Sr. Staff Engineer, Motion Planning and Controls, Autonomous Driving",
+          "location": "Newark, CA",
+          "remote": "Onsite/Hybrid",
+          "industry": "ADAS - HDW & SW Eng, ADAS & Autonomous Vehicles",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (2h ago). Callback score 93.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://lucidmotors.com/careers/search/5242861007?gh_jid=5242861007",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (2h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 93.0,
+          "postedAtUtc": "2026-09-22T15:44:05-04:00",
+          "atsJobId": "5242861007",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "lucid-motors-senior-software-engineer-telematics-2026-w39",
+          "company": "Lucid Motors",
+          "title": "Senior Software Engineer, Telematics",
+          "location": "Newark, CA",
+          "remote": "Onsite/Hybrid",
+          "industry": "Software",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 89.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "Networking",
+            "Python"
+          ],
+          "url": "https://lucidmotors.com/careers/search/5238283007?gh_jid=5238283007",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (0h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 89.0,
+          "postedAtUtc": "2026-09-22T18:36:24-04:00",
+          "atsJobId": "5238283007",
           "region": "West",
           "regionRank": 5
         }
