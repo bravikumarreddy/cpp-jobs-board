@@ -5088,28 +5088,6 @@
           "regionRank": 3
         },
         {
-          "id": "li-swift-senior-developer-systems-engineer-c-2026-w35",
-          "company": "Swift",
-          "title": "Senior Developer/Systems Engineer -- C++",
-          "location": "Manassas, VA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 40 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-developer-systems-engineer-c%2B%2B-at-swift-4459327714",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "40 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4459327714",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-kalpa-group-c-engineer-2026-w35",
           "company": "Kalpa Group",
           "title": "C++ Engineer",
@@ -6530,29 +6508,6 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-09-10T10:08:57.657336+00:00"
-        },
-        {
-          "id": "li-torentify-software-engineer-c-remote-2026-w37",
-          "company": "Torentify",
-          "title": "Software Engineer, C++ (Remote)",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-remote-at-torentify-4465695879",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4465695879",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-09-10T14:42:36.218669+00:00"
         },
         {
           "id": "li-pentangle-tech-services-p5-group-software-engineer-c-qt-qml-2026-w37",
@@ -8111,6 +8066,30 @@
           "externalId": "greenhouse:8209564",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "roblox-senior-software-engineer-computer-graphics-2026-w39",
+          "company": "Roblox",
+          "title": "Senior Software Engineer, Computer Graphics",
+          "location": "San Mateo, CA, United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "Machine Learning",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (7h ago). Callback score 94.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://careers.roblox.com/jobs/8154929?gh_jid=8154929",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (7h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 94.0,
+          "postedAtUtc": "2026-09-22T02:46:12-04:00",
+          "atsJobId": "8154929",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
