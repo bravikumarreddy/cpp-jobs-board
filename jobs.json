@@ -1269,29 +1269,6 @@
           "postedAtUtc": "2026-07-20T21:07:26.624993+00:00"
         },
         {
-          "id": "li-millennium-c-software-engineer-trade-capture-2026-w30",
-          "company": "Millennium",
-          "title": "C++ Software Engineer - Trade Capture",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Job Function Summary We are searching for a developer with strong C++/Linux server side skills to be involved in the development of our firm\u2019s global trade capture\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-trade-capture-at-millennium-4227670777",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 day ago",
-          "h1bFit": "Confirm \u2014 JD clean BUT Millennium has zero H1B filings since ~2012; confirm via referral first",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4227670777",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-20T01:09:17.288507+00:00"
-        },
-        {
           "id": "built-citadel-securities-c-software-engineer-2026-w30",
           "postedAtUtc": "2026-07-17T00:00:00.000295+00:00",
           "company": "Citadel Securities",
