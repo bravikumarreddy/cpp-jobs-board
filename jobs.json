@@ -8114,6 +8114,29 @@
           "yoeNote": "Auto-tracked \u2014 apply filters in your head",
           "region": "Remote",
           "regionRank": 2
+        },
+        {
+          "id": "li-taskverse-software-engineer-c-c-2026-w39",
+          "company": "TaskVerse",
+          "title": "Software Engineer - C/C++",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c-c%2B%2B-at-taskverse-4470920936",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4470920936",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-09-23T13:21:29.298705+00:00"
         }
       ]
     }
