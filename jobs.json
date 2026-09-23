@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-22",
-  "lastChecked": "2026-09-22",
+  "lastUpdated": "2026-09-23",
+  "lastChecked": "2026-09-23",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -5095,28 +5095,6 @@
           "regionRank": 5
         },
         {
-          "id": "li-goldman-lloyds-c-automated-trading-engineer-2026-w35",
-          "company": "Goldman Lloyds",
-          "title": "C++ Automated Trading Engineer",
-          "location": "New York City Metropolitan Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 57 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-automated-trading-engineer-at-goldman-lloyds-4458413475",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "57 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4458413475",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-teamware-solutions-c-developer-2026-w35",
           "company": "Teamware Solutions",
           "title": "C++ Developer",
@@ -5401,29 +5379,6 @@
           "externalId": "linkedin:4442795275",
           "region": "West",
           "regionRank": 5
-        },
-        {
-          "id": "li-shain-associates-c-team-lead-2026-w36",
-          "company": "Shain Associates",
-          "title": "C++ Team Lead",
-          "location": "New York City Metropolitan Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 11 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-team-lead-at-shain-associates-4460902145",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "11 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4460902145",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-09-02T02:50:24.102519+00:00"
         },
         {
           "id": "li-roblox-senior-software-engineer-ads-experience--2026-w36",
@@ -5772,29 +5727,6 @@
           "regionRank": 5
         },
         {
-          "id": "li-uber-sr-software-engineer-c-av-labs-2026-w36",
-          "company": "Uber",
-          "title": "Sr Software Engineer (C++) - AV Labs",
-          "location": "Sunnyvale, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-c%2B%2B-av-labs-at-uber-4463658299",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4463658299",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-09-04T22:55:10.474844+00:00"
-        },
-        {
           "id": "built-citadel-global-quantitative-strategies-c-quantitative-research-engin-2026-w36",
           "postedAtUtc": "2026-09-05T00:00:00.000897+00:00",
           "company": "Citadel",
@@ -6012,28 +5944,6 @@
           "postedAtUtc": "2026-09-08T15:24:16.784547+00:00"
         },
         {
-          "id": "li-8elements-technologies-senior-c-software-engineer-2026-w37",
-          "company": "8Elements Technologies",
-          "title": "Senior C++ Software Engineer",
-          "location": "Dallas, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 8 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-8elements-technologies-4462547323",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "8 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4462547323",
-          "region": "Central",
-          "regionRank": 3
-        },
-        {
           "id": "li-atrium-senior-c-engineer-407146-2026-w37",
           "company": "Atrium",
           "title": "Senior C++ Engineer - 407146",
@@ -6079,28 +5989,6 @@
           "externalId": "greenhouse:8782787002",
           "region": "Remote",
           "regionRank": 2
-        },
-        {
-          "id": "li-sosv-hax-robotics-software-engineer-c-python-2026-w37",
-          "company": "SOSV HAX",
-          "title": "Robotics Software Engineer (C++ & Python)",
-          "location": "San Francisco Bay Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 29 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/robotics-software-engineer-c%2B%2B-python-at-sosv-hax-4463559848",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "29 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4463559848",
-          "region": "West",
-          "regionRank": 5
         },
         {
           "id": "li-comcast-software-engineer-c-python-golang-or-jav-2026-w37",
