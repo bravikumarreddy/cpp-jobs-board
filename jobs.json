@@ -8184,6 +8184,29 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-09-23T17:29:33.599676+00:00"
+        },
+        {
+          "id": "li-thurn-partners-c-quantitative-developer-low-latency-pro-2026-w39",
+          "company": "Thurn Partners",
+          "title": "C++ Quantitative Developer: Low-Latency Proprietary Trading Firm (New York)",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-quantitative-developer-low-latency-proprietary-trading-firm-new-york-at-thurn-partners-4469320626",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4469320626",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-23T18:38:35.079812+00:00"
         }
       ]
     }
