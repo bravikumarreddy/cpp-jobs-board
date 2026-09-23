@@ -8162,6 +8162,51 @@
           "externalId": "greenhouse:8213377",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-thurn-partners-c-low-latency-quantitative-developer-2026-w39",
+          "company": "Thurn Partners",
+          "title": "C++ Low Latency - Quantitative Developer",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 52 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-low-latency-quantitative-developer-at-thurn-partners-4469326547",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "52 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4469326547",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-okaya-infocom-c-c-developer-2026-w39",
+          "company": "OKAYA INFOCOM",
+          "title": "C, C++ Developer",
+          "location": "O'Fallon, MO",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-developer-at-okaya-infocom-4470976625",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4470976625",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-09-23T17:29:33.599676+00:00"
         }
       ]
     }
