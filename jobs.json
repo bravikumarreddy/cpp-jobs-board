@@ -8207,6 +8207,28 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-09-23T18:38:35.079812+00:00"
+        },
+        {
+          "id": "li-palo-alto-networks-senior-principal-software-engineer-c-low-2026-w39",
+          "company": "Palo Alto Networks",
+          "title": "Senior Principal Software Engineer (C++-low level-Prisma Browser)",
+          "location": "Santa Clara, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 39 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-principal-software-engineer-c%2B%2B-low-level-prisma-browser-at-palo-alto-networks-4469355522",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "39 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4469355522",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
