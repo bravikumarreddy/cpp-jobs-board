@@ -8373,6 +8373,75 @@
           "atsJobId": "8225544",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-the-intersect-group-senior-c-developer-2026-w39",
+          "company": "The Intersect Group",
+          "title": "Senior C++ Developer",
+          "location": "Atlanta Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 16 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-at-the-intersect-group-4469442647",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "16 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4469442647",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-23T13:27:27.949113+00:00"
+        },
+        {
+          "id": "li-relevance-lab-c-developer-embedded-engineer-onsite-in--2026-w39",
+          "company": "Relevance Lab",
+          "title": "C++ Developer /Embedded Engineer-ONSITE IN BOSTON",
+          "location": "Boston, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 days ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-embedded-engineer-onsite-in-boston-at-relevance-lab-4470942193",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4470942193",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-22T05:27:27.949113+00:00"
+        },
+        {
+          "id": "li-saraca-c-linux-developer-scrum-master-2026-w39",
+          "company": "SARACA",
+          "title": "C++ Linux Developer / Scrum Master",
+          "location": "Waukesha, WI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 12 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-linux-developer-scrum-master-at-saraca-4469490293",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "12 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4469490293",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-09-23T17:27:27.949113+00:00"
         }
       ]
     }
