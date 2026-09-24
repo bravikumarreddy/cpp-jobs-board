@@ -2481,51 +2481,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-sme-careers-c-engineer-2026-w31",
-          "company": "SME Careers",
-          "title": "C++ Engineer",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "As a C++ Engineer, you will work remotely on an hourly paid basis to review AI-generated C++ code, systems designs, and technical explanations, as well as generate\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-at-sme-careers-4418944977",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4418944977",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-07-29T11:44:12.572710+00:00"
-        },
-        {
-          "id": "li-island-senior-c-engineer-2026-w31",
-          "company": "Island",
-          "title": "Senior C++ Engineer",
-          "location": "Coppell, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Island is the ideal environment for enterprise work, where security is everywhere without ever getting in the way. The Island Enterprise Platform unifies AI enablement,\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-engineer-at-island-4446583945",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "17 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446583945",
-          "region": "Central",
-          "regionRank": 3
-        },
-        {
           "id": "li-roblox-senior-software-engineer-client-systems--2026-w31",
           "company": "Roblox",
           "title": "Senior Software Engineer, Client Systems (C++)",
@@ -2568,29 +2523,6 @@
           "externalId": "linkedin:4387988222",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-motorola-solutions-sr-embedded-software-engineer-c-c-2026-w31",
-          "company": "Motorola Solutions",
-          "title": "Sr. Embedded Software Engineer - C/C++",
-          "location": "Allen, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Company Overview At Motorola Solutions, we believe that everything starts with our people. We\u2019re a global close-knit community, united by the relentless pursuit to help keep\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/sr-embedded-software-engineer-c-c%2B%2B-at-motorola-solutions-4438127439",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "5 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4438127439",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-07-29T15:04:16.637936+00:00"
         },
         {
           "id": "aurora-software-engineer-ii-vehicle-platform-integrations-2026-w31",
