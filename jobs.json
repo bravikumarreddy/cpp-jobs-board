@@ -2338,29 +2338,6 @@
           "postedAtUtc": "2026-07-27T21:44:50.771725+00:00"
         },
         {
-          "id": "li-analogic-sr-embedded-software-engineer-c-c-linux-2026-w31",
-          "company": "Analogic",
-          "title": "Sr. Embedded Software Engineer (C, C++, Linux)",
-          "location": "Salem, NH",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "What You\u2019ll Do Design and develop embedded software that controls system behavior in advanced imaging and security platformsBuild software that interfaces directly with\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/sr-embedded-software-engineer-c-c%2B%2B-linux-at-analogic-4437931647",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "6 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4437931647",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-27T19:53:02.138813+00:00"
-        },
-        {
           "id": "built-akkodis-c-developer-2026-w31",
           "postedAtUtc": "2026-07-27T00:00:00.001054+00:00",
           "company": "Akkodis",
@@ -8442,6 +8419,31 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-09-23T17:27:27.949113+00:00"
+        },
+        {
+          "id": "belvedere-trading-senior-c-software-engineer-2026-w39",
+          "company": "Belvedere Trading",
+          "title": "Senior C++ Software Engineer",
+          "location": "Chicago, Illinois",
+          "remote": "Onsite/Hybrid",
+          "industry": "Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (2h ago). Callback score 94.0/100. Direct Lever ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://jobs.lever.co/belvederetrading/70da6a35-19ab-4a10-8f8e-ccc3cbf39a14",
+          "source": "Lever API (live)",
+          "postedApprox": "Today (2h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 94.0,
+          "postedAtUtc": "2026-09-24T14:51:25.521000+00:00",
+          "atsJobId": "70da6a35-19ab-4a10-8f8e-ccc3cbf39a14",
+          "externalId": "lever:70da6a35-19ab-4a10-8f8e-ccc3cbf39a14",
+          "region": "Central",
+          "regionRank": 3
         }
       ]
     }
