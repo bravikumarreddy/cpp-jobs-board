@@ -2459,29 +2459,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-wand-senior-c-reverse-engineer-2026-w31",
-          "company": "Wand",
-          "title": "Senior C++ Reverse Engineer",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Wand makes gaming magical. Through game customization and guidance, we build tools that helps players have more fun in their favorite games. Our platform works across\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-reverse-engineer-at-wand-4443248178",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "23 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4443248178",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-07-28T08:00:54.343935+00:00"
-        },
-        {
           "id": "li-balyasny-asset-management-l-p-senior-low-latency-c-developer-2026-w31",
           "company": "Balyasny Asset Management L.P.",
           "title": "Senior Low Latency C++ Developer",
