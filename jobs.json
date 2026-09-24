@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-23",
-  "lastChecked": "2026-09-23",
+  "lastUpdated": "2026-09-24",
+  "lastChecked": "2026-09-24",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -8349,6 +8349,30 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-09-24T02:21:19.057097+00:00"
+        },
+        {
+          "id": "riot-games-staff-software-engineer-teamfight-tactics-mobile-2026-w39",
+          "company": "Riot Games",
+          "title": "Staff Software Engineer - Teamfight Tactics, Mobile",
+          "location": "Los Angeles, USA",
+          "remote": "Onsite/Hybrid",
+          "industry": "League Studio",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (3h ago). Callback score 99.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.riotgames.com/en/work-with-us/job/8225544?gh_jid=8225544",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (3h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 99.0,
+          "postedAtUtc": "2026-09-23T21:34:48-04:00",
+          "atsJobId": "8225544",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
