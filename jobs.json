@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-24",
-  "lastChecked": "2026-09-24",
+  "lastUpdated": "2026-09-25",
+  "lastChecked": "2026-09-25",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -4864,29 +4864,6 @@
           "externalId": "linkedin:4458075770",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-jpmorganchase-software-engineer-ii-linux-c-c-systems-p-2026-w35",
-          "company": "JPMorganChase",
-          "title": "Software Engineer II- Linux C/C++ systems programming",
-          "location": "Jersey City, NJ",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-linux-c-c%2B%2B-systems-programming-at-jpmorganchase-4460303618",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4460303618",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-28T09:39:31.914622+00:00"
         },
         {
           "id": "li-garmin-senior-c-software-engineer-2026-w35",
