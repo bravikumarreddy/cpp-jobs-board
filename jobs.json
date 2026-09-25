@@ -8353,6 +8353,30 @@
           "externalId": "lever:70da6a35-19ab-4a10-8f8e-ccc3cbf39a14",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "epic-games-senior-graphics-engineer-2026-w39",
+          "company": "Epic Games",
+          "title": "Senior Graphics Engineer",
+          "location": "Cary,North Carolina,United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "Engineering Specialist",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 99.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://epicgames.com/careers/jobs/6208114004?gh_jid=6208114004",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 99.0,
+          "postedAtUtc": "2026-09-24T20:09:10-04:00",
+          "atsJobId": "6208114004",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
