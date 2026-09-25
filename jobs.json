@@ -8400,6 +8400,29 @@
           "region": "Mountain",
           "regionRank": 4,
           "postedAtUtc": "2026-09-24T20:07:03.132820+00:00"
+        },
+        {
+          "id": "linkedin-jpmorganchase-software-engineer-ii-linux-c-c-systems-programming-2026-w39",
+          "postedAtUtc": "2026-09-22T15:07:39.676272+00:00",
+          "company": "JPMorganChase",
+          "title": "Software Engineer II- Linux C/C++ systems programming",
+          "location": "Jersey City, NJ",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape (recall audit 2026-09-25 hand re-add): posted 3 days ago; repost of the pruned W35 req. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-linux-c-c%2B%2B-systems-programming-at-jpmorganchase-4468556241",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "linkedin:4468556241",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
