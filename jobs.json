@@ -3078,29 +3078,6 @@
           "postedAtUtc": "2026-08-02T16:15:10.411363+00:00"
         },
         {
-          "id": "li-crowdstrike-sr-engineer-cloud-ai-runtime-c-ebpf-k8s--2026-w32",
-          "company": "CrowdStrike",
-          "title": "Sr. Engineer - Cloud & AI Runtime - C++/eBPF/K8s (Hybrid)",
-          "location": "Sunnyvale, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn\u2019t changed \u2014\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/sr-engineer-cloud-ai-runtime-c%2B%2B-ebpf-k8s-hybrid-at-crowdstrike-4363185159",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "4 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4363185159",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-03T10:45:48.347948+00:00"
-        },
-        {
           "id": "li-zoox-senior-software-engineer-c-gpu-performan-2026-w32",
           "company": "Zoox",
           "title": "Senior Software Engineer - C++ GPU Performance",
@@ -8418,6 +8395,28 @@
             "C++"
           ],
           "url": "https://himalayas.app/companies/generate-design/jobs/senior-software-engineer-for-disruptive-architecture-industry-startup-c-unrea",
+          "source": "Himalayas",
+          "postedApprox": "just now",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "region": "Remote",
+          "regionRank": 2
+        },
+        {
+          "id": "himalayas-openvpn-software-development-engineer-in-test-c-2026-w39",
+          "postedAtUtc": "2026-09-25T18:01:04.001491+00:00",
+          "company": "OpenVPN",
+          "title": "Software Development Engineer in Test (C++)",
+          "location": "Remote (US)",
+          "remote": "Remote (US)",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Himalayas): posted just now. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://himalayas.app/companies/openvpn/jobs/software-development-engineer-in-test-c",
           "source": "Himalayas",
           "postedApprox": "just now",
           "h1bFit": "Verify on posting",
