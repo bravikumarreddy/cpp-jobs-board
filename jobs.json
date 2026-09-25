@@ -7911,51 +7911,6 @@
           "postedAtUtc": "2026-09-23T09:13:31.443546+00:00"
         },
         {
-          "id": "himalayas-stilman-advanced-strategies-remote-c-developer-2026-w39",
-          "postedAtUtc": "2026-09-23T05:07:38.000219+00:00",
-          "company": "Stilman Advanced Strategies",
-          "title": "Remote C++ Developer",
-          "location": "United States",
-          "remote": "Remote (US)",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Live tracker (Himalayas): posted 9 hours ago. Verify details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://himalayas.app/companies/stilman-advanced-strategies/jobs/remote-c-developer",
-          "source": "Himalayas",
-          "postedApprox": "9 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
-          "region": "Remote",
-          "regionRank": 2
-        },
-        {
-          "id": "li-taskverse-software-engineer-c-c-2026-w39",
-          "company": "TaskVerse",
-          "title": "Software Engineer - C/C++",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c-c%2B%2B-at-taskverse-4470920936",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4470920936",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-09-23T13:21:29.298705+00:00"
-        },
-        {
           "id": "latitude-ai-senior-software-engineer-runtime-services-2026-w39",
           "company": "Latitude AI",
           "title": "Senior Software Engineer - Runtime Services",
@@ -8354,6 +8309,97 @@
           "atsJobId": "6208114004",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-fionics-c-software-engineer-commodities-trading--2026-w39",
+          "company": "Fionics",
+          "title": "C++ Software Engineer \u2013 Commodities Trading (ICE / CME)",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 33 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-%E2%80%93-commodities-trading-ice-cme-at-fionics-4470307938",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "33 minutes ago",
+          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4470307938",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-fionics-c-quant-developer-researcher-hft-futures-2026-w39",
+          "company": "Fionics",
+          "title": "C++ Quant Developer / Researcher \u2013 HFT (Futures & Equities)",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-quant-developer-researcher-%E2%80%93-hft-futures-equities-at-fionics-4470319155",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4470319155",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-25T14:07:03.132820+00:00"
+        },
+        {
+          "id": "li-fwi-fedwriters-inc-senior-c-software-engineer-2026-w39",
+          "company": "FWI (FedWriters, Inc.)",
+          "title": "Senior C ++ Software Engineer",
+          "location": "Norman, OK",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c-%2B%2B-software-engineer-at-fwi-fedwriters-inc-4462881335",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4462881335",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-09-25T13:07:03.132820+00:00"
+        },
+        {
+          "id": "li-infovisa-inc-senior-c-c-software-engineer-2026-w39",
+          "company": "Infovisa, Inc.",
+          "title": "Senior C++/C# Software Engineer",
+          "location": "Centennial, CO",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 19 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-c%23-software-engineer-at-infovisa-inc-4471669668",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "19 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4471669668",
+          "region": "Mountain",
+          "regionRank": 4,
+          "postedAtUtc": "2026-09-24T20:07:03.132820+00:00"
         }
       ]
     }
