@@ -2531,29 +2531,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-avride-senior-c-software-engineer-simulation-in-2026-w31",
-          "company": "Avride",
-          "title": "Senior C++ Software Engineer \u2013 Simulation Infrastructure",
-          "location": "Austin, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "About The Team We develop the core simulation infrastructure that powers testing, validation, and debugging of our autonomous driving system. Our simulations are used daily\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-%E2%80%93-simulation-infrastructure-at-avride-4439839484",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4439839484",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-07-30T14:05:01.615108+00:00"
-        },
-        {
           "id": "li-kla-senior-systems-software-engineer-c-2026-w31",
           "company": "KLA",
           "title": "Senior Systems Software Engineer (C++)",
@@ -3030,29 +3007,6 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-08-02T15:32:03.975847+00:00"
-        },
-        {
-          "id": "li-motorola-solutions-embedded-software-engineer-modern-c-linu-2026-w32",
-          "company": "Motorola Solutions",
-          "title": "Embedded Software Engineer - Modern C++, Linux",
-          "location": "Allen, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Company Overview At Motorola Solutions, we believe that everything starts with our people. We\u2019re a global close-knit community, united by the relentless pursuit to help keep\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-modern-c%2B%2B-linux-at-motorola-solutions-4420681069",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "23 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4420681069",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-02T15:15:10.411363+00:00"
         },
         {
           "id": "li-palo-alto-networks-principal-software-engineer-c-low-level--2026-w32",
@@ -5833,29 +5787,6 @@
           "postedAtUtc": "2026-09-09T11:23:28.425347+00:00"
         },
         {
-          "id": "li-tekfortune-inc-software-engineer-c-2026-w37",
-          "company": "TEKFORTUNE INC",
-          "title": "Software Engineer - C++",
-          "location": "California, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-tekfortune-inc-4463874627",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4463874627",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-09-09T14:23:28.425347+00:00"
-        },
-        {
           "id": "li-glocomms-staff-c-engineer-2026-w37",
           "company": "Glocomms",
           "title": "Staff C++ Engineer",
@@ -8444,6 +8375,58 @@
           "yoeFit": "Verify",
           "yoeNote": "Auto-scraped \u2014 apply filters in your head",
           "externalId": "linkedin:4472064604",
+          "region": "Remote",
+          "regionRank": 2
+        },
+        {
+          "id": "lucid-motors-perception-software-engineer-autonomous-driving-2026-w39",
+          "company": "Lucid Motors",
+          "title": "Perception Software Engineer, Autonomous Driving",
+          "location": "Newark, CA",
+          "remote": "Onsite/Hybrid",
+          "industry": "ADAS - HDW & SW Eng, ADAS & Autonomous Vehicles",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (4h ago). Callback score 93.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://lucidmotors.com/careers/search/5242880007?gh_jid=5242880007",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (4h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 93.0,
+          "postedAtUtc": "2026-09-25T16:43:54-04:00",
+          "atsJobId": "5242880007",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "serve-robotics-sr-embedded-software-engineer-robotics-platform-2026-w39",
+          "company": "Serve Robotics",
+          "title": "Sr. Embedded Software Engineer,  Robotics Platform",
+          "location": "USA (remote)",
+          "remote": "Onsite/Hybrid",
+          "industry": "Software",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (2h ago). Callback score 93.0/100. Direct Ashby ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "C++17",
+            "Linux",
+            "Distributed systems",
+            "Networking"
+          ],
+          "url": "https://jobs.ashbyhq.com/serverobotics/0b9f3986-9ae6-4361-85b5-2e1edc6e10e2",
+          "source": "Ashby API (live)",
+          "postedApprox": "Today (2h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 93.0,
+          "postedAtUtc": "2026-09-25T22:40:21.963000+00:00",
+          "atsJobId": "0b9f3986-9ae6-4361-85b5-2e1edc6e10e2",
+          "externalId": "ashby:0b9f3986-9ae6-4361-85b5-2e1edc6e10e2",
           "region": "Remote",
           "regionRank": 2
         }
