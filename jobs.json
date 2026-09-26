@@ -8407,6 +8407,52 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-09-25T21:19:37.230585+00:00"
+        },
+        {
+          "id": "li-millennium-senior-c-market-data-engineer-2026-w39",
+          "company": "Millennium",
+          "title": "Senior C++ Market Data Engineer",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-market-data-engineer-at-millennium-4385958112",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Confirm \u2014 JD clean BUT Millennium has zero H1B filings since ~2012; confirm via referral first",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4385958112",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-26T19:07:56.571789+00:00"
+        },
+        {
+          "id": "li-cargill-principal-software-engineer-c-trading-2026-w39",
+          "company": "Cargill",
+          "title": "Principal Software Engineer (C++) - Trading",
+          "location": "Wayzata, MN",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-c%2B%2B-trading-at-cargill-4470554975",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4470554975",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-09-26T18:07:56.571789+00:00"
         }
       ]
     }
