@@ -8406,6 +8406,52 @@
           "externalId": "ashby:0b9f3986-9ae6-4361-85b5-2e1edc6e10e2",
           "region": "Remote",
           "regionRank": 2
+        },
+        {
+          "id": "li-frostbite-senior-software-engineer-c-c-frostbite-2026-w39",
+          "company": "Frostbite",
+          "title": "Senior Software Engineer (C++/C#) - Frostbite",
+          "location": "Orlando, FL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 18 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-c%23-frostbite-at-frostbite-4470501360",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "18 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4470501360",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-25T21:19:37.230585+00:00"
+        },
+        {
+          "id": "li-nask-incorporated-c-software-development-engineer-2026-w39",
+          "company": "NASK Incorporated",
+          "title": "C++ Software Development Engineer",
+          "location": "Beavercreek, OH",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 day ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-development-engineer-at-nask-incorporated-4472095070",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 day ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4472095070",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-25T15:19:37.230585+00:00"
         }
       ]
     }
