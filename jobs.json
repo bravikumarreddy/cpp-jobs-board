@@ -8453,6 +8453,51 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-09-26T18:07:56.571789+00:00"
+        },
+        {
+          "id": "li-torentify-software-engineer-c-remote-work-2026-w39",
+          "company": "Torentify",
+          "title": "Software Engineer, C++ - Remote Work",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 35 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-remote-work-at-torentify-4472455319",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "35 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4472455319",
+          "region": "Remote",
+          "regionRank": 2
+        },
+        {
+          "id": "li-comcast-sr-c-backend-engineer-hybrid-2-days-rest-2026-w39",
+          "company": "Comcast",
+          "title": "Sr. C++ Backend Engineer - Hybrid 2 Days Reston, VA - FreeWheel",
+          "location": "Reston, VA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 18 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-c%2B%2B-backend-engineer-hybrid-2-days-reston-va-freewheel-at-comcast-4471053907",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "18 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4471053907",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-26T20:24:29.714178+00:00"
         }
       ]
     }
