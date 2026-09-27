@@ -5016,29 +5016,6 @@
           "postedAtUtc": "2026-09-01T18:51:13.628230+00:00"
         },
         {
-          "id": "li-ntop-software-engineer-l4-build-team-c-c-2026-w36",
-          "company": "nTop",
-          "title": "Software Engineer (L4), Build Team (C/C++)",
-          "location": "Kings County, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 21 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-l4-build-team-c-c%2B%2B-at-ntop-4438972413",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "21 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4438972413",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-08-31T22:51:13.628230+00:00"
-        },
-        {
           "id": "roblox-senior-software-engineer-desktop-2026-w36",
           "company": "Roblox",
           "title": "Senior Software Engineer - Desktop",
@@ -5131,29 +5108,6 @@
           "regionRank": 5
         },
         {
-          "id": "li-umatr-software-engineer-rust-c-go-2026-w36",
-          "company": "UMATR",
-          "title": "Software Engineer - Rust / C++ / Go",
-          "location": "New York City Metropolitan Area",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 10 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-rust-c%2B%2B-go-at-umatr-4449833619",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "10 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4449833619",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-09-02T14:35:19.539539+00:00"
-        },
-        {
           "id": "li-comcast-software-engineer-c-python-golang-or-jav-2026-w36",
           "company": "Comcast",
           "title": "Software Engineer (C++, Python, GoLang, or Java) - Onsite 4 Days - Reston, VA \u2013 FreeWheel",
@@ -5174,29 +5128,6 @@
           "externalId": "linkedin:4462771601",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "li-zapnix-llc-middleware-engineer-with-c-and-qt-qml-2026-w36",
-          "company": "Zapnix LLC",
-          "title": "Middleware Engineer with C++ and Qt/Qml",
-          "location": "Milpitas, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/middleware-engineer-with-c%2B%2B-and-qt-qml-at-zapnix-llc-4462844220",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "2 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4462844220",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-09-03T13:57:51.609570+00:00"
         },
         {
           "id": "li-adobe-photoshop-software-development-engineer--2026-w36",
@@ -5289,29 +5220,6 @@
           "regionRank": 2
         },
         {
-          "id": "li-ari-embedded-software-engineer-perception-sy-2026-w36",
-          "company": "ARi",
-          "title": "Embedded Software Engineer \u2013 Perception Systems (C++/Linux)",
-          "location": "Peoria, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 22 hours ago. Re-added by nightly recall audit 2026-09-04 (daemon's unstable 24h result sets missed it). Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-%E2%80%93-perception-systems-c%2B%2B-linux-at-ari-4460727655",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "22 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4460727655",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-09-03T17:24:06.176354+00:00"
-        },
-        {
           "id": "tenstorrent-sr-staff-engineer-front-end-verification-2026-w36",
           "company": "Tenstorrent",
           "title": "Sr. Staff Engineer, Front-End Verification",
@@ -5358,29 +5266,6 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-09-04T14:55:38.273719+00:00"
-        },
-        {
-          "id": "li-futran-solutions-c-c-technical-lead-payments-iso-8583-2026-w36",
-          "company": "Futran Solutions",
-          "title": "C/C++ Technical Lead \u2013 Payments & ISO 8583",
-          "location": "St Louis, MO",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-technical-lead-%E2%80%93-payments-iso-8583-at-futran-solutions-4463384326",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4463384326",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-09-04T15:26:24.889706+00:00"
         },
         {
           "id": "li-garmin-embedded-c-c-software-engineer-2-marine--2026-w36",
