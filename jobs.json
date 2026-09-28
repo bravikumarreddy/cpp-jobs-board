@@ -8055,28 +8055,6 @@
       "label": "Week of September 28, 2026",
       "jobs": [
         {
-          "id": "mathworks-mathworks-associate-technical-writer-engineering-development-group-2026-w40",
-          "postedAtUtc": "2026-09-28T14:50:49.460997+00:00",
-          "company": "MathWorks",
-          "title": "Associate Technical Writer - Engineering Development Group",
-          "location": "Natick, MA",
-          "remote": "See posting",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "Live tracker (MathWorks (careers search)): posted just now. Verify details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.mathworks.com/company/jobs/opportunities/28398-associate-technical-writer-engineering-development-group",
-          "source": "MathWorks (careers search)",
-          "postedApprox": "just now",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-njf-global-holdings-ltd-senior-software-engineer-c-2026-w40",
           "company": "NJF Global Holdings Ltd",
           "title": "Senior Software Engineer - C++",
@@ -8098,6 +8076,28 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-09-28T12:52:48.212524+00:00"
+        },
+        {
+          "id": "li-pinnacle99-inc-senior-c-c-software-engineer-2026-w40",
+          "company": "Pinnacle99 INC",
+          "title": "Senior C/C++ Software Engineer",
+          "location": "New York, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 58 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c-c%2B%2B-software-engineer-at-pinnacle99-inc-4472757009",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "58 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4472757009",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
