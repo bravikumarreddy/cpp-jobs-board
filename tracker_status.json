@@ -2,14 +2,14 @@
   "running": true,
   "pid": 4913,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-09-28T12:40:53.169168+00:00",
-  "nextCycleAt": "2026-09-28T13:10:53.169267+00:00",
-  "cycleCount": 1937,
+  "lastCycleAt": "2026-09-28T14:52:49.326224+00:00",
+  "nextCycleAt": "2026-09-28T15:22:49.326322+00:00",
+  "cycleCount": 1938,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-09-28T04:56:52.424824+00:00",
+      "lastRun": "2026-09-28T14:06:58.975489+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -17,7 +17,7 @@
     },
     {
       "name": "remotive",
-      "lastRun": "2026-09-28T04:56:52.991649+00:00",
+      "lastRun": "2026-09-28T14:06:59.716507+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -25,15 +25,15 @@
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-09-28T04:56:53.242594+00:00",
-      "status": "error",
+      "lastRun": "2026-09-28T14:06:59.988748+00:00",
+      "status": "ok",
       "found": 0,
       "added": 0,
-      "error": "The read operation timed out"
+      "error": null
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-09-28T05:33:14.188849+00:00",
+      "lastRun": "2026-09-28T14:07:01.035640+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -41,7 +41,7 @@
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-09-28T05:33:16.603414+00:00",
+      "lastRun": "2026-09-28T14:07:01.956017+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -49,7 +49,7 @@
     },
     {
       "name": "avature",
-      "lastRun": "2026-09-28T05:33:17.402846+00:00",
+      "lastRun": "2026-09-28T14:07:03.006568+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,7 +57,7 @@
     },
     {
       "name": "tradeweb",
-      "lastRun": "2026-09-28T05:33:33.754406+00:00",
+      "lastRun": "2026-09-28T14:07:20.376307+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -65,7 +65,7 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-09-28T05:33:34.367427+00:00",
+      "lastRun": "2026-09-28T14:07:21.081826+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -73,7 +73,7 @@
     },
     {
       "name": "builtin",
-      "lastRun": "2026-09-28T05:33:35.781706+00:00",
+      "lastRun": "2026-09-28T14:07:22.590615+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -81,15 +81,15 @@
     },
     {
       "name": "goldman",
-      "lastRun": "2026-09-28T05:54:07.130226+00:00",
-      "status": "ok",
+      "lastRun": "2026-09-28T14:07:33.997179+00:00",
+      "status": "error",
       "found": 0,
       "added": 0,
-      "error": null
+      "error": "The read operation timed out"
     },
     {
       "name": "millennium",
-      "lastRun": "2026-09-28T05:54:07.421501+00:00",
+      "lastRun": "2026-09-28T14:50:43.206387+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -97,7 +97,7 @@
     },
     {
       "name": "sig",
-      "lastRun": "2026-09-28T05:54:08.118472+00:00",
+      "lastRun": "2026-09-28T14:50:43.806582+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -105,7 +105,7 @@
     },
     {
       "name": "ibkr",
-      "lastRun": "2026-09-28T05:54:08.865006+00:00",
+      "lastRun": "2026-09-28T14:50:44.518487+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -113,7 +113,7 @@
     },
     {
       "name": "janestreet",
-      "lastRun": "2026-09-28T05:54:11.303813+00:00",
+      "lastRun": "2026-09-28T14:50:46.677243+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -121,38 +121,50 @@
     },
     {
       "name": "mathworks",
-      "lastRun": "2026-09-28T05:54:12.500471+00:00",
+      "lastRun": "2026-09-28T14:50:48.276104+00:00",
       "status": "ok",
-      "found": 0,
-      "added": 0,
+      "found": 2,
+      "added": 2,
       "error": null
     },
     {
       "name": "linkedin",
-      "lastRun": "2026-09-28T05:54:13.442932+00:00",
+      "lastRun": "2026-09-28T14:50:49.519004+00:00",
       "status": "ok",
       "found": null,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
       "name": "linkedin_wide",
-      "lastRun": "2026-09-27T13:53:12.340784+00:00",
-      "status": "skipped",
+      "lastRun": "2026-09-28T14:51:01.725199+00:00",
+      "status": "ok",
       "found": null,
       "added": 0,
       "error": null
     },
     {
       "name": "ats_apis",
-      "lastRun": "2026-09-28T05:54:25.206113+00:00",
-      "status": "ok",
+      "lastRun": null,
+      "status": "skipped",
       "found": null,
       "added": 0,
       "error": null
     }
   ],
   "recentFinds": [
+    {
+      "company": "MathWorks",
+      "title": "Associate Technical Writer - Engineering Development Group",
+      "source": "MathWorks (careers search)",
+      "at": "2026-09-28T14:50:48.276104+00:00"
+    },
+    {
+      "company": "MathWorks",
+      "title": "Technical Writer - Engineering Development Group",
+      "source": "MathWorks (careers search)",
+      "at": "2026-09-28T14:50:48.276104+00:00"
+    },
     {
       "company": "OpenVPN",
       "title": "Software Development Engineer in Test (C++)",
@@ -380,23 +392,11 @@
       "title": "Lead C++ Software Engineer",
       "source": "Built In",
       "at": "2026-09-10T22:26:13.998897+00:00"
-    },
-    {
-      "company": "NinjaOne",
-      "title": "C++ Software Engineer | Endpoint State & Control)",
-      "source": "Built In",
-      "at": "2026-09-10T22:26:13.998897+00:00"
-    },
-    {
-      "company": "NinjaOne",
-      "title": "Senior Software Engineer, C++ | Endpoint State & Control",
-      "source": "Built In",
-      "at": "2026-09-10T22:26:13.998897+00:00"
     }
   ],
   "totals": {
     "day": "2026-09-28",
-    "addedToday": 0,
-    "cyclesToday": 2
+    "addedToday": 3,
+    "cyclesToday": 3
   }
 }

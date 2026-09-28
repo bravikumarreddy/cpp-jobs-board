@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26",
+  "lastUpdated": "2026-09-28",
   "lastChecked": "2026-09-26",
   "seedVersion": 2,
   "liveTrackers": [
@@ -3032,29 +3032,6 @@
           "postedAtUtc": "2026-08-02T16:15:10.411363+00:00"
         },
         {
-          "id": "li-zoox-senior-software-engineer-c-gpu-performan-2026-w32",
-          "company": "Zoox",
-          "title": "Senior Software Engineer - C++ GPU Performance",
-          "location": "Foster City, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Zoox is building the world's most advanced self-driving hardware and software solution. The efficiency demands of such a system require an expert fine tuning of both the\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-gpu-performance-at-zoox-4403118199",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "6 hours ago",
-          "h1bFit": "Yes \u2014 Zoox (Amazon) sponsors; JD clean (verify per-role)",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4403118199",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-03T10:21:19.869544+00:00"
-        },
-        {
           "id": "aptos-labs-senior-software-engineer-trading-infrastructure-2026-w32",
           "company": "Aptos Labs",
           "title": "Senior Software Engineer, Trading Infrastructure",
@@ -3462,28 +3439,6 @@
           "postedAtUtc": "2026-08-05T16:57:41-04:00",
           "atsJobId": "6135687004",
           "externalId": "greenhouse:6135687004",
-          "region": "Central",
-          "regionRank": 3
-        },
-        {
-          "id": "li-hp-c-engineer-computer-vision-embedded-syst-2026-w32",
-          "company": "HP",
-          "title": "C++ Engineer (Computer Vision/Embedded Systems)",
-          "location": "Austin, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Description - Job Summary The C++ Engineer (Computer Vision/Embedded Systems) will help build and maintain a cross-platform computer vision stack used in embedded and\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-computer-vision-embedded-systems-at-hp-4449930377",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "29 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4449930377",
           "region": "Central",
           "regionRank": 3
         },
@@ -4732,28 +4687,6 @@
           "regionRank": 3
         },
         {
-          "id": "li-kalpa-group-c-engineer-2026-w35",
-          "company": "Kalpa Group",
-          "title": "C++ Engineer",
-          "location": "New York, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 53 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-at-kalpa-group-4458075770",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "53 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4458075770",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-garmin-senior-c-software-engineer-2026-w35",
           "company": "Garmin",
           "title": "Senior C++ Software Engineer",
@@ -4778,28 +4711,6 @@
           "postedAtUtc": "2026-08-28T00:39:31.914622+00:00"
         },
         {
-          "id": "li-cyngn-c-platform-integration-engineer-2026-w35",
-          "company": "Cyngn",
-          "title": "C++ Platform Integration Engineer",
-          "location": "Mountain View, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 17 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-platform-integration-engineer-at-cyngn-4433022204",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "17 minutes ago",
-          "h1bFit": "Confirm \u2014 JD silent; small AV company (Cyngn)",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4433022204",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
           "id": "riot-games-staff-software-engineer-build-services-teamfight-tactics-2026-w35",
           "company": "Riot Games",
           "title": "Staff Software Engineer, Build Services - Teamfight Tactics",
@@ -4822,28 +4733,6 @@
           "atsJobId": "8163299",
           "region": "West",
           "regionRank": 5
-        },
-        {
-          "id": "li-zodiac-solutions-inc-c-developer-onsite-o-fallon-mo-2026-w35",
-          "company": "Zodiac Solutions, Inc",
-          "title": "C++ Developer onsite ( O'Fallon, MO)",
-          "location": "O'Fallon, MO",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 53 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-onsite-o-fallon-mo-at-zodiac-solutions-inc-4458469124",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "53 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4458469124",
-          "region": "Central",
-          "regionRank": 3
         },
         {
           "id": "li-arizona-small-business-association-asba-windows-software-engineer-c-c-2026-w35",
@@ -5884,28 +5773,6 @@
           "regionRank": 2
         },
         {
-          "id": "li-saraca-c-linux-software-developer-fmri-2026-w37",
-          "company": "SARACA",
-          "title": "C++ Linux Software Developer \u2013 FMRI",
-          "location": "Waukesha, WI",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 41 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-linux-software-developer-%E2%80%93-fmri-at-saraca-4463931309",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "41 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4463931309",
-          "region": "Central",
-          "regionRank": 3
-        },
-        {
           "id": "li-lean-it-inc-senior-embedded-c-software-engineer-7-ye-2026-w37",
           "company": "Lean IT Inc.",
           "title": "Senior Embedded C++ Software Engineer(7+ Years)",
@@ -6097,29 +5964,6 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-09-14T12:02:15.665899+00:00"
-        },
-        {
-          "id": "li-entegee-senior-c-11-control-systems-software-eng-2026-w38",
-          "company": "Entegee",
-          "title": "Senior C++11 Control Systems Software Engineer (Multi-threading)",
-          "location": "Atkinson, NH",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B11-control-systems-software-engineer-multi-threading-at-entegee-4465209293",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4465209293",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-09-14T15:02:15.665899+00:00"
         },
         {
           "id": "li-mps-group-llc-senior-c-engineer-l1-2026-w38",
@@ -6338,28 +6182,6 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-09-15T17:24:18.643541+00:00"
-        },
-        {
-          "id": "li-applab-systems-inc-remote-role-rust-engineer-c-remote-locat-2026-w38",
-          "company": "AppLab Systems, Inc",
-          "title": "Remote role : Rust Engineer/C++ - Remote Location: United States",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 8 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/remote-role-rust-engineer-c%2B%2B-remote-location-united-states-at-applab-systems-inc-4465911846",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "8 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4465911846",
-          "region": "Remote",
-          "regionRank": 2
         },
         {
           "id": "li-cloud-security-web-c-developer-w2-only-2026-w38",
@@ -8225,6 +8047,57 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-09-26T20:24:29.714178+00:00"
+        }
+      ]
+    },
+    {
+      "weekId": "2026-W40",
+      "label": "Week of September 28, 2026",
+      "jobs": [
+        {
+          "id": "mathworks-mathworks-associate-technical-writer-engineering-development-group-2026-w40",
+          "postedAtUtc": "2026-09-28T14:50:49.460997+00:00",
+          "company": "MathWorks",
+          "title": "Associate Technical Writer - Engineering Development Group",
+          "location": "Natick, MA",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (MathWorks (careers search)): posted just now. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.mathworks.com/company/jobs/opportunities/28398-associate-technical-writer-engineering-development-group",
+          "source": "MathWorks (careers search)",
+          "postedApprox": "just now",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-njf-global-holdings-ltd-senior-software-engineer-c-2026-w40",
+          "company": "NJF Global Holdings Ltd",
+          "title": "Senior Software Engineer - C++",
+          "location": "New York City Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-at-njf-global-holdings-ltd-4472719871",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4472719871",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-28T12:52:48.212524+00:00"
         }
       ]
     }
