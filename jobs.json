@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-09-28",
-  "lastChecked": "2026-09-26",
+  "lastChecked": "2026-09-28",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -8098,6 +8098,56 @@
           "externalId": "linkedin:4472757009",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "cerebras-ml-runtime-and-kernel-engineer-core-ml-2026-w40",
+          "company": "Cerebras",
+          "title": "ML Runtime and Kernel Engineer - Core ML",
+          "location": "Sunnyvale, CA",
+          "remote": "Onsite/Hybrid",
+          "industry": "Software Engineering ",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 99.0/100. Direct Ashby ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Python"
+          ],
+          "url": "https://jobs.ashbyhq.com/cerebras/d6df4a44-a05f-4fac-b012-6d2e8bb981f6",
+          "source": "Ashby API (live)",
+          "postedApprox": "Today (0h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 99.0,
+          "postedAtUtc": "2026-09-28T17:29:09.793000+00:00",
+          "atsJobId": "d6df4a44-a05f-4fac-b012-6d2e8bb981f6",
+          "externalId": "ashby:d6df4a44-a05f-4fac-b012-6d2e8bb981f6",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "cerebras-ml-algorithm-mapping-and-performance-engineer-core-ml-2026-w40",
+          "company": "Cerebras",
+          "title": "ML Algorithm Mapping and Performance Engineer, Core ML",
+          "location": "Sunnyvale, CA",
+          "remote": "Onsite/Hybrid",
+          "industry": "Software Engineering ",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 99.0/100. Direct Ashby ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Python"
+          ],
+          "url": "https://jobs.ashbyhq.com/cerebras/fe581188-2bc1-4fce-856d-2df0936a7f56",
+          "source": "Ashby API (live)",
+          "postedApprox": "Today (0h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 99.0,
+          "postedAtUtc": "2026-09-28T17:32:51.740000+00:00",
+          "atsJobId": "fe581188-2bc1-4fce-856d-2df0936a7f56",
+          "externalId": "ashby:fe581188-2bc1-4fce-856d-2df0936a7f56",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
