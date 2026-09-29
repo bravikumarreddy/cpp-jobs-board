@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-28",
-  "lastChecked": "2026-09-28",
+  "lastUpdated": "2026-09-29",
+  "lastChecked": "2026-09-29",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -8125,6 +8125,52 @@
           "externalId": "linkedin:4471569162",
           "region": "Remote",
           "regionRank": 2
+        },
+        {
+          "id": "li-spacexai-software-engineer-network-c-2026-w40",
+          "company": "SpaceXAI",
+          "title": "Software Engineer - Network (C++)",
+          "location": "Seattle, WA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 19 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-network-c%2B%2B-at-spacexai-4436419135",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "19 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4436419135",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-28T18:03:01.731666+00:00"
+        },
+        {
+          "id": "li-cyngn-c-platform-integration-engineer-2026-w40",
+          "company": "Cyngn",
+          "title": "C++ Platform Integration Engineer",
+          "location": "Mountain View, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-platform-integration-engineer-at-cyngn-4471590424",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4471590424",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-29T09:03:01.731666+00:00"
         }
       ]
     }
