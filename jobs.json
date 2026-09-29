@@ -2554,29 +2554,6 @@
           "regionRank": 3
         },
         {
-          "id": "li-x-the-moonshot-factory-software-engineer-edge-systems-runtime-c-2026-w31",
-          "company": "X, The Moonshot Factory",
-          "title": "Software Engineer, Edge Systems & Runtime (C++), Materra",
-          "location": "Mountain View, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "About The Team Materra is on a mission to radically reduce global waste and move to a true circular economy. The team has developed technology that identifies waste material\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-edge-systems-runtime-c%2B%2B-materra-at-x-the-moonshot-factory-4444582614",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "4 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4444582614",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-07-30T12:39:51.327814+00:00"
-        },
-        {
           "id": "li-garmin-senior-c-engineer-maps-platform-2026-w31",
           "company": "Garmin",
           "title": "Senior C++ Engineer - Maps Platform",
@@ -2598,28 +2575,6 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-07-30T12:10:31.725673+00:00"
-        },
-        {
-          "id": "li-bloomberg-senior-software-engineer-office-apps-c-2026-w31",
-          "company": "Bloomberg",
-          "title": "Senior Software Engineer - Office Apps C++",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Location New York Business Area Engineering and CTO Ref # 10052083 Description & Requirements Bloomberg\u2019s Office Apps team delivers Bloomberg\u2019s real-time market data,\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-office-apps-c%2B%2B-at-bloomberg-4428031106",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "24 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4428031106",
-          "region": "East",
-          "regionRank": 1
         },
         {
           "id": "samsara-senior-software-engineer-ii-2026-w31",
@@ -8171,6 +8126,52 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-09-29T09:03:01.731666+00:00"
+        },
+        {
+          "id": "li-venture-search-c-developer-trading-2026-w40",
+          "company": "Venture Search",
+          "title": "C++ Developer (Trading)",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 3 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-trading-at-venture-search-4471714423",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "3 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4471714423",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-09-29T11:08:56.097878+00:00"
+        },
+        {
+          "id": "li-programmers-io-c-storage-developer-embedded-engineer-nv-2026-w40",
+          "company": "Programmers.io",
+          "title": "C++ Storage Developer/Embedded Engineer/NVMe Storage Engineer",
+          "location": "Redmond, WA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 13 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-storage-developer-embedded-engineer-nvme-storage-engineer-at-programmers-io-4471575558",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "13 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4471575558",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-09-29T01:08:56.097878+00:00"
         }
       ]
     }
