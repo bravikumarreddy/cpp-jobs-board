@@ -8172,6 +8172,29 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-09-29T01:08:56.097878+00:00"
+        },
+        {
+          "id": "li-ktek-resourcing-c-storage-developer-2026-w40",
+          "company": "KTek Resourcing",
+          "title": "C++ Storage Developer",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-storage-developer-at-ktek-resourcing-4471724986",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4471724986",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-09-29T14:11:45.554802+00:00"
         }
       ]
     }
