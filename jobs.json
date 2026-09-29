@@ -8218,6 +8218,28 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-09-29T00:18:02.976438+00:00"
+        },
+        {
+          "id": "li-technika-search-sr-embedded-software-engineer-5g-nr-c-2026-w40",
+          "company": "Technika Search",
+          "title": "Sr. Embedded Software Engineer - 5G NR, C++",
+          "location": "San Diego, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-embedded-software-engineer-5g-nr-c%2B%2B-at-technika-search-4473506534",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4473506534",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
