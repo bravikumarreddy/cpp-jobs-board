@@ -2439,28 +2439,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-balyasny-asset-management-l-p-senior-low-latency-c-developer-2026-w31",
-          "company": "Balyasny Asset Management L.P.",
-          "title": "Senior Low Latency C++ Developer",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "We are seeking highly skilled C++ engineers to join our Systematic technology team, focused on building modern low latency, high availability research, and trading\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-low-latency-c%2B%2B-developer-at-balyasny-asset-management-l-p-4446032868",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "8 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4446032868",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-roblox-senior-software-engineer-client-systems--2026-w31",
           "company": "Roblox",
           "title": "Senior Software Engineer, Client Systems (C++)",
