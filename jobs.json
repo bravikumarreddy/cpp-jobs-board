@@ -8285,6 +8285,28 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-09-30T06:51:48.765185+00:00"
+        },
+        {
+          "id": "li-attis-sdr-rf-software-engineer-c-radios-python-2026-w40",
+          "company": "Attis",
+          "title": "SDR/RF Software Engineer (C++/Radios/Python/Docker) - Up to $210K + equity",
+          "location": "Los Angeles Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 37 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sdr-rf-software-engineer-c%2B%2B-radios-python-docker-up-to-%24210k-%2B-equity-at-attis-4473746944",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "37 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4473746944",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
