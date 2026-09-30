@@ -3613,29 +3613,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-wolverine-trading-c-software-engineer-latency-critical-sys-2026-w32",
-          "company": "Wolverine Trading",
-          "title": "C++ Software Engineer \u2013 Latency-Critical Systems",
-          "location": "Chicago, IL",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-%E2%80%93-latency-critical-systems-at-wolverine-trading-4404220126",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4404220126",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-08-07T13:13:16.518711+00:00"
-        },
-        {
           "id": "li-voltforce-senior-staff-software-engineer-c-2026-w32",
           "company": "VoltForce",
           "title": "Senior/Staff Software Engineer - C++",
