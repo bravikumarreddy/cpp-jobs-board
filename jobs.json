@@ -8284,6 +8284,29 @@
           "externalId": "linkedin:4473746944",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-ari-embedded-software-engineer-perception-sy-2026-w40",
+          "company": "ARi",
+          "title": "Embedded Software Engineer \u2013 Perception Systems (C++/Linux)",
+          "location": "Peoria Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "ARi is a fast-growing global engineering firm headquartered in East Peoria, IL, USA. Our power of \u0093i\u0094 represents the innovation, intelligence, ingenuity, and insight that\u2026",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-%E2%80%93-perception-systems-c%2B%2B-linux-at-ari-4437713557",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4437713557",
+          "region": "Other",
+          "regionRank": 6,
+          "postedAtUtc": "2026-09-30T12:56:22.177318+00:00"
         }
       ]
     }
