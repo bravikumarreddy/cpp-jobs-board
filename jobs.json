@@ -8351,6 +8351,28 @@
           "externalId": "linkedin:4473903919",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-okaya-infocom-c-c-developer-stl-o-fallon-mo-full-time-2026-w40",
+          "company": "OKAYA INFOCOM",
+          "title": "C , C++ Developer / STL--O Fallon, MO--Full Time",
+          "location": "O'Fallon, MO",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 52 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-developer-stl-o-fallon-mo-full-time-at-okaya-infocom-4473928223",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "52 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4473928223",
+          "region": "Central",
+          "regionRank": 3
         }
       ]
     }
