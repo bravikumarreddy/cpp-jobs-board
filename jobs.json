@@ -8240,6 +8240,29 @@
           "externalId": "linkedin:4473506534",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-rockwell-automation-senior-software-engineer-c-2026-w40",
+          "company": "Rockwell Automation",
+          "title": "Senior Software Engineer - C++",
+          "location": "Milwaukee, WI",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-at-rockwell-automation-4473545742",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4473545742",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-09-29T23:49:35.892158+00:00"
         }
       ]
     }
