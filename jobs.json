@@ -8373,6 +8373,51 @@
           "externalId": "linkedin:4473928223",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "li-taskverse-c-developer-2026-w40",
+          "company": "TaskVerse",
+          "title": "C++ Developer",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 36 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-taskverse-4473940091",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "36 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4473940091",
+          "region": "Remote",
+          "regionRank": 2
+        },
+        {
+          "id": "li-apptad-c-senior-developer-2026-w40",
+          "company": "Apptad",
+          "title": "C++ Senior Developer",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-senior-developer-at-apptad-4472335344",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4472335344",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-09-30T18:21:37.957271+00:00"
         }
       ]
     }
