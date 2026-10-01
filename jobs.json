@@ -6937,29 +6937,6 @@
           "regionRank": 5
         },
         {
-          "id": "li-oracle-senior-software-engineer-core-infrastruc-2026-w39",
-          "company": "Oracle",
-          "title": "Senior Software Engineer, Core Infrastructure (C++)",
-          "location": "Seattle, WA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 17 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-core-infrastructure-c%2B%2B-at-oracle-4468179285",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "17 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4468179285",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-09-21T23:47:18.401898+00:00"
-        },
-        {
           "id": "snowflake-senior-software-engineer-foundation-db-2026-w39",
           "company": "Snowflake",
           "title": "Senior Software Engineer - Foundation DB",
@@ -8620,6 +8597,57 @@
           "postedAtUtc": "2026-10-01T12:13:37-04:00",
           "atsJobId": "8687664002",
           "externalId": "greenhouse:8687664002",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "oracle-senior-software-engineer-core-infrastructure-c-2026-w40",
+          "company": "Oracle",
+          "title": "Senior Software Engineer,  Core Infrastructure (C++)",
+          "location": "Seattle, WA, United States; Santa Clara, CA, United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "(see description)",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 100.0/100. Direct Oracle ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Distributed systems",
+            "Networking",
+            "Python"
+          ],
+          "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/344240",
+          "source": "Oracle API (live)",
+          "postedApprox": "Today (0h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 100.0,
+          "postedAtUtc": "2026-10-01T19:14:21+00:00",
+          "atsJobId": "344240",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "stack-av-staff-software-engineer-ml-training-infrastructure-2026-w40",
+          "company": "Stack AV",
+          "title": "Staff Software Engineer, ML Training Infrastructure",
+          "location": "Pittsburgh, PA or Remote",
+          "remote": "Remote",
+          "industry": "Autonomy",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 89.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Python"
+          ],
+          "url": "https://job-boards.greenhouse.io/stackav/jobs/5254676007",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (0h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 89.0,
+          "postedAtUtc": "2026-10-01T15:55:44-04:00",
+          "atsJobId": "5254676007",
+          "externalId": "greenhouse:5254676007",
           "region": "East",
           "regionRank": 1
         }
