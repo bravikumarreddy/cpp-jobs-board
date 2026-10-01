@@ -8521,6 +8521,81 @@
           "atsJobId": "71808",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "qumulo-senior-member-of-technical-staff-2026-w40",
+          "company": "Qumulo",
+          "title": "Senior Member of Technical Staff",
+          "location": "Seattle (hybrid)",
+          "remote": "Onsite/Hybrid",
+          "industry": "Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 89.0/100. Direct Ashby ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Rust",
+            "Go"
+          ],
+          "url": "https://jobs.ashbyhq.com/qumulo/92fe1c10-7bc1-4388-a039-df1ce54d7ec3",
+          "source": "Ashby API (live)",
+          "postedApprox": "Today (0h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 89.0,
+          "postedAtUtc": "2026-10-01T15:28:08.528000+00:00",
+          "atsJobId": "92fe1c10-7bc1-4388-a039-df1ce54d7ec3",
+          "externalId": "ashby:92fe1c10-7bc1-4388-a039-df1ce54d7ec3",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "nokia-5g-gnb-layer-2-and-layer-3-developer-2026-w40",
+          "company": "Nokia",
+          "title": "5G gNB Layer 2 and Layer 3 Developer",
+          "location": "Dallas, Texas, United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "(see description)",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 85.0/100. Direct Oracle ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "Networking"
+          ],
+          "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30607",
+          "source": "Oracle API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 85.0,
+          "postedAtUtc": "2026-10-01T14:19:27+00:00",
+          "atsJobId": "30607",
+          "region": "Central",
+          "regionRank": 3
+        },
+        {
+          "id": "nokia-5g-gnb-phy-developer-2026-w40",
+          "company": "Nokia",
+          "title": "5G gNB PHY Developer",
+          "location": "Plano, Texas, United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "(see description)",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 85.0/100. Direct Oracle ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Python"
+          ],
+          "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37765",
+          "source": "Oracle API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 85.0,
+          "postedAtUtc": "2026-10-01T14:08:29+00:00",
+          "atsJobId": "37765",
+          "region": "Central",
+          "regionRank": 3
         }
       ]
     }
