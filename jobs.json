@@ -8514,6 +8514,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-09-30T20:32:16.639151+00:00"
+        },
+        {
+          "id": "li-saragossa-trading-systems-tech-lead-c-proprietary--2026-w40",
+          "company": "Saragossa",
+          "title": "Trading Systems Tech Lead C++ - Proprietary Trading - $1.5 Million Total Compensation",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/trading-systems-tech-lead-c%2B%2B-proprietary-trading-%241-5-million-total-compensation-at-saragossa-4472916659",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4472916659",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-10-01T11:13:52.220654+00:00"
         }
       ]
     }
