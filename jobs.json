@@ -8468,6 +8468,29 @@
           "atsJobId": "8226958",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-metasys-technologies-o-ran-5g-c-software-engineer-2026-w40",
+          "company": "Metasys Technologies",
+          "title": "O-RAN/ 5G C++ Software Engineer",
+          "location": "Rome, NY",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/o-ran-5g-c%2B%2B-software-engineer-at-metasys-technologies-4472336588",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4472336588",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-09-30T19:03:58.441854+00:00"
         }
       ]
     }
