@@ -8638,6 +8638,29 @@
           "externalId": "linkedin:4474774376",
           "region": "Remote",
           "regionRank": 2
+        },
+        {
+          "id": "built-csi-software-engineer-iii-c-2026-w40",
+          "postedAtUtc": "2026-10-02T00:00:00.008232+00:00",
+          "company": "CSI",
+          "title": "Software Engineer III (C++)",
+          "location": "United States (remote)",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 16 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinnyc.com/job/software-engineer-iii/10457770",
+          "source": "Built In",
+          "postedApprox": "16 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:10457770",
+          "region": "Remote",
+          "regionRank": 2
         }
       ]
     }
