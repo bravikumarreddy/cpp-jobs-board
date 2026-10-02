@@ -8710,6 +8710,29 @@
           "externalId": "greenhouse:8249611",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-digitive-c-distributed-systems-engineer-2026-w40",
+          "company": "Digitive",
+          "title": "C++ Distributed Systems Engineer",
+          "location": "Mountain View, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 21 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-distributed-systems-engineer-at-digitive-4474515485",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "21 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4474515485",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-10-01T20:31:48.602548+00:00"
         }
       ]
     }
