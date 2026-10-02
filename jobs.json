@@ -8698,6 +8698,28 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-10-01T23:16:53.019577+00:00"
+        },
+        {
+          "id": "himalayas-private-identity-principal-c-engineer-2026-w40",
+          "postedAtUtc": "2026-10-02T08:38:04.008688+00:00",
+          "company": "Private Identity",
+          "title": "Principal C++ Engineer",
+          "location": "Remote (US)",
+          "remote": "Remote (US)",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Himalayas): posted just now. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://himalayas.app/companies/private-identity/jobs/principal-c-engineer",
+          "source": "Himalayas",
+          "postedApprox": "just now",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "region": "Remote",
+          "regionRank": 2
         }
       ]
     }
