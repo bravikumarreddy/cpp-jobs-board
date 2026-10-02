@@ -1754,27 +1754,6 @@
           "h1bFit": ""
         },
         {
-          "id": "may-mobility-lead-machine-learning-engineer-remote-usa",
-          "company": "May Mobility",
-          "title": "Lead Machine Learning Engineer",
-          "location": "Remote, USA",
-          "remote": "Remote",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-04-29.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/maymobility/jobs/8528636002",
-          "source": "Employer ATS (live)",
-          "postedApprox": "open since 2026-04-29",
-          "region": "Remote",
-          "externalId": "greenhouse:8528636002",
-          "regionRank": 2,
-          "yoeNote": "",
-          "h1bFit": ""
-        },
-        {
           "id": "may-mobility-lead-vehicle-controls-and-interface-engineer-ann-arbor-mi",
           "company": "May Mobility",
           "title": "Lead Vehicle Controls and Interface Engineer",
@@ -1817,69 +1796,6 @@
           "h1bFit": ""
         },
         {
-          "id": "may-mobility-robotics-engineer-ii-ann-arbor-mi",
-          "company": "May Mobility",
-          "title": "Robotics Engineer II",
-          "location": "Ann Arbor, MI",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-04-29.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/maymobility/jobs/8502427002",
-          "source": "Employer ATS (live)",
-          "postedApprox": "open since 2026-04-29",
-          "region": "East",
-          "externalId": "greenhouse:8502427002",
-          "regionRank": 1,
-          "yoeNote": "",
-          "h1bFit": ""
-        },
-        {
-          "id": "may-mobility-senior-autonomy-applications-engineer-ann-arbor-mi",
-          "company": "May Mobility",
-          "title": "Senior Autonomy Applications Engineer",
-          "location": "Ann Arbor, MI",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-05-28.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/maymobility/jobs/8561454002",
-          "source": "Employer ATS (live)",
-          "postedApprox": "open since 2026-05-28",
-          "region": "East",
-          "externalId": "greenhouse:8561454002",
-          "regionRank": 1,
-          "yoeNote": "",
-          "h1bFit": ""
-        },
-        {
-          "id": "may-mobility-senior-autonomy-engineer-ann-arbor-mi",
-          "company": "May Mobility",
-          "title": "Senior Autonomy Engineer",
-          "location": "Ann Arbor, MI",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-07-01.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/maymobility/jobs/8611992002",
-          "source": "Employer ATS (live)",
-          "postedApprox": "open since 2026-07-01",
-          "region": "East",
-          "externalId": "greenhouse:8611992002",
-          "regionRank": 1,
-          "yoeNote": "",
-          "h1bFit": ""
-        },
-        {
           "id": "may-mobility-senior-autonomy-engineer-integration-ann-arbor-mi",
           "company": "May Mobility",
           "title": "Senior Autonomy Engineer, Integration",
@@ -1896,48 +1812,6 @@
           "postedApprox": "open since 2026-07-13",
           "region": "East",
           "externalId": "greenhouse:8605750002",
-          "regionRank": 1,
-          "yoeNote": "",
-          "h1bFit": ""
-        },
-        {
-          "id": "may-mobility-senior-autonomy-release-engineer-ii-ann-arbor-mi",
-          "company": "May Mobility",
-          "title": "Senior Autonomy Release Engineer II",
-          "location": "Ann Arbor, MI",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-03-25.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/maymobility/jobs/8465980002",
-          "source": "Employer ATS (live)",
-          "postedApprox": "open since 2026-03-25",
-          "region": "East",
-          "externalId": "greenhouse:8465980002",
-          "regionRank": 1,
-          "yoeNote": "",
-          "h1bFit": ""
-        },
-        {
-          "id": "may-mobility-senior-ml-engineer-mapping-ann-arbor-mi",
-          "company": "May Mobility",
-          "title": "Senior ML Engineer - Mapping",
-          "location": "Ann Arbor, MI",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Employer ATS board (deep sweep 2): live posting, since 2026-06-04.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/maymobility/jobs/8502303002",
-          "source": "Employer ATS (live)",
-          "postedApprox": "open since 2026-06-04",
-          "region": "East",
-          "externalId": "greenhouse:8502303002",
           "regionRank": 1,
           "yoeNote": "",
           "h1bFit": ""
@@ -8715,6 +8589,28 @@
           "url": "https://himalayas.app/companies/private-identity/jobs/principal-c-engineer",
           "source": "Himalayas",
           "postedApprox": "just now",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "region": "Remote",
+          "regionRank": 2
+        },
+        {
+          "id": "himalayas-techchain-talent-senior-software-engineer-c-2026-w40",
+          "postedAtUtc": "2026-10-02T11:18:32.002727+00:00",
+          "company": "TechChain Talent",
+          "title": "Senior Software Engineer, C++",
+          "location": "United States",
+          "remote": "Remote (US)",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Himalayas): posted 1 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://himalayas.app/companies/techchain-talent/jobs/senior-software-engineer-c",
+          "source": "Himalayas",
+          "postedApprox": "1 hours ago",
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
           "yoeNote": "Auto-tracked \u2014 apply filters in your head",
