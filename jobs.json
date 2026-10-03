@@ -8731,6 +8731,29 @@
           "yoeNote": "Auto-tracked \u2014 apply filters in your head",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-saragossa-c-trading-tech-lead-nyc-philly-1m-comp-2026-w40",
+          "company": "Saragossa",
+          "title": "C++ Trading Tech Lead - NYC/Philly - $1M+ Comp",
+          "location": "New York City Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 days ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-trading-tech-lead-nyc-philly-%241m%2B-comp-at-saragossa-4472944257",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4472944257",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-10-01T16:03:57.501092+00:00"
         }
       ]
     }
