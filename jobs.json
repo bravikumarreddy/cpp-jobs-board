@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-02",
-  "lastChecked": "2026-10-02",
+  "lastUpdated": "2026-10-05",
+  "lastChecked": "2026-10-05",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -1439,27 +1439,6 @@
           "h1bFit": ""
         },
         {
-          "id": "drw-software-engineer-market-data-cumberland-new-york-city",
-          "company": "DRW",
-          "title": "Software Engineer, Market Data - Cumberland",
-          "location": "New York City",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-01-26.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/drweng/jobs/7563830",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2026-01-26",
-          "region": "East",
-          "externalId": "greenhouse:7563830",
-          "regionRank": 1,
-          "yoeNote": "",
-          "h1bFit": ""
-        },
-        {
           "id": "drw-senior-software-engineer-c-ficco-data-new-york-city",
           "company": "DRW",
           "title": "Senior Software Engineer, C/FICCO Data",
@@ -1537,48 +1516,6 @@
           "postedApprox": "open since 2026-01-02",
           "region": "Central",
           "regionRank": 3,
-          "yoeNote": "",
-          "h1bFit": ""
-        },
-        {
-          "id": "imc-trading-hardware-machine-learning-engineer-chicago-united-states",
-          "company": "IMC Trading",
-          "title": "Hardware Machine Learning Engineer",
-          "location": "Chicago, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-02-13.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4713602101",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2026-02-13",
-          "region": "Central",
-          "externalId": "greenhouse:4713602101",
-          "regionRank": 3,
-          "yoeNote": "",
-          "h1bFit": ""
-        },
-        {
-          "id": "imc-trading-quantitative-developer-new-york-united-states",
-          "company": "IMC Trading",
-          "title": "Quantitative Developer",
-          "location": "New York, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Greenhouse live board (deep sweep): still open, listed since 2026-02-09.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4778139101",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "open since 2026-02-09",
-          "region": "East",
-          "externalId": "greenhouse:4778139101",
-          "regionRank": 1,
           "yoeNote": "",
           "h1bFit": ""
         },
@@ -1707,27 +1644,6 @@
           "postedApprox": "open since 2024-11-07",
           "region": "East",
           "externalId": "greenhouse:598228",
-          "regionRank": 1,
-          "yoeNote": "",
-          "h1bFit": ""
-        },
-        {
-          "id": "five-rings-experienced-lateral-software-developer-new-york",
-          "company": "Five Rings",
-          "title": "Experienced/Lateral - Software Developer",
-          "location": "New York",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Employer ATS board (deep sweep 2): live posting, since 2024-03-14.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4006376008",
-          "source": "Employer ATS (live)",
-          "postedApprox": "open since 2024-03-14",
-          "region": "East",
-          "externalId": "greenhouse:4006376008",
           "regionRank": 1,
           "yoeNote": "",
           "h1bFit": ""
@@ -4868,32 +4784,6 @@
           "postedAtUtc": "2026-09-04T12:32:07.675049+00:00"
         },
         {
-          "id": "pure-storage-principal-software-engineer-hyperscale-build-platform-and-tools-2026-w36",
-          "company": "Pure Storage",
-          "title": "Principal Software Engineer, HyperScale Build Platform and Tools",
-          "location": "Santa Clara, California",
-          "remote": "Onsite/Hybrid",
-          "industry": "Engineering",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 99.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Linux",
-            "CMake"
-          ],
-          "url": "https://job-boards.greenhouse.io/purestorage/jobs/8162645",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (0h ago)",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 99.0,
-          "postedAtUtc": "2026-09-04T15:21:26-04:00",
-          "atsJobId": "8162645",
-          "externalId": "greenhouse:8162645",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
           "id": "built-citadel-global-quantitative-strategies-c-quantitative-research-engin-2026-w36",
           "postedAtUtc": "2026-09-05T00:00:00.000897+00:00",
           "company": "Citadel",
@@ -7196,32 +7086,6 @@
           "postedAtUtc": "2026-09-23T15:36:36.424273+00:00"
         },
         {
-          "id": "pure-storage-systems-software-engineer-2026-w39",
-          "company": "Pure Storage",
-          "title": "Systems Software Engineer",
-          "location": "Santa Clara, California",
-          "remote": "Onsite/Hybrid",
-          "industry": "Engineering",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (3h ago). Callback score 99.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Distributed systems",
-            "Python"
-          ],
-          "url": "https://job-boards.greenhouse.io/purestorage/jobs/8220346",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (3h ago)",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 99.0,
-          "postedAtUtc": "2026-09-23T16:42:57-04:00",
-          "atsJobId": "8220346",
-          "externalId": "greenhouse:8220346",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
           "id": "together-ai-staff-software-engineer-ai-compute-together-cloud-2026-w39",
           "company": "Together AI",
           "title": "Staff Software Engineer - AI Compute, Together Cloud",
@@ -8477,31 +8341,6 @@
           "externalId": "greenhouse:5254676007",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "yugabyte-software-engineer-ii-2026-w40",
-          "company": "Yugabyte",
-          "title": "Software Engineer II",
-          "location": "Sunnyvale, CA",
-          "remote": "Onsite/Hybrid",
-          "industry": "Technology",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (3h ago). Callback score 89.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Distributed systems"
-          ],
-          "url": "https://job-boards.greenhouse.io/yugabyte/jobs/4683621006",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (3h ago)",
-          "h1bFit": "Uncertain",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 89.0,
-          "postedAtUtc": "2026-10-01T16:14:42-04:00",
-          "atsJobId": "4683621006",
-          "externalId": "greenhouse:4683621006",
-          "region": "West",
-          "regionRank": 5
         },
         {
           "id": "li-sirenopt-senior-staff-software-engineer-c-2026-w40",
