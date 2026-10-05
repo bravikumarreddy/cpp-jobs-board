@@ -8714,6 +8714,73 @@
           "region": "Remote",
           "regionRank": 2,
           "postedAtUtc": "2026-10-05T12:39:35.395588+00:00"
+        },
+        {
+          "id": "li-programmers-io-c-c-storage-developer-ssd-hdd-nvme-2026-w41",
+          "company": "Programmers.io",
+          "title": "C/C++ Storage Developer (SSD/HDD/NVMe)",
+          "location": "Redmond, WA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 18 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-storage-developer-ssd-hdd-nvme-at-programmers-io-4474630094",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "18 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4474630094",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "li-shrive-technologies-senior-software-engineers-c-and-distribu-2026-w41",
+          "company": "Shrive Technologies",
+          "title": "Senior Software Engineers C++ and Distributed Systems",
+          "location": "San Jose, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 32 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineers-c%2B%2B-and-distributed-systems-at-shrive-technologies-4475860270",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "32 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4475860270",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "li-spacexai-software-engineer-linux-kernel-c-c-2026-w41",
+          "company": "SpaceXAI",
+          "title": "Software Engineer - Linux Kernel (C++, C)",
+          "location": "Bellevue, WA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-linux-kernel-c%2B%2B-c-at-spacexai-4475817263",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4475817263",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-10-05T15:48:15.713850+00:00"
         }
       ]
     }
