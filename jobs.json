@@ -8691,6 +8691,29 @@
           "externalId": "linkedin:4475832089",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-torentify-software-engineer-c-wfh-2026-w41",
+          "company": "Torentify",
+          "title": "Software Engineer, C++ - WFH",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-wfh-at-torentify-4475582093",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "5 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4475582093",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-10-05T12:39:35.395588+00:00"
         }
       ]
     }
