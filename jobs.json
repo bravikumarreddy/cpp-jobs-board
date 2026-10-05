@@ -8669,6 +8669,28 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-10-05T08:30:04.796753+00:00"
+        },
+        {
+          "id": "li-global-business-ser-4u-c-engineer-2026-w41",
+          "company": "Global Business Ser. 4u",
+          "title": "C++ Engineer",
+          "location": "Fort Lauderdale, FL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-at-global-business-ser-4u-4475832089",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4475832089",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
