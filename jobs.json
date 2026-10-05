@@ -8780,6 +8780,58 @@
           "postedAtUtc": "2026-10-03T23:33:43.823582+00:00"
         }
       ]
+    },
+    {
+      "weekId": "2026-W41",
+      "label": "Week of October 05, 2026",
+      "jobs": [
+        {
+          "id": "li-pentangle-tech-services-p5-group-c-developer-2026-w41",
+          "company": "Pentangle Tech Services | P5 Group",
+          "title": "C++ Developer",
+          "location": "Cleveland, OH",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-developer-at-pentangle-tech-services-p5-group-4473650343",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 hours ago",
+          "h1bFit": "Confirm \u2014 staffing agency posting (no own LCA filings); sponsorship depends on unnamed end client",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4473650343",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-10-05T13:30:04.796753+00:00"
+        },
+        {
+          "id": "li-big-wave-digital-crypto-markets-founding-engineer-python--2026-w41",
+          "company": "Big Wave Digital",
+          "title": "Crypto Markets Founding Engineer (Python, C++, AI/ML) | Palo Alto | Visa Sponsorship | Up to $300K + Equity",
+          "location": "Palo Alto, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/crypto-markets-founding-engineer-python-c%2B%2B-ai-ml-palo-alto-visa-sponsorship-up-to-%24300k-%2B-equity-at-big-wave-digital-4474252564",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4474252564",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-10-05T08:30:04.796753+00:00"
+        }
+      ]
     }
   ]
 }
