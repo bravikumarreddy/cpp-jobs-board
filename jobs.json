@@ -8808,6 +8808,84 @@
           "atsJobId": "8005281003",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "pure-storage-software-engineer-grad-2027-2026-w41",
+          "company": "Pure Storage",
+          "title": "Software Engineer Grad 2027",
+          "location": "Santa Clara, California",
+          "remote": "Onsite/Hybrid",
+          "industry": "University",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 99.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249851",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 99.0,
+          "postedAtUtc": "2026-10-06T12:14:27-04:00",
+          "atsJobId": "8249851",
+          "externalId": "greenhouse:8249851",
+          "region": "West",
+          "regionRank": 5
+        },
+        {
+          "id": "efficient-computer-senior-staff-software-engineer-linux-kernel-2026-w41",
+          "company": "Efficient Computer",
+          "title": "Senior Staff Software Engineer, Linux Kernel",
+          "location": "San Francisco, Bay Area OR Pittsburgh, PA",
+          "remote": "Onsite/Hybrid",
+          "industry": "System Software",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 89.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "Networking",
+            "Go"
+          ],
+          "url": "https://job-boards.greenhouse.io/efficientcomputer/jobs/4434739009",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 89.0,
+          "postedAtUtc": "2026-10-06T11:58:43-04:00",
+          "atsJobId": "4434739009",
+          "externalId": "greenhouse:4434739009",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "efficient-computer-senior-staff-software-engineer-linux-runtime-drivers-2026-w41",
+          "company": "Efficient Computer",
+          "title": "Senior Staff Software Engineer, Linux Runtime & Drivers",
+          "location": "San Francisco, Bay Area OR Pittsburgh, PA",
+          "remote": "Onsite/Hybrid",
+          "industry": "System Software",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 89.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "Python"
+          ],
+          "url": "https://job-boards.greenhouse.io/efficientcomputer/jobs/4434742009",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 89.0,
+          "postedAtUtc": "2026-10-06T12:18:28-04:00",
+          "atsJobId": "4434742009",
+          "externalId": "greenhouse:4434742009",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
