@@ -8853,6 +8853,51 @@
           "atsJobId": "346295",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "li-aaa-global-c-engineer-2026-w41",
+          "company": "AAA Global",
+          "title": "C++ Engineer",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 53 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineer-at-aaa-global-4476134626",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "53 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4476134626",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-global-business-ser-4u-embedded-c-and-or-c-2026-w41",
+          "company": "Global Business Ser. 4u",
+          "title": "Embedded \u2018C\u2019 and/or C++",
+          "location": "Mossville, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-%E2%80%98c%E2%80%99-and-or-c%2B%2B-at-global-business-ser-4u-4476128921",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4476128921",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-10-06T04:55:40.986703+00:00"
         }
       ]
     }
