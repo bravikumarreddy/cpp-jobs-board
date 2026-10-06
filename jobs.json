@@ -8933,6 +8933,31 @@
           "externalId": "linkedin:4346141169",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "fastly-staff-software-engineer-compute-platform-2026-w41",
+          "company": "Fastly",
+          "title": "Staff Software Engineer, Compute Platform",
+          "location": "Denver, CO; San Francisco, CA",
+          "remote": "Onsite/Hybrid",
+          "industry": "Compute Engineering",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 99.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Networking",
+            "Rust"
+          ],
+          "url": "https://www.fastly.com/about/jobs/apply?gh_jid=8249951",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 99.0,
+          "postedAtUtc": "2026-10-06T16:37:53-04:00",
+          "atsJobId": "8249951",
+          "region": "Mountain",
+          "regionRank": 4
         }
       ]
     }
