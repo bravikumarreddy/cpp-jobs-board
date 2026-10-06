@@ -8911,6 +8911,28 @@
           "externalId": "greenhouse:5445599008",
           "region": "Mountain",
           "regionRank": 4
+        },
+        {
+          "id": "li-graymatter-robotics-staff-c-architecture-engineer-2026-w41",
+          "company": "GrayMatter Robotics",
+          "title": "Staff C++ Architecture Engineer",
+          "location": "Los Angeles Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 34 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/staff-c%2B%2B-architecture-engineer-at-graymatter-robotics-4346141169",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "34 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4346141169",
+          "region": "West",
+          "regionRank": 5
         }
       ]
     }
