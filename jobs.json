@@ -8805,6 +8805,28 @@
           "atsJobId": "8005283003",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-garmin-sr-c-c-rtos-software-engineer-core-tech--2026-w41",
+          "company": "Garmin",
+          "title": "Sr C/C++/ RTOS Software Engineer - Core Tech Team",
+          "location": "Cary, NC",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 52 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/sr-c-c%2B%2B-rtos-software-engineer-core-tech-team-at-garmin-4476121048",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "52 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4476121048",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
