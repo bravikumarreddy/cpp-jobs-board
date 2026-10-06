@@ -8886,6 +8886,31 @@
           "externalId": "greenhouse:4434742009",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "outrider-hardware-platform-engineer-ii-test-and-reliability-2026-w41",
+          "company": "Outrider",
+          "title": "Hardware Platform Engineer II, Test and Reliability",
+          "location": "Henderson, CO",
+          "remote": "Onsite/Hybrid",
+          "industry": "Hardware",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 89.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Python"
+          ],
+          "url": "https://job-boards.greenhouse.io/outrider/jobs/5445599008",
+          "source": "Greenhouse API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 89.0,
+          "postedAtUtc": "2026-10-06T14:49:34-04:00",
+          "atsJobId": "5445599008",
+          "externalId": "greenhouse:5445599008",
+          "region": "Mountain",
+          "regionRank": 4
         }
       ]
     }
