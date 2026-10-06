@@ -4668,29 +4668,6 @@
           "regionRank": 3
         },
         {
-          "id": "li-shrive-technologies-c-java-and-python-resource-2026-w36",
-          "company": "Shrive Technologies",
-          "title": "C++/ Java and Python Resource",
-          "location": "Texas, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-java-and-python-resource-at-shrive-technologies-4463105541",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4463105541",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-09-03T19:40:25.253754+00:00"
-        },
-        {
           "id": "himalayas-sentinelone-senior-software-engineer-c-linux-cloud-workload-security-2026-w36",
           "postedAtUtc": "2026-09-03T22:55:31.001598+00:00",
           "company": "SentinelOne",
@@ -8512,29 +8489,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-torentify-software-engineer-c-wfh-2026-w41",
-          "company": "Torentify",
-          "title": "Software Engineer, C++ - WFH",
-          "location": "United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-wfh-at-torentify-4475582093",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "5 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4475582093",
-          "region": "Remote",
-          "regionRank": 2,
-          "postedAtUtc": "2026-10-05T12:39:35.395588+00:00"
-        },
-        {
           "id": "li-programmers-io-c-c-storage-developer-ssd-hdd-nvme-2026-w41",
           "company": "Programmers.io",
           "title": "C/C++ Storage Developer (SSD/HDD/NVMe)",
@@ -8600,30 +8554,6 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-10-05T15:48:15.713850+00:00"
-        },
-        {
-          "id": "butterfly-network-staff-software-engineer-android-2026-w41",
-          "company": "Butterfly Network",
-          "title": "Staff Software Engineer, Android",
-          "location": "New York, NY Office",
-          "remote": "Onsite/Hybrid",
-          "industry": "Mobile",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 89.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Python"
-          ],
-          "url": "https://www.butterflynetwork.com/careers?gh_jid=8005283003",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (1h ago)",
-          "h1bFit": "Uncertain",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 89.0,
-          "postedAtUtc": "2026-10-05T15:19:24-04:00",
-          "atsJobId": "8005283003",
-          "region": "East",
-          "regionRank": 1
         },
         {
           "id": "li-garmin-sr-c-c-rtos-software-engineer-core-tech--2026-w41",
