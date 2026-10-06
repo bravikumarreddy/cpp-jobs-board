@@ -8808,6 +8808,28 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-10-06T02:15:37.272634+00:00"
+        },
+        {
+          "id": "li-camber-morris-quantitative-talent-senior-c-quant-developer-macro-2026-w41",
+          "company": "Camber Morris - Quantitative Talent",
+          "title": "Senior C++ Quant Developer, Macro",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 35 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-quant-developer-macro-at-camber-morris-quantitative-talent-4474965292",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "35 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4474965292",
+          "region": "East",
+          "regionRank": 1
         }
       ]
     }
