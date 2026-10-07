@@ -8930,6 +8930,51 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-10-07T05:41:11.570766+00:00"
+        },
+        {
+          "id": "li-aaa-global-senior-c-engineer-2026-w41",
+          "company": "AAA Global",
+          "title": "Senior C++ Engineer",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 22 minutes ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-engineer-at-aaa-global-4476763919",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "22 minutes ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4476763919",
+          "region": "East",
+          "regionRank": 1
+        },
+        {
+          "id": "li-ace-technologies-embedded-software-engineer-c-matlab-and--2026-w41",
+          "company": "Ace Technologies",
+          "title": "Embedded software Engineer (C++, MATLAB and Simulink) (W2 Only)",
+          "location": "Chicago, IL",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-c%2B%2B-matlab-and-simulink-w2-only-at-ace-technologies-4474448444",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 hour ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4474448444",
+          "region": "Central",
+          "regionRank": 3,
+          "postedAtUtc": "2026-10-07T14:49:16.647788+00:00"
         }
       ],
       "removedNotes": [
