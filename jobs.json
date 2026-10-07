@@ -9157,6 +9157,33 @@
           "externalId": "linkedin:4476920767",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "crowdstrike-sr-software-engineer-sensor-linux-remote-2026-w41",
+          "company": "CrowdStrike",
+          "title": "Sr. Software Engineer,  Sensor - Linux (Remote)",
+          "location": "USA - Remote, CA",
+          "remote": "Remote",
+          "industry": "(see description)",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (6h ago). Callback score 90.0/100. Direct Workday ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "Distributed systems",
+            "Networking"
+          ],
+          "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-Software-Engineer---Sensor---Linux--Remote-_R30279",
+          "source": "Workday API (live)",
+          "postedApprox": "Today (6h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 90.0,
+          "postedAtUtc": "2026-10-07T15:43:38.443359+00:00",
+          "atsJobId": "R30279",
+          "externalId": "workday:R30279",
+          "region": "West",
+          "regionRank": 5
         }
       ],
       "removedNotes": [
