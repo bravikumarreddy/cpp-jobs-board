@@ -9066,6 +9066,29 @@
           "atsJobId": "346928",
           "region": "Central",
           "regionRank": 3
+        },
+        {
+          "id": "li-durlston-partners-c-software-engineer-2026-w41",
+          "company": "Durlston Partners",
+          "title": "C++ Software Engineer",
+          "location": "New York, United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 2 days ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-durlston-partners-4473653393",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "2 days ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4473653393",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-10-05T18:31:00.092636+00:00"
         }
       ],
       "removedNotes": [
