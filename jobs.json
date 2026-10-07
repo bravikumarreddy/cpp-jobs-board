@@ -1246,29 +1246,6 @@
           "possibleRepost": "Software Engineer (C++/Java)"
         },
         {
-          "id": "li-mastercard-lead-software-engineer-c-c-2026-w30",
-          "company": "Mastercard",
-          "title": "Lead Software Engineer (C/C++)",
-          "location": "O'Fallon, MO",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Our Purpose Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we\u2019re helping build a sustainable\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/lead-software-engineer-c-c%2B%2B-at-mastercard-4440181613",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "4 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4440181613",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-07-20T21:07:26.624993+00:00"
-        },
-        {
           "id": "built-citadel-securities-c-software-engineer-2026-w30",
           "postedAtUtc": "2026-07-17T00:00:00.000295+00:00",
           "company": "Citadel Securities",
@@ -2006,28 +1983,6 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-07-26T09:53:06.500227+00:00"
-        },
-        {
-          "id": "li-bloomberg-quantitative-developer-c-infrastructure--2026-w30",
-          "company": "Bloomberg",
-          "title": "Quantitative Developer - C++ Infrastructure for Quant Analytics",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Location New York Business Area Product Ref # 10051690 Description & Requirements The Quant Analytics department at Bloomberg sits within Enterprise Products and is\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/quantitative-developer-c%2B%2B-infrastructure-for-quant-analytics-at-bloomberg-4414393623",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "55 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4414393623",
-          "region": "East",
-          "regionRank": 1
         },
         {
           "id": "built-citadel-securities-c-market-data-engineer-2026-w30",
@@ -8786,55 +8741,6 @@
           "regionRank": 5
         },
         {
-          "id": "butterfly-network-staff-software-engineer-ios-2026-w41",
-          "company": "Butterfly Network",
-          "title": "Staff Software Engineer, iOS",
-          "location": "New York, NY Office",
-          "remote": "Onsite/Hybrid",
-          "industry": "Mobile",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (20h ago). Callback score 79.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Python"
-          ],
-          "url": "https://www.butterflynetwork.com/careers?gh_jid=8005281003",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (20h ago)",
-          "h1bFit": "Uncertain",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 79.0,
-          "postedAtUtc": "2026-10-05T15:16:07-04:00",
-          "atsJobId": "8005281003",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
-          "id": "pure-storage-software-engineer-grad-2027-2026-w41",
-          "company": "Pure Storage",
-          "title": "Software Engineer Grad 2027",
-          "location": "Santa Clara, California",
-          "remote": "Onsite/Hybrid",
-          "industry": "University",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 99.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249851",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (1h ago)",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 99.0,
-          "postedAtUtc": "2026-10-06T12:14:27-04:00",
-          "atsJobId": "8249851",
-          "externalId": "greenhouse:8249851",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
           "id": "efficient-computer-senior-staff-software-engineer-linux-kernel-2026-w41",
           "company": "Efficient Computer",
           "title": "Senior Staff Software Engineer, Linux Kernel",
@@ -8886,31 +8792,6 @@
           "externalId": "greenhouse:4434742009",
           "region": "East",
           "regionRank": 1
-        },
-        {
-          "id": "outrider-hardware-platform-engineer-ii-test-and-reliability-2026-w41",
-          "company": "Outrider",
-          "title": "Hardware Platform Engineer II, Test and Reliability",
-          "location": "Henderson, CO",
-          "remote": "Onsite/Hybrid",
-          "industry": "Hardware",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 89.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Python"
-          ],
-          "url": "https://job-boards.greenhouse.io/outrider/jobs/5445599008",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (1h ago)",
-          "h1bFit": "Uncertain",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 89.0,
-          "postedAtUtc": "2026-10-06T14:49:34-04:00",
-          "atsJobId": "5445599008",
-          "externalId": "greenhouse:5445599008",
-          "region": "Mountain",
-          "regionRank": 4
         },
         {
           "id": "li-graymatter-robotics-staff-c-architecture-engineer-2026-w41",
@@ -9026,6 +8907,26 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-10-07T08:21:06.035021+00:00"
+        }
+      ],
+      "removedNotes": [
+        {
+          "id": "butterfly-network-staff-software-engineer-ios-2026-w41",
+          "at": "2026-10-07",
+          "by": "self-improve",
+          "reason": "Swift iOS app role, C++ only as a native-bridge aside (off-domain title: iOS)"
+        },
+        {
+          "id": "pure-storage-software-engineer-grad-2027-2026-w41",
+          "at": "2026-10-07",
+          "by": "self-improve",
+          "reason": "new-grad cohort req (junior gate missed bare \"Grad\")"
+        },
+        {
+          "id": "outrider-hardware-platform-engineer-ii-test-and-reliability-2026-w41",
+          "at": "2026-10-07",
+          "by": "self-improve",
+          "reason": "hardware electro-mechanical test role, Henderson CO (off-domain title: hardware platform engineer / test and reliability)"
         }
       ]
     }
