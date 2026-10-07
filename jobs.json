@@ -8907,6 +8907,29 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-10-07T08:21:06.035021+00:00"
+        },
+        {
+          "id": "li-global-business-ser-4u-senior-c-c-linux-engineer-real-time-gui--2026-w41",
+          "company": "Global Business Ser. 4u",
+          "title": "Senior C/C++ Linux Engineer \u2013 Real-Time & GUI Systems",
+          "location": "Philadelphia, PA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 9 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c-c%2B%2B-linux-engineer-%E2%80%93-real-time-gui-systems-at-global-business-ser-4u-4475168377",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "9 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4475168377",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-10-07T05:41:11.570766+00:00"
         }
       ],
       "removedNotes": [
