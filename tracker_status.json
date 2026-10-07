@@ -2,14 +2,14 @@
   "running": true,
   "pid": 776,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-10-07T19:38:02.696147+00:00",
-  "nextCycleAt": "2026-10-07T20:08:02.696163+00:00",
-  "cycleCount": 2177,
+  "lastCycleAt": "2026-10-07T20:10:11.901638+00:00",
+  "nextCycleAt": "2026-10-07T20:40:11.901663+00:00",
+  "cycleCount": 2178,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-10-07T19:32:35.400153+00:00",
+      "lastRun": "2026-10-07T20:08:06.230183+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -17,7 +17,7 @@
     },
     {
       "name": "remotive",
-      "lastRun": "2026-10-07T19:32:36.342793+00:00",
+      "lastRun": "2026-10-07T20:08:08.375059+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -25,7 +25,7 @@
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-10-07T19:32:36.590194+00:00",
+      "lastRun": "2026-10-07T20:08:08.726397+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -33,7 +33,7 @@
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-10-07T19:32:36.923472+00:00",
+      "lastRun": "2026-10-07T20:08:09.653849+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -41,7 +41,7 @@
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-10-07T19:32:38.497299+00:00",
+      "lastRun": "2026-10-07T20:08:11.242815+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -49,7 +49,7 @@
     },
     {
       "name": "avature",
-      "lastRun": "2026-10-07T19:32:38.957345+00:00",
+      "lastRun": "2026-10-07T20:08:11.947926+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,7 +57,7 @@
     },
     {
       "name": "tradeweb",
-      "lastRun": "2026-10-07T19:32:55.226125+00:00",
+      "lastRun": "2026-10-07T20:08:26.957611+00:00",
       "status": "ok",
       "found": 1,
       "added": 0,
@@ -65,7 +65,7 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-10-07T19:32:56.007398+00:00",
+      "lastRun": "2026-10-07T20:08:27.560393+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -73,15 +73,15 @@
     },
     {
       "name": "builtin",
-      "lastRun": "2026-10-07T19:32:57.315470+00:00",
+      "lastRun": "2026-10-07T20:08:29.054506+00:00",
       "status": "ok",
-      "found": 0,
-      "added": 0,
+      "found": 2,
+      "added": 2,
       "error": null
     },
     {
       "name": "goldman",
-      "lastRun": "2026-10-07T19:33:07.905461+00:00",
+      "lastRun": "2026-10-07T20:09:56.458365+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -89,7 +89,7 @@
     },
     {
       "name": "millennium",
-      "lastRun": "2026-10-07T19:33:08.233281+00:00",
+      "lastRun": "2026-10-07T20:09:56.820403+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -97,7 +97,7 @@
     },
     {
       "name": "sig",
-      "lastRun": "2026-10-07T19:33:08.793152+00:00",
+      "lastRun": "2026-10-07T20:09:57.367812+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -105,7 +105,7 @@
     },
     {
       "name": "ibkr",
-      "lastRun": "2026-10-07T19:33:09.446132+00:00",
+      "lastRun": "2026-10-07T20:09:58.195893+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -113,7 +113,7 @@
     },
     {
       "name": "janestreet",
-      "lastRun": "2026-10-07T19:33:10.993942+00:00",
+      "lastRun": "2026-10-07T20:10:00.007013+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -121,7 +121,7 @@
     },
     {
       "name": "mathworks",
-      "lastRun": "2026-10-07T19:33:11.466222+00:00",
+      "lastRun": "2026-10-07T20:10:00.437223+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -129,7 +129,7 @@
     },
     {
       "name": "linkedin",
-      "lastRun": "2026-10-07T19:33:11.979417+00:00",
+      "lastRun": "2026-10-07T20:10:00.948584+00:00",
       "status": "ok",
       "found": null,
       "added": 0,
@@ -145,14 +145,26 @@
     },
     {
       "name": "ats_apis",
-      "lastRun": "2026-10-07T19:33:22.217379+00:00",
-      "status": "ok",
+      "lastRun": null,
+      "status": "skipped",
       "found": null,
       "added": 0,
       "error": null
     }
   ],
   "recentFinds": [
+    {
+      "company": "Fabri, Inc",
+      "title": "Software Engineer, Infrastructure (C++)",
+      "source": "Built In",
+      "at": "2026-10-07T20:08:29.054506+00:00"
+    },
+    {
+      "company": "Fabri, Inc",
+      "title": "Software Engineer,  Geometry/Simulation (C++)",
+      "source": "Built In",
+      "at": "2026-10-07T20:08:29.054506+00:00"
+    },
     {
       "company": "Vola Dynamics",
       "title": "Software Engineers (C++, Python)",
@@ -380,23 +392,11 @@
       "title": "Senior Software Engineer, C++ | Endpoint State & Control",
       "source": "Built In",
       "at": "2026-09-10T23:27:33.738783+00:00"
-    },
-    {
-      "company": "NinjaOne",
-      "title": "Senior Software Engineer, C++ | Patching",
-      "source": "Built In",
-      "at": "2026-09-10T22:56:54.572621+00:00"
-    },
-    {
-      "company": "NinjaOne",
-      "title": "Lead C++ Software Engineer",
-      "source": "Built In",
-      "at": "2026-09-10T22:56:54.572621+00:00"
     }
   ],
   "totals": {
     "day": "2026-10-07",
-    "addedToday": 12,
-    "cyclesToday": 19
+    "addedToday": 14,
+    "cyclesToday": 20
   }
 }

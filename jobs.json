@@ -9089,6 +9089,52 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-10-05T18:31:00.092636+00:00"
+        },
+        {
+          "id": "built-fabri-inc-software-engineer-geometry-simulation-c-2026-w41",
+          "postedAtUtc": "2026-10-07T00:00:00.007814+00:00",
+          "company": "Fabri, Inc",
+          "title": "Software Engineer,  Geometry/Simulation (C++)",
+          "location": "United States (remote)",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 20 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinboston.com/job/software-engineer-geometry-simulation-c/11168826",
+          "source": "Built In",
+          "postedApprox": "20 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:11168826",
+          "region": "Remote",
+          "regionRank": 2
+        },
+        {
+          "id": "built-fabri-inc-software-engineer-infrastructure-c-2026-w41",
+          "postedAtUtc": "2026-10-07T00:00:00.012354+00:00",
+          "company": "Fabri, Inc",
+          "title": "Software Engineer, Infrastructure (C++)",
+          "location": "United States (remote)",
+          "remote": "See posting",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Built In): posted 20 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.builtinboston.com/job/software-engineer-infrastructure-c/11196795",
+          "source": "Built In",
+          "postedApprox": "20 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "externalId": "builtin:11196795",
+          "region": "Remote",
+          "regionRank": 2
         }
       ],
       "removedNotes": [
