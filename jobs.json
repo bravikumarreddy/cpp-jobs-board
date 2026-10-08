@@ -9209,6 +9209,29 @@
           "externalId": "ashby:e8cb16b0-d2f0-4cb4-a1a1-0f43d195cc9a",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "li-vivid-soft-global-embedded-software-engineer-c-fms-2026-w41",
+          "company": "Vivid Soft Global",
+          "title": "Embedded Software Engineer C++ FMS",
+          "location": "Phoenix, AZ",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-c%2B%2B-fms-at-vivid-soft-global-4474477713",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4474477713",
+          "region": "Mountain",
+          "regionRank": 4,
+          "postedAtUtc": "2026-10-07T22:33:09.353484+00:00"
         }
       ],
       "removedNotes": [
