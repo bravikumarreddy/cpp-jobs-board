@@ -5836,29 +5836,6 @@
           "postedAtUtc": "2026-09-17T16:29:19.294164+00:00"
         },
         {
-          "id": "li-venture-search-senior-c-developer-tier-1-trading-firm-2026-w38",
-          "company": "Venture Search",
-          "title": "Senior C++ Developer (Tier-1 Trading Firm)",
-          "location": "New York, United States",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-developer-tier-1-trading-firm-at-venture-search-4466253991",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "7 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4466253991",
-          "region": "East",
-          "regionRank": 1,
-          "postedAtUtc": "2026-09-17T13:29:19.294164+00:00"
-        },
-        {
           "id": "roblox-senior-software-engineer-roblox-database-2026-w38",
           "company": "Roblox",
           "title": "Senior Software Engineer - Roblox Database",
