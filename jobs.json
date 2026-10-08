@@ -9088,7 +9088,11 @@
           "postedApprox": "1 day ago",
           "h1bFit": "Verify on posting",
           "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head"
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4475172100",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-10-07T13:29:11.188090+00:00"
         }
       ],
       "removedNotes": [
