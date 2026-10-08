@@ -2,22 +2,22 @@
   "running": true,
   "pid": 776,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-10-08T13:29:11.756396+00:00",
-  "nextCycleAt": "2026-10-08T13:59:11.756434+00:00",
-  "cycleCount": 2210,
+  "lastCycleAt": "2026-10-08T14:35:07.732351+00:00",
+  "nextCycleAt": "2026-10-08T15:05:07.732372+00:00",
+  "cycleCount": 2211,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-10-08T13:15:03.266956+00:00",
-      "status": "ok",
+      "lastRun": "2026-10-08T13:59:48.861038+00:00",
+      "status": "error",
       "found": 0,
       "added": 0,
-      "error": null
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
     },
     {
       "name": "remotive",
-      "lastRun": "2026-10-08T13:15:18.220281+00:00",
+      "lastRun": "2026-10-08T14:00:18.881344+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -25,15 +25,15 @@
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-10-08T13:15:18.479512+00:00",
-      "status": "ok",
+      "lastRun": "2026-10-08T14:00:56.266538+00:00",
+      "status": "error",
       "found": 0,
       "added": 0,
-      "error": null
+      "error": "<urlopen error timed out>"
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-10-08T13:15:23.422141+00:00",
+      "lastRun": "2026-10-08T14:01:37.763603+00:00",
       "status": "error",
       "found": 0,
       "added": 0,
@@ -41,15 +41,15 @@
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-10-08T13:15:53.441018+00:00",
-      "status": "ok",
+      "lastRun": "2026-10-08T14:02:07.783394+00:00",
+      "status": "error",
       "found": 0,
       "added": 0,
-      "error": null
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
     },
     {
       "name": "avature",
-      "lastRun": "2026-10-08T13:15:58.376693+00:00",
+      "lastRun": "2026-10-08T14:02:37.804517+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,7 +57,7 @@
     },
     {
       "name": "tradeweb",
-      "lastRun": "2026-10-08T13:18:50.412561+00:00",
+      "lastRun": "2026-10-08T14:08:11.497024+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -65,7 +65,7 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-10-08T13:19:20.434522+00:00",
+      "lastRun": "2026-10-08T14:08:41.544497+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -73,7 +73,7 @@
     },
     {
       "name": "builtin",
-      "lastRun": "2026-10-08T13:19:50.456063+00:00",
+      "lastRun": "2026-10-08T14:09:11.622896+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -81,15 +81,15 @@
     },
     {
       "name": "goldman",
-      "lastRun": "2026-10-08T13:22:24.406540+00:00",
+      "lastRun": "2026-10-08T14:15:12.988983+00:00",
       "status": "error",
       "found": 0,
       "added": 0,
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "error": "<urlopen error timed out>"
     },
     {
       "name": "millennium",
-      "lastRun": "2026-10-08T13:22:54.425280+00:00",
+      "lastRun": "2026-10-08T14:16:56.885547+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -97,23 +97,23 @@
     },
     {
       "name": "sig",
-      "lastRun": "2026-10-08T13:23:27.976140+00:00",
+      "lastRun": "2026-10-08T14:19:10.368620+00:00",
       "status": "error",
       "found": 0,
       "added": 0,
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "error": "<urlopen error timed out>"
     },
     {
       "name": "ibkr",
-      "lastRun": "2026-10-08T13:23:57.996561+00:00",
-      "status": "ok",
+      "lastRun": "2026-10-08T14:20:30.307089+00:00",
+      "status": "error",
       "found": 0,
       "added": 0,
-      "error": null
+      "error": "<urlopen error timed out>"
     },
     {
       "name": "janestreet",
-      "lastRun": "2026-10-08T13:24:26.527220+00:00",
+      "lastRun": "2026-10-08T14:25:52.647090+00:00",
       "status": "error",
       "found": 0,
       "added": 0,
@@ -121,7 +121,7 @@
     },
     {
       "name": "mathworks",
-      "lastRun": "2026-10-08T13:24:56.545161+00:00",
+      "lastRun": "2026-10-08T14:26:22.668585+00:00",
       "status": "error",
       "found": 0,
       "added": 0,
@@ -129,7 +129,7 @@
     },
     {
       "name": "linkedin",
-      "lastRun": "2026-10-08T13:25:26.565231+00:00",
+      "lastRun": "2026-10-08T14:26:52.689543+00:00",
       "status": "ok",
       "found": null,
       "added": 0,
@@ -397,6 +397,6 @@
   "totals": {
     "day": "2026-10-08",
     "addedToday": 2,
-    "cyclesToday": 25
+    "cyclesToday": 26
   }
 }
