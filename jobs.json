@@ -6362,35 +6362,6 @@
           "regionRank": 1
         },
         {
-          "id": "pure-storage-senior-platform-software-engineer-2026-w39",
-          "company": "Pure Storage",
-          "title": "Senior Platform Software Engineer",
-          "location": "Santa Clara, California",
-          "remote": "Onsite/Hybrid",
-          "industry": "Engineering",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (0h ago). Callback score 99.0/100. Direct Greenhouse ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Linux",
-            "Networking",
-            "Python",
-            "Rust"
-          ],
-          "url": "https://job-boards.greenhouse.io/purestorage/jobs/8220267",
-          "source": "Greenhouse API (live)",
-          "postedApprox": "Today (0h ago)",
-          "h1bFit": "Likely Yes",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 99.0,
-          "postedAtUtc": "2026-09-22T15:41:21-04:00",
-          "atsJobId": "8220267",
-          "externalId": "greenhouse:8220267",
-          "possibleRepost": "Senior Platform Networking Software Engineer, Systems Engineering",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
           "id": "modal-labs-member-of-technical-staff-lead-machines-2026-w39",
           "company": "Modal Labs",
           "title": "Member of Technical Staff - Lead, Machines",
@@ -9093,6 +9064,31 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-10-07T13:29:11.188090+00:00"
+        },
+        {
+          "id": "ford-adas-hil-automation-developer-2026-w41",
+          "company": "Ford",
+          "title": "ADAS HiL Automation Developer",
+          "location": "Sunrise, FL, United States; Dearborn, MI, United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "(see description)",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 95.0/100. Direct Oracle ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "Python"
+          ],
+          "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/59594",
+          "source": "Oracle API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 95.0,
+          "postedAtUtc": "2026-10-08T14:40:55+00:00",
+          "atsJobId": "59594",
+          "region": "East",
+          "regionRank": 1
         }
       ],
       "removedNotes": [
