@@ -2526,29 +2526,6 @@
           "postedAtUtc": "2026-08-01T09:43:59.771965+00:00"
         },
         {
-          "id": "li-zoox-software-engineer-c-gpu-performance-2026-w31",
-          "company": "Zoox",
-          "title": "Software Engineer - C++ GPU Performance",
-          "location": "Foster City, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": "",
-          "summary": "Zoox is building the world's most advanced self-driving hardware and software solution. The efficiency demands of such a system require an expert fine tuning of both the\u2026",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-gpu-performance-at-zoox-4403103397",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "3 hours ago",
-          "h1bFit": "Yes \u2014 Zoox (Amazon) sponsors; JD clean (verify per-role)",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4403103397",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-08-01T10:14:33.151182+00:00"
-        },
-        {
           "id": "li-susquehanna-international-group-software-developer-c-prediction-markets--2026-w31",
           "company": "Susquehanna International Group",
           "title": "Software Developer | C++ | Prediction Markets | Experienced Hire",
@@ -4113,28 +4090,6 @@
           "regionRank": 1
         },
         {
-          "id": "li-bloomberg-senior-software-engineer-c-customer-dist-2026-w34",
-          "company": "Bloomberg",
-          "title": "Senior Software Engineer (C++) - Customer Distribution Infrastructure",
-          "location": "New York, NY",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 47 minutes ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-customer-distribution-infrastructure-at-bloomberg-4454107424",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "47 minutes ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4454107424",
-          "region": "East",
-          "regionRank": 1
-        },
-        {
           "id": "li-latitude-ai-senior-software-engineer-vehicle-communi-2026-w34",
           "company": "Latitude AI",
           "title": "Senior Software Engineer - Vehicle Communication (C++)",
@@ -4670,29 +4625,6 @@
           "regionRank": 3
         },
         {
-          "id": "li-nexacode-embedded-c-engineer-2026-w36",
-          "company": "nexacode",
-          "title": "Embedded C++ Engineer",
-          "location": "Dallas, TX",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/embedded-c%2B%2B-engineer-at-nexacode-4461986359",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4461986359",
-          "region": "Central",
-          "regionRank": 3,
-          "postedAtUtc": "2026-09-04T14:55:38.273719+00:00"
-        },
-        {
           "id": "li-garmin-embedded-c-c-software-engineer-2-marine--2026-w36",
           "company": "Garmin",
           "title": "Embedded C /C++ Software Engineer 2 - Marine team",
@@ -4842,29 +4774,6 @@
           "postedAtUtc": "2026-09-07T14:47:37.588098+00:00"
         },
         {
-          "id": "li-triveni-it-embedded-software-engineer-c-2026-w37",
-          "company": "Triveni IT",
-          "title": "Embedded Software Engineer (C++)",
-          "location": "Tualatin, OR",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 1 hour ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-c%2B%2B-at-triveni-it-4464614212",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "1 hour ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4464614212",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-09-08T15:24:16.784547+00:00"
-        },
-        {
           "id": "li-atrium-senior-c-engineer-407146-2026-w37",
           "company": "Atrium",
           "title": "Senior C++ Engineer - 407146",
@@ -4978,29 +4887,6 @@
           "region": "West",
           "regionRank": 5,
           "postedAtUtc": "2026-09-09T11:23:28.425347+00:00"
-        },
-        {
-          "id": "li-glocomms-staff-c-engineer-2026-w37",
-          "company": "Glocomms",
-          "title": "Staff C++ Engineer",
-          "location": "San Francisco County, CA",
-          "remote": "Onsite",
-          "industry": "\u2014",
-          "salary": null,
-          "summary": "LinkedIn scrape: posted 5 hours ago. Verify role details on opening.",
-          "skills": [
-            "C++"
-          ],
-          "url": "https://www.linkedin.com/jobs/view/staff-c%2B%2B-engineer-at-glocomms-4465072153",
-          "source": "LinkedIn (24h scrape)",
-          "postedApprox": "5 hours ago",
-          "h1bFit": "Verify on posting",
-          "yoeFit": "Verify",
-          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
-          "externalId": "linkedin:4465072153",
-          "region": "West",
-          "regionRank": 5,
-          "postedAtUtc": "2026-09-09T13:59:33.322614+00:00"
         },
         {
           "id": "li-comcast-sr-c-software-engineer-reston-va-hybrid--2026-w37",
@@ -9163,31 +9049,6 @@
           "regionRank": 5
         },
         {
-          "id": "skydio-senior-software-engineer-mobile-platform-2026-w41",
-          "company": "Skydio",
-          "title": "Senior Software Engineer - Mobile Platform",
-          "location": "San Mateo, California, United States",
-          "remote": "Onsite/Hybrid",
-          "industry": "R&D",
-          "salary": null,
-          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 89.0/100. Direct Ashby ATS URL \u2014 no aggregator lag.",
-          "skills": [
-            "Linux"
-          ],
-          "url": "https://jobs.ashbyhq.com/skydio/e8cb16b0-d2f0-4cb4-a1a1-0f43d195cc9a",
-          "source": "Ashby API (live)",
-          "postedApprox": "Today (1h ago)",
-          "h1bFit": "Uncertain",
-          "yoeFit": "Good",
-          "yoeNote": "Auto-pulled from live ATS feed.",
-          "callbackScore": 89.0,
-          "postedAtUtc": "2026-10-08T00:34:58.675000+00:00",
-          "atsJobId": "e8cb16b0-d2f0-4cb4-a1a1-0f43d195cc9a",
-          "externalId": "ashby:e8cb16b0-d2f0-4cb4-a1a1-0f43d195cc9a",
-          "region": "West",
-          "regionRank": 5
-        },
-        {
           "id": "li-vivid-soft-global-embedded-software-engineer-c-fms-2026-w41",
           "company": "Vivid Soft Global",
           "title": "Embedded Software Engineer C++ FMS",
@@ -9209,6 +9070,25 @@
           "region": "Mountain",
           "regionRank": 4,
           "postedAtUtc": "2026-10-07T22:33:09.353484+00:00"
+        },
+        {
+          "id": "li-siemens-eda-siemens-digital-industries-software-software-engineer-c-compiler-2026-w41",
+          "company": "Siemens EDA (Siemens Digital Industries Software)",
+          "title": "Software Engineer - C++ / Compiler",
+          "location": "Burlington, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 1 day ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-compiler-at-siemens-eda-siemens-digital-industries-software-4475172100",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "1 day ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head"
         }
       ],
       "removedNotes": [
