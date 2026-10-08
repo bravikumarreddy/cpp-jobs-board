@@ -9184,6 +9184,31 @@
           "externalId": "workday:R30279",
           "region": "West",
           "regionRank": 5
+        },
+        {
+          "id": "skydio-senior-software-engineer-mobile-platform-2026-w41",
+          "company": "Skydio",
+          "title": "Senior Software Engineer - Mobile Platform",
+          "location": "San Mateo, California, United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "R&D",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (1h ago). Callback score 89.0/100. Direct Ashby ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux"
+          ],
+          "url": "https://jobs.ashbyhq.com/skydio/e8cb16b0-d2f0-4cb4-a1a1-0f43d195cc9a",
+          "source": "Ashby API (live)",
+          "postedApprox": "Today (1h ago)",
+          "h1bFit": "Uncertain",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 89.0,
+          "postedAtUtc": "2026-10-08T00:34:58.675000+00:00",
+          "atsJobId": "e8cb16b0-d2f0-4cb4-a1a1-0f43d195cc9a",
+          "externalId": "ashby:e8cb16b0-d2f0-4cb4-a1a1-0f43d195cc9a",
+          "region": "West",
+          "regionRank": 5
         }
       ],
       "removedNotes": [
