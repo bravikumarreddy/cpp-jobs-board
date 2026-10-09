@@ -9320,6 +9320,28 @@
           "region": "Central",
           "regionRank": 3,
           "postedAtUtc": "2026-10-09T16:15:43.780777+00:00"
+        },
+        {
+          "id": "himalayas-rapinno-tech-c-engineer-2026-w41",
+          "postedAtUtc": "2026-10-09T19:26:11.001941+00:00",
+          "company": "Rapinno Tech",
+          "title": "C++ Engineer",
+          "location": "United States",
+          "remote": "Remote (US)",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "Live tracker (Himalayas): posted 1 hours ago. Verify details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://himalayas.app/companies/rapinno-tech/jobs/c-engineer-1219568164",
+          "source": "Himalayas",
+          "postedApprox": "1 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-tracked \u2014 apply filters in your head",
+          "region": "Remote",
+          "regionRank": 2
         }
       ],
       "removedNotes": [

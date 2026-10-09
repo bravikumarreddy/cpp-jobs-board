@@ -2,14 +2,14 @@
   "running": true,
   "pid": 776,
   "startedAt": "2026-07-02T03:53:08.684903+00:00",
-  "lastCycleAt": "2026-10-09T20:15:44.368947+00:00",
-  "nextCycleAt": "2026-10-09T20:45:44.368973+00:00",
-  "cycleCount": 2223,
+  "lastCycleAt": "2026-10-09T20:46:42.005936+00:00",
+  "nextCycleAt": "2026-10-09T21:16:42.005959+00:00",
+  "cycleCount": 2224,
   "intervalMinutes": 30,
   "sources": [
     {
       "name": "hn_hiring",
-      "lastRun": "2026-10-09T20:14:46.552905+00:00",
+      "lastRun": "2026-10-09T20:45:47.244037+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -17,7 +17,7 @@
     },
     {
       "name": "remotive",
-      "lastRun": "2026-10-09T20:14:47.217794+00:00",
+      "lastRun": "2026-10-09T20:45:47.939864+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -25,7 +25,7 @@
     },
     {
       "name": "jobicy",
-      "lastRun": "2026-10-09T20:14:47.461358+00:00",
+      "lastRun": "2026-10-09T20:45:48.190323+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -33,15 +33,15 @@
     },
     {
       "name": "himalayas",
-      "lastRun": "2026-10-09T20:14:48.516226+00:00",
+      "lastRun": "2026-10-09T20:45:48.510868+00:00",
       "status": "ok",
-      "found": 1,
-      "added": 0,
+      "found": 2,
+      "added": 1,
       "error": null
     },
     {
       "name": "arbeitnow",
-      "lastRun": "2026-10-09T20:14:50.065399+00:00",
+      "lastRun": "2026-10-09T20:45:50.229755+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -49,7 +49,7 @@
     },
     {
       "name": "avature",
-      "lastRun": "2026-10-09T20:14:50.936087+00:00",
+      "lastRun": "2026-10-09T20:45:50.711591+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -57,7 +57,7 @@
     },
     {
       "name": "tradeweb",
-      "lastRun": "2026-10-09T20:15:15.516940+00:00",
+      "lastRun": "2026-10-09T20:46:15.263656+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -65,7 +65,7 @@
     },
     {
       "name": "themuse",
-      "lastRun": "2026-10-09T20:15:16.266452+00:00",
+      "lastRun": "2026-10-09T20:46:15.836617+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -73,15 +73,15 @@
     },
     {
       "name": "builtin",
-      "lastRun": "2026-10-09T20:15:17.594779+00:00",
+      "lastRun": "2026-10-09T20:46:17.087472+00:00",
       "status": "ok",
       "found": 2,
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
       "name": "goldman",
-      "lastRun": "2026-10-09T20:15:27.317021+00:00",
+      "lastRun": "2026-10-09T20:46:25.909897+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -89,7 +89,7 @@
     },
     {
       "name": "millennium",
-      "lastRun": "2026-10-09T20:15:27.694782+00:00",
+      "lastRun": "2026-10-09T20:46:26.291795+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -97,7 +97,7 @@
     },
     {
       "name": "sig",
-      "lastRun": "2026-10-09T20:15:28.382937+00:00",
+      "lastRun": "2026-10-09T20:46:26.733276+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -105,7 +105,7 @@
     },
     {
       "name": "ibkr",
-      "lastRun": "2026-10-09T20:15:29.168041+00:00",
+      "lastRun": "2026-10-09T20:46:27.397651+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -113,7 +113,7 @@
     },
     {
       "name": "janestreet",
-      "lastRun": "2026-10-09T20:15:30.999787+00:00",
+      "lastRun": "2026-10-09T20:46:29.146278+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -121,7 +121,7 @@
     },
     {
       "name": "mathworks",
-      "lastRun": "2026-10-09T20:15:31.574512+00:00",
+      "lastRun": "2026-10-09T20:46:29.774734+00:00",
       "status": "ok",
       "found": 0,
       "added": 0,
@@ -129,18 +129,18 @@
     },
     {
       "name": "amazon",
-      "lastRun": "2026-10-09T20:15:32.193604+00:00",
+      "lastRun": "2026-10-09T20:46:30.814174+00:00",
       "status": "ok",
       "found": 1,
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
       "name": "linkedin",
-      "lastRun": "2026-10-09T20:15:33.399991+00:00",
+      "lastRun": "2026-10-09T20:46:31.728937+00:00",
       "status": "ok",
       "found": null,
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
@@ -161,6 +161,12 @@
     }
   ],
   "recentFinds": [
+    {
+      "company": "Rapinno Tech",
+      "title": "C++ Engineer",
+      "source": "Himalayas",
+      "at": "2026-10-09T20:45:48.510868+00:00"
+    },
     {
       "company": "Amazon",
       "title": "Sr Embedded Systems Engineer, Fauna",
@@ -394,17 +400,11 @@
       "title": "Senior Software Engineer, C++ | Patching",
       "source": "Built In",
       "at": "2026-09-10T23:27:33.738783+00:00"
-    },
-    {
-      "company": "NinjaOne",
-      "title": "Lead C++ Software Engineer",
-      "source": "Built In",
-      "at": "2026-09-10T23:27:33.738783+00:00"
     }
   ],
   "totals": {
     "day": "2026-10-09",
-    "addedToday": 12,
-    "cyclesToday": 3
+    "addedToday": 13,
+    "cyclesToday": 4
   }
 }
