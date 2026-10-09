@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-08",
-  "lastChecked": "2026-10-08",
+  "lastUpdated": "2026-10-09",
+  "lastChecked": "2026-10-09",
   "seedVersion": 2,
   "liveTrackers": [
     {
@@ -9112,6 +9112,80 @@
           "region": "East",
           "regionRank": 1,
           "postedAtUtc": "2026-10-08T20:38:15.279991+00:00"
+        },
+        {
+          "id": "oracle-principal-software-engineer-core-infrastructure-2026-w41",
+          "company": "Oracle",
+          "title": "Principal Software Engineer, Core Infrastructure",
+          "location": "Nashville, TN, United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "(see description)",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (8h ago). Callback score 90.0/100. Direct Oracle ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Linux",
+            "Distributed systems",
+            "Python"
+          ],
+          "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346710",
+          "source": "Oracle API (live)",
+          "postedApprox": "Today (8h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 90.0,
+          "postedAtUtc": "2026-10-08T22:34:18+00:00",
+          "atsJobId": "346710",
+          "region": "Central",
+          "regionRank": 3
+        },
+        {
+          "id": "oracle-platform-software-engineer-2-2026-w41",
+          "company": "Oracle",
+          "title": "Platform Software Engineer 2",
+          "location": "Nashville, TN, United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "(see description)",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (7h ago). Callback score 90.0/100. Direct Oracle ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346980",
+          "source": "Oracle API (live)",
+          "postedApprox": "Today (7h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 90.0,
+          "postedAtUtc": "2026-10-08T23:37:03+00:00",
+          "atsJobId": "346980",
+          "region": "Central",
+          "regionRank": 3
+        },
+        {
+          "id": "ford-adas-vehicle-motion-performance-engineer-2026-w41",
+          "company": "Ford",
+          "title": "ADAS Vehicle Motion Performance Engineer",
+          "location": "Dearborn, MI, United States",
+          "remote": "Onsite/Hybrid",
+          "industry": "(see description)",
+          "salary": null,
+          "summary": "FRESH \u2014 posted Today (7h ago). Callback score 90.0/100. Direct Oracle ATS URL \u2014 no aggregator lag.",
+          "skills": [
+            "Python"
+          ],
+          "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72456",
+          "source": "Oracle API (live)",
+          "postedApprox": "Today (7h ago)",
+          "h1bFit": "Likely Yes",
+          "yoeFit": "Good",
+          "yoeNote": "Auto-pulled from live ATS feed.",
+          "callbackScore": 90.0,
+          "postedAtUtc": "2026-10-08T23:30:19+00:00",
+          "atsJobId": "72456",
+          "region": "East",
+          "regionRank": 1
         }
       ],
       "removedNotes": [
