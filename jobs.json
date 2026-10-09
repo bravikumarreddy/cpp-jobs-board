@@ -9089,6 +9089,29 @@
           "atsJobId": "59594",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-zenovo-software-engineer-c-c-2026-w41",
+          "company": "Zenovo",
+          "title": "Software Engineer, C/C++",
+          "location": "Boston, MA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/software-engineer-c-c%2B%2B-at-zenovo-4477463059",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4477463059",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-10-08T20:38:15.279991+00:00"
         }
       ],
       "removedNotes": [
