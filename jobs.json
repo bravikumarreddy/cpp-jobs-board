@@ -9186,6 +9186,121 @@
           "atsJobId": "72456",
           "region": "East",
           "regionRank": 1
+        },
+        {
+          "id": "li-kulicke-soffa-senior-c-software-engineer-2026-w41",
+          "company": "Kulicke & Soffa",
+          "title": "Senior C++ Software Engineer",
+          "location": "Fort Washington, PA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-at-kulicke-soffa-4476811054",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4476811054",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-10-09T15:44:42.617815+00:00"
+        },
+        {
+          "id": "li-jefferies-c-engineering-lead-electronic-trading-om-2026-w41",
+          "company": "Jefferies",
+          "title": "C++ Engineering Lead - Electronic Trading & OMS",
+          "location": "New York City Metropolitan Area",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 22 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-engineering-lead-electronic-trading-oms-at-jefferies-4475989813",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "22 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4475989813",
+          "region": "East",
+          "regionRank": 1,
+          "postedAtUtc": "2026-10-08T21:44:42.617815+00:00"
+        },
+        {
+          "id": "li-bmc-software-senior-product-developer-mainframe-with--2026-w41",
+          "company": "BMC Software",
+          "title": "Senior Product Developer ( Mainframe with C++/ C or Assembler ) - remote in US or Canada",
+          "location": "United States",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 7 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-product-developer-mainframe-with-c%2B%2B-c-or-assembler-remote-in-us-or-canada-at-bmc-software-4477663521",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "7 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4477663521",
+          "region": "Remote",
+          "regionRank": 2,
+          "postedAtUtc": "2026-10-09T12:44:42.617815+00:00"
+        },
+        {
+          "id": "li-nlb-services-c-storage-developer-2026-w41",
+          "company": "NLB Services",
+          "title": "C++ Storage Developer",
+          "location": "Redmond, WA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 4 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/c%2B%2B-storage-developer-at-nlb-services-4476293956",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "4 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4476293956",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-10-09T15:44:42.617815+00:00"
+        },
+        {
+          "id": "li-attis-forward-deployed-engineer-c-python-2026-w41",
+          "company": "Attis",
+          "title": "Forward Deployed Engineer (C++/Python)",
+          "location": "San Francisco, CA",
+          "remote": "Onsite",
+          "industry": "\u2014",
+          "salary": null,
+          "summary": "LinkedIn scrape: posted 8 hours ago. Verify role details on opening.",
+          "skills": [
+            "C++"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-c%2B%2B-python-at-attis-4477676106",
+          "source": "LinkedIn (24h scrape)",
+          "postedApprox": "8 hours ago",
+          "h1bFit": "Verify on posting",
+          "yoeFit": "Verify",
+          "yoeNote": "Auto-scraped \u2014 apply filters in your head",
+          "externalId": "linkedin:4477676106",
+          "region": "West",
+          "regionRank": 5,
+          "postedAtUtc": "2026-10-09T11:44:42.617815+00:00"
         }
       ],
       "removedNotes": [
